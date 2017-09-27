@@ -1,0 +1,1379 @@
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                       .....................................................................
+>                                                           (Original Signature of Member)
+>                   115 TH CONGRESS
+>                       1ST SESSION
+>                                         H. R.ll
+>                   To amend the Immigration and Nationality Act to make mandatory and
+>                       permanent requirements relating to use of an electronic employment
+>                       eligibility verification system, and for other purposes.
+>                           IN THE HOUSE OF REPRESENTATIVES
+>                   Mr. SMITH of Texas (for himself, MOODLATTE , and Mr. ALVERT ) introduced the following bill; which was referred to the Committee on
+>                       lllllllllllllll
+>                                           A BILL
+>                   To amend the Immigration and Nationality Act to make
+>                        mandatory and permanent requirements relating to use
+>                        of an electronic employment eligibility verification system, and for other purposes.
+>                     1 Be it enacted by the Senate and House of Representa2 tives of the United States of America in Congress assembled,
+>                     3 SECTION 1. SHORT TITLE.
+>                     4 This Act may be cited as the ‘‘Legal Workforce Act’’.
+>        g:\VHLC\090617\090617.095.(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>       G:\M\15\SMITTX\SMITTX_014.XML
+>                                                2
+>                   1 SEC. 2. EMPLOYMENT ELIGIBILITY VERIFICATION PROC2 ESS.
+>                   3 (a) N GENERAL .—Section 274A(b) of the Immigra4 tion and Nationality Act (8 U.S.C. 1324a(b)) is amended
+>                   5 to read as follows:
+>                   6 ‘‘(b) EMPLOYMENT ELIGIBILITY VERIFICATION
+>                   7 PROCESS .—
+>                   8 ‘‘(1) NEW HIRES ,RECRUITMENT , AND REFER9 RAL .—The requirements referred to in paragraphs
+>                  10 (1)(B) and (3) of subsection (a) are, in the case of
+>                  11 a person or other entity hiring, recruiting, or refer12 ring an individual for employment in the United
+>                  13 States, the following:
+>                  14 ‘‘(A) ATTESTATION AFTER EXAMINATION
+>                  15 OF DOCUMENTATION .—
+>                  16 ‘‘(i) ATTESTATION .—During the
+>                  17 verification period (as defined in subpara18 graph (E)), the person or entity shall at19 test, under penalty of perjury and on a
+>                  20 form, including electronic and telephonic
+>                  21 formats, designated or established by the
+>                  22 Secretary by regulation not later than 6
+>                  23 months after the date of the enactment of
+>                  24 the Legal Workforce Act, that it has
+>                  25 verified that the individual is not an unau26 thorized alien by—
+>       g:\VHLC\090617\090617.09(673906|2)
+> VerDate 0ct 12:46 Sep Jkt 000PO 000Frm 00Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  3
+>                    1 ‘‘(I) obtaining from the indi2 vidual the individual’s social security
+>                    3 account number or United States
+>                    4 passport number and recording the
+>                    5 number on the form (if the individual
+>                    6 claims to have been issued such a
+>                    7 number), and, if the individual does
+>                    8 not attest to United States nationality
+>                    9 under subparagraph (B), obtaining
+>                   10 such identification or authorization
+>                   11 number established by the Depart12 ment of Homeland Security for the
+>                   13 alien as the Secretary of Homeland
+>                   14 Security may specify, and recording
+>                   15 such number on the form; and
+>                   16 ‘‘(II) examining—
+>                   17 ‘‘(aa) a document relating to
+>                   18 the individual presenting it de19 scribed in clause (ii); or
+>                   20 ‘‘(bb) a document relating to
+>                   21 the individual presenting it de22 scribed in clause (iii) and a docu23 ment relating to the individual
+>                   24 presenting it described in clause
+>                   25 (iv).
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  4
+>                    1 ‘‘(ii) DOCUMENTS EVIDENCING EM2 PLOYMENT AUTHORIZATION AND ESTAB3 LISHING IDENTITY .—A document de4 scribed in this subparagraph is an individ5 ual’s—
+>                    6 ‘‘(I) unexpired United States
+>                    7 passport or passport card;
+>                    8 ‘‘(II) unexpired permanent resi9 dent card that contains a photograph;
+>                   10 ‘‘(III) unexpired employment au11 thorization card that contains a pho12 tograph;
+>                   13 ‘‘(IV) in the case of a non-14 immigrant alien authorized to work
+>                   15 for a specific employer incident to sta16 tus, a foreign passport with Form I–
+>                   17 94 or Form I–94A, or other docu18 mentation as designated by the Sec19 retary specifying the alien’s non-20 immigrant status as long as the pe21 riod of status has not yet expired and
+>                   22 the proposed employment is not in
+>                   23 conflict with any restrictions or limita24 tions identified in the documentation;
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  5
+>                    1 ‘‘(V) passport from the Fed2 erated States of Micronesia (FSM) or
+>                    3 the Republic of the Marshall Islands
+>                    4 (RMI) with Form I–94 or Form I–
+>                    5 94A, or other documentation as des6 ignated by the Secretary, indicating
+>                    7 nonimmigrant admission under the
+>                    8 Compact of Free Association Between
+>                    9 the United States and the FSM or
+>                   10 RMI; or
+>                   11 ‘‘(VI) other document designated
+>                   12 by the Secretary of Homeland Secu13 rity, if the document—
+>                   14 ‘‘(aa) contains a photograph
+>                   15 of the individual and biometric
+>                   16 identification data from the indi17 vidual and such other personal
+>                   18 identifying information relating
+>                   19 to the individual as the Secretary
+>                   20 of Homeland Security finds, by
+>                   21 regulation, sufficient for purposes
+>                   22 of this clause;
+>                   23 ‘‘(bb) is evidence of author24 ization of employment in the
+>                   25 United States; and
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  6
+>                    1 ‘‘(cc) contains security fea2 tures to make it resistant to tam3 pering, counterfeiting, and fraud4 ulent use.
+>                    5 ‘‘(iii) OCUMENTS EVIDENCING EM6 PLOYMENT AUTHORIZATION .—A document
+>                    7 described in this subparagraph is an indi8 vidual’s social security account number
+>                    9 card (other than such a card which speci10 fies on the face that the issuance of the
+>                   11 card does not authorize employment in the
+>                   12 United States).
+>                   13 ‘‘(iv) DOCUMENTS ESTABLISHING
+>                   14 IDENTITY OF INDIVIDUAL .—A document
+>                   15 described in this subparagraph is—
+>                   16 ‘‘(I) an individual’s unexpired
+>                   17 State issued driver’s license or identi18 fication card if it contains a photo19 graph and information such as name,
+>                   20 date of birth, gender, height, eye
+>                   21 color, and address;
+>                   22 ‘‘(II) an individual’s unexpired
+>                   23 U.S. military identification card;
+>                   24 ‘‘(III) an individual’s unexpired
+>                   25 Native American tribal identification
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  7
+>                    1 document issued by a tribal entity rec2 ognized by the Bureau of Indian Af3 fairs; or
+>                    4 ‘‘(IV) in the case of an individual
+>                    5 under 18 years of age, a parent or
+>                    6 legal guardian’s attestation under
+>                    7 penalty of law as to the identity and
+>                    8 age of the individual.
+>                    9 ‘‘(v) UTHORITY TO PROHIBIT USE OF
+>                   10 CERTAIN DOCUMENTS .—If the Secretary of
+>                   11 Homeland Security finds, by regulation,
+>                   12 that any document described in clause (i),
+>                   13 (ii), or (iii) as establishing employment au14 thorization or identity does not reliably es15 tablish such authorization or identity or is
+>                   16 being used fraudulently to an unacceptable
+>                   17 degree, the Secretary may prohibit or place
+>                   18 conditions on its use for purposes of this
+>                   19 paragraph.
+>                   20 ‘‘(vi) SIGNATURE .—Such attestation
+>                   21 may be manifested by either a handwrit22 ten or electronic signature.
+>                   23 ‘‘(B) INDIVIDUAL ATTESTATION OF EM24 PLOYMENT AUTHORIZATION .—During the
+>                   25 verification period (as defined in subparagraph
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  8
+>                    1 (E)), the individual shall attest, under penalty
+>                    2 of perjury on the form designated or established
+>                    3 for purposes of subparagraph (A), that the indi4 vidual is a citizen or national of the United
+>                    5 States, an alien lawfully admitted for perma6 nent residence, or an alien who is authorized
+>                    7 under this Act or by the Secretary of Homeland
+>                    8 Security to be hired, recruited, or referred for
+>                    9 such employment. Such attestation may be
+>                   10 manifested by either a handwritten or elec11 tronic signature. The individual shall also pro12 vide that individual’s social security account
+>                   13 number or United States passport number (if
+>                   14 the individual claims to have been issued such
+>                   15 a number), and, if the individual does not attest
+>                   16 to United States nationality under this sub17 paragraph, such identification or authorization
+>                   18 number established by the Department of
+>                   19 Homeland Security for the alien as the Sec20 retary may specify.
+>                   21 ‘‘(C) RETENTION OF VERIFICATION FORM
+>                   22 AND VERIFICATION .—
+>                   23 ‘‘(i) N GENERAL .—After completion
+>                   24 of such form in accordance with subparag:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  9
+>                    1 graphs (A) and (B), the person or entity
+>                    2 shall—
+>                    3 ‘‘(I) retain a paper, microfiche,
+>                    4 microfilm, or electronic version of the
+>                    5 form and make it available for inspec6 tion by officers of the Department of
+>                    7 Homeland Security, the Department
+>                    8 of Justice, or the Department of
+>                    9 Labor during a period beginning on
+>                   10 the date of the recruiting or referral
+>                   11 of the individual, or, in the case of the
+>                   12 hiring of an individual, the date on
+>                   13 which the verification is completed,
+>                   14 and ending—
+>                   15 ‘‘(aa) in the case of the re16 cruiting or referral of an indi17 vidual, 3 years after the date of
+>                   18 the recruiting or referral; and
+>                   19 ‘‘(bb) in the case of the hir20 ing of an individual, the later of
+>                   21 3 years after the date the
+>                   22 verification is completed or one
+>                   23 year after the date the individ24 ual’s employment is terminated;
+>                   25 and
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  10
+>                    1 ‘‘(II) during the verification pe2 riod (as defined in subparagraph (E)),
+>                    3 make an inquiry, as provided in sub4 section (d), using the verification sys5 tem to seek verification of the identity
+>                    6 and employment eligibility of an indi7 vidual.
+>                    8 ‘‘(ii) ONFIRMATION .—
+>                    9 ‘‘(I) CONFIRMATION RE10 CEIVED .—If the person or other entity
+>                   11 receives an appropriate confirmation
+>                   12 of an individual’s identity and work
+>                   13 eligibility under the verification sys14 tem within the time period specified,
+>                   15 the person or entity shall record on
+>                   16 the form an appropriate code that is
+>                   17 provided under the system and that
+>                   18 indicates a final confirmation of such
+>                   19 identity and work eligibility of the in20 dividual.
+>                   21 ‘‘(II) TENTATIVE NONCONFIRMA22 TION RECEIVED .—If the person or
+>                   23 other entity receives a tentative non-24 confirmation of an individual’s iden25 tity or work eligibility under the
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  11
+>                    1 verification system within the time pe2 riod specified, the person or entity
+>                    3 shall so inform the individual for
+>                    4 whom the verification is sought. If the
+>                    5 individual does not contest the non-6 confirmation within the time period
+>                    7 specified, the nonconfirmation shall be
+>                    8 considered final. The person or entity
+>                    9 shall then record on the form an ap10 propriate code which has been pro11 vided under the system to indicate a
+>                   12 final nonconfirmation. If the indi13 vidual does contest the nonconfirma14 tion, the individual shall utilize the
+>                   15 process for secondary verification pro16 vided under subsection (d). The non-17 confirmation will remain tentative
+>                   18 until a final confirmation or noncon19 firmation is provided by the
+>                   20 verification system within the time pe21 riod specified. In no case shall an em22 ployer terminate employment of an in23 dividual because of a failure of the in24 dividual to have identity and work eli25 gibility confirmed under this section
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  12
+>                    1 until a nonconfirmation becomes final.
+>                    2 Nothing in this clause shall apply to a
+>                    3 termination of employment for any
+>                    4 reason other than because of such a
+>                    5 failure. In no case shall an employer
+>                    6 rescind the offer of employment to an
+>                    7 individual because of a failure of the
+>                    8 individual to have identity and work
+>                    9 eligibility confirmed under this sub10 section until a nonconfirmation be11 comes final. Nothing in this subclause
+>                   12 shall apply to a recission of the offer
+>                   13 of employment for any reason other
+>                   14 than because of such a failure.
+>                   15 ‘‘(III) FINAL CONFIRMATION OR
+>                   16 NONCONFIRMATION RECEIVED .—If a
+>                   17 final confirmation or nonconfirmation
+>                   18 is provided by the verification system
+>                   19 regarding an individual, the person or
+>                   20 entity shall record on the form an ap21 propriate code that is provided under
+>                   22 the system and that indicates a con23 firmation or nonconfirmation of iden24 tity and work eligibility of the indi25 vidual.
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 13
+>                    1 ‘‘(IV) EXTENSION OF TIME .—If
+>                    2 the person or other entity in good
+>                    3 faith attempts to make an inquiry
+>                    4 during the time period specified and
+>                    5 the verification system has registered
+>                    6 that not all inquiries were received
+>                    7 during such time, the person or entity
+>                    8 may make an inquiry in the first sub9 sequent working day in which the
+>                   10 verification system registers that it
+>                   11 has received all inquiries. If the
+>                   12 verification system cannot receive in13 quiries at all times during a day, the
+>                   14 person or entity merely has to assert
+>                   15 that the entity attempted to make the
+>                   16 inquiry on that day for the previous
+>                   17 sentence to apply to such an inquiry,
+>                   18 and does not have to provide any ad19 ditional proof concerning such inquiry.
+>                   20 ‘‘(V) CONSEQUENCES OF NON-21 CONFIRMATION .—
+>                   22 ‘‘(aa) TERMINATION OR NO23 TIFICATION OF CONTINUED EM24 PLOYMENT .—If the person or
+>                   25 other entity has received a final
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 14
+>                    1 nonconfirmation regarding an in2 dividual, the person or entity
+>                    3 may terminate employment of the
+>                    4 individual (or decline to recruit
+>                    5 or refer the individual). If the
+>                    6 person or entity does not termi7 nate employment of the indi8 vidual or proceeds to recruit or
+>                    9 refer the individual, the person or
+>                   10 entity shall notify the Secretary
+>                   11 of Homeland Security of such
+>                   12 fact through the verification sys13 tem or in such other manner as
+>                   14 the Secretary may specify.
+>                   15 ‘‘(bb) FAILURE TO NO16 TIFY.—If the person or entity
+>                   17 fails to provide notice with re18 spect to an individual as required
+>                   19 under item (aa), the failure is
+>                   20 deemed to constitute a violation
+>                   21 of subsection (a)(1)(A) with re22 spect to that individual.
+>                   23 ‘‘(VI) CONTINUED EMPLOYMENT
+>                   24 AFTER FINAL NONCONFIRMATION .—If
+>                   25 the person or other entity continues to
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 15
+>                    1 employ (or to recruit or refer) an indi2 vidual after receiving final noncon3 firmation, a rebuttable presumption is
+>                    4 created that the person or entity has
+>                    5 violated subsection (a)(1)(A).
+>                    6 ‘‘(D) EFFECTIVE DATES OF NEW PROCE7 DURES .—
+>                    8 ‘‘(i) HIRING .—Except as provided in
+>                    9 clause (iii), the provisions of this para10 graph shall apply to a person or other enti11 ty hiring an individual for employment in
+>                   12 the United States as follows:
+>                   13 ‘‘(I) With respect to employers
+>                   14 having 10,000 or more employees in
+>                   15 the United States on the date of the
+>                   16 enactment of the Legal Workforce
+>                   17 Act, on the date that is 6 months
+>                   18 after the date of the enactment of
+>                   19 such Act.
+>                   20 ‘‘(II) With respect to employers
+>                   21 having 500 or more employees in the
+>                   22 United States, but less than 10,000
+>                   23 employees in the United States, on
+>                   24 the date of the enactment of the
+>                   25 Legal Workforce Act, on the date that
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 16
+>                    1 is 12 months after the date of the en2 actment of such Act.
+>                    3 ‘‘(III) With respect to employers
+>                    4 having 20 or more employees in the
+>                    5 United States, but less than 500 em6 ployees in the United States, on the
+>                    7 date of the enactment of the Legal
+>                    8 Workforce Act, on the date that is 18
+>                    9 months after the date of the enact10 ment of such Act.
+>                   11 ‘‘(IV) With respect to employers
+>                   12 having 1 or more employees in the
+>                   13 United States, but less than 20 em14 ployees in the United States, on the
+>                   15 date of the enactment of the Legal
+>                   16 Workforce Act, on the date that is 24
+>                   17 months after the date of the enact18 ment of such Act.
+>                   19 ‘‘(ii) ECRUITING AND REFERRING .—
+>                   20 Except as provided in clause (iii), the pro21 visions of this paragraph shall apply to a
+>                   22 person or other entity recruiting or refer23 ring an individual for employment in the
+>                   24 United States on the date that is 12
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  17
+>                    1 months after the date of the enactment of
+>                    2 the Legal Workforce Act.
+>                    3 ‘‘(iii)GRICULTURAL LABOR OR SERV4 ICES.—With respect to an employee per5 forming agricultural labor or services, this
+>                    6 paragraph shall not apply with respect to
+>                    7 the verification of the employee until the
+>                    8 date that is 30 months after the date of
+>                    9 the enactment of the Legal Workforce Act.
+>                   10 For purposes of the preceding sentence,
+>                   11 the term ‘agricultural labor or services’ has
+>                   12 the meaning given such term by the Sec13 retary of Agriculture in regulations and in14 cludes agricultural labor as defined in sec15 tion 3121(g) of the Internal Revenue Code
+>                   16 of 1986, agriculture as defined in section
+>                   17 3(f) of the Fair Labor Standards Act of
+>                   18 1938 (29 U.S.C. 203(f)), the handling,
+>                   19 planting, drying, packing, packaging, proc20 essing, freezing, or grading prior to deliv21 ery for storage of any agricultural or horti22 cultural commodity in its unmanufactured
+>                   23 state, all activities required for the prepa24 ration, processing or manufacturing of a
+>                   25 product of agriculture (as such term is deg:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  18
+>                    1 fined in such section 3(f)) for further dis2 tribution, and activities similar to all the
+>                    3 foregoing as they relate to fish or shellfish
+>                    4 facilities. An employee described in this
+>                    5 clause shall not be counted for purposes of
+>                    6 clause (i).
+>                    7 ‘‘(iv) XTENSIONS .—Upon request by
+>                    8 an employer having 50 or fewer employees,
+>                    9 the Secretary shall allow a one-time 6
+>                   10 month extension of the effective date set
+>                   11 out in this subparagraph applicable to such
+>                   12 employer. Such request shall be made to
+>                   13 the Secretary and shall be made prior to
+>                   14 such effective date.
+>                   15 ‘‘(v) TRANSITION RULE .—Subject to
+>                   16 paragraph (4), the following shall apply to
+>                   17 a person or other entity hiring, recruiting,
+>                   18 or referring an individual for employment
+>                   19 in the United States until the effective
+>                   20 date or dates applicable under clauses (i)
+>                   21 through (iii):
+>                   22 ‘‘(I) This subsection, as in effect
+>                   23 before the enactment of the Legal
+>                   24 Workforce Act.
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 19
+>                    1 ‘‘(II) Subtitle A of title IV of the
+>                    2 Illegal Immigration Reform and Im3 migrant Responsibility Act of 1996 (8
+>                    4 U.S.C. 1324a note), as in effect be5 fore the effective date in section 7(c)
+>                    6 of the Legal Workforce Act.
+>                    7 ‘‘(III) Any other provision of
+>                    8 Federal law requiring the person or
+>                    9 entity to participate in the E–Verify
+>                   10 Program described in section 403(a)
+>                   11 of the Illegal Immigration Reform and
+>                   12 Immigrant Responsibility Act of 1996
+>                   13 (8 U.S.C. 1324a note), as in effect be14 fore the effective date in section 7(c)
+>                   15 of the Legal Workforce Act, including
+>                   16 Executive Order 13465 (8 U.S.C.
+>                   17 1324a note; relating to Government
+>                   18 procurement).
+>                   19 ‘‘(E) VERIFICATION PERIOD DEFINED .—
+>                   20 ‘‘(i) N GENERAL .—For purposes of
+>                   21 this paragraph:
+>                   22 ‘‘(I) In the case of recruitment or
+>                   23 referral, the term ‘verification period’
+>                   24 means the period ending on the date
+>                   25 recruiting or referring commences.
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 20
+>                    1 ‘‘(II) In the case of hiring, the
+>                    2 term ‘verification period’ means the
+>                    3 period beginning on the date on which
+>                    4 an offer of employment is extended
+>                    5 and ending on the date that is three
+>                    6 business days after the date of hire,
+>                    7 except as provided in clause (iii). The
+>                    8 offer of employment may be condi9 tioned in accordance with clause (ii).
+>                   10 ‘‘(ii) JOB OFFER MAY BE CONDI11 TIONAL .—A person or other entity may
+>                   12 offer a prospective employee an employ13 ment position that is conditioned on final
+>                   14 verification of the identity and employment
+>                   15 eligibility of the employee using the proce16 dures established under this paragraph.
+>                   17 ‘‘(iii) SPECIAL RULE .—Notwith18 standing clause (i)(II), in the case of an
+>                   19 alien who is authorized for employment
+>                   20 and who provides evidence from the Social
+>                   21 Security Administration that the alien has
+>                   22 applied for a social security account num23 ber, the verification period ends three busi24 ness days after the alien receives the social
+>                   25 security account number.
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 21
+>                    1 ‘‘(2) REVERIFICATION FOR INDIVIDUALS WITH
+>                    2 LIMITED WORK AUTHORIZATION .—
+>                    3 ‘‘(A) IN GENERAL .—Except as provided in
+>                    4 subparagraph (B), a person or entity shall
+>                    5 make an inquiry, as provided in subsection (d),
+>                    6 using the verification system to seek
+>                    7 reverification of the identity and employment
+>                    8 eligibility of all individuals with a limited period
+>                    9 of work authorization employed by the person
+>                   10 or entity during the three business days after
+>                   11 the date on which the employee’s work author12 ization expires as follows:
+>                   13 ‘‘(i) With respect to employers having
+>                   14 10,000 or more employees in the United
+>                   15 States on the date of the enactment of the
+>                   16 Legal Workforce Act, beginning on the
+>                   17 date that is 6 months after the date of the
+>                   18 enactment of such Act.
+>                   19 ‘‘(ii) With respect to employers having
+>                   20 500 or more employees in the United
+>                   21 States, but less than 10,000 employees in
+>                   22 the United States, on the date of the en23 actment of the Legal Workforce Act, be24 ginning on the date that is 12 months
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 22
+>                    1 after the date of the enactment of such
+>                    2 Act.
+>                    3 ‘‘(iii) With respect to employers hav4 ing 20 or more employees in the United
+>                    5 States, but less than 500 employees in the
+>                    6 United States, on the date of the enact7 ment of the Legal Workforce Act, begin8 ning on the date that is 18 months after
+>                    9 the date of the enactment of such Act.
+>                   10 ‘‘(iv) With respect to employers hav11 ing 1 or more employees in the United
+>                   12 States, but less than 20 employees in the
+>                   13 United States, on the date of the enact14 ment of the Legal Workforce Act, begin15 ning on the date that is 24 months after
+>                   16 the date of the enactment of such Act.
+>                   17 ‘‘(B) AGRICULTURAL LABOR OR SERV18 ICES.—With respect to an employee performing
+>                   19 agricultural labor or services, or an employee
+>                   20 recruited or referred by a farm labor contractor
+>                   21 (as defined in section 3 of the Migrant and Sea22 sonal Agricultural Worker Protection Act (29
+>                   23 U.S.C. 1801)), subparagraph (A) shall not
+>                   24 apply with respect to the reverification of the
+>                   25 employee until the date that is 30 months after
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  23
+>                    1 the date of the enactment of the Legal Work2 force Act. For purposes of the preceding sen3 tence, the term ‘agricultural labor or services’
+>                    4 has the meaning given such term by the Sec5 retary of Agriculture in regulations and in6 cludes agricultural labor as defined in section
+>                    7 3121(g) of the Internal Revenue Code of 1986,
+>                    8 agriculture as defined in section 3(f) of the
+>                    9 Fair Labor Standards Act of 1938 (29 U.S.C.
+>                   10 203(f)), the handling, planting, drying, packing,
+>                   11 packaging, processing, freezing, or grading
+>                   12 prior to delivery for storage of any agricultural
+>                   13 or horticultural commodity in its unmanufac14 tured state, all activities required for the prepa15 ration, processing, or manufacturing of a prod16 uct of agriculture (as such term is defined in
+>                   17 such section 3(f)) for further distribution, and
+>                   18 activities similar to all the foregoing as they re19 late to fish or shellfish facilities. An employee
+>                   20 described in this subparagraph shall not be
+>                   21 counted for purposes of subparagraph (A).
+>                   22 ‘‘(C) R EVERIFICATION .—Paragraph
+>                   23 (1)(C)(ii) shall apply to reverifications pursuant
+>                   24 to this paragraph on the same basis as it apg:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 24
+>                    1 plies to verifications pursuant to paragraph (1),
+>                    2 except that employers shall—
+>                    3 ‘‘(i) use a form designated or estab4 lished by the Secretary by regulation for
+>                    5 purposes of this paragraph; and
+>                    6 ‘‘(ii) retain a paper, microfiche, micro7 film, or electronic version of the form and
+>                    8 make it available for inspection by officers
+>                    9 of the Department of Homeland Security,
+>                   10 the Department of Justice, or the Depart11 ment of Labor during the period beginning
+>                   12 on the date the reverification commences
+>                   13 and ending on the date that is the later of
+>                   14 3 years after the date of such reverification
+>                   15 or 1 year after the date the individual’s
+>                   16 employment is terminated.
+>                   17 ‘‘(3) REVIOUSLY HIRED INDIVIDUALS .—
+>                   18 ‘‘(A) ON A MANDATORY BASIS FOR CER19 TAIN EMPLOYEES .—
+>                   20 ‘‘(i) N GENERAL .—Not later than the
+>                   21 date that is 6 months after the date of the
+>                   22 enactment of the Legal Workforce Act, an
+>                   23 employer shall make an inquiry, as pro24 vided in subsection (d), using the
+>                   25 verification system to seek verification of
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 25
+>                    1 the identity and employment eligibility of
+>                    2 any individual described in clause (ii) em3 ployed by the employer whose employment
+>                    4 eligibility has not been verified under the
+>                    5 E–Verify Program described in section
+>                    6 403(a) of the Illegal Immigration Reform
+>                    7 and Immigrant Responsibility Act of 1996
+>                    8 (8 U.S.C. 1324a note).
+>                    9 ‘‘(ii) NDIVIDUALS DESCRIBED .—An
+>                   10 individual described in this clause is any of
+>                   11 the following:
+>                   12 ‘‘(I) An employee of any unit of
+>                   13 a Federal, State, or local government.
+>                   14 ‘‘(II) An employee who requires a
+>                   15 Federal security clearance working in
+>                   16 a Federal, State or local government
+>                   17 building, a military base, a nuclear
+>                   18 energy site, a weapons site, or an air19 port or other facility that requires
+>                   20 workers to carry a Transportation
+>                   21 Worker Identification Credential
+>                   22 (TWIC).
+>                   23 ‘‘(III) An employee assigned to
+>                   24 perform work in the United States
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  26
+>                    1 under a Federal contract, except that
+>                    2 this subclause—
+>                    3 ‘‘(aa) is not applicable to in4 dividuals who have a clearance
+>                    5 under Homeland Security Presi6 dential Directive 12 (HSPD 12
+>                    7 clearance), are administrative or
+>                    8 overhead personnel, or are work9 ing solely on contracts that pro10 vide Commercial Off The Shelf
+>                   11 goods or services as set forth by
+>                   12 the Federal Acquisition Regu13 latory Council, unless they are
+>                   14 subject to verification under sub15 clause (II); and
+>                   16 ‘‘(bb) only applies to con17 tracts over the simple acquisition
+>                   18 threshold as defined in section
+>                   19 2.101 of title 48, Code of Federal
+>                   20 Regulations.
+>                   21 ‘‘(B) ON A MANDATORY BASIS FOR MUL22 TIPLE USERS OF SAME SOCIAL SECURITY AC23 COUNT NUMBER .—In the case of an employer
+>                   24 who is required by this subsection to use the
+>                   25 verification system described in subsection (d),
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  27
+>                    1 or has elected voluntarily to use such system,
+>                    2 the employer shall make inquiries to the system
+>                    3 in accordance with the following:
+>                    4 ‘‘(i) The Commissioner of Social Secu5 rity shall notify annually employees (at the
+>                    6 employee address listed on the Wage and
+>                    7 Tax Statement) who submit a social secu8 rity account number to which more than
+>                    9 one employer reports income and for which
+>                   10 there is a pattern of unusual multiple use.
+>                   11 The notification letter shall identify the
+>                   12 number of employers to which income is
+>                   13 being reported as well as sufficient infor14 mation notifying the employee of the proc15 ess to contact the Social Security Adminis16 tration Fraud Hotline if the employee be17 lieves the employee’s identity may have
+>                   18 been stolen. The notice shall not share in19 formation protected as private, in order to
+>                   20 avoid any recipient of the notice from
+>                   21 being in the position to further commit or
+>                   22 begin committing identity theft.
+>                   23 ‘‘(ii) If the person to whom the social
+>                   24 security account number was issued by the
+>                   25 Social Security Administration has been
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  28
+>                    1 identified and confirmed by the Commis2 sioner, and indicates that the social secu3 rity account number was used without
+>                    4 their knowledge, the Secretary and the
+>                    5 Commissioner shall lock the social security
+>                    6 account number for employment eligibility
+>                    7 verification purposes and shall notify the
+>                    8 employers of the individuals who wrong9 fully submitted the social security account
+>                   10 number that the employee may not be
+>                   11 work eligible.
+>                   12 ‘‘(iii) Each employer receiving such
+>                   13 notification of an incorrect social security
+>                   14 account number under clause (ii) shall use
+>                   15 the verification system described in sub16 section (d) to check the work eligibility sta17 tus of the applicable employee within 10
+>                   18 business days of receipt of the notification.
+>                   19 ‘‘(C) ON A VOLUNTARY BASIS .—Subject to
+>                   20 paragraph (2), and subparagraphs (A) through
+>                   21 (C) of this paragraph, beginning on the date
+>                   22 that is 30 days after the date of the enactment
+>                   23 of the Legal Workforce Act, an employer may
+>                   24 make an inquiry, as provided in subsection (d),
+>                   25 using the verification system to seek verification
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  29
+>                    1 of the identity and employment eligibility of any
+>                    2 individual employed by the employer. If an em3 ployer chooses voluntarily to seek verification of
+>                    4 any individual employed by the employer, the
+>                    5 employer shall seek verification of all individ6 uals employed at the same geographic location
+>                    7 or, at the option of the employer, all individuals
+>                    8 employed within the same job category, as the
+>                    9 employee with respect to whom the employer
+>                   10 seeks voluntarily to use the verification system.
+>                   11 An employer’s decision about whether or not
+>                   12 voluntarily to seek verification of its current
+>                   13 workforce under this subparagraph may not be
+>                   14 considered by any government agency in any
+>                   15 proceeding, investigation, or review provided for
+>                   16 in this Act.
+>                   17 ‘‘(D) VERIFICATION .—Paragraph
+>                   18 (1)(C)(ii) shall apply to verifications pursuant
+>                   19 to this paragraph on the same basis as it ap20 plies to verifications pursuant to paragraph (1),
+>                   21 except that employers shall—
+>                   22 ‘‘(i) use a form designated or estab23 lished by the Secretary by regulation for
+>                   24 purposes of this paragraph; and
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 30
+>                    1 ‘‘(ii) retain a paper, microfiche, micro2 film, or electronic version of the form and
+>                    3 make it available for inspection by officers
+>                    4 of the Department of Homeland Security,
+>                    5 the Department of Justice, or the Depart6 ment of Labor during the period beginning
+>                    7 on the date the verification commences and
+>                    8 ending on the date that is the later of 3
+>                    9 years after the date of such verification or
+>                   10 1 year after the date the individual’s em11 ployment is terminated.
+>                   12 ‘‘(4) ARLY COMPLIANCE .—
+>                   13 ‘‘(A) FORMER E –VERIFY REQUIRED USERS ,
+>                   14 INCLUDING FEDERAL CONTRACTORS .—Notwith15 standing the deadlines in paragraphs (1) and
+>                   16 (2), beginning on the date of the enactment of
+>                   17 the Legal Workforce Act, the Secretary is au18 thorized to commence requiring employers re19 quired to participate in the E–Verify Program
+>                   20 described in section 403(a) of the Illegal Immi21 gration Reform and Immigrant Responsibility
+>                   22 Act of 1996 (8 U.S.C. 1324a note), including
+>                   23 employers required to participate in such pro24 gram by reason of Federal acquisition laws
+>                   25 (and regulations promulgated under those laws,
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                31
+>                    1 including the Federal Acquisition Regulation),
+>                    2 to commence compliance with the requirements
+>                    3 of this subsection (and any additional require4 ments of such Federal acquisition laws and reg5 ulation) in lieu of any requirement to partici6 pate in the E–Verify Program.
+>                    7 ‘‘(B) FORMER E –VERIFY VOLUNTARY
+>                    8 USERS AND OTHERS DESIRING EARLY COMPLI9 ANCE .—Notwithstanding the deadlines in para10 graphs (1) and (2), beginning on the date of
+>                  11 the enactment of the Legal Workforce Act, the
+>                  12 Secretary shall provide for the voluntary com13 pliance with the requirements of this subsection
+>                  14 by employers voluntarily electing to participate
+>                  15 in the E–Verify Program described in section
+>                  16 403(a) of the Illegal Immigration Reform and
+>                  17 Immigrant Responsibility Act of 1996 (8 U.S.C.
+>                  18 1324a note) before such date, as well as by
+>                  19 other employers seeking voluntary early compli20 ance.
+>                  21 ‘‘(5) COPYING OF DOCUMENTATION PER22 MITTED .—Notwithstanding any other provision of
+>                  23 law, the person or entity may copy a document pre24 sented by an individual pursuant to this subsection
+>                  25 and may retain the copy, but only (except as otherg:\VHLC\090617\090617.09(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 32
+>                    1 wise permitted under law) for the purpose of com2 plying with the requirements of this subsection.
+>                    3 ‘‘(6) LIMITATION ON USE OF FORMS .—A form
+>                    4 designated or established by the Secretary of Home5 land Security under this subsection and any infor6 mation contained in or appended to such form, may
+>                    7 not be used for purposes other than for enforcement
+>                    8 of this Act and any other provision of Federal crimi9 nal law.
+>                   10 ‘‘(7) OOD FAITH COMPLIANCE .—
+>                   11 ‘‘(A) IN GENERAL .—Except as otherwise
+>                   12 provided in this subsection, a person or entity
+>                   13 is considered to have complied with a require14 ment of this subsection notwithstanding a tech15 nical or procedural failure to meet such require16 ment if there was a good faith attempt to com17 ply with the requirement.
+>                   18 ‘‘(B) EXCEPTION IF FAILURE TO CORRECT
+>                   19 AFTER NOTICE .—Subparagraph (A) shall not
+>                   20 apply if—
+>                   21 ‘‘(i) the failure is not de minimus;
+>                   22 ‘‘(ii) the Secretary of Homeland Secu23 rity has explained to the person or entity
+>                   24 the basis for the failure and why it is not
+>                   25 de minimus;
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  33
+>                    1 ‘‘(iii) the person or entity has been
+>                    2 provided a period of not less than 30 cal3 endar days (beginning after the date of the
+>                    4 explanation) within which to correct the
+>                    5 failure; and
+>                    6 ‘‘(iv) the person or entity has not cor7 rected the failure voluntarily within such
+>                    8 period.
+>                    9 ‘‘(C) EXCEPTION FOR PATTERN OR PRAC10 TICE VIOLATORS .—Subparagraph (A) shall not
+>                   11 apply to a person or entity that has or is engag12 ing in a pattern or practice of violations of sub13 section (a)(1)(A) or (a)(2).
+>                   14 ‘‘(8) SINGLE EXTENSION OF DEADLINES UPON
+>                   15 CERTIFICATION .—In a case in which the Secretary
+>                   16 of Homeland Security has certified to the Congress
+>                   17 that the employment eligibility verification system
+>                   18 required under subsection (d) will not be fully oper19 ational by the date that is 6 months after the date
+>                   20 of the enactment of the Legal Workforce Act, each
+>                   21 deadline established under this section for an em22 ployer to make an inquiry using such system shall
+>                   23 be extended by 6 months. No other extension of such
+>                   24 a deadline shall be made except as authorized under
+>                   25 paragraph (1)(D)(iv).’’.
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>       G:\M\15\SMITTX\SMITTX_014.XML
+>                                               34
+>                   1 (b) DATE OF HIRE.—Section 274A(h) of the Immi2 gration and Nationality Act (8 U.S.C. 1324a(h)) is
+>                   3 amended by adding at the end the following:
+>                   4 ‘‘(4) DEFINITION OF DATE OF HIRE .—As used
+>                   5 in this section, the term ‘date of hire’ means the
+>                   6 date of actual commencement of employment for
+>                   7 wages or other remuneration, unless otherwise speci8 fied.’’.
+>                   9 SEC. 3. EMPLOYMENT ELIGIBILITY VERIFICATION SYSTEM.
+>                  10 Section 274A(d) of the Immigration and Nationality
+>                  11 Act (8 U.S.C. 1324a(d)) is amended to read as follows:
+>                  12 ‘‘(d) MPLOYMENT ELIGIBILITY VERIFICATION S YS13 TEM .—
+>                  14 ‘‘(1) IN GENERAL .—Patterned on the employ15 ment eligibility confirmation system established
+>                  16 under section 404 of the Illegal Immigration Reform
+>                  17 and Immigrant Responsibility Act of 1996 (8 U.S.C.
+>                  18 1324a note), the Secretary of Homeland Security
+>                  19 shall establish and administer a verification system
+>                  20 through which the Secretary (or a designee of the
+>                  21 Secretary, which may be a nongovernmental enti22 ty)—
+>                  23 ‘‘(A) responds to inquiries made by per24 sons at any time through a tollfree telephone
+>                  25 line and other tollfree electronic media cong:\VHLC\090617\090617.09(673906|2)
+> VerDate 0ct 12:46 Sep Jkt 000PO 000Frm 00Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  35
+>                    1 cerning an individual’s identity and whether the
+>                    2 individual is authorized to be employed; and
+>                    3 ‘‘(B) maintains records of the inquiries
+>                    4 that were made, of verifications provided (or
+>                    5 not provided), and of the codes provided to in6 quirers as evidence of their compliance with
+>                    7 their obligations under this section.
+>                    8 ‘‘(2) INITIAL RESPONSE .—The verification sys9 tem shall provide confirmation or a tentative non-10 confirmation of an individual’s identity and employ11 ment eligibility within 3 working days of the initial
+>                   12 inquiry. If providing confirmation or tentative non-13 confirmation, the verification system shall provide an
+>                   14 appropriate code indicating such confirmation or
+>                   15 such nonconfirmation.
+>                   16 ‘‘(3) SECONDARY CONFIRMATION PROCESS IN
+>                   17 CASE OF TENTATIVE NONCONFIRMATION .—In cases
+>                   18 of tentative nonconfirmation, the Secretary shall
+>                   19 specify, in consultation with the Commissioner of
+>                   20 Social Security, an available secondary verification
+>                   21 process to confirm the validity of information pro22 vided and to provide a final confirmation or noncon23 firmation not later than 10 working days after the
+>                   24 date on which the notice of the tentative noncon25 firmation is received by the employee. The Secretary,
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 36
+>                    1 in consultation with the Commissioner, may extend
+>                    2 this deadline once on a case-by-case basis for a pe3 riod of 10 working days, and if the time is extended,
+>                    4 shall document such extension within the verification
+>                    5 system. The Secretary, in consultation with the
+>                    6 Commissioner, shall notify the employee and em7 ployer of such extension. The Secretary, in consulta8 tion with the Commissioner, shall create a standard
+>                    9 process of such extension and notification and shall
+>                   10 make a description of such process available to the
+>                   11 public. When final confirmation or nonconfirmation
+>                   12 is provided, the verification system shall provide an
+>                   13 appropriate code indicating such confirmation or
+>                   14 nonconfirmation.
+>                   15 ‘‘(4) DESIGN AND OPERATION OF SYSTEM .—
+>                   16 The verification system shall be designed and oper17 ated—
+>                   18 ‘‘(A) to maximize its reliability and ease of
+>                   19 use by persons and other entities consistent
+>                   20 with insulating and protecting the privacy and
+>                   21 security of the underlying information;
+>                   22 ‘‘(B) to respond to all inquiries made by
+>                   23 such persons and entities on whether individ24 uals are authorized to be employed and to regg:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                   37
+>                     1 ister all times when such inquiries are not re2 ceived;
+>                     3 ‘‘(C) with appropriate administrative, tech4 nical, and physical safeguards to prevent unau5 thorized disclosure of personal information;
+>                     6 ‘‘(D) to have reasonable safeguards against
+>                     7 the system’s resulting in unlawful discrimina8 tory practices based on national origin or citi9 zenship status, including—
+>                   10 ‘‘(i) the selective or unauthorized use
+>                   11 of the system to verify eligibility; or
+>                   12 ‘‘(ii) the exclusion of certain individ13 uals from consideration for employment as
+>                   14 a result of a perceived likelihood that addi15 tional verification will be required, beyond
+>                   16 what is required for most job applicants;
+>                   17 ‘‘(E) to maximize the prevention of iden18 tity theft use in the system; and
+>                   19 ‘‘(F) to limit the subjects of verification to
+>                   20 the following individuals:
+>                   21 ‘‘(i) Individuals hired, referred, or re22 cruited, in accordance with paragraph (1)
+>                   23 or (4) of subsection (b).
+>        g:\VHLC\090617\090617.095.(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  38
+>                    1 ‘‘(ii) Employees and prospective em2 ployees, in accordance with paragraph (1),
+>                    3 (2), (3), or (4) of subsection (b).
+>                    4 ‘‘(iii) Individuals seeking to confirm
+>                    5 their own employment eligibility on a vol6 untary basis.
+>                    7 ‘‘(5) RESPONSIBILITIES OF COMMISSIONER OF
+>                    8 SOCIAL SECURITY .—As part of the verification sys9 tem, the Commissioner of Social Security, in con10 sultation with the Secretary of Homeland Security
+>                   11 (and any designee of the Secretary selected to estab12 lish and administer the verification system), shall es13 tablish a reliable, secure method, which, within the
+>                   14 time periods specified under paragraphs (2) and (3),
+>                   15 compares the name and social security account num16 ber provided in an inquiry against such information
+>                   17 maintained by the Commissioner in order to validate
+>                   18 (or not validate) the information provided regarding
+>                   19 an individual whose identity and employment eligi20 bility must be confirmed, the correspondence of the
+>                   21 name and number, and whether the individual has
+>                   22 presented a social security account number that is
+>                   23 not valid for employment. The Commissioner shall
+>                   24 not disclose or release social security information
+>                   25 (other than such confirmation or nonconfirmation)
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 39
+>                    1 under the verification system except as provided for
+>                    2 in this section or section 205(c)(2)(I) of the Social
+>                    3 Security Act.
+>                    4 ‘‘(6) RESPONSIBILITIES OF SECRETARY OF
+>                    5 HOMELAND SECURITY .—As part of the verification
+>                    6 system, the Secretary of Homeland Security (in con7 sultation with any designee of the Secretary selected
+>                    8 to establish and administer the verification system),
+>                    9 shall establish a reliable, secure method, which, with10 in the time periods specified under paragraphs (2)
+>                   11 and (3), compares the name and alien identification
+>                   12 or authorization number (or any other information
+>                   13 as determined relevant by the Secretary) which are
+>                   14 provided in an inquiry against such information
+>                   15 maintained or accessed by the Secretary in order to
+>                   16 validate (or not validate) the information provided,
+>                   17 the correspondence of the name and number, wheth18 er the alien is authorized to be employed in the
+>                   19 United States, or to the extent that the Secretary
+>                   20 determines to be feasible and appropriate, whether
+>                   21 the records available to the Secretary verify the
+>                   22 identity or status of a national of the United States.
+>                   23 ‘‘(7) UPDATING INFORMATION .—The Commis24 sioner of Social Security and the Secretary of Home25 land Security shall update their information in a
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>       G:\M\15\SMITTX\SMITTX_014.XML
+>                                                40
+>                   1 manner that promotes the maximum accuracy and
+>                   2 shall provide a process for the prompt correction of
+>                   3 erroneous information, including instances in which
+>                   4 it is brought to their attention in the secondary
+>                   5 verification process described in paragraph (3).
+>                   6 ‘‘(8) LIMITATION ON USE OF THE
+>                   7 VERIFICATION SYSTEM AND ANY RELATED SYS8 TEMS .—
+>                   9 ‘‘(A) NO NATIONAL IDENTIFICATION
+>                  10 CARD .—Nothing in this section shall be con11 strued to authorize, directly or indirectly, the
+>                  12 issuance or use of national identification cards
+>                  13 or the establishment of a national identification
+>                  14 card.
+>                  15 ‘‘(B) CRITICAL INFRASTRUCTURE .—The
+>                  16 Secretary may authorize or direct any person or
+>                  17 entity responsible for granting access to, pro18 tecting, securing, operating, administering, or
+>                  19 regulating part of the critical infrastructure (as
+>                  20 defined in section 1016(e) of the Critical Infra21 structure Protection Act of 2001 (42 U.S.C.
+>                  22 5195c(e))) to use the verification system to the
+>                  23 extent the Secretary determines that such use
+>                  24 will assist in the protection of the critical infra25 structure.
+>       g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>       G:\M\15\SMITTX\SMITTX_014.XML
+>                                               41
+>                   1 ‘‘(9) REMEDIES .—If an individual alleges that
+>                   2 the individual would not have been dismissed from
+>                   3 a job but for an error of the verification mechanism,
+>                   4 the individual may seek compensation only through
+>                   5 the mechanism of the Federal Tort Claims Act, and
+>                   6 injunctive relief to correct such error. No class ac7 tion may be brought under this paragraph.’’.
+>                   8 SEC. 4. RECRUITMENT, REFERRAL, AND CONTINUATION OF
+>                   9 EMPLOYMENT.
+>                  10 (a) ADDITIONAL CHANGES TO RULES FOR R ECRUIT11 MENT , REFERRAL , AND CONTINUATION OF EMPLOY12 MENT .—Section 274A(a) of the Immigration and Nation13 ality Act (8 U.S.C. 1324a(a)) is amended—
+>                  14 (1) in paragraph (1)(A), by striking ‘‘for a fee’’;
+>                  15 (2) in paragraph (1), by amending subpara16 graph (B) to read as follows:
+>                  17 ‘‘(B) to hire, continue to employ, or to re18 cruit or refer for employment in the United
+>                  19 States an individual without complying with the
+>                  20 requirements of subsection (b).’’; and
+>                  21 (3) in paragraph (2), by striking ‘‘after hiring
+>                  22 an alien for employment in accordance with para23 graph (1),’’ and inserting ‘‘after complying with
+>                  24 paragraph (1),’’.
+>       g:\VHLC\090617\090617.09(673906|2)
+> VerDate 0ct 12:46 Sep Jkt 000PO 000Frm 00Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  42
+>                    1 (b) DEFINITION .—Section 274A(h) of the Immigra2 tion and Nationality Act (8 U.S.C. 1324a(h)), as amended
+>                    3 by section 2(b) of this Act, is further amended by adding
+>                    4 at the end the following:
+>                    5 ‘‘(5) DEFINITION OF RECRUIT OR REFER .—As
+>                    6 used in this section, the term ‘refer’ means the act
+>                    7 of sending or directing a person who is in the United
+>                    8 States or transmitting documentation or information
+>                    9 to another, directly or indirectly, with the intent of
+>                   10 obtaining employment in the United States for such
+>                   11 person. Only persons or entities referring for remu12 neration (whether on a retainer or contingency
+>                   13 basis) are included in the definition, except that
+>                   14 union hiring halls that refer union members or non-15 union individuals who pay union membership dues
+>                   16 are included in the definition whether or not they re17 ceive remuneration, as are labor service entities or
+>                   18 labor service agencies, whether public, private, for19 profit, or nonprofit, that refer, dispatch, or other20 wise facilitate the hiring of laborers for any period
+>                   21 of time by a third party. As used in this section, the
+>                   22 term ‘recruit’ means the act of soliciting a person
+>                   23 who is in the United States, directly or indirectly,
+>                   24 and referring the person to another with the intent
+>                   25 of obtaining employment for that person. Only perg:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 43
+>                    1 sons or entities referring for remuneration (whether
+>                    2 on a retainer or contingency basis) are included in
+>                    3 the definition, except that union hiring halls that
+>                    4 refer union members or nonunion individuals who
+>                    5 pay union membership dues are included in this defi6 nition whether or not they receive remuneration, as
+>                    7 are labor service entities or labor service agencies,
+>                    8 whether public, private, forprofit, or nonprofit that
+>                    9 recruit, dispatch, or otherwise facilitate the hiring of
+>                   10 laborers for any period of time by a third party.’’.
+>                   11 (c) EFFECTIVE DATE.—The amendments made by
+>                   12 this section shall take effect on the date that is 1 year
+>                   13 after the date of the enactment of this Act, except that
+>                   14 the amendments made by subsection (a) shall take effect
+>                   15 6 months after the date of the enactment of this Act inso16 far as such amendments relate to continuation of employ17 ment.
+>                   18 SEC. 5. GOOD FAITH DEFENSE.
+>                   19 Section 274A(a)(3) of the Immigration and Nation20 ality Act (8 U.S.C. 1324a(a)(3)) is amended to read as
+>                   21 follows:
+>                   22 ‘‘(3) OOD FAITH DEFENSE .—
+>                   23 ‘‘(A) DEFENSE .—An employer (or person
+>                   24 or entity that hires, employs, recruits, or refers
+>                   25 (as defined in subsection (h)(5)), or is otherwise
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 44
+>                    1 obligated to comply with this section) who es2 tablishes that it has complied in good faith with
+>                    3 the requirements of subsection (b)—
+>                    4 ‘‘(i) shall not be liable to a job appli5 cant, an employee, the Federal Govern6 ment, or a State or local government,
+>                    7 under Federal, State, or local criminal or
+>                    8 civil law for any employment-related action
+>                    9 taken with respect to a job applicant or
+>                   10 employee in goodfaith reliance on informa11 tion provided through the system estab12 lished under subsection (d); and
+>                   13 ‘‘(ii) has established compliance with
+>                   14 its obligations under subparagraphs (A)
+>                   15 and (B) of paragraph (1) and subsection
+>                   16 (b) absent a showing by the Secretary of
+>                   17 Homeland Security, by clear and con18 vincing evidence, that the employer had
+>                   19 knowledge that an employee is an unau20 thorized alien.
+>                   21 ‘‘(B) MITIGATION ELEMENT .—For pur22 poses of subparagraph (A)(i), if an employer
+>                   23 proves by a preponderance of the evidence that
+>                   24 the employer uses a reasonable, secure, and es25 tablished technology to authenticate the identity
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                45
+>                    1 of the new employee, that fact shall be taken
+>                    2 into account for purposes of determining good
+>                    3 faith use of the system established under sub4 section (d).
+>                    5 ‘‘(C) FAILURE TO SEEK AND OBTAIN
+>                    6 VERIFICATION .—Subject to the effective dates
+>                    7 and other deadlines applicable under subsection
+>                    8 (b), in the case of a person or entity in the
+>                    9 United States that hires, or continues to em10 ploy, an individual, or recruits or refers an indi11 vidual for employment, the following require12 ments apply:
+>                  13 ‘‘(i) FAILURE TO SEEK
+>                  14 VERIFICATION .—
+>                  15 ‘‘(I) N GENERAL .—If the person
+>                  16 or entity has not made an inquiry,
+>                  17 under the mechanism established
+>                  18 under subsection (d) and in accord19 ance with the timeframes established
+>                  20 under subsection (b), seeking
+>                  21 verification of the identity and work
+>                  22 eligibility of the individual, the de23 fense under subparagraph (A) shall
+>                  24 not be considered to apply with reg:\VHLC\090617\090617.09(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 46
+>                    1 spect to any employment, except as
+>                    2 provided in subclause (II).
+>                    3 ‘‘(II) SPECIAL RULE FOR FAIL4 URE OF VERIFICATION MECHANISM .—
+>                    5 If such a person or entity in good
+>                    6 faith attempts to make an inquiry in
+>                    7 order to qualify for the defense under
+>                    8 subparagraph (A) and the verification
+>                    9 mechanism has registered that not all
+>                   10 inquiries were responded to during the
+>                   11 relevant time, the person or entity can
+>                   12 make an inquiry until the end of the
+>                   13 first subsequent working day in which
+>                   14 the verification mechanism registers
+>                   15 no nonresponses and qualify for such
+>                   16 defense.
+>                   17 ‘‘(ii) FAILURE TO OBTAIN
+>                   18 VERIFICATION .—If the person or entity
+>                   19 has made the inquiry described in clause
+>                   20 (i)(I) but has not received an appropriate
+>                   21 verification of such identity and work eligi22 bility under such mechanism within the
+>                   23 time period specified under subsection
+>                   24 (d)(2) after the time the verification in25 quiry was received, the defense under subg:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 47
+>                    1 paragraph (A) shall not be considered to
+>                    2 apply with respect to any employment after
+>                    3 the end of such time period.’’.
+>                    4 SEC. 6. PREEMPTION AND STATES’ RIGHTS.
+>                    5 Section 274A(h)(2) of the Immigration and Nation6 ality Act (8 U.S.C. 1324a(h)(2)) is amended to read as
+>                    7 follows:
+>                    8 ‘‘(2) REEMPTION .—
+>                    9 ‘‘(A) SINGLE , NATIONAL POLICY .—The
+>                   10 provisions of this section preempt any State or
+>                   11 local law, ordinance, policy, or rule, including
+>                   12 any criminal or civil fine or penalty structure,
+>                   13 insofar as they may now or hereafter relate to
+>                   14 the hiring, continued employment, or status
+>                   15 verification for employment eligibility purposes,
+>                   16 of unauthorized aliens.
+>                   17 ‘‘(B) STATE ENFORCEMENT OF FEDERAL
+>                   18 LAW .—
+>                   19 ‘‘(i) BUSINESS LICENSING .—A State,
+>                   20 locality, municipality, or political subdivi21 sion may exercise its authority over busi22 ness licensing and similar laws as a pen23 alty for failure to use the verification sys24 tem described in subsection (d) to verify
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  48
+>                    1 employment eligibility when and as re2 quired under subsection (b).
+>                    3 ‘‘(ii) ENERAL RULES .—A State, at
+>                    4 its own cost, may enforce the provisions of
+>                    5 this section, but only insofar as such State
+>                    6 follows the Federal regulations imple7 menting this section, applies the Federal
+>                    8 penalty structure set out in this section,
+>                    9 and complies with all Federal rules and
+>                   10 guidance concerning implementation of this
+>                   11 section. Such State may collect any fines
+>                   12 assessed under this section. An employer
+>                   13 may not be subject to enforcement, includ14 ing audit and investigation, by both a Fed15 eral agency and a State for the same viola16 tion under this section. Whichever entity,
+>                   17 the Federal agency or the State, is first to
+>                   18 initiate the enforcement action, has the
+>                   19 right of first refusal to proceed with the
+>                   20 enforcement action. The Secretary must
+>                   21 provide copies of all guidance, training,
+>                   22 and field instructions provided to Federal
+>                   23 officials implementing the provisions of
+>                   24 this section to each State.’’.
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 49
+>                    1 SEC. 7. REPEAL.
+>                    2 (a) N GENERAL .—Subtitle A of title IV of the Illegal
+>                    3 Immigration Reform and Immigrant Responsibility Act of
+>                    4 1996 (8 U.S.C. 1324a note) is repealed.
+>                    5 (b) REFERENCES .—Any reference in any Federal
+>                    6 law, Executive order, rule, regulation, or delegation of au7 thority, or any document of, or pertaining to, the Depart8 ment of Homeland Security, Department of Justice, or the
+>                    9 Social Security Administration, to the employment eligi10 bility confirmation system established under section 404
+>                   11 of the Illegal Immigration Reform and Immigrant Respon12 sibility Act of 1996 (8 U.S.C. 1324a note) is deemed to
+>                   13 refer to the employment eligibility confirmation system es14 tablished under section 274A(d) of the Immigration and
+>                   15 Nationality Act, as amended by section 3 of this Act.
+>                   16 (c) EFFECTIVE DATE .—This section shall take effect
+>                   17 on the date that is 30 months after the date of the enact18 ment of this Act.
+>                   19 (d) CLERICAL AMENDMENT .—The table of sections,
+>                   20 in section 1(d) of the Illegal Immigration Reform and Im21 migrant Responsibility Act of 1996, is amended by strik22 ing the items relating to subtitle A of title IV.
+>                   23 SEC. 8. PENALTIES.
+>                   24 Section 274A of the Immigration and Nationality Act
+>                   25 (8 U.S.C. 1324a) is amended—
+>                   26 (1) in subsection (e)(1)—
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  50
+>                    1 (A) by striking ‘‘Attorney General’’ each
+>                    2 place such term appears and inserting ‘‘Sec3 retary of Homeland Security’’; and
+>                    4 (B) in subparagraph (D), by striking
+>                    5 ‘‘Service’’ and inserting ‘‘Department of Home6 land Security’’;
+>                    7 (2) in subsection (e)(4)—
+>                    8 (A) in subparagraph (A), in the matter be9 fore clause (i), by inserting ‘‘, subject to para10 graph (10),’’ after ‘‘in an amount’’;
+>                   11 (B) in subparagraph (A)(i), by striking
+>                   12 ‘‘not less than $250 and not more than
+>                   13 $2,000’’ and inserting ‘‘not less than $2,500
+>                   14 and not more than $5,000’’;
+>                   15 (C) in subparagraph (A)(ii), by striking
+>                   16 ‘‘not less than $2,000 and not more than
+>                   17 $5,000’’ and inserting ‘‘not less than $5,000
+>                   18 and not more than $10,000’’;
+>                   19 (D) in subparagraph (A)(iii), by striking
+>                   20 ‘‘not less than $3,000 and not more than
+>                   21 $10,000’’ and inserting ‘‘not less than $10,000
+>                   22 and not more than $25,000’’; and
+>                   23 (E) by moving the margin of the continu24 ation text following subparagraph (B) two ems
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  51
+>                    1 to the left and by amending subparagraph (B)
+>                    2 to read as follows:
+>                    3 ‘‘(B) may require the person or entity to
+>                    4 take such other remedial action as is appro5 priate.’’;
+>                    6 (3) in subsection (e)(5)—
+>                    7 (A) in the paragraph heading, strike ‘‘ PA8 PERWORK ’’;
+>                    9 (B) by inserting ‘‘, subject to paragraphs
+>                   10 (10) through (12),’’ after ‘‘in an amount’’;
+>                   11 (C) by striking ‘‘$100’’ and inserting
+>                   12 ‘‘$1,000’’;
+>                   13 (D) by striking ‘‘$1,000’’ and inserting
+>                   14 ‘‘$25,000’’; and
+>                   15 (E) by adding at the end the following:
+>                   16 ‘‘Failure by a person or entity to utilize the em17 ployment eligibility verification system as re18 quired by law, or providing information to the
+>                   19 system that the person or entity knows or rea20 sonably believes to be false, shall be treated as
+>                   21 a violation of subsection (a)(1)(A).’’;
+>                   22 (4) by adding at the end of subsection (e) the
+>                   23 following:
+>                   24 ‘‘(10) EXEMPTION FROM PENALTY FOR GOOD
+>                   25 FAITH VIOLATION .—In the case of imposition of a
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 52
+>                    1 civil penalty under paragraph (4)(A) with respect to
+>                    2 a violation of subsection (a)(1)(A) or (a)(2) for hir3 ing or continuation of employment or recruitment or
+>                    4 referral by person or entity and in the case of impo5 sition of a civil penalty under paragraph (5) for a
+>                    6 violation of subsection (a)(1)(B) for hiring or re7 cruitment or referral by a person or entity, the pen8 alty otherwise imposed may be waived or reduced if
+>                    9 the violator establishes that the violator acted in
+>                   10 good faith.
+>                   11 ‘‘(11) MITIGATION ELEMENT .—For purposes of
+>                   12 paragraph (4), the size of the business shall be
+>                   13 taken into account when assessing the level of civil
+>                   14 money penalty.
+>                   15 ‘‘(12) AUTHORITY TO DEBAR EMPLOYERS FOR
+>                   16 CERTAIN VIOLATIONS .—
+>                   17 ‘‘(A) N GENERAL .—If a person or entity
+>                   18 is determined by the Secretary of Homeland Se19 curity to be a repeat violator of paragraph
+>                   20 (1)(A) or (2) of subsection (a), or is convicted
+>                   21 of a crime under this section, such person or
+>                   22 entity may be considered for debarment from
+>                   23 the receipt of Federal contracts, grants, or co24 operative agreements in accordance with the de25 barment standards and pursuant to the debarg:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  53
+>                    1 ment procedures set forth in the Federal Acqui2 sition Regulation.
+>                    3 ‘‘(B) DOES NOT HAVE CONTRACT , GRANT ,
+>                    4 AGREEMENT .—If the Secretary of Homeland
+>                    5 Security or the Attorney General wishes to have
+>                    6 a person or entity considered for debarment in
+>                    7 accordance with this paragraph, and such an
+>                    8 person or entity does not hold a Federal con9 tract, grant or cooperative agreement, the Sec10 retary or Attorney General shall refer the mat11 ter to the Administrator of General Services to
+>                   12 determine whether to list the person or entity
+>                   13 on the List of Parties Excluded from Federal
+>                   14 Procurement, and if so, for what duration and
+>                   15 under what scope.
+>                   16 ‘‘(C) HAS CONTRACT , GRANT , AGREE17 MENT .—If the Secretary of Homeland Security
+>                   18 or the Attorney General wishes to have a per19 son or entity considered for debarment in ac20 cordance with this paragraph, and such person
+>                   21 or entity holds a Federal contract, grant or co22 operative agreement, the Secretary or Attorney
+>                   23 General shall advise all agencies or departments
+>                   24 holding a contract, grant, or cooperative agree25 ment with the person or entity of the Governg:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 54
+>                    1 ment’s interest in having the person or entity
+>                    2 considered for debarment, and after soliciting
+>                    3 and considering the views of all such agencies
+>                    4 and departments, the Secretary or Attorney
+>                    5 General may refer the matter to any appro6 priate lead agency to determine whether to list
+>                    7 the person or entity on the List of Parties Ex8 cluded from Federal Procurement, and if so, for
+>                    9 what duration and under what scope.
+>                   10 ‘‘(D) REVIEW .—Any decision to debar a
+>                   11 person or entity in accordance with this para12 graph shall be reviewable pursuant to part 9.4
+>                   13 of the Federal Acquisition Regulation.
+>                   14 ‘‘(13) OFFICE FOR STATE AND LOCAL GOVERN15 MENT COMPLAINTS .—The Secretary of Homeland
+>                   16 Security shall establish an office—
+>                   17 ‘‘(A) to which State and local government
+>                   18 agencies may submit information indicating po19 tential violations of subsection (a), (b), or
+>                   20 (g)(1) that were generated in the normal course
+>                   21 of law enforcement or the normal course of
+>                   22 other official activities in the State or locality;
+>                   23 ‘‘(B) that is required to indicate to the
+>                   24 complaining State or local agency within five
+>                   25 business days of the filing of such a complaint
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  55
+>                    1 by identifying whether the Secretary will fur2 ther investigate the information provided;
+>                    3 ‘‘(C) that is required to investigate those
+>                    4 complaints filed by State or local government
+>                    5 agencies that, on their face, have a substantial
+>                    6 probability of validity;
+>                    7 ‘‘(D) that is required to notify the com8 plaining State or local agency of the results of
+>                    9 any such investigation conducted; and
+>                   10 ‘‘(E) that is required to report to the Con11 gress annually the number of complaints re12 ceived under this paragraph, the States and lo13 calities that filed such complaints, and the reso14 lution of the complaints investigated by the Sec15 retary.’’; and
+>                   16 (5) by amending paragraph (1) of subsection (f)
+>                   17 to read as follows:
+>                   18 ‘‘(1) CRIMINAL PENALTY .—Any person or enti19 ty which engages in a pattern or practice of viola20 tions of subsection (a)(1) or (2) shall be fined not
+>                   21 more than $5,000 for each unauthorized alien with
+>                   22 respect to which such a violation occurs, imprisoned
+>                   23 for not more than 18 months, or both, notwith24 standing the provisions of any other Federal law re25 lating to fine levels.’’.
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                56
+>                    1 SEC. 9. FRAUD AND MISUSE OF DOCUMENTS.
+>                    2 Section 1546(b) of title 18, United States Code, is
+>                    3 amended—
+>                    4 (1) in paragraph (1), by striking ‘‘identification
+>                    5 document,’’ and inserting ‘‘identification document
+>                    6 or document meant to establish work authorization
+>                    7 (including the documents described in section
+>                    8 274A(b) of the Immigration and Nationality Act),’’;
+>                    9 and
+>                  10 (2) in paragraph (2), by striking ‘‘identification
+>                  11 document’’ and inserting ‘‘identification document or
+>                  12 document meant to establish work authorization (in13 cluding the documents described in section 274A(b)
+>                  14 of the Immigration and Nationality Act),’’.
+>                  15 SEC. 10. PROTECTION OF SOCIAL SECURITY ADMINISTRA16 TION PROGRAMS.
+>                  17 (a) FUNDING UNDER AGREEMENT .—Effective for
+>                  18 fiscal years beginning on or after October 1, 2019, the
+>                  19 Commissioner of Social Security and the Secretary of
+>                  20 Homeland Security shall enter into and maintain an
+>                  21 agreement which shall—
+>                  22 (1) provide funds to the Commissioner for the
+>                  23 full costs of the responsibilities of the Commissioner
+>                  24 under section 274A(d) of the Immigration and Na25 tionality Act (8 U.S.C. 1324a(d)), as amended by
+>        g:\VHLC\090617\090617.09(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                  57
+>                    1 section 3 of this Act, including (but not limited
+>                    2 to)—
+>                    3 (A) acquiring, installing, and maintaining
+>                    4 technological equipment and systems necessary
+>                    5 for the fulfillment of the responsibilities of the
+>                    6 Commissioner under such section 274A(d), but
+>                    7 only that portion of such costs that are attrib8 utable exclusively to such responsibilities; and
+>                    9 (B) responding to individuals who contest
+>                   10 a tentative nonconfirmation provided by the em11 ployment eligibility verification system estab12 lished under such section;
+>                   13 (2) provide such funds annually in advance of
+>                   14 the applicable quarter based on estimating method15 ology agreed to by the Commissioner and the Sec16 retary (except in such instances where the delayed
+>                   17 enactment of an annual appropriation may preclude
+>                   18 such quarterly payments); and
+>                   19 (3) require an annual accounting and reconcili20 ation of the actual costs incurred and the funds pro21 vided under the agreement, which shall be reviewed
+>                   22 by the Inspectors General of the Social Security Ad23 ministration and the Department of Homeland Secu24 rity.
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 58
+>                    1 (b) CONTINUATION OF EMPLOYMENT VERIFICATION
+>                    2 IN ABSENCE OF TIMELY AGREEMENT .—In any case in
+>                    3 which the agreement required under subsection (a) for any
+>                    4 fiscal year beginning on or after October 1, 2019, has not
+>                    5 been reached as of October 1 of such fiscal year, the latest
+>                    6 agreement between the Commissioner and the Secretary
+>                    7 of Homeland Security providing for funding to cover the
+>                    8 costs of the responsibilities of the Commissioner under
+>                    9 section 274A(d) of the Immigration and Nationality Act
+>                   10 (8 U.S.C. 1324a(d)) shall be deemed in effect on an in11 terim basis for such fiscal year until such time as an
+>                   12 agreement required under subsection (a) is subsequently
+>                   13 reached, except that the terms of such interim agreement
+>                   14 shall be modified by the Director of the Office of Manage15 ment and Budget to adjust for inflation and any increase
+>                   16 or decrease in the volume of requests under the employ17 ment eligibility verification system. In any case in which
+>                   18 an interim agreement applies for any fiscal year under this
+>                   19 subsection, the Commissioner and the Secretary shall, not
+>                   20 later than October 1 of such fiscal year, notify the Com21 mittee on Ways and Means, the Committee on the Judici22 ary, and the Committee on Appropriations of the House
+>                   23 of Representatives and the Committee on Finance, the
+>                   24 Committee on the Judiciary, and the Committee on Ap25 propriations of the Senate of the failure to reach the
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                 59
+>                    1 agreement required under subsection (a) for such fiscal
+>                    2 year. Until such time as the agreement required under
+>                    3 subsection (a) has been reached for such fiscal year, the
+>                    4 Commissioner and the Secretary shall, not later than the
+>                    5 end of each 90-day period after October 1 of such fiscal
+>                    6 year, notify such Committees of the status of negotiations
+>                    7 between the Commissioner and the Secretary in order to
+>                    8 reach such an agreement.
+>                    9 SEC. 11. FRAUD PREVENTION.
+>                   10 (a) BLOCKING MISUSED SOCIAL SECURITY ACCOUNT
+>                   11 NUMBERS .—The Secretary of Homeland Security, in con12 sultation with the Commissioner of Social Security, shall
+>                   13 establish a program in which social security account num14 bers that have been identified to be subject to unusual
+>                   15 multiple use in the employment eligibility verification sys16 tem established under section 274A(d) of the Immigration
+>                   17 and Nationality Act (8 U.S.C. 1324a(d)), as amended by
+>                   18 section 3 of this Act, or that are otherwise suspected or
+>                   19 determined to have been compromised by identity fraud
+>                   20 or other misuse, shall be blocked from use for such system
+>                   21 purposes unless the individual using such number is able
+>                   22 to establish, through secure and fair additional security
+>                   23 procedures, that the individual is the legitimate holder of
+>                   24 the number.
+>        g:\VHLC\090617\090617.095(673906|2)
+> VerDate 0ct 12:46 Sep 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>       G:\M\15\SMITTX\SMITTX_014.XML
+>                                              60
+>                   1 (b) ALLOWING SUSPENSION OF USE OF CERTAIN SO2 CIAL SECURITY ACCOUNT NUMBERS .—The Secretary of
+>                   3 Homeland Security, in consultation with the Commis4 sioner of Social Security, shall establish a program which
+>                   5 shall provide a reliable, secure method by which victims
+>                   6 of identity fraud and other individuals may suspend or
+>                   7 limit the use of their social security account number or
+>                   8 other identifying information for purposes of the employ9 ment eligibility verification system established under sec10 tion 274A(d) of the Immigration and Nationality Act (8
+>                  11 U.S.C. 1324a(d)), as amended by section 3 of this Act.
+>                  12 The Secretary may implement the program on a limited
+>                  13 pilot program basis before making it fully available to all
+>                  14 individuals.
+>                  15 (c) ALLOWING PARENTS TO PREVENT THEFT OF
+>                  16 THEIR CHILD ’S IDENTITY .—The Secretary of Homeland
+>                  17 Security, in consultation with the Commissioner of Social
+>                  18 Security, shall establish a program which shall provide a
+>                  19 reliable, secure method by which parents or legal guard20 ians may suspend or limit the use of the social security
+>                  21 account number or other identifying information of a
+>                  22 minor under their care for the purposes of the employment
+>                  23 eligibility verification system established under 274A(d) of
+>                  24 the Immigration and Nationality Act (8 U.S.C. 1324a(d)),
+>                  25 as amended by section 3 of this Act. The Secretary may
+>       g:\VHLC\090617\090617.09(673906|2)
+> VerDate 0ct12:46 Sep 0Jkt 00PO 000Frm 000Fmt 6Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                     61
+>                     1 implement the program on a limited pilot program basis
+>                     2 before making it fully available to all individuals.
+>                     3 SEC. 12. USE OF EMPLOYMENT ELIGIBILITY VERIFICATION
+>                     4 PHOTO TOOL.
+>                     5 An employer who uses the photo matching tool used
+>                     6 as part of the E–Verify System shall match the photo tool
+>                     7 photograph to both the photograph on the identity or em8 ployment eligibility document provided by the employee
+>                     9 and to the face of the employee submitting the document
+>                    10 for employment verification purposes.
+>                    11 SEC. 13. IDENTITY AUTHENTICATION EMPLOYMENT ELIGI12 BILITY VERIFICATION PILOT PROGRAMS.
+>                    13 Not later than 24 months after the date of the enact14 ment of this Act, the Secretary of Homeland Security,
+>                    15 after consultation with the Commissioner of Social Secu16 rity and the Director of the National Institute of Stand17 ards and Technology, shall establish by regulation not less
+>                    18 than 2 Identity Authentication Employment Eligibility
+>                    19 Verification pilot programs, each using a separate and dis20 tinct technology (the ‘‘Authentication Pilots’’). The pur21 pose of the Authentication Pilots shall be to provide for
+>                    22 identity authentication and employment eligibility
+>                    23 verification with respect to enrolled new employees which
+>                    24 shall be available to any employer that elects to participate
+>                    25 in either of the Authentication Pilots. Any participating
+>        g:\VHLC\090617\090617.095.x(673906|2)
+> VerDate 0ct 012:46 Sep 06Jkt 000PO 0000Frm 0006Fmt 66Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>        G:\M\15\SMITTX\SMITTX_014.XML
+>                                                   62
+>                     1 employer may cancel the employer’s participation in the
+>                     2 Authentication Pilot after one year after electing to par3 ticipate without prejudice to future participation. The Sec4 retary shall report to the Committee on the Judiciary of
+>                     5 the House of Representatives and the Committee on the
+>                     6 Judiciary of the Senate the Secretary’s findings on the
+>                     7 Authentication Pilots, including the authentication tech8 nologies chosen, not later than 12 months after com9 mencement of the Authentication Pilots.
+>                   10 SEC. 14. INSPECTOR GENERAL AUDITS.
+>                   11 (a) IN GENERAL .—Not later than 1 year after the
+>                   12 date of the enactment of this Act, the Inspector General
+>                   13 of the Social Security Administration shall complete audits
+>                   14 of the following categories in order to uncover evidence
+>                   15 of individuals who are not authorized to work in the
+>                   16 United States:
+>                   17 (1) Workers who dispute wages reported on
+>                   18 their social security account number when they be19 lieve someone else has used such number and name
+>                   20 to report wages.
+>                   21 (2) Children’s social security account numbers
+>                   22 used for work purposes.
+>                   23 (3) Employers whose workers present signifi24 cant numbers of mismatched social security account
+>                   25 numbers or names for wage reporting.
+>        g:\VHLC\090617\090617.095.(673906|2)
+> VerDate 0ct 12:46 Sep 06Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM
+>         G:\M\15\SMITTX\SMITTX_014.XML
+>                                                         63
+>                       1 (b) SUBMISSION .—The Inspector General of the So2 cial Security Administration shall submit the audits com3 pleted under subsection (a) to the Committee on Ways and
+>                       4 Means of the House of Representative and the Committee
+>                       5 on Finance of the Senate for review of the evidence of
+>                       6 individuals who are not authorized to work in the United
+>                       7 States. The Chairmen of those Committees shall then de8 termine information to be shared with the Secretary of
+>                       9 Homeland Security so that such Secretary can investigate
+>                      10 the unauthorized employment demonstrated by such evi11 dence.
+>         September 6, 2017 (12:46 p.m.)673906|2)
+> VerDate 0ct 0912:46 Sep 06,Jkt 0000PO 00000Frm 0006Fmt 665Sfmt 62C:\USERS\MLLEWIS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\SMITTX~1.XM

@@ -1,0 +1,906 @@
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                     .....................................................................
+>                                                         (Original Signature of Member)
+>                   115TH CONGRESS
+>                      1ST SESSION H. R.ll
+>                   To amend chapter 83 of title 41, United States Code, to increase the requirement for Americanmade content, to strengthen the waiver provisions,
+>                       and for other purposes.
+>                          IN THE HOUSE OF REPRESENTATIVES
+>                       Mr. IPINSKIintroduced the following bill; which was referred to the
+>                               Committee on llllllllllllll
+>                                          A BILL
+>                   To amend chapter 83 of title 41, United States Code, to
+>                       increase the requirement for Americanmade content, to
+>                       strengthen the waiver provisions, and for other purposes.
+>                    1 Be it enacted by the Senate and House of Representa2 tives of the United States of America in Congress assembled,
+>                    3 SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+>                    4 (a) SHORT TITLE .—This Act may be cited as the
+>                    5 ‘‘Buy American Improvement Act of 2017’’.
+>                    6 (b) TABLE OF CONTENTS .—The table of contents for
+>                    7 this Act is as follows:
+>                       Sec. 1. Short title; table of contents.
+>        G:\VHLC\020717\020717.091(645832|28)
+> VerDate Nov 12:37 Feb 07Jkt 00PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                      2
+>                               TITLE I—MATTERS RELATING TO BUY AMERICAN ACT
+>                         Sec. 101. Regulations relating to Buy American Act.
+>                         Sec. 102. Amendments relating to Buy American Act.
+>                         Sec. 103. Report by Comptroller General.
+>                         Sec. 104. Border protection infrastructure.
+>                         Sec. 105. United States obligations under international agreements.
+>                         Sec. 106. Definitions.
+>                                      TITLE II—BUY AMERICA IMPROVEMENT
+>                         Sec. 201. Annual report.
+>                         Sec. 202. Component requirements and verification.
+>                         Sec. 203. FHWA domestic content standards improvement.
+>                         Sec. 204. Rail Buy America modernization.
+>                         Sec. 205. FAA Buy America modernization.
+>                         Sec. 206. Application of Buy America requirements to projects financed with
+>                                       passenger facility charges.
+>                         Sec. 207. Notice and comment requirement for waiver petitions.
+>                         Sec. 208. Drinking water state revolving funds.
+>                         Sec. 209. Rural Utilities Service Buy American modernization.
+>                         Sec. 210. Community development block grant Buy America modernization.
+>                         Sec. 211. Rural Water Supply Program.
+>                         Sec. 212. Economic development administration Buy American modernization.
+>                         Sec. 213. Rail loan and loan guarantee Buy America requirements.
+>                      1 TITLE I—MATTERS RELATING
+>                      2 TO BUY AMERICAN ACT
+>                      3 SEC. 101. REGULATIONS RELATING TO BUY AMERICAN ACT.
+>                      4 (a) IN GENERAL .—Not later than one year after the
+>                      5 date of the enactment of this Act, the Administrator for
+>                      6 Federal Procurement Policy, in consultation with the Fed7 eral Acquisition Regulatory Council, shall promulgate reg8 ulations to standardize and simplify how Federal agencies
+>                      9 comply with, report on, and enforce chapter 83 of title
+>                    10 41, United States Code (commonly known as the Buy
+>                    11 American Act). The regulations shall include, at a min12 imum, the following:
+>                    13 (1) Guidelines for Federal agencies to deter14 mine, for the purposes of applying sections 8302(a)
+>        G:\VHLC\020717\020717.091.xm(645832|28)
+> VerDate Nov 2412:37 Feb 07Jkt 000PO 0000Frm 0000Fmt 66Sfmt 620C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                   3
+>                    1 and 8303(b)(3) of such title, the circumstances
+>                    2 under which the acquisition of articles, materials, or
+>                    3 supplies mined, produced, or manufactured in the
+>                    4 United States is inconsistent with the public inter5 est.
+>                    6 (2) Uniform procedures for each Federal agen7 cy to make publicly available, in an easily identifi8 able location on the website of the agency, and with9 in the following time periods, the following informa10 tion:
+>                   11 (A) A description of the circumstances in
+>                   12 which the head of the agency may waive the re13 quirements of chapter 83 of such title.
+>                   14 (B) Each waiver made by the head of the
+>                   15 agency within 30 days after making such waiv16 er, including a detailed justification for the
+>                   17 waiver.
+>                   18 (3) Rules for Federal agencies to ensure that a
+>                   19 project is not disaggregated for purposes of avoiding
+>                   20 the applicability of the requirements under chapter
+>                   21 83 of such title.
+>                   22 (4) Procedures to investigate occurrences when
+>                   23 the head of a Federal agency improperly waives the
+>                   24 requirements of chapter 83 of such title.
+>        G:\VHLC\020717\020717.091.(645832|28)
+> VerDate Nov 212:37 Feb 0Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>       G:\M\15\LIPINS\LIPINS_002.XML
+>                                                4
+>                   1 (5) Rules for the Administrator to evaluate the
+>                   2 percentage of domestic content in a manufactured
+>                   3 end product, including providing a definition for the
+>                   4 term ‘‘manufactured end product’’.
+>                   5 (b) GUIDELINES RELATING TO INCONSISTENCY
+>                   6 WITH PUBLIC INTEREST .—With respect to the guidelines
+>                   7 developed under subsection (a)(1), the Administrator shall
+>                   8 consider any significant decrease in employment in the
+>                   9 United States resulting from a waiver to be inconsistent
+>                  10 with the public interest and seek to minimize waivers that
+>                  11 would result in a decrease in employment in the United
+>                  12 States in both the short and long term.
+>                  13 (c) RULES RELATING TO DOMESTIC CONTENT .—
+>                  14 With respect to the rules developed under subsection
+>                  15 (a)(5), the Administrator may not treat components of
+>                  16 foreign origin of the same class or kind as those that are
+>                  17 not mined, produced, or manufactured in the United
+>                  18 States in sufficient and reasonably available commercial
+>                  19 quantities of a satisfactory quality as domestic content.
+>                  20 With respect to providing a definition for the term ‘‘manu21 factured end product’’, the Administrator shall consider
+>                  22 previous judicial rulings on the question of—
+>                  23 (1) whether the product is completed in the
+>                  24 final form required for use by the Federal Govern25 ment; and
+>       G:\VHLC\020717\020717.091(645832|28)
+> VerDate Nov 12:37 Feb 0Jkt 00PO 000Frm 000Fmt 66Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>       G:\M\15\LIPINS\LIPINS_002.XML
+>                                              5
+>                   1 (2) whether separate manufacturing stages or
+>                   2 continuous processes constitute ‘‘manufacturing’’.
+>                   3 SEC. 102. AMENDMENTS RELATING TO BUY AMERICAN ACT.
+>                   4 (a) SPECIAL RULES RELATING TO A MERICAN M ATE5 RIALS REQUIRED FOR PUBLIC USE.—Section 8302 of title
+>                   6 41, United States Code, is amended by adding at the end
+>                   7 the following:
+>                   8 ‘‘(c) PECIAL RULES .—The following rules apply in
+>                   9 carrying out the provisions of subsection (a):
+>                  10 ‘‘(1) ALCULATION OF DOMESTIC AND NON-DO11 MESTIC OFFERS .—
+>                  12 ‘‘(A) EXCLUSION OF START UP COSTS IN
+>                  13 CALCULATING COST OF OFFER .—When com14 paring offers between domestic entities and
+>                  15 non-domestic entities, costs related to the start16 up of a project shall be excluded from a domes17 tic offer.
+>                  18 ‘‘(B) UNREASONABLE COST DETERMINA19 TION.—
+>                  20 ‘‘(i) N GENERAL .—The head of a
+>                  21 Federal agency may not determine the cost
+>                  22 of acquiring articles, materials, or supplies
+>                  23 mined, produced, or manufactured in the
+>                  24 United States to be unreasonable under
+>                  25 subsection (a)(1), unless the acquisition of
+>       G:\VHLC\020717\020717.09(645832|28)
+> VerDate Nov 12:37 Feb Jkt 00PO 000Frm 000Fmt 6Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                 6
+>                    1 such articles, materials, or supplies would
+>                    2 increase the cost of the overall project by
+>                    3 more than 25 percent.
+>                    4 ‘‘(ii) ULE OF CONSTRUCTION .—With
+>                    5 respect to the percentage increase required
+>                    6 for a determination of unreasonable cost
+>                    7 applicable to projects under Department of
+>                    8 Defense contracts as of the date of the en9 actment of the Buy American Improve10 ment Act of 2017, nothing in this subpara11 graph may be construed as reducing such
+>                   12 percentage increase.
+>                   13 ‘‘(2) USE OUTSIDE THE UNITED STATES .—
+>                   14 ‘‘(A) IN GENERAL .—Notwithstanding the
+>                   15 exception described in subsection (a)(2)(A),
+>                   16 subsection (a)(1) shall apply to articles, mate17 rials, or supplies for use outside the United
+>                   18 States if such articles, materials, or supplies are
+>                   19 not needed on an urgent basis or are acquired
+>                   20 on a regular basis.
+>                   21 ‘‘(B) COST ANALYSIS .—In any case in
+>                   22 which articles, materials, or supplies are to be
+>                   23 acquired for use outside the United States and
+>                   24 are not needed on an urgent basis or are ac25 quired on a regular basis, before entering into
+>        G:\VHLC\020717\020717.091(645832|28)
+> VerDate Nov 12:37 Feb 07Jkt 00PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                   7
+>                    1 a contract, an analysis shall be made of the dif2 ference in the cost of acquiring such articles,
+>                    3 materials, or supplies from a company mining,
+>                    4 producing, or manufacturing the articles, mate5 rials, or supplies in the United States (includ6 ing the cost of shipping) and the cost of acquir7 ing such articles, materials, or supplies from a
+>                    8 company mining, producing, or manufacturing
+>                    9 the articles, materials, or supplies outside the
+>                   10 United States (including the cost of shipping).
+>                   11 ‘‘(3) DOMESTIC AVAILABILITY .—The head of a
+>                   12 Federal agency may not determine that an article,
+>                   13 material, or supply is not mined, produced, or manu14 factured in the United States in sufficient and rea15 sonably available commercial quantities and of a sat16 isfactory quality under subsection (a)(1), unless the
+>                   17 head of the agency first determines that—
+>                   18 ‘‘(A) domestic production cannot be initi19 ated without significantly delaying the project
+>                   20 for which the article, material, or supply is to
+>                   21 be acquired; and
+>                   22 ‘‘(B) a substitutable article, material, or
+>                   23 supply is not mined, produced, or manufactured
+>                   24 in the United States in sufficient and reasonG:\VHLC\020717\020717.091.(645832|28)
+> VerDate Nov 212:37 Feb 0Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                 8
+>                    1 ably available commercial quantities and of a
+>                    2 satisfactory quality.’’.
+>                    3 (b) REPORTS .—Subsection (b) of section 8302 of title
+>                    4 41, United States Code, is amended to read as follows:
+>                    5 ‘‘(b) EPORTS .—
+>                    6 ‘‘(1) N GENERAL .—Not later than 180 days
+>                    7 after the end of each of fiscal years 2018 through
+>                    8 2022, the Director of the Office of Management and
+>                    9 Budget, in consultation with the Administrator of
+>                   10 General Services, shall submit to the Committee on
+>                   11 Oversight and Government Reform of the House of
+>                   12 Representatives and the Committee on Homeland
+>                   13 Security and Governmental Affairs of the Senate a
+>                   14 report on the total amount of acquisitions made by
+>                   15 Federal agencies in the relevant fiscal year of arti16 cles, materials, or supplies acquired from entities
+>                   17 that mine, produce, or manufacture the articles, ma18 terials, or supplies outside the United States.
+>                   19 ‘‘(2) ADDITIONAL CONTENT .—Each report re20 quired under paragraph (1) shall separately include,
+>                   21 for the fiscal year covered by the report—
+>                   22 ‘‘(A) the dollar value of any articles, mate23 rials, or supplies that were mined, produced, or
+>                   24 manufactured outside the United States, in the
+>                   25 aggregate and by country;
+>        G:\VHLC\020717\020717.091(645832|28)
+> VerDate Nov 12:37 Feb 07Jkt 00PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                  9
+>                    1 ‘‘(B) an itemized list of all waivers made
+>                    2 under this chapter with respect to articles, ma3 terials, or supplies and the country where such
+>                    4 articles, materials, or supplies were mined, pro5 duced, or manufactured;
+>                    6 ‘‘(C) if any articles, materials, or supplies
+>                    7 were acquired from entities that mine, produce,
+>                    8 or manufacture such articles, materials, or sup9 plies outside the United States due to an excep10 tion (that is not the micropurchase threshold
+>                   11 exception described under subsection (a)(2)(C)),
+>                   12 the specific exception that was used to purchase
+>                   13 such articles, materials, or supplies;
+>                   14 ‘‘(D) if any articles, materials, or supplies
+>                   15 were acquired from entities that mine, produce,
+>                   16 or manufacture such articles, materials, or sup17 plies outside the United States pursuant to a
+>                   18 reciprocal defense procurement memorandum of
+>                   19 understanding (as described in section 8304),
+>                   20 or a trade agreement or least developed country
+>                   21 designation described in subpart 25.400 of the
+>                   22 Federal Acquisition Regulation, a citation to
+>                   23 such memorandum of understanding, trade
+>                   24 agreement, or designation; and
+>                   25 ‘‘(E) a summary of—
+>        G:\VHLC\020717\020717.091.(645832|28)
+> VerDate Nov 212:37 Feb 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                  10
+>                    1 ‘‘(i) the total procurement funds ex2 pended on articles, materials, and supplies
+>                    3 mined, produced, or manufactured inside
+>                    4 the United States;
+>                    5 ‘‘(ii) the total procurement funds ex6 pended on articles, materials, and supplies
+>                    7 mined, produced, or manufactured outside
+>                    8 the United States; and
+>                    9 ‘‘(iii) the total procurement funds ex10 pended on articles, materials, and supplies
+>                   11 mined, produced, or manufactured outside
+>                   12 the United States per country that mined,
+>                   13 produced, or manufactured such articles,
+>                   14 materials, and supplies.
+>                   15 ‘‘(3) PUBLIC AVAILABILITY .—Not later than
+>                   16 180 days after the end of each relevant fiscal year,
+>                   17 the Director of the Office of Management and Budg18 et shall make the relevant report required under
+>                   19 paragraph (1) publicly available on a website.
+>                   20 ‘‘(4) EXCEPTION FOR INTELLIGENCE COMMU21 NITY .—This subsection does not apply to acquisi22 tions made by an agency, or component of an agen23 cy, that is an element of the intelligence community
+>                   24 as specified in, or designated under, section 3 of the
+>                   25 National Security Act of 1947 (50 U.S.C. 3003).’’.
+>        G:\VHLC\020717\020717.091.(645832|28)
+> VerDate Nov 212:37 Feb 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                  11
+>                    1 (c) DEFINITIONS .—Section 8301 of title 41, United
+>                    2 States Code, is amended by adding at the end the fol3 lowing:
+>                    4 ‘‘(3) FEDERAL AGENCY .—The term ‘Federal
+>                    5 agency’ has the meaning given the term ‘executive
+>                    6 agency’ in section 133 of title 41, United States
+>                    7 Code.
+>                    8 ‘‘(4) SUBSTANTIALLY ALL .—The term ‘substan9 tially all’, with respect to articles, materials, or sup10 plies mined, produced, or manufactured in the
+>                   11 United States, means that the cost of the domestic
+>                   12 components of such articles, materials, or supplies
+>                   13 exceeds 75 percent of the total cost of all compo14 nents of such articles, materials, or supplies.
+>                   15 ‘‘(5) WAIVER .—The term ‘waiver’, with respect
+>                   16 to the acquisition of an article, material, or supply
+>                   17 for public use, means the inapplicability of this
+>                   18 chapter to the acquisition by reason of any of the
+>                   19 following determinations under section 8302(a)(1) or
+>                   20 8303(b)(3):
+>                   21 ‘‘(A) A determination by the head of the
+>                   22 Federal agency concerned that the acquisition
+>                   23 is inconsistent with the public interest.
+>        G:\VHLC\020717\020717.091.(645832|28)
+> VerDate Nov 212:37 Feb 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                 12
+>                    1 ‘‘(B) A determination by the head of the
+>                    2 Federal agency concerned that the cost of the
+>                    3 acquisition is unreasonable.
+>                    4 ‘‘(C) A determination by the head of the
+>                    5 Federal agency concerned that the article, ma6 terial, or supply is not mined, produced, or
+>                    7 manufactured in the United States in sufficient
+>                    8 and reasonably available commercial quantities
+>                    9 of a satisfactory quality.’’.
+>                   10 (d) CONFORMING AMENDMENTS .—Title 41, United
+>                   11 States Code, is amended—
+>                   12 (1) in section 8302—
+>                   13 (A) in paragraph (1) of subsection (a)—
+>                   14 (i) by striking ‘‘department or inde15 pendent establishment’’ and inserting
+>                   16 ‘‘Federal agency’’; and
+>                   17 (ii) by striking ‘‘their acquisition to be
+>                   18 inconsistent with the public interest or
+>                   19 their cost to be unreasonable’’ and insert20 ing ‘‘their acquisition to be inconsistent
+>                   21 with the public interest, their cost to be
+>                   22 unreasonable, or that the articles, mate23 rials, or supplies of the class or kind to be
+>                   24 used, or the articles, materials, or supplies
+>                   25 from which they are manufactured, are not
+>        G:\VHLC\020717\020717.091(645832|28)
+> VerDate Nov 212:37 Feb 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                  13
+>                    1 mined, produced, or manufactured in the
+>                    2 United States in sufficient and reasonably
+>                    3 available commercial quantities and of a
+>                    4 satisfactory quality’’; and
+>                    5 (B) in paragraph (2) of subsection (a)—
+>                    6 (i) in subparagraph (A), by inserting
+>                    7 ‘‘subject to subsection (c)(2)(A),’’ before
+>                    8 ‘‘to articles, materials, or supplies’’; and
+>                    9 (ii) by amending subparagraph (B) to
+>                   10 read as follows:
+>                   11 ‘‘(B) to any articles, materials, or supplies
+>                   12 procured pursuant to a reciprocal defense pro13 curement memorandum of understanding (as
+>                   14 described in section 8304), or a trade agree15 ment or least developed country designation de16 scribed in subpart 25.400 of the Federal Acqui17 sition Regulation; and’’; and
+>                   18 (2) in section 8303—
+>                   19 (A) in subsection (b)—
+>                   20 (i) by striking ‘‘department or inde21 pendent establishment’’ each place it ap22 pears and inserting ‘‘Federal agency’’;
+>                   23 (ii) by amending subparagraph (B) of
+>                   24 paragraph (1) to read as follows:
+>        G:\VHLC\020717\020717.091.(645832|28)
+> VerDate Nov 212:37 Feb 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                  14
+>                    1 ‘‘(B) to any articles, materials, or supplies
+>                    2 procured pursuant to a reciprocal defense pro3 curement memorandum of understanding (as
+>                    4 described in section 8304), or a trade agree5 ment or least developed country designation de6 scribed in subpart 25.400 of the Federal Acqui7 sition Regulation; and’’; and
+>                    8 (iii) in paragraph (3)—
+>                    9 (I) in the heading, by striking
+>                   10 ‘‘NCONSISTENT WITH PUBLIC INTER11 EST ’’ and inserting ‘‘ WAIVER AU12 THORITY ’’; and
+>                   13 (II) by striking ‘‘their purchase
+>                   14 to be inconsistent with the public in15 terest or their cost to be unreason16 able’’ and inserting ‘‘their acquisition
+>                   17 to be inconsistent with the public in18 terest, their cost to be unreasonable,
+>                   19 or that the articles, materials, or sup20 plies of the class or kind to be used,
+>                   21 or the articles, materials, or supplies
+>                   22 from which they are manufactured,
+>                   23 are not mined, produced, or manufac24 tured in the United States in suffi25 cient and reasonably available comG:\VHLC\020717\020717.091.(645832|28)
+> VerDate Nov 212:37 Feb 0Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>       G:\M\15\LIPINS\LIPINS_002.XML
+>                                                15
+>                   1 mercial quantities and of a satisfac2 tory quality’’; and
+>                   3 (B) in subsection (c), by striking ‘‘depart4 ment, bureau, agency, or independent establish5 ment’’ each place it appears and inserting
+>                   6 ‘‘Federal agency’’.
+>                   7 (e) EXCLUSION FROM INFLATION ADJUSTMENT OF
+>                   8 ACQUISITION-RELATED DOLLAR THRESHOLDS .—Sub9 paragraph (A) of section 1908(b)(2) of title 41, United
+>                  10 States Code, is amended by striking ‘‘chapter 67’’ and in11 serting ‘‘chapters 67 and 83’’.
+>                  12 SEC. 103. REPORT BY COMPTROLLER GENERAL.
+>                  13 Not later than one year after the date of the enact14 ment of this Act, the Comptroller General of the United
+>                  15 States shall report to Congress on the extent to which,
+>                  16 in each of fiscal years 2011, 2012, 2013, 2014, 2015, arti17 cles, materials, or supplies acquired by the Federal Gov18 ernment were mined, produced, or manufactured outside
+>                  19 the United States. Such report shall include for each Fed20 eral agency the following:
+>                  21 (1) A summary of total procurement funds ex22 pended on articles, materials, and supplies mined,
+>                  23 produced, or manufactured—
+>                  24 (A) inside the United States;
+>                  25 (B) outside the United States; and
+>       G:\VHLC\020717\020717.091(645832|28)
+> VerDate Nov 12:37 Feb 0Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                  16
+>                    1 (C) outside the United States—
+>                    2 (i) under each category of waiver
+>                    3 under chapter 83 of title 41, United States
+>                    4 Code;
+>                    5 (ii) under each category of exception
+>                    6 under such chapter; and
+>                    7 (iii) for each country that mined, pro8 duced, or manufactured such articles, ma9 terials, and supplies.
+>                   10 (2) An analysis of the impact of eliminating the
+>                   11 exception for acquisitions for information technology
+>                   12 (as defined in section 11101 of title 40, United
+>                   13 States Code) that is a commercial item (as defined
+>                   14 in section 103 of title 41, United States Code).
+>                   15 SEC. 104. BORDER PROTECTION INFRASTRUCTURE.
+>                   16 Paragraph (1) of section 604(b) of the American Re17 covery and Reinvestment Act of 2009 (Public Law 111–
+>                   18 5; 6 U.S.C. 453b(b)(1)) is amended—
+>                   19 (1) in subparagraph (C), by striking ‘‘; or’’ and
+>                   20 inserting a semicolon;
+>                   21 (2) in subparagraph (D), by striking the period
+>                   22 at the end and inserting ‘‘; or’’; and
+>                   23 (3) by adding at the end the following:
+>                   24 ‘‘(E) materials and supplies used in the
+>                   25 construction of border protection barriers and
+>        G:\VHLC\020717\020717.091.(645832|28)
+> VerDate Nov 212:37 Feb 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                 17
+>                    1 roads constructed under section 102 of the Ille2 gal Immigration and Reform and Immigrant
+>                    3 Responsibility Act of 1996 (division C of Public
+>                    4 Law 104–208; 8 U.S.C. 1103 note).’’.
+>                    5 SEC. 105. UNITED STATES OBLIGATIONS UNDER INTER6 NATIONAL AGREEMENTS.
+>                    7 This Act, and the amendments made by this Act,
+>                    8 shall be applied in a manner consistent with United States
+>                    9 obligations under international agreements.
+>                   10 SEC. 106. DEFINITIONS.
+>                   11 In this title:
+>                   12 (1) FEDERAL AGENCY .—The term ‘‘Federal
+>                   13 agency’’ has the meaning given the term ‘‘executive
+>                   14 agency’’ in section 133 of title 41, United States
+>                   15 Code.
+>                   16 (2) WAIVER .—The term ‘‘waiver’’, with respect
+>                   17 to the acquisition of an article, material, or supply
+>                   18 for public use, means the inapplicability of chapter
+>                   19 83 of title 41, United States Code, to the acquisition
+>                   20 by reason of any of the following determinations
+>                   21 under section 8302(a)(1) or 8303(b)(3) of such title:
+>                   22 (A) A determination by the head of the
+>                   23 Federal agency concerned that the acquisition
+>                   24 is inconsistent with the public interest.
+>        G:\VHLC\020717\020717.091(645832|28)
+> VerDate Nov 212:37 Feb 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                18
+>                    1 (B) A determination by the head of the
+>                    2 Federal agency concerned that the cost of the
+>                    3 acquisition is unreasonable.
+>                    4 (C) A determination by the head of the
+>                    5 Federal agency concerned that the article, ma6 terial, or supply is not mined, produced, or
+>                    7 manufactured in the United States in sufficient
+>                    8 and reasonably available commercial quantities
+>                    9 of a satisfactory quality.
+>                  10 TITLE II—BUY AMERICA
+>                  11 IMPROVEMENT
+>                  12 SEC. 201. ANNUAL REPORT.
+>                  13 Not later than 180 days after the end of each fiscal
+>                  14 year, the Secretary of Transportation shall submit a re15 port to the Committee on Transportation and Infrastruc16 ture in the House of Representatives and the Committee
+>                  17 on Commerce, Science, and Transportation in the Senate,
+>                  18 and publish on the Department’s website, that—
+>                  19 (1) itemizes all waivers regarding domestic con20 tent granted by the Department within that fiscal
+>                  21 year and provides the justification for each waiver;
+>                  22 (2) identifies the country of origin and product
+>                  23 specifications for goods used in construction pursu24 ant to each waiver granted; and
+>        G:\VHLC\020717\020717.091(645832|28)
+> VerDate Nov 12:37 Feb 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>       G:\M\15\LIPINS\LIPINS_002.XML
+>                                                19
+>                   1 (3) summarizes the total value of acquisitions
+>                   2 made under each waiver.
+>                   3 SEC. 202. COMPONENT REQUIREMENTS AND
+>                   4 VERIFICATION.
+>                   5 (a) AUDITING AND CERTIFICATION M ODERNIZA6 TION .—
+>                   7 (1) Not later than 6 months after the date of
+>                   8 enactment of this Act, the Secretary of Transpor9 tation shall—
+>                  10 (A) initiate a rulemaking to develop audit
+>                  11 procedures for the Federal Transit Administra12 tion to review offeror and recipient compliance
+>                  13 with domestic content provisions; and
+>                  14 (B) issue guidance on best practices for
+>                  15 preaward and post-delivery audits by recipients
+>                  16 under section 5323(m) of title 49, United
+>                  17 States Code.
+>                  18 (2) In developing the guidance required under
+>                  19 paragraph (1)(B), the Secretary shall consider best
+>                  20 practices for—
+>                  21 (A) proper and sufficient documentation
+>                  22 requests from bidders by recipients under sec23 tion 5323(m) of such title to support certifi24 cation of compliance;
+>       G:\VHLC\020717\020717.091(645832|28)
+> VerDate Nov 12:37 Feb 0Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                20
+>                    1 (B) proper and sufficient documentation
+>                    2 requests from bidders by recipients under sec3 tion 5323(m) of such title to support preaward
+>                    4 and post-delivery audits;
+>                    5 (C) determining the timing and require6 ments for post-delivery audit; and
+>                    7 (D) verifying the origin of supplier compo8 nents and subcomponents.
+>                    9 (b) COMPONENT GUIDANCE .—Not later than 6
+>                  10 months after the date of enactment of this Act, the Sec11 retary shall initiate a rulemaking to further develop stand12 ards under section 5323(j) of title 49, United States Code,
+>                  13 for measuring the percentage value of a component rel14 ative to the entire procurement.
+>                  15 SEC. 203. FHWA DOMESTIC CONTENT STANDARDS IM16 PROVEMENT.
+>                  17 (a) CMAQ LOOPHOLE .—Section 313(b) of title 23,
+>                  18 United States Code, is amended—
+>                  19 (1) by redesignating paragraph (3) as para20 graph (4);
+>                  21 (2) in paragraph (2) by striking ‘‘or’’; and
+>                  22 (3) by inserting after paragraph (2) the fol23 lowing:
+>                  24 ‘‘(3) that when procuring rolling stock under
+>                  25 this chapter—
+>        G:\VHLC\020717\020717.091(645832|28)
+> VerDate Nov 12:37 Feb 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                   21
+>                     1 ‘‘(A) the cost of components and sub2 components produced in the United States is
+>                     3 more than 60 percent of the cost of all compo4 nents of the rolling stock; and
+>                     5 ‘‘(B) final assembly of the rolling stock has
+>                     6 occurred in the United States; or’’.
+>                     7 (b) RULE REEVALUATION .—Not later than 1 year
+>                     8 after the date of enactment of this Act, the Secretary of
+>                     9 Transportation shall review the regulations found in sec10 tion 635.410 of title 23, Code of Federal Regulations, or
+>                   11 any similar successor regulations, to determine whether
+>                   12 manufactured products other than those containing steel
+>                   13 and iron should be considered for the purposes of domestic
+>                   14 content preferences.
+>                   15 SEC. 204. RAIL BUY AMERICA MODERNIZATION.
+>                   16 Section 24305(f) of title 49, United States Code, is
+>                   17 amended by adding at the end the following:
+>                   18 ‘‘(5) Before applying for an exemption under para19 graph (4), Amtrak shall enter into an arrangement with
+>                   20 the National Institute of Standards and Technology to
+>                   21 conduct a supplier scouting process for domestic suppliers
+>                   22 that can provide the compliant articles, materials, or sup23 plies for which an exemption will be sought. Upon conclu24 sion of the supplier scouting process for a particular arti25 cle, material, or supply, Amtrak shall submit to the SecG:\VHLC\020717\020717.091.(645832|28)
+> VerDate Nov 212:37 Feb 07Jkt 000PO 000Frm 000Fmt 665Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                   22
+>                     1 retary a scouting report along with the exemption applica2 tion. The Secretary shall consider the results of the sup3 plier scouting process before making a decision on Am4 trak’s exemption application. If the Secretary decides to
+>                     5 grant the exemption, the Secretary shall publish in the
+>                     6 Federal Register a summary of the scouting report and
+>                     7 the reasons for the Secretary’s decision.’’.
+>                     8 SEC. 205. FAA BUY AMERICA MODERNIZATION.
+>                     9 Section 50101 of title 49, United States Code, is
+>                   10 amended by adding at the end the following:
+>                   11 ‘‘(d) SUPPLIER SCOUTING .—Before issuing a waiver
+>                   12 under subsection (b), the Secretary shall—
+>                   13 ‘‘(1) consult with the National Institute of
+>                   14 Standards and Technology; and
+>                   15 ‘‘(2) begin a supplier scouting process for do16 mestic suppliers that can provide for those compliant
+>                   17 products for which a waiver will be sought.
+>                   18 ‘‘(e) PUBLICATION REQUIRED .—Upon conclusion of
+>                   19 the supplier scouting process required under subsection
+>                   20 (d)(2) for a particular component, material, or subcompo21 nent, the Secretary shall make the results of the supplier
+>                   22 scouting available to the public.’’.
+>        G:\VHLC\020717\020717.091.(645832|28)
+> VerDate Nov 212:37 Feb 07Jkt 000PO 000Frm 000Fmt 665Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>       G:\M\15\LIPINS\LIPINS_002.XML
+>                                                23
+>                   1 SEC. 206. APPLICATION OF BUY AMERICA REQUIREMENTS
+>                   2 TO PROJECTS FINANCED WITH PASSENGER
+>                   3 FACILITY CHARGES.
+>                   4 (a) IN GENERAL .—Section 50101(a) of title 49,
+>                   5 United States Code, is amended by inserting ‘‘, and may
+>                   6 approve a project under section 40117,’’ before ‘‘only if
+>                   7 steel’’.
+>                   8 (b) APPLICABILITY .—The amendment made by sub9 section (a) shall apply to an application submitted pursu10 ant to section 40177(c) of title 49, United States Code,
+>                  11 after the date of enactment of this Act.
+>                  12 SEC. 207. NOTICE AND COMMENT REQUIREMENT FOR
+>                  13 WAIVER PETITIONS.
+>                  14 (a) IN GENERAL .—The Secretary of Transportation
+>                  15 shall require the head of a Federal agency, after receiving
+>                  16 a request for a waiver of any applicable domestic content
+>                  17 requirement under title 49, to publish the request for a
+>                  18 waiver in the Federal Register within 15 days after receiv19 ing such request.
+>                  20 (b) NOTICE AND COMMENT .—A waiver under this
+>                  21 section may not be issued before the expiration of the 1522 day period beginning on the date on which the request
+>                  23 for waiver is published pursuant to subsection (a) to pro24 vide the public an opportunity for notice and comment.
+>                  25 (c) PUBLICATION OF WAIVER .—If the Secretary or
+>                  26 head of a Federal Agency issues a waiver, the Secretary
+>       G:\VHLC\020717\020717.091(645832|28)
+> VerDate Nov 12:37 Feb 0Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                  24
+>                    1 or head shall publish in the Federal Register not later
+>                    2 than 15 days after issuing such a waiver a detailed jus3 tification for the waiver that addresses any public com4 ments received under subsection (b).
+>                    5 SEC. 208. DRINKING WATER STATE REVOLVING FUNDS.
+>                    6 Section 1452(a)(4) of the Safe Drinking Water Act
+>                    7 (42 U.S.C. 300j–12(a)(4)) is amended—
+>                    8 (1) by amending subparagraph (A) to read as
+>                    9 follows:
+>                   10 ‘‘(A) IN GENERAL .—Funds made available
+>                   11 from a State drinking water treatment revolv12 ing loan fund established under this section
+>                   13 may not be used for a project for the construc14 tion, alteration, maintenance, or repair of col15 lection, treatment, storage, and distribution fa16 cilities, including publicly and privately owned
+>                   17 pipes or other constructed conveyances, unless
+>                   18 all of the iron and steel products used in the
+>                   19 project are produced in the United States.’’;
+>                   20 and
+>                   21 (2) by amending subparagraph (D) to read as
+>                   22 follows:
+>                   23 ‘‘(D) PUBLIC NOTICE ; WRITTEN JUS24 TIFICATION .—
+>        G:\VHLC\020717\020717.091.(645832|28)
+> VerDate Nov 212:37 Feb 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                  25
+>                    1 ‘‘(i) PBLIC NOTICE .—If the Adminis2 trator receives a request for a waiver under
+>                    3 this paragraph, the Administrator shall—
+>                    4 ‘‘(I) make available to the public
+>                    5 on an informal basis, including on the
+>                    6 public website of the Administrator—
+>                    7 ‘‘(aa) a copy of the request;
+>                    8 and
+>                    9 ‘‘(bb) any information avail10 able to the Administrator regard11 ing the request; and
+>                   12 ‘‘(II) provide notice of, and op13 portunity for public comment on, the
+>                   14 request for a period of not less than
+>                   15 15 days before making a finding
+>                   16 under subparagraph (C).
+>                   17 ‘‘(ii) WRITTEN JUSTIFICATION .—If,
+>                   18 after the period provided under clause (i),
+>                   19 the Administrator makes a finding under
+>                   20 subparagraph (C), the Administrator shall
+>                   21 publish in the Federal Register a written
+>                   22 justification as to why subparagraph (A) is
+>                   23 being waived.’’.
+>        G:\VHLC\020717\020717.091.(645832|28)
+> VerDate Nov 212:37 Feb 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>       G:\M\15\LIPINS\LIPINS_002.XML
+>                                             26
+>                  1 SEC. 209. RURAL UTILITIES SERVICE BUY AMERICAN MOD2 ERNIZATION.
+>                  3 Section 232 of the Department of Agriculture Reor4 ganization Act of 1994 (7 U.S.C. 6942) is amended by
+>                  5 adding at the end the following new subsection:
+>                  6 ‘‘(d) OMESTIC SOURCE REQUIREMENT FOR STEEL ,
+>                  7 IRON , AND MANUFACTURED GOODS USED IN RURAL
+>                  8 UTILITIES SERVICE SUPPORTED PROJECTS .—
+>                  9 ‘‘(1) BUY AMERICAN REQUIRED .—Notwith10 standing any other provision of law, funds made
+>                 11 available under a program carried out by the Sec12 retary through the Rural Utilities Service, including
+>                 13 a program specified in subsection (c), may not be
+>                 14 used, in whole or in part, for a project utilizing steel,
+>                 15 iron, or manufactured goods unless the steel, iron,
+>                 16 and manufactured goods are produced in the United
+>                 17 States.
+>                 18 ‘‘(2) SCOPE .—The requirement specified in
+>                 19 paragraph (1) applies to each contract for a project
+>                 20 referred to in such paragraph, regardless of the
+>                 21 funding source of the contract, if at least one con22 tract for the project is funded with amounts made
+>                 23 available under a program referred to in such para24 graph.
+>                 25 ‘‘(3) WAIVER AUTHORITY ;CONDITIONS .—
+>       G:\VHLC\020717\020717.09(645832|28)
+> VerDate Nov 12:37 Feb Jkt 00PO 000Frm 00Fmt 66Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                 27
+>                    1 ‘‘(A) IN GENERAL .—The Administrator of
+>                    2 the Rural Utilities Service may grant a waiver
+>                    3 from the requirements of paragraph (1) or (2)
+>                    4 for a project referred to in paragraph (1) only
+>                    5 if the Administrator finds that—
+>                    6 ‘‘(i) applying the requirement in such
+>                    7 paragraph would be inconsistent with the
+>                    8 public interest, as determined in accord9 ance with the regulations required under
+>                   10 subparagraph (B);
+>                   11 ‘‘(ii) the steel, iron, or manufactured
+>                   12 goods required for the project are not pro13 duced in the United States—
+>                   14 ‘‘(I) in sufficient and reasonably
+>                   15 available quantities; or
+>                   16 ‘‘(II) to a satisfactory quality; or
+>                   17 ‘‘(iii) the use of steel, iron, and manu18 factured goods produced in the United
+>                   19 States for a project will increase the total
+>                   20 cost of the project by more than 25 per21 cent.
+>                   22 ‘‘(B) PUBLIC INTEREST CRITERIA .—Not
+>                   23 later than one year after the date of enactment
+>                   24 of the Buy American Improvement Act of 2017,
+>                   25 the Administrator shall issue regulations estabG:\VHLC\020717\020717.091(645832|28)
+> VerDate Nov 212:37 Feb 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                 28
+>                    1 lishing the criteria that the Administrator shall
+>                    2 use to determine whether the application of
+>                    3 paragraph (1) or (2) is inconsistent with the
+>                    4 public interest for purposes of subparagraph
+>                    5 (A)(i).
+>                    6 ‘‘(C) REQUEST FOR WAIVER .—A recipient
+>                    7 of assistance under a program referred to in
+>                    8 paragraph (1) seeking a waiver under subpara9 graph (A) shall submit to the Administrator a
+>                   10 request for the waiver in such form and con11 taining such information as the Administrator
+>                   12 may require.
+>                   13 ‘‘(D) NOTICE AND COMMENT FOR WAIVER
+>                   14 REQUESTS .—Within 15 days after the date on
+>                   15 which the Administrator receives a request for
+>                   16 a waiver under subparagraph (C), the Adminis17 trator shall publish in the Federal Register no18 tice of the request for a waiver. The Adminis19 trator may not grant the waiver before the expi20 ration of the 15-day period beginning on the
+>                   21 date of the publication of the notice to provide
+>                   22 the public an opportunity for notice and com23 ment.
+>                   24 ‘‘(E) NOTICE OF WAIVERS .—Within 15
+>                   25 days after granting a waiver request under this
+>        G:\VHLC\020717\020717.091(645832|28)
+> VerDate Nov 12:37 Feb 07Jkt 00PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                29
+>                    1 paragraph, the Administrator shall publish in
+>                    2 the Federal Register notice of the waiver, in3 cluding—
+>                    4 ‘‘(i) the justification for the waiver;
+>                    5 ‘‘(ii) the Administrator’s response to
+>                    6 any public comments received under sub7 paragraph (D) with respect to the request
+>                    8 for that waiver; and
+>                    9 ‘‘(iii) an employment impact analysis
+>                  10 of the cumulative effect of the waiver, to11 gether with all other waivers previously
+>                  12 granted under this paragraph during the
+>                  13 preceding oneyear period, on manufac14 turing employment in the United States.
+>                  15 ‘‘(4) MANUFACTURED GOODS DEFINED .—In
+>                  16 this subsection, the term ‘manufactured goods’ has
+>                  17 the meaning given that term pursuant to the regula18 tions required by section 106 of the Buy American
+>                  19 Improvement Act of 2017.’’.
+>                  20 SEC. 210. COMMUNITY DEVELOPMENT BLOCK GRANT BUY
+>                  21 AMERICA MODERNIZATION.
+>                  22 Section 105 of the Housing and Community Develop23 ment Act of 1974 (42 U.S.C. 5305) is amended by adding
+>                  24 at the end the following new subsection:
+>                  25 ‘‘(i) UY AMERICA .—
+>        G:\VHLC\020717\020717.09(645832|28)
+> VerDate Nov 12:37 Feb 0Jkt 000PO 000Frm 000Fmt 6Sfmt 62C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                 30
+>                    1 ‘‘(1) DOMESTIC SOURCE REQUIREMENT FOR
+>                    2 STEEL , IRON , AND MANUFACTURED GOODS .—Not3 withstanding any other provision of law, funds made
+>                    4 available from a grant under section 106 may not be
+>                    5 used, in whole or in part, for any project or activity
+>                    6 unless all of the steel, iron, and manufactured goods
+>                    7 used for the project or activity are produced in the
+>                    8 United States.
+>                    9 ‘‘(2) SCOPE .—The requirement specified in
+>                   10 paragraph (1) shall apply to all contracts for any
+>                   11 project or activity carried out in whole or in part
+>                   12 with funds made available from a grant under sec13 tion 106, regardless of the funding source of such
+>                   14 contracts, if at least one contract for such project or
+>                   15 activity is funded with amounts made available from
+>                   16 a grant under section 106.
+>                   17 ‘‘(3) WAIVER AUTHORITY ;CONDITIONS .—
+>                   18 ‘‘(A) AUTHORITY .—The Secretary may
+>                   19 grant a waiver from the requirements of para20 graph (1) or (2) for a project or activity, but
+>                   21 only if the Secretary finds that—
+>                   22 ‘‘(i) applying such paragraph would be
+>                   23 inconsistent with the public interest, as de24 termined in accordance with the regula25 tions required under subparagraph (B);
+>        G:\VHLC\020717\020717.091(645832|28)
+> VerDate Nov 212:37 Feb 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                  31
+>                    1 ‘‘(ii) the steel, iron, or manufactured
+>                    2 goods required for a project or activity are
+>                    3 not produced in the United States—
+>                    4 ‘‘(I) in sufficient and reasonably
+>                    5 available quantities; or
+>                    6 ‘‘(II) to a satisfactory quality; or
+>                    7 ‘‘(iii) the use of steel, iron, and manu8 factured goods produced in the United
+>                    9 States for a project or activity will increase
+>                   10 the total cost of the project or activity by
+>                   11 more than 25 percent.
+>                   12 ‘‘(B) PUBLIC INTEREST CRITERIA .—Not
+>                   13 later than 1 year after the date of the enact14 ment of this subsection, the Secretary shall
+>                   15 issue regulations establishing the criteria that
+>                   16 the Secretary shall use to determine whether
+>                   17 the application of paragraph (1) or (2) is incon18 sistent with the public interest for purposes of
+>                   19 subparagraph (A)(i).
+>                   20 ‘‘(C) REQUESTS FOR WAIVERS .—A recipi21 ent of assistance under section 106 seeking a
+>                   22 waiver under subparagraph (A) shall submit to
+>                   23 the Secretary a request for the waiver in such
+>                   24 form and containing such information as the
+>                   25 Secretary may require. The Secretary shall pubG:\VHLC\020717\020717.091.(645832|28)
+> VerDate Nov 212:37 Feb 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                 32
+>                    1 lish the request for a waiver in the Federal
+>                    2 Register within 15 days after receiving such re3 quest.
+>                    4 ‘‘(D) NOTICE AND COMMENT FOR WAIVER
+>                    5 REQUESTS .—The Secretary may not issue a
+>                    6 waiver before the expiration of the 15-day pe7 riod beginning on the date of the publication of
+>                    8 the notice to provide the public an opportunity
+>                    9 for notice and comment
+>                   10 ‘‘(E) NOTICE OF WAIVERS .—Within 15
+>                   11 days after granting a waiver request under this
+>                   12 paragraph, the Secretary shall publish in the
+>                   13 Federal Register notice of the waiver, includ14 ing—
+>                   15 ‘‘(i) a detailed justification for the
+>                   16 waiver;
+>                   17 ‘‘(ii) the Secretary’s response to any
+>                   18 public comments received under subpara19 graph (D) with respect to the request for
+>                   20 such waiver; and
+>                   21 ‘‘(iii) an employment impact analysis
+>                   22 of the cumulative effect of the waiver, to23 gether with all other waivers previously
+>                   24 granted under this paragraph during the
+>        G:\VHLC\020717\020717.091(645832|28)
+> VerDate Nov 12:37 Feb 07Jkt 00PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>       G:\M\15\LIPINS\LIPINS_002.XML
+>                                              33
+>                   1 preceding oneyear period, on manufac2 turing employment in the United States.
+>                   3 ‘‘(4) MANUFACTURED GOODS DEFINED .—In
+>                   4 this subsection, the term ‘manufactured goods’ has
+>                   5 the meaning given that term pursuant to the regula6 tions required by section 106 of the Buy American
+>                   7 Improvement Act of 2017.’’.
+>                   8 SEC. 211. RURAL WATER SUPPLY PROGRAM.
+>                   9 (a) BUY A MERICA ACT REQUIREMENTS .—The Rural
+>                  10 Water Supply Act of 2006 (43 U.S.C. 2401 et seq.) is
+>                  11 amended by adding at the end the following:
+>                  12 ‘‘SEC. 111. BUY AMERICA.
+>                  13 ‘‘(a) OMESTIC SOURCE REQUIREMENT FOR STEEL ,
+>                  14 IRON ,AND MANUFACTURED GOODS .—
+>                  15 ‘‘(1)N GENERAL .—Notwithstanding any other
+>                  16 provision of law, funds made available under this
+>                  17 title may not be used, in whole or in part, for a
+>                  18 project for the construction of treatment works un19 less the steel, iron, and manufactured goods used for
+>                  20 the project are produced in the United States.
+>                  21 ‘‘(2) COPE .—The requirements of this section
+>                  22 apply to all contracts for the construction of projects
+>                  23 regardless of the funding source of such contracts,
+>                  24 if at least one contract for the construction is fund25 ed with amounts made available under this title.
+>       G:\VHLC\020717\020717.09(645832|28)
+> VerDate Nov 12:37 Feb Jkt 00PO 000Frm 000Fmt 6Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                 34
+>                    1 ‘‘(b) EXCEPTIONS .—
+>                    2 ‘‘(1) ISSUANCE OF WAIVERS .—The Secretary
+>                    3 may waive the requirements of subsection (a) only if
+>                    4 the Secretary finds that—
+>                    5 ‘‘(A) applying subsection (a) would be in6 consistent with the public interest;
+>                    7 ‘‘(B) the steel, iron, or manufactured
+>                    8 goods required for a project are not produced in
+>                    9 the United States—
+>                   10 ‘‘(i) in sufficient and reasonably avail11 able quantities; or
+>                   12 ‘‘(ii) to a satisfactory quality; or
+>                   13 ‘‘(C) the use of steel, iron, and manufac14 tured goods produced in the United States for
+>                   15 a project will increase the total cost of the
+>                   16 project by more than 25 percent.
+>                   17 ‘‘(2) REGULATIONS .—Not later than 1 year
+>                   18 after the date of enactment of this section, the Sec19 retary shall issue regulations establishing the criteria
+>                   20 that the Secretary shall use to determine whether
+>                   21 the application of subsection (a) is inconsistent with
+>                   22 the public interest for purposes of paragraph (1)(A).
+>                   23 ‘‘(3) REQUESTS FOR WAIVERS .—A recipient of
+>                   24 assistance under this title seeking a waiver under
+>                   25 paragraph (1) shall submit to the Secretary a reG:\VHLC\020717\020717.091(645832|28)
+> VerDate Nov 212:37 Feb 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>       G:\M\15\LIPINS\LIPINS_002.XML
+>                                               35
+>                   1 quest for the waiver in such form and containing
+>                   2 such information as the Secretary may require.
+>                   3 ‘‘(c) NOTICE AND COMMENT FOR WAIVER P ETI4 TIONS .—
+>                   5 ‘‘(1) The Secretary shall publish the request for
+>                   6 a waiver in the Federal Register not later than15
+>                   7 days after receiving such request.
+>                   8 ‘‘(2) A waiver may not be issued before the ex9 piration of the 15-day period beginning on the date
+>                  10 on which the request for waiver is published pursu11 ant to paragraph (1) to provide the public an oppor12 tunity for notice and comment.
+>                  13 ‘‘(3) If the Secretary issues a waiver, the Sec14 retary shall publish in the Federal Register not later
+>                  15 than 15 days after issuing such a waiver—
+>                  16 ‘‘(A) a detailed justification for the waiver
+>                  17 that addresses any public comments received
+>                  18 under paragraph (a)(1); and
+>                  19 ‘‘(B) provides an employment impact anal20 ysis of the cumulative effect of all waivers
+>                  21 under subsection (b) issued by the Secretary
+>                  22 during the preceding calendar year on manufac23 turing employment in the United States.’’.
+>                  24 (b) CLERICAL AMENDMENT .—The table of contents
+>                  25 of the Rural Water Supply Act of 2006 (43 U.S.C. 2401
+>       G:\VHLC\020717\020717.091(645832|28)
+> VerDate Nov 12:37 Feb 0Jkt 00PO 000Frm 000Fmt 66Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>       G:\M\15\LIPINS\LIPINS_002.XML
+>                                               36
+>                   1 et seq.) is amended by adding after the item for section
+>                   2 110 the following:
+>                      ‘‘Sec. 111. Buy America.’’
+>                   3 SEC. 212. ECONOMIC DEVELOPMENT ADMINISTRATION BUY
+>                   4 AMERICAN MODERNIZATION.
+>                   5 (a) N GENERAL .—Title VI of the Federal Water
+>                   6 Pollution Control Act (33 U.S.C. 1381 et seq.) is amended
+>                   7 by adding at the end the following:
+>                   8 ‘‘SEC. 609. BUY AMERICA.
+>                   9 ‘‘(a) OMESTIC SOURCE REQUIREMENT FOR STEEL ,
+>                  10 IRON ,AND MANUFACTURED GOODS .—
+>                  11 ‘‘(1) N GENERAL .—Notwithstanding any other
+>                  12 provision of law, funds made available from a State
+>                  13 water pollution control revolving fund established
+>                  14 under this title grants and loan programs adminis15 tered by the Economic Development Agency’s Public
+>                  16 Works and Economic Development Program may
+>                  17 not be used, in whole or in part, for a project for
+>                  18 the construction of treatment works unless the steel,
+>                  19 iron, and manufactured goods used for the project
+>                  20 are produced in the United States.
+>                  21 ‘‘(2) SCOPE .—The requirements of this section
+>                  22 apply to all contracts for the construction of treat23 ment works carried out within the scope of the ap24 plicable finding, determination, or decision under
+>                  25 section 511(c)(1), regardless of the funding source
+>       G:\VHLC\020717\020717.09(645832|28)
+> VerDate Nov 12:37 Feb Jkt 000PO 000Frm 00Fmt 66Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                 37
+>                    1 of such contracts, if at least one contract for the
+>                    2 construction is funded with amounts made available
+>                    3 to carry out this title.
+>                    4 ‘‘(b) EXCEPTIONS .—
+>                    5 ‘‘(1) ISSUANCE OF WAIVERS .—The Adminis6 trator may waive the requirements of subsection (a)
+>                    7 only if the Administrator finds that—
+>                    8 ‘‘(A) applying subsection (a) would be in9 consistent with the public interest, as deter10 mined in accordance with the regulations re11 quired under paragraph (2);
+>                   12 ‘‘(B) the steel, iron, or manufactured
+>                   13 goods required for a project are not produced in
+>                   14 the United States—
+>                   15 ‘‘(i) in sufficient and reasonably avail16 able quantities; or
+>                   17 ‘‘(ii) to a satisfactory quality; or
+>                   18 ‘‘(C) the use of steel, iron, and manufac19 tured goods produced in the United States for
+>                   20 a project will increase the total cost of the
+>                   21 project by more than 25 percent.
+>                   22 ‘‘(2) REGULATIONS .—Not later than 1 year
+>                   23 after the date of enactment of this section, the Ad24 ministrator shall issue regulations establishing the
+>                   25 criteria that the Administrator shall use to deterG:\VHLC\020717\020717.091(645832|28)
+> VerDate Nov 212:37 Feb 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>       G:\M\15\LIPINS\LIPINS_002.XML
+>                                                38
+>                   1 mine whether the application of subsection (a) is in2 consistent with the public interest for purposes of
+>                   3 paragraph (1)(A).
+>                   4 ‘‘(3) REQUESTS FOR WAIVERS .—A recipient of
+>                   5 assistance under this title seeking a waiver under
+>                   6 paragraph (1) shall submit to the Administrator a
+>                   7 request for the waiver in such form and containing
+>                   8 such information as the Administrator may require.
+>                   9 ‘‘(c) NOTICE AND COMMENT FOR WAIVER PETI10 TIONS .—
+>                  11 ‘‘(1) The Administrator shall publish the re12 quest for a waiver in the Federal Register within 15
+>                  13 days after receiving such request.
+>                  14 ‘‘(2) A waiver may not be issued before the ex15 piration of the 15-day period beginning on the date
+>                  16 on which the request for waiver is published pursu17 ant to paragraph (1) to provide the public an oppor18 tunity for notice and comment.
+>                  19 ‘‘(3) If the Administrator issues a waiver, the
+>                  20 Administrator shall publish in the Federal Register
+>                  21 within 15 days of issuing such a waiver—
+>                  22 ‘‘(A) a detailed justification for the waiver
+>                  23 that addresses any public comments received
+>                  24 under paragraph (a)(1); and
+>       G:\VHLC\020717\020717.091(645832|28)
+> VerDate Nov 12:37 Feb 0Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X
+>        G:\M\15\LIPINS\LIPINS_002.XML
+>                                                  39
+>                    1 ‘‘(B) provides an employment impact anal2 ysis of the cumulative effect of all waivers
+>                    3 under subsection (b) issued by the Adminis4 trator during the preceding calendar year on
+>                    5 manufacturing employment in the United
+>                    6 States.’’.
+>                    7 (b) CLERICAL AMENDMENT .—The table of contents
+>                    8 of the Federal Water Pollution Control Act (33 U.S.C.
+>                    9 1381 et seq.) is amended by adding after the item for sec10 tion 608 the following:
+>                       ‘‘Sec. 609. Buy America.’’
+>                   11 SEC. 213. RAIL LOAN AND LOAN GUARANTEE BUY AMERICA
+>                   12 REQUIREMENTS.
+>                   13 Section 502(h)(3) of the Railroad Revitalization and
+>                   14 Regulatory Reform Act of 1976 (45 U.S.C. 822(h)(3)) is
+>                   15 amended—
+>                   16 (1) in subparagraph (A) by striking ‘‘and’’ at
+>                   17 the end;
+>                   18 (2) in subparagraph (B) by striking the period
+>                   19 at the end and inserting ‘‘; and’’; and
+>                   20 (3) by adding at the end the following:
+>                   21 ‘‘(C) the requirements of section 24405(a) of
+>                   22 title 49, United States Code.’’.
+>        G:\VHLC\020717\020717.091.(645832|28)
+> VerDate Nov 212:37 Feb 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\CCHAEN~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIPINS~1.X

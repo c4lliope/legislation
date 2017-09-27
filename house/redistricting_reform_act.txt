@@ -1,0 +1,901 @@
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                                         114H2173
+>                                                    .....................................................................
+>                                                        (Original Signature of Member)
+>                  115 TH CONGRESS
+>                      1ST SESSION H. R.ll
+>                   To require States to conduct Congressional redistricting through independent
+>                                   commissions, and for other purposes.
+>                          IN THE HOUSE OF REPRESENTATIVES
+>                      Ms. LOFGREN introduced the following bill; which was referred to the
+>                               Committee on llllllllllllll
+>                                         A BILL
+>                     To require States to conduct Congressional redistricting
+>                    through independent commissions, and for other purposes.
+>                    1 Be it enacted by the Senate and House of Representa2 tives of the United States of America in Congress assembled,
+>                    3 SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+>                    4 (a) SHORT TITLE .—This Act may be cited as the
+>                    5 ‘‘Redistricting Reform Act of 2017’’.
+>                    6 (b) TABLE OF CONTENTS .—The table of contents of
+>                    7 this Act is as follows:
+>                       Sec. 1. Short title; table of contents.
+>                       Sec. 2. Finding of Constitutional authority.
+>                       TITLE I—REQUIREMENTS FOR CONGRESSIONAL REDISTRICTING
+>        G:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>         G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                         2
+>                          Sec. 101. Limit on congressional redistricting after an apportionment.
+>                          Sec. 102. Requiring congressional redistricting to be conducted through plan of
+>                                         independent State commission.
+>                               TITLE II—INDEPENDENT REDISTRICTING COMMISSIONS
+>                          Sec. 201. Independent redistricting commission.
+>                          Sec. 202. Establishment of selection pool of individuals eligible to serve as
+>                                         members of commission.
+>                          Sec. 203. Criteria for redistricting plan by independent commission; public notice and input.
+>                          Sec. 204. Establishment of related entities.
+>                                  TITLE III—ROLE OF COURTS IN DEVELOPMENT OF
+>                                                REDISTRICTING PLANS
+>                          Sec. 301. Enactment of plan developed by 3judge court.
+>                          Sec. 302. Special rule for redistricting conducted under order of Federal court.
+>                           TITLE IV—ADMINISTRATIVE AND MISCELLANEOUS PROVISIONS
+>                          Sec. 401. Payments to States for carrying out redistricting.
+>                          Sec. 402. Civil enforcement.
+>                          Sec. 403. State apportionment notice defined.
+>                          Sec. 404. No effect on elections for State and local office.
+>                          Sec. 405. Effective date.
+>                       1 SEC. 2. FINDING OF CONSTITUTIONAL AUTHORITY.
+>                       2 Congress finds that it has the authority to establish
+>                       3 the terms and conditions States must follow in carrying
+>                       4 out Congressional redistricting after an apportionment of
+>                       5 Members of the House of Representatives because—
+>                       6 (1) the authority granted to Congress under ar7 ticle I, section 4 of the Constitution of the United
+>                       8 States gives Congress the power to enact laws gov9 erning the time, place, and manner of elections for
+>                     10 Members of the House of Representatives; and
+>                     11 (2) the authority granted to Congress under
+>                     12 section 5 of the fourteenth amendment to the Con13 stitution gives Congress the power to enact laws to
+>                     14 enforce section 2 of such amendment, which requires
+>         G:\VHLC\011817\011817.038.xml(648805|1)
+> VerDate Nov 2411:06 Jan 18,Jkt 0000PO 0000Frm 0000Fmt 665Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                 3
+>                    1 Representatives to be apportioned among the several
+>                    2 States according to their number.
+>                    3 TITLE I—REQUIREMENTS FOR
+>                    4 CONGRESSIONAL REDIS5 TRICTING
+>                    6 SEC. 101. LIMIT ON CONGRESSIONAL REDISTRICTING
+>                    7 AFTER AN APPORTIONMENT.
+>                    8 The Act entitled ‘‘An Act for the relief of Doctor Ri9 cardo Vallejo Samala and to provide for congressional re10 districting’’, approved December 14, 1967 (2 U.S.C. 2c),
+>                  11 is amended by adding at the end the following: ‘‘A State
+>                  12 which has been redistricted in the manner provided by law
+>                  13 after an apportionment under section 22(a) of the Act en14 titled ‘An Act to provide for the fifteenth and subsequent
+>                  15 decennial censuses and to provide for an apportionment
+>                  16 of Representatives in Congress’, approved June 18, 1929
+>                  17 (2 U.S.C. 2a), may not be redistricted again until after
+>                  18 the next apportionment of Representatives under such sec19 tion, unless a court requires the State to conduct such
+>                  20 subsequent redistricting to comply with the Constitution
+>                  21 or to enforce the Voting Rights Act of 1965 (52 U.S.C.
+>                  22 10301 et seq.).’’.
+>        G:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                 4
+>                    1 SEC. 102. REQUIRING CONGRESSIONAL REDISTRICTING TO
+>                    2 BE CONDUCTED THROUGH PLAN OF INDE3 PENDENT STATE COMMISSION.
+>                    4 (a) USE OF PLAN REQUIRED .—Notwithstanding any
+>                    5 other provision of law, any Congressional redistricting
+>                    6 conducted by a State shall be conducted in accordance
+>                    7 with—
+>                    8 (1) the redistricting plan developed and enacted
+>                    9 into law by the independent redistricting commission
+>                  10 established in the State, in accordance with title II;
+>                  11 or
+>                  12 (2) if a plan developed by such commission is
+>                  13 not enacted into law, the redistricting plan developed
+>                  14 and enacted into law by a 3judge court of the
+>                  15 United States District Court for the District of Co16 lumbia, in accordance with section 301.
+>                  17 (b) CONFORMING AMENDMENT .—Section 22(c) of
+>                  18 the Act entitled ‘‘An Act to provide for the fifteenth and
+>                  19 subsequent decennial censuses and to provide for an ap20 portionment of Representatives in Congress’’, approved
+>                  21 June 18, 1929 (2 U.S.C. 2a(c)), is amended by striking
+>                  22 ‘‘in the manner provided by the law thereof’’ and insert23 ing: ‘‘in the manner provided by the Redistricting Reform
+>                  24 Act of 2017’’.
+>        G:\VHLC\011817\011817.03(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 000PO 000Frm 00Fmt 66Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>       G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                               5
+>                   1 TITLE II—INDEPENDENT
+>                   2 REDISTRICTING COMMISSIONS
+>                   3 SEC. 201. INDEPENDENT REDISTRICTING COMMISSION.
+>                   4 (a) APPOINTMENT OF MEMBERS .—
+>                   5 (1) IN GENERAL .—The nonpartisan agency es6 tablished or designated by a State under section
+>                   7 204(a) shall establish an independent redistricting
+>                   8 commission for the State, which shall consist of 12
+>                   9 members appointed by the agency as follows:
+>                  10 (A) The agency shall appoint 4 members
+>                  11 on a random basis from the majority category
+>                  12 of the approved selection pool (as described in
+>                  13 section 202(b)(1)(A)).
+>                  14 (B) The agency shall appoint 4 members
+>                  15 on a random basis from the minority category
+>                  16 of the approved selection pool (as described in
+>                  17 section 202(b)(1)(B)).
+>                  18 (C) The agency shall appoint 4 members
+>                  19 on a random basis from the independent cat20 egory of the approved selection pool (as de21 scribed in section 202(b)(1)(C)).
+>                  22 (2) APPOINTMENT OF ALTERNATES TO SERVE
+>                  23 IN CASE OF VACANCIES .—At the time the agency ap24 points the members of the independent redistricting
+>                  25 commission under paragraph (1) from each of the
+>       G:\VHLC\011817\011817.03(648805|1)
+> VerDate Nov 11:06 Jan Jkt 000PO 00Frm 000Fmt 66Sfmt 6C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>       G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                6
+>                   1 categories referred to in such paragraph, the agency
+>                   2 shall, on a random basis, designate 2 other individ3 uals from such category to serve as alternate mem4 bers who may be appointed to fill vacancies in the
+>                   5 commission in accordance with paragraph (3).
+>                   6 (3) VACANCY .—If a vacancy occurs in the com7 mission with respect to a member who was ap8 pointed from one of the categories referred to in
+>                   9 paragraph (1), the nonpartisan agency shall fill the
+>                  10 vacancy by appointing, on a random basis, one of
+>                  11 the 2 alternates from such category who was des12 ignated under paragraph (2). At the time the agency
+>                  13 appoints an alternate to fill a vacancy under the pre14 vious sentence, the agency shall designate, on a ran15 dom basis, another individual from the same cat16 egory to serve as an alternate member, in accord17 ance with paragraph (2).
+>                  18 (b) PROCEDURES FOR CONDUCTING COMMISSION
+>                  19 BUSINESS .—
+>                  20 (1) CHAIR .—Members of an independent redis21 tricting commission established under this section
+>                  22 shall select by majority vote one member who was
+>                  23 appointed from the independent category of the ap24 proved selection pool described in section
+>                  25 202(b)(1)(C) to serve as chair of the commission.
+>       G:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                 7
+>                    1 The commission may not take any action to develop
+>                    2 a redistricting plan for the State under section 203
+>                    3 until the appointment of the commission’s chair.
+>                    4 (2) REQUIRING MAJORITY APPROVAL FOR AC5 TIONS.—The independent redistricting commission
+>                    6 of a State may not publish and disseminate any
+>                    7 draft or final redistricting plan, or take any other
+>                    8 action, without the approval of at least—
+>                    9 (A) a majority of the whole membership of
+>                  10 the commission; and
+>                  11 (B) at least one member of the commission
+>                  12 appointed from each of the categories of the ap13 proved selection pool described in section
+>                  14 202(b)(1).
+>                  15 (3) QUORUM .—A majority of the members of
+>                  16 the commission shall constitute a quorum.
+>                  17 (c) TAFF ; CONTRACTORS .—
+>                  18 (1) STAFF .—The independent redistricting
+>                  19 commission of a State may appoint and set the pay
+>                  20 of such staff as it considers appropriate, subject to
+>                  21 State law.
+>                  22 (2) CONTRACTORS .—The independent redis23 tricting commission of a State may enter into such
+>                  24 contracts with vendors as it considers appropriate,
+>                  25 subject to State law, except that any such contract
+>        G:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                 8
+>                    1 shall be valid only if approved by the vote of a ma2 jority of the members of the commission, including
+>                    3 at least one member appointed from each of the cat4 egories of the approved selection pool described in
+>                    5 section 202(b)(1).
+>                    6 (3) GOAL OF IMPARTIALITY .—The commission
+>                    7 shall take such steps as it considers appropriate to
+>                    8 ensure that any staff appointed under this sub9 section, and any vendor with whom the commission
+>                  10 enters into a contract under this subsection, will
+>                  11 work in an impartial manner, and may require any
+>                  12 person who applies for an appointment to a staff po13 sition or for a vendor’s contract with the commission
+>                  14 to provide information on the person’s history of po15 litical activity (including donations to candidates, po16 litical committees, and political parties) as a condi17 tion of the appointment or the contract.
+>                  18 (d) TERMINATION .—
+>                  19 (1) IN GENERAL .—The independent redis20 tricting commission of a State shall terminate on the
+>                  21 earlier of—
+>                  22 (A) June 14 of the following year ending
+>                  23 in the numeral zero; or
+>                  24 (B) the day on which the nonpartisan
+>                  25 agency established or designated by a State
+>        G:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                 9
+>                    1 under section 204(a) has, in accordance with
+>                    2 section 202(b)(1), submitted a selection pool to
+>                    3 the Select Committee on Redistricting for the
+>                    4 State established under section 204(b).
+>                    5 (2) PRESERVATION OF RECORDS .—The State
+>                    6 shall ensure that the records of the independent re7 districting commission are retained in the appro8 priate State archive in such manner as may be nec9 essary to enable the State to respond to any civil ac10 tion brought with respect to Congressional redis11 tricting in the State.
+>                  12 SEC. 202. ESTABLISHMENT OF SELECTION POOL OF INDI13 VIDUALS ELIGIBLE TO SERVE AS MEMBERS
+>                  14 OF COMMISSION.
+>                  15 (a) CRITERIA FOR ELIGIBILITY.—
+>                  16 (1) IN GENERAL .—An individual is eligible to
+>                  17 serve as a member of an independent redistricting
+>                  18 commission if the individual meets each of the fol19 lowing criteria:
+>                  20 (A) As of the date of appointment, the in21 dividual is registered to vote in elections for
+>                  22 Federal office held in the State.
+>                  23 (B) During the 3-year period ending on
+>                  24 the date of the individual’s appointment, the in25 dividual has been continuously registered to
+>        G:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                  10
+>                    1 vote with the same political party, or has not
+>                    2 been registered to vote with any political party.
+>                    3 (C) The individual submits to the non-4 partisan agency established or designated by a
+>                    5 State under section 203, at such time and in
+>                    6 such form as the agency may require, an appli7 cation for inclusion in the selection pool under
+>                    8 this section, and includes with the application a
+>                    9 written statement containing the following in10 formation and assurances:
+>                   11 (i) A statement of the political party
+>                   12 with which the individual is affiliated, if
+>                   13 any.
+>                   14 (ii) An assurance that the individual
+>                   15 shall commit to carrying out the individ16 ual’s duties under this Act in an honest,
+>                   17 independent, and impartial fashion, and to
+>                   18 upholding public confidence in the integrity
+>                   19 of the redistricting process.
+>                   20 (iii) An assurance that, during the
+>                   21 covered periods described in paragraph (3),
+>                   22 the individual has not taken and will not
+>                   23 take any action which would disqualify the
+>                   24 individual from serving as a member of the
+>                   25 commission under paragraph (2).
+>        G:\VHLC\011817\011817.038.(648805|1)
+> VerDate Nov 211:06 Jan 1Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                  11
+>                    1 (2) DISQUALIFICATIONS .—An individual is not
+>                    2 eligible to serve as a member of the commission if
+>                    3 any of the following applies during any of the cov4 ered periods described in paragraph (3):
+>                    5 (A) The individual or (in the case of the
+>                    6 covered periods described in subparagraphs (A)
+>                    7 and (B) of paragraph (3)) an immediate family
+>                    8 member of the individual holds public office or
+>                    9 is a candidate for election for public office.
+>                   10 (B) The individual or (in the case of the
+>                   11 covered periods described in subparagraphs (A)
+>                   12 and (B) of paragraph (3)) an immediate family
+>                   13 member of the individual serves as an officer of
+>                   14 a political party or as an officer, employee, or
+>                   15 paid consultant of a campaign committee of a
+>                   16 candidate for public office.
+>                   17 (C) The individual or (in the case of the
+>                   18 covered periods described in subparagraphs (A)
+>                   19 and (B) of paragraph (3)) an immediate family
+>                   20 member of the individual holds a position as a
+>                   21 registered lobbyist under the Lobbying Disclo22 sure Act of 1995 (2 U.S.C. 1601 et seq.) or an
+>                   23 equivalent State or local law.
+>                   24 (D) The individual or (in the case of the
+>                   25 covered periods described in subparagraphs (A)
+>        G:\VHLC\011817\011817.038.(648805|1)
+> VerDate Nov 211:06 Jan 1Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                 12
+>                    1 and (B) of paragraph (3)) an immediate family
+>                    2 member of the individual is an employee of an
+>                    3 elected public official, a contractor with the leg4 islature of the State, or a donor to the cam5 paign of any candidate for public office (other
+>                    6 than a donor who, during any of such covered
+>                    7 periods, gives an aggregate amount of $20,000
+>                    8 or less to the campaigns of all candidates for all
+>                    9 public offices).
+>                   10 (3) COVERED PERIODS DESCRIBED .—In this
+>                   11 subsection, the term ‘‘covered period’’ means, with
+>                   12 respect to the appointment of an individual to the
+>                   13 commission, any of the following:
+>                   14 (A) The 5-year period ending on the date
+>                   15 of the individual’s appointment.
+>                   16 (B) The period beginning on the date of
+>                   17 the individual’s appointment and ending on Au18 gust 14 of the next year ending in the numeral
+>                   19 one.
+>                   20 (C) The 5-year period beginning on the
+>                   21 day after the last day of the period described in
+>                   22 subparagraph (B).
+>                   23 (4) IMMEDIATE FAMILY MEMBER DEFINED .—In
+>                   24 this subsection, the term ‘‘immediate family mem25 ber’’ means, with respect to an individual, a father,
+>        G:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 211:06 Jan 1Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                13
+>                    1 stepfather, mother, stepmother, son, stepson, daugh2 ter, stepdaughter, brother, stepbrother, sister, step3 sister, husband, wife, fatherinlaw, or motherin4 law.
+>                    5 (b) DEVELOPMENT AND SUBMISSION OF SELECTION
+>                    6 POOL .—
+>                    7 (1) IN GENERAL .—Not later than June 15 of
+>                    8 each year ending in the numeral zero, the non-9 partisan agency established or designated by a State
+>                  10 under section 204(a) shall develop and submit to the
+>                  11 Select Committee on Redistricting for the State es12 tablished under section 204(b) a selection pool of 36
+>                  13 individuals who are eligible to serve as members of
+>                  14 the independent redistricting commission of the
+>                  15 State under this Act, consisting of individuals in the
+>                  16 following categories:
+>                  17 (A) A majority category, consisting of 12
+>                  18 individuals who are affiliated with the political
+>                  19 party with the largest percentage of the reg20 istered voters in the State who are affiliated
+>                  21 with a political party (as determined with re22 spect to the most recent Statewide election for
+>                  23 Federal office held in the State for which such
+>                  24 information is available).
+>        G:\VHLC\011817\011817.03(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 000PO 000Frm 00Fmt 66Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                  14
+>                    1 (B) A minority category, consisting of 12
+>                    2 individuals who are affiliated with the political
+>                    3 party with the second largest percentage of the
+>                    4 registered voters in the State who are affiliated
+>                    5 with a political party (as so determined).
+>                    6 (C) An independent category, consisting of
+>                    7 12 individuals who are not affiliated with either
+>                    8 of the political parties described in subpara9 graph (A) or subparagraph (B).
+>                   10 (2) FACTORS TAKEN INTO ACCOUNT IN DEVEL11 OPING POOL .—In selecting individuals for the selec12 tion pool under this subsection, the nonpartisan
+>                   13 agency shall—
+>                   14 (A) to the maximum extent practicable, en15 sure that the pool reflects the representative de16 mographic groups (including races, ethnicities,
+>                   17 and genders) and geographic regions of the
+>                   18 State; and
+>                   19 (B) take into consideration the analytical
+>                   20 skills of the individuals selected in relevant
+>                   21 fields (including mapping, data management,
+>                   22 law, community outreach, demography, and the
+>                   23 geography of the State) and their ability to
+>                   24 work on an impartial basis.
+>        G:\VHLC\011817\011817.038.(648805|1)
+> VerDate Nov 211:06 Jan 1Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                 15
+>                    1 (3) DETERMINATION OF POLITICAL PARTY AF2 FILIATION OF INDIVIDUALS IN SELECTION POOL .—
+>                    3 For purposes of this section, an individual shall be
+>                    4 considered to be affiliated with a political party on
+>                    5 the basis of the information the individual provides
+>                    6 in the application submitted under subsection
+>                    7 (a)(1)(D).
+>                    8 (4) ENCOURAGING RESIDENTS TO APPLY FOR
+>                    9 INCLUSION IN POOL .—The nonpartisan agency shall
+>                   10 take such steps as may be necessary to ensure that
+>                   11 residents of the State across various geographic re12 gions and demographic groups are aware of the op13 portunity to serve on the independent redistricting
+>                   14 commission, including publicizing the role of the
+>                   15 panel and using newspapers, broadcast media, and
+>                   16 online sources, including ethnic media, to encourage
+>                   17 individuals to apply for inclusion in the selection
+>                   18 pool developed under this subsection.
+>                   19 (5) REPORT ON ESTABLISHMENT OF SELEC20 TION POOL .—At the time the nonpartisan agency
+>                   21 submits the selection pool to the Select Committee
+>                   22 on Redistricting under paragraph (1), it shall pub23 lish a report describing the process by which the
+>                   24 pool was developed, and shall include in the report
+>                   25 a description of how the individuals in the pool meet
+>        G:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>       G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                               16
+>                   1 the eligibility criteria of subsection (a) and of how
+>                   2 the pool reflects the factors the agency is required
+>                   3 to take into consideration under paragraph (2).
+>                   4 (6) ACTION BY SELECT COMMITTEE .—
+>                   5 (A) IN GENERAL .—Not later than 14 days
+>                   6 after receiving the selection pool from the non-7 partisan agency under paragraph (1), the Select
+>                   8 Committee on Redistricting shall—
+>                   9 (i) approve the pool as submitted by
+>                  10 the nonpartisan agency, in which case the
+>                  11 pool shall be considered the approved selec12 tion pool for purposes of section 201(a)(1);
+>                  13 or
+>                  14 (ii) reject the pool, in which case the
+>                  15 nonpartisan agency shall develop and sub16 mit a replacement selection pool in accord17 ance with subsection (c).
+>                  18 (B) INACTION DEEMED REJECTION .—If
+>                  19 the Select Committee on Redistricting fails to
+>                  20 approve or reject the pool within the deadline
+>                  21 set forth in subparagraph (A), the Select Com22 mittee shall be deemed to have rejected the pool
+>                  23 for purposes of such subparagraph.
+>                  24 (c) DEVELOPMENT OF REPLACEMENT SELECTION
+>                  25 POOL.—
+>       G:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 00PO 000Frm 000Fmt 6Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                 17
+>                    1 (1) IN GENERAL .—If the Select Committee on
+>                    2 Redistricting rejects the selection pool submitted by
+>                    3 the nonpartisan agency under subsection (b), not
+>                    4 later than 14 days after the rejection, the non-5 partisan agency shall develop and submit to the Se6 lect Committee a replacement selection pool, under
+>                    7 the same terms and conditions that applied to the
+>                    8 development and submission of the selection pool
+>                    9 under paragraphs (1) through (5) of subsection (b).
+>                   10 The replacement pool submitted under this para11 graph may include individuals who were included in
+>                   12 the rejected selection pool submitted under sub13 section (b), so long as at least one of the individuals
+>                   14 in the replacement pool was not included in such re15 jected pool.
+>                   16 (2) ACTION BY SELECT COMMITTEE .—
+>                   17 (A) IN GENERAL .—Not later than 14 days
+>                   18 after receiving the replacement selection pool
+>                   19 from the nonpartisan agency under paragraph
+>                   20 (1), the Select Committee on Redistricting
+>                   21 shall—
+>                   22 (i) approve the pool as submitted by
+>                   23 the nonpartisan agency, in which case the
+>                   24 pool shall be considered the approved selecG:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>       G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                               18
+>                   1 tion pool for purposes of section 201(a)(1);
+>                   2 or
+>                   3 (ii) reject the pool, in which case the
+>                   4 nonpartisan agency shall develop and sub5 mit a second replacement selection pool in
+>                   6 accordance with subsection (d).
+>                   7 (B) INACTION DEEMED REJECTION .—If
+>                   8 the Select Committee on Redistricting fails to
+>                   9 approve or reject the pool within the deadline
+>                  10 set forth in subparagraph (A), the Select Com11 mittee shall be deemed to have rejected the pool
+>                  12 for purposes of such subparagraph.
+>                  13 (d) DEVELOPMENT OF SECOND REPLACEMENT S E14 LECTION POOL .—
+>                  15 (1) IN GENERAL .—If the Select Committee on
+>                  16 Redistricting rejects the replacement selection pool
+>                  17 submitted by the nonpartisan agency under sub18 section (c), not later than 14 days after the rejec19 tion, the nonpartisan agency shall develop and sub20 mit to the Select Committee a second replacement
+>                  21 selection pool, under the same terms and conditions
+>                  22 that applied to the development and submission of
+>                  23 the selection pool under paragraphs (1) through (5)
+>                  24 of subsection (b). The second replacement selection
+>                  25 pool submitted under this paragraph may include inG:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 00PO 000Frm 000Fmt 6Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                 19
+>                    1 dividuals who were included in the rejected selection
+>                    2 pool submitted under subsection (b) or the rejected
+>                    3 replacement selection pool submitted under sub4 section (c), so long as at least one of the individuals
+>                    5 in the replacement pool was not included in either
+>                    6 such rejected pool.
+>                    7 (2) ACTION BY SELECT COMMITTEE .—
+>                    8 (A) IN GENERAL .—Not later than 14 days
+>                    9 after receiving the second replacement selection
+>                   10 pool from the nonpartisan agency under para11 graph (1), the Select Committee on Redis12 tricting shall—
+>                   13 (i) approve the pool as submitted by
+>                   14 the nonpartisan agency, in which case the
+>                   15 pool shall be considered the approved selec16 tion pool for purposes of section 201(a)(1);
+>                   17 or
+>                   18 (ii) reject the pool, in which case—
+>                   19 (I) the nonpartisan agency shall
+>                   20 not develop or submit any other selec21 tion pool for purposes of this Act; and
+>                   22 (II) the United States District
+>                   23 Court for the District of Columbia
+>                   24 shall develop and enact the redisG:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 211:06 Jan 1Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>       G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                20
+>                   1 tricting plan for the State, in accord2 ance with section 301.
+>                   3 (B) INACTION DEEMED REJECTION .—If
+>                   4 the Select Committee on Redistricting fails to
+>                   5 approve or reject the pool within the deadline
+>                   6 set forth in subparagraph (A), the Select Com7 mittee shall be deemed to have rejected the pool
+>                   8 for purposes of such subparagraph.
+>                   9 SEC. 203. CRITERIA FOR REDISTRICTING PLAN BY INDE10 PENDENT COMMISSION; PUBLIC NOTICE AND
+>                  11 INPUT.
+>                  12 (a) DEVELOPMENT OF REDISTRICTING PLAN .—
+>                  13 (1) CRITERIA .—The independent redistricting
+>                  14 commission of a State shall develop a redistricting
+>                  15 plan for the State in accordance with the following
+>                  16 criteria, prioritized according to the following order:
+>                  17 (A) Districts shall each have equal popu18 lation per representative as nearly as prac19 ticable, in accordance with the Constitution of
+>                  20 the United States.
+>                  21 (B) To the extent not inconsistent with the
+>                  22 above criteria, districts shall comply with the
+>                  23 Voting Rights Act of 1965 (52 U.S.C. 10301 et
+>                  24 seq.).
+>       G:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                  21
+>                    1 (C) To the extent not inconsistent with the
+>                    2 above criteria, districts shall be geographically
+>                    3 contiguous.
+>                    4 (D) To the extent practicable and not in5 consistent with the above criteria, district
+>                    6 boundaries shall minimize the division of any
+>                    7 community of interest, municipality, county, or
+>                    8 neighborhood. For purposes of this subpara9 graph, a community of interest is a contiguous
+>                   10 population which shares common social or eco11 nomic interests that should be included within
+>                   12 a single district for purposes of its effective and
+>                   13 fair representation. Examples of such shared in14 terests are those common to an urban area, a
+>                   15 rural area, an industrial area, or an agricultural
+>                   16 area, and those common to areas in which the
+>                   17 people share similar living standards, use the
+>                   18 same transportation facilities, have similar work
+>                   19 opportunities, or have access to the same media
+>                   20 of communication relevant to the election proc21 ess. Communities of interest shall not include
+>                   22 relationships with political parties, incumbent
+>                   23 officeholders, or political candidates.
+>                   24 (E) To the extent practicable and not in25 consistent with the above criteria, districts shall
+>        G:\VHLC\011817\011817.038.(648805|1)
+> VerDate Nov 211:06 Jan 1Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                22
+>                    1 be geographically compact such that nearby
+>                    2 areas of population are not bypassed for more
+>                    3 distant areas of population.
+>                    4 (2) FACTORS PROHIBITED FROM CONSIDER5 ATION .—In developing the redistricting plan for the
+>                    6 State, the independent redistricting commission may
+>                    7 not take into consideration any of the following fac8 tors, except to the extent necessary to comply with
+>                    9 the Voting Rights Act of 1965:
+>                  10 (A) The political party affiliation or voting
+>                  11 history of the population of a district.
+>                  12 (B) The residence of any Member of the
+>                  13 House of Representatives or candidate.
+>                  14 (b) PUBLIC NOTICE AND INPUT .—
+>                  15 (1) USE OF OPEN AND TRANSPARENT PROC16 ESS.—The independent redistricting commission of a
+>                  17 State shall hold each of its meetings in public, shall
+>                  18 solicit and take into consideration comments from
+>                  19 the public throughout the process of developing the
+>                  20 redistricting plan for the State, and shall carry out
+>                  21 its duties in an open and transparent manner which
+>                  22 provides for the widest public dissemination reason23 ably possible of its proposed and final redistricting
+>                  24 plans.
+>        G:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                 23
+>                    1 (2) WEBSITE .—The commission shall maintain
+>                    2 a public Internet site which is not affiliated with or
+>                    3 maintained by the office of any elected official and
+>                    4 which includes the following features:
+>                    5 (A) General information on the commission
+>                    6 and its members, including contact information.
+>                    7 (B) An updated schedule of commission
+>                    8 hearings and activities, including deadlines for
+>                    9 the submission of comments.
+>                   10 (C) All draft redistricting plans developed
+>                   11 by the commission under subsection (c) and the
+>                   12 final redistricting plan developed under sub13 section (d).
+>                   14 (D) Live streaming of commission hearings
+>                   15 and an archive of previous meetings and other
+>                   16 commission records.
+>                   17 (E) A method by which members of the
+>                   18 public may submit comments directly to the
+>                   19 commission.
+>                   20 (F) Access to the demographic data used
+>                   21 by the commission to develop the proposed re22 districting plans, together with any software
+>                   23 used to draw maps of proposed districts.
+>                   24 (3) PUBLIC COMMENT PERIOD .—The commis25 sion shall solicit, accept, and consider comments
+>        G:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>       G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                               24
+>                   1 from the public with respect to its duties, activities,
+>                   2 and procedures at any time during the period—
+>                   3 (A) which begins on January 1 of the year
+>                   4 ending in the numeral one; and
+>                   5 (B) which ends 7 days before the date of
+>                   6 the meeting at which the commission shall vote
+>                   7 on approving the final redistricting plan for en8 actment into law under subsection (d)(2).
+>                   9 (4) MEETINGS AND HEARINGS IN VARIOUS GEO10 GRAPHIC LOCATIONS .—To the greatest extent prac11 ticable, the commission shall hold its meetings and
+>                  12 hearings in various geographic regions and locations
+>                  13 throughout the State.
+>                  14 (c) DEVELOPMENT AND PUBLICATION OF P RELIMI15 NARY REDISTRICTING PLAN .—
+>                  16 (1) IN GENERAL .—Prior to developing and pub17 lishing a final redistricting plan under subsection
+>                  18 (d), the independent redistricting commission of a
+>                  19 State shall develop and publish a preliminary redis20 tricting plan.
+>                  21 (2) MINIMUM PUBLIC HEARINGS PRIOR TO DE22 VELOPMENT .—
+>                  23 (A) 3 HEARINGS REQUIRED .—Prior to de24 veloping a preliminary redistricting plan under
+>                  25 this subsection, the commission shall hold not
+>       G:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 00PO 000Frm 000Fmt 6Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                25
+>                    1 fewer than 3 public hearings at which members
+>                    2 of the public may provide input and comments
+>                    3 regarding the potential contents of redistricting
+>                    4 plans for the State and the process by which
+>                    5 the commission will develop the preliminary
+>                    6 plan under this subsection.
+>                    7 (B) MINIMUM PERIOD FOR NOTICE PRIOR
+>                    8 TO HEARINGS .—The commission shall notify
+>                    9 the public through the website maintained
+>                  10 under subsection (b)(2), as well as through pub11 lication of notice in newspapers of general cir12 culation throughout the State, of the date, time,
+>                  13 and location of each of the hearings held under
+>                  14 this paragraph not fewer than 14 days prior to
+>                  15 the date of the hearing.
+>                  16 (3) PUBLICATION OF PRELIMINARY PLAN .—
+>                  17 (A) IN GENERAL .—The commission shall
+>                  18 post the preliminary redistricting plan devel19 oped under this subsection, together with a re20 port that includes the commission’s responses
+>                  21 to any public comments received under sub22 section (b)(3), on the website maintained under
+>                  23 subsection (b)(2), and shall provide for the pub24 lication of each such plan in newspapers of gen25 eral circulation throughout the State.
+>        G:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                26
+>                    1 (B) MINIMUM PERIOD FOR NOTICE PRIOR
+>                    2 TO PUBLICATION .—Not fewer than 14 days
+>                    3 prior to the date on which the commission posts
+>                    4 and publishes the preliminary plan under this
+>                    5 paragraph, the commission shall notify the pub6 lic through the website maintained under sub7 section (b)(2), as well as through publication of
+>                    8 notice in newspapers of general circulation
+>                    9 throughout the State, of the pending publica10 tion of the plan.
+>                  11 (4) MINIMUM PERIOD FOR PUBLIC COMMENT
+>                  12 AFTER PUBLICATION OF PLAN .—The commission
+>                  13 shall accept and consider comments from the public
+>                  14 with respect to the preliminary redistricting plan
+>                  15 published under paragraph (3) for not fewer than 30
+>                  16 days after the date on which the plan is published.
+>                  17 (5) POST-PUBLICATION HEARINGS .—
+>                  18 (A) 3 HEARINGS REQUIRED .—After post-19 ing and publishing the preliminary redistricting
+>                  20 plan under paragraph (3), the commission shall
+>                  21 hold not fewer than 3 public hearings at which
+>                  22 members of the public may provide input and
+>                  23 comments regarding the preliminary plan.
+>                  24 (B) MINIMUM PERIOD FOR NOTICE PRIOR
+>                  25 TO HEARINGS .—The commission shall notify
+>        G:\VHLC\011817\011817.03(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 000PO 000Frm 00Fmt 66Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>       G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                               27
+>                   1 the public through the website maintained
+>                   2 under subsection (b)(2), as well as through pub3 lication of notice in newspapers of general cir4 culation throughout the State, of the date, time,
+>                   5 and location of each of the hearings held under
+>                   6 this paragraph not fewer than 14 days prior to
+>                   7 the date of the hearing.
+>                   8 (6) PERMITTING MULTIPLE PRELIMINARY
+>                   9 PLANS .—At the option of the commission, after de10 veloping and publishing the preliminary redistricting
+>                  11 plan under this subsection, the commission may de12 velop and publish subsequent preliminary redis13 tricting plans, so long as the process for the develop14 ment and publication of each such subsequent plan
+>                  15 meets the requirements set forth in this subsection
+>                  16 for the development and publication of the first pre17 liminary redistricting plan.
+>                  18 (d) PROCESS FOR ENACTMENT OF FINAL REDIS19 TRICTING PLAN .—
+>                  20 (1) IN GENERAL .—After taking into consider21 ation comments from the public on any preliminary
+>                  22 redistricting plan developed and published under
+>                  23 subsection (c), the independent redistricting commis24 sion of a State shall develop and publish a final re25 districting plan for the State.
+>       G:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 00PO 000Frm 000Fmt 6Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                 28
+>                    1 (2) MEETING ; FINAL VOTE .—Not later than
+>                    2 August 15 of each year ending in the numeral one,
+>                    3 the commission shall hold a public hearing at which
+>                    4 the members of the commission shall vote on approv5 ing the final plan for enactment into law.
+>                    6 (3) PUBLICATION OF PLAN AND ACCOMPANYING
+>                    7 MATERIALS .—Not fewer than 14 days before the
+>                    8 date of the meeting under paragraph (2), the com9 mission shall provide the following information to
+>                   10 the public through the website maintained under
+>                   11 subsection (b)(2), as well as through newspapers of
+>                   12 general circulation throughout the State:
+>                   13 (A) The final redistricting plan, including
+>                   14 all relevant maps.
+>                   15 (B) A report by the commission to accom16 pany the plan which provides the background
+>                   17 for the plan and the commission’s reasons for
+>                   18 selecting the plan as the final redistricting plan,
+>                   19 including responses to the public comments re20 ceived on any preliminary redistricting plan de21 veloped and published under subsection (c).
+>                   22 (C) Any dissenting or additional views with
+>                   23 respect to the plan of individual members of the
+>                   24 commission.
+>        G:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 211:06 Jan 1Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>       G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                               29
+>                   1 (4) ENACTMENT .—The final redistricting plan
+>                   2 developed and published under this subsection shall
+>                   3 be deemed to be enacted into law if—
+>                   4 (A) the plan is approved by a majority of
+>                   5 the whole membership of the commission; and
+>                   6 (B) at least one member of the commission
+>                   7 appointed from each of the categories of the ap8 proved selection pool described in section
+>                   9 202(b)(1) approves the plan.
+>                  10 (e) DEADLINE .—The independent redistricting com11 mission of a State shall approve a final redistricting plan
+>                  12 for the State not later than August 15 of each year ending
+>                  13 in the numeral one.
+>                  14 SEC. 204. ESTABLISHMENT OF RELATED ENTITIES.
+>                  15 (a) ESTABLISHMENT OR DESIGNATION OF NON-16 PARTISAN AGENCY OF STATE LEGISLATURE .—
+>                  17 (1) IN GENERAL .—Each State shall establish a
+>                  18 nonpartisan agency in the legislative branch of the
+>                  19 State government to appoint the members of the
+>                  20 independent redistricting commission for the State
+>                  21 in accordance with section 201.
+>                  22 (2) N ONPARTISANSHIP DESCRIBED .—For pur23 poses of this subsection, an agency shall be consid24 ered to be nonpartisan if under law the agency—
+>       G:\VHLC\011817\011817.03(648805|1)
+> VerDate Nov 11:06 Jan Jkt 000PO 000Frm 00Fmt 66Sfmt 6C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>       G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                               30
+>                   1 (A) is required to provide services on a
+>                   2 nonpartisan basis;
+>                   3 (B) is required to maintain impartiality;
+>                   4 and
+>                   5 (C) is prohibited from advocating for the
+>                   6 adoption or rejection of any legislative proposal.
+>                   7 (3) DESIGNATION OF EXISTING AGENCY .—At
+>                   8 its option, a State may designate an existing agency
+>                   9 in the legislative branch of its government to appoint
+>                  10 the members of the independent redistricting com11 mission plan for the State under this Act, so long
+>                  12 as the agency meets the requirements for non-13 partisanship under this subsection.
+>                  14 (4) TERMINATION OF AGENCY SPECIFICALLY
+>                  15 ESTABLISHED FOR REDISTRICTING .—If a State does
+>                  16 not designate an existing agency under paragraph
+>                  17 (3) but instead establishes a new agency to serve as
+>                  18 the nonpartisan agency under this section, the new
+>                  19 agency shall terminate upon the enactment into law
+>                  20 of the redistricting plan for the State.
+>                  21 (5) DEADLINE .—The State shall meet the re22 quirements of this subsection not later than each
+>                  23 August 15 of a year ending in the numeral nine.
+>                  24 (b) ESTABLISHMENT OF SELECT COMMITTEE ON R E25 DISTRICTING .—
+>       G:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 00PO 000Frm 000Fmt 6Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                 31
+>                    1 (1) IN GENERAL .—Each State shall appoint a
+>                    2 Select Committee on Redistricting to approve or dis3 approve a selection pool developed by the inde4 pendent redistricting commission for the State under
+>                    5 section 202.
+>                    6 (2) APPOINTMENT .—The Select Committee on
+>                    7 Redistricting for a State under this subsection shall
+>                    8 consist of the following members:
+>                    9 (A) 1 member of the upper house of the
+>                   10 State legislature, who shall be appointed by the
+>                   11 leader of the party with the greatest number of
+>                   12 seats in the upper house.
+>                   13 (B) 1 member of the upper house of the
+>                   14 State legislature, who shall be appointed by the
+>                   15 leader of the party with the second greatest
+>                   16 number of seats in the upper house.
+>                   17 (C) 1 member of the lower house of the
+>                   18 State legislature, who shall be appointed by the
+>                   19 leader of the party with the greatest number of
+>                   20 seats in the lower house.
+>                   21 (D) 1 member of the lower house of the
+>                   22 State legislature, who shall be appointed by the
+>                   23 leader of the party with the second greatest
+>                   24 number of seats in the lower house.
+>        G:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 211:06 Jan 1Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>       G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                               32
+>                   1 (3) SPECIAL RULE FOR STATES WITH UNICAM2 ERAL LEGISLATURE .—In the case of a State with a
+>                   3 unicameral legislature, the Select Committee on Re4 districting for the State under this subsection shall
+>                   5 consist of the following members:
+>                   6 (A) 2 members of the State legislature ap7 pointed by the leader of the party with the
+>                   8 greatest number of seats in the legislature.
+>                   9 (B) 2 members of the State legislature ap10 pointed by the leader of the party with the sec11 ond greatest number of seats in legislature.
+>                  12 (4) DEADLINE .—The State shall meet the re13 quirements of this subsection not later than each
+>                  14 January 15 of a year ending in the numeral zero.
+>                  15 TITLE III—ROLE OF COURTS IN
+>                  16 DEVELOPMENT OF REDIS17 TRICTING PLANS
+>                  18 SEC. 301. ENACTMENT OF PLAN DEVELOPED BY 3JUDGE
+>                  19 COURT.
+>                  20 (a) DEVELOPMENT OF PLAN .—If any of the trig21 gering events described in subsection (c) occur with re22 spect to a State—
+>                  23 (1) not later than December 15 of the year in
+>                  24 which the triggering event occurs, the United States
+>                  25 District Court for the District of Columbia, acting
+>       G:\VHLC\011817\011817.03(648805|1)
+> VerDate Nov 11:06 Jan Jkt 000PO 000Frm 00Fmt 66Sfmt 6C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>       G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                               33
+>                   1 through a 3judge court convened pursuant to sec2 tion 2284 of title 28, United States Code, shall de3 velop and publish the congressional redistricting
+>                   4 plan for the State; and
+>                   5 (2) the plan developed and published by the
+>                   6 Court under this subsection shall be deemed to be
+>                   7 enacted on the date on which the Court publishes
+>                   8 the plan.
+>                   9 (b) PROCEDURES FOR DEVELOPMENT OF PLAN .—
+>                  10 (1) CRITERIA.—It is the sense of Congress
+>                  11 that, in developing a redistricting plan for a State
+>                  12 under this section, the Court should adhere to the
+>                  13 same terms and conditions that applied (or that
+>                  14 would have applied, as the case may be) to the devel15 opment of a plan by the independent redistricting
+>                  16 commission of the State under section 203(a).
+>                  17 (2) ACCESS TO INFORMATION AND RECORDS OF
+>                  18 COMMISSION .—The Court shall have access to any
+>                  19 information, data, software, or other records and
+>                  20 material that was used (or that would have been
+>                  21 used, as the case may be) by the independent redis22 tricting commission of the State in carrying out its
+>                  23 duties under this Act.
+>                  24 (c) TRIGGERING EVENTS DESCRIBED .—The ‘‘trig25 gering events’’ described in this subsection are as follows:
+>       G:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 00PO 000Frm 000Fmt 6Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                   34
+>                     1 (1) The failure of the State to establish or des2 ignate a nonpartisan agency of the State legislature
+>                     3 under section 204(a) prior to the expiration of the
+>                     4 deadline set forth in section 204(a)(5).
+>                     5 (2) The failure of the State to appoint a Select
+>                     6 Committee on Redistricting under section 204(b)
+>                     7 prior to the expiration of the deadline set forth in
+>                     8 section 204(b)(4).
+>                     9 (3) The failure of the Select Committee on Re10 districting to approve any selection pool under sec11 tion 202 prior to the expiration of the deadline set
+>                   12 forth for the approval of the second replacement se13 lection pool in section 202(d)(2).
+>                   14 (4) The failure of the independent redistricting
+>                   15 commission of the State to approve a final redis16 tricting plan for the State prior to the expiration of
+>                   17 the deadline set forth in section 203(e).
+>                   18 SEC. 302. SPECIAL RULE FOR REDISTRICTING CONDUCTED
+>                   19 UNDER ORDER OF FEDERAL COURT.
+>                   20 If a Federal court requires a State to conduct redis21 tricting subsequent to an apportionment of Representa22 tives in the State in order to comply with the Constitution
+>                   23 or to enforce the Voting Rights Act of 1965, section 203
+>                   24 shall apply with respect to the redistricting, except that
+>                   25 the court may revise any of the deadlines set forth in such
+>        G:\VHLC\011817\011817.038.(648805|1)
+> VerDate Nov 211:06 Jan 1Jkt 000PO 0000Frm 000Fmt 66Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>       G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                             35
+>                  1 section if the court determines that a revision is appro2 priate in order to provide for a timely enactment of a new
+>                  3 redistricting plan for the State.
+>                  4 TITLE IV—ADMINISTRATIVE AND
+>                  5 MISCELLANEOUS PROVISIONS
+>                  6 SEC. 401. PAYMENTS TO STATES FOR CARRYING OUT RE7 DISTRICTING.
+>                  8 (a) AUTHORIZATION OF PAYMENTS .—Subject to sub9 section (d), not later than 30 days after a State receives
+>                 10 a State apportionment notice, the Election Assistance
+>                 11 Commission shall make a payment to the State in an
+>                 12 amount equal to the product of—
+>                 13 (1) the number of Representatives to which the
+>                 14 State is entitled, as provided under the notice; and
+>                 15 (2) $150,000.
+>                 16 (b) USE OF FUNDS .—A State shall use the payment
+>                 17 made under this section to establish and operate the
+>                 18 State’s independent redistricting commission, to imple19 ment the State redistricting plan, and to otherwise carry
+>                 20 out Congressional redistricting in the State.
+>                 21 (c) NO PAYMENT TO STATES WITH SINGLE M EM22 BER .—The Election Assistance Commission shall not
+>                 23 make a payment under this section to any State which
+>                 24 is not entitled to more than one Representative under its
+>                 25 State apportionment notice.
+>       G:\VHLC\011817\011817.03(648805|1)
+> VerDate Nov 11:06 Jan Jkt 00PO 000Frm 00Fmt 66Sfmt 6C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>       G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                               36
+>                   1 (d) REQUIRING SUBMISSION OF SELECTION POOL AS
+>                   2 CONDITION OF PAYMENT .—The Election Assistance Com3 mission may not make a payment to a State under this
+>                   4 section until the State certifies to the Commission that
+>                   5 the nonpartisan agency established or designated by a
+>                   6 State under section 204(a) has, in accordance with section
+>                   7 202(b)(1), submitted a selection pool to the Select Com8 mittee on Redistricting for the State established under
+>                   9 section 204(b).
+>                  10 (e) AUTHORIZATION OF APPROPRIATIONS .—There
+>                  11 are authorized to be appropriated such sums as may be
+>                  12 necessary for payments under this section.
+>                  13 SEC. 402. CIVIL ENFORCEMENT.
+>                  14 (a) CIVIL ENFORCEMENT .—
+>                  15 (1) ACTIONS BY ATTORNEY GENERAL .—The At16 torney General may bring a civil action in an appro17 priate district court for such relief as may be appro18 priate to carry out this Act.
+>                  19 (2) AVAILABILITY OF PRIVATE RIGHT OF AC20 TION.—Any citizen of a State who is aggrieved by
+>                  21 the failure of the State redistricting plan which is
+>                  22 enacted into law under section 203 to meet the re23 quirements for such a plan under this Act may bring
+>                  24 a civil action in an appropriate district court for
+>                  25 such relief as may be appropriate to remedy the failG:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 00PO 000Frm 000Fmt 6Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                 37
+>                    1 ure, so long as the individual brings the action dur2 ing the 45-day period which begins on the date on
+>                    3 which the plan is enacted into law.
+>                    4 (b) EXPEDITED CONSIDERATION .—In any action
+>                    5 brought forth under this section, the following rules shall
+>                    6 apply:
+>                    7 (1) The action shall be filed in the United
+>                    8 States District Court for the District of Columbia
+>                    9 and shall be heard by a 3judge court convened pur10 suant to section 2284 of title 28, United States
+>                   11 Code.
+>                   12 (2) The 3judge court shall consolidate actions
+>                   13 brought for relief under subsection (b)(1) with re14 spect to the same State redistricting plan.
+>                   15 (3) A copy of the complaint shall be delivered
+>                   16 promptly to the Clerk of the House of Representa17 tives and the Secretary of the Senate.
+>                   18 (4) A final decision in the action shall be re19 viewable only by appeal directly to the Supreme
+>                   20 Court of the United States. Such appeal shall be
+>                   21 taken by the filing of a notice of appeal within 10
+>                   22 days, and the filing of a jurisdictional statement
+>                   23 within 30 days, of the entry of the final decision.
+>                   24 (5) It shall be the duty of the district court and
+>                   25 the Supreme Court of the United States to advance
+>        G:\VHLC\011817\011817.038(648805|1)
+> VerDate Nov 211:06 Jan 1Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                38
+>                    1 on the docket and to expedite to the greatest pos2 sible extent the disposition of the action and appeal.
+>                    3 (c) ATTORNEY S FEES .—In a civil action under this
+>                    4 section, the court may allow the prevailing party (other
+>                    5 than the United States) reasonable attorney fees, includ6 ing litigation expenses, and costs.
+>                    7 (d) RELATION TO OTHER LAWS .—
+>                    8 (1) RIGHTS AND REMEDIES ADDITIONAL TO
+>                    9 OTHER RIGHTS AND REMEDIES .—The rights and
+>                  10 remedies established by this section are in addition
+>                  11 to all other rights and remedies provided by law, and
+>                  12 neither the rights and remedies established by this
+>                  13 section nor any other provision of this Act shall su14 persede, restrict, or limit the application of the Vot15 ing Rights Act of 1965 (52 U.S.C. 10301 et seq.).
+>                  16 (2) VOTING RIGHTS ACT OF 1965 .—Nothing in
+>                  17 this Act authorizes or requires conduct that is pro18 hibited by the Voting Rights Act of 1965 (52 U.S.C.
+>                  19 10301 et seq.).
+>                  20 SEC. 403. STATE APPORTIONMENT NOTICE DEFINED.
+>                  21 In this Act, the ‘‘State apportionment notice’’ means,
+>                  22 with respect to a State, the notice sent to the State from
+>                  23 the Clerk of the House of Representatives under section
+>                  24 22(b) of the Act entitled ‘‘An Act to provide for the fif25 teenth and subsequent decennial censuses and to provide
+>        G:\VHLC\011817\011817.03(648805|1)
+> VerDate Nov 11:06 Jan 1Jkt 000PO 000Frm 00Fmt 66Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X
+>        G:\M\15\LOFGRE\LOFGRE_002.XML
+>                                                       39
+>                      1 for an apportionment of Representatives in Congress’’, ap2 proved June 18, 1929 (2 U.S.C. 2a), of the number of
+>                      3 Representatives to which the State is entitled.
+>                      4 SEC. 404. NO EFFECT ON ELECTIONS FOR STATE AND
+>                      5 LOCAL OFFICE.
+>                      6 Nothing in this Act or in any amendment made by
+>                      7 this Act may be construed to affect the manner in which
+>                      8 a State carries out elections for State or local office, in9 cluding the process by which a State establishes the dis10 tricts used in such elections.
+>                     11 SEC. 405. EFFECTIVE DATE.
+>                     12 This Act and the amendments made by this Act shall
+>                     13 apply with respect to redistricting carried out pursuant to
+>                     14 the decennial census conducted during 2020 or any suc15 ceeding decennial census.
+>        G:\VHLC\011817\011817.038.xml(648805|1)
+> VerDate Nov 2411:06 Jan 18Jkt 0000PO 0000Frm 0003Fmt 66Sfmt 62C:\USERS\NLWOFSY\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LOFGRE~1.X

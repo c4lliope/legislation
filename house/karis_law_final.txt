@@ -1,0 +1,66 @@
+>        F:\M14\GOHMER\GOHMER_021.XML
+>                                                       .....................................................................
+>                                                           (Original Signature of Member)
+>                   114 TH CONGRESS
+>                       1ST SESSION H. R.ll
+>                   To amend the Communications Act of 1934 to require multi-line telephone
+>                       systems to have a default configuration that permits users to directly
+>                       initiate a call to 911 without dialing any additional digit, code, prefix,
+>                       or post-fix, and for other purposes.
+>                           IN THE HOUSE OF REPRESENTATIVES
+>                       Mr. GOHMERT introduced the following bill; which was referred to the
+>                                Committee on llllllllllllll
+>                                           A BILL
+>                   To amend the Communications Act of 1934 to require multi-line telephone systems to have a default configuration
+>                        that permits users to directly initiate a call to 911
+>                        without dialing any additional digit, code, prefix, or post-fix, and for other purposes.
+>                     1 Be it enacted by the Senate and House of Representa2 tives of the United States of America in Congress assembled,
+>                     3 SECTION 1. SHORT TITLE.
+>                     4 This Act may be cited as the ‘‘Kari’s Law Act of
+>                     5 2015’’.
+>        f:\VHLC\072115\072115.321(603085|12)
+> VerDate Nov 217:33 Jul 2Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\CBOSBO~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\GOHMER~1
+>        F:\M14\GOHMER\GOHMER_021.XML
+>                                                  2
+>                    1 SEC. 2. DEFAULT CONFIGURATION OF MULTI-LINE TELE2 PHONE SYSTEMS FOR DIRECT DIALING OF 93 11.
+>                    4 (a) IN GENERAL .—Title VII of the Communications
+>                    5 Act of 1934 (47 U.S.C. 601 et seq.) is amended by adding
+>                    6 at the end the following:
+>                    7 ‘‘SEC. 721. DEFAULT CONFIGURATION OF MULTI-LINE
+>                    8 TELEPHONE SYSTEMS FOR DIRECT DIALING
+>                    9 OF 911.
+>                   10 ‘‘(a) IN GENERAL .—A person engaged in the busi11 ness of manufacturing, importing, selling, leasing, or in12 stalling multi-line telephone systems may not manufacture
+>                   13 or import for use in the United States, sell or lease or
+>                   14 offer to sell or lease in the United States, or install in
+>                   15 the United States a multi-line telephone system, unless the
+>                   16 default configuration of such system is such that a user
+>                   17 may directly initiate a call to 911 from any station
+>                   18 equipped with dialing facilities, without dialing any addi19 tional digit, code, prefix, or post-fix, including any trunk20 access code such as the digit ‘9’, regardless of whether
+>                   21 the user is required to dial such a digit, code, prefix, or
+>                   22 post-fix for other calls.
+>                   23 ‘‘(b) ONSITE NOTIFICATION .—A person engaged in
+>                   24 the business of installing multi-line telephone systems, in
+>                   25 installing such a system, shall configure the system to pro26 vide a notification to a central location at the facility
+>        f:\VHLC\072115\072115.321(603085|12)
+> VerDate Nov 217:33 Jul Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\CBOSBO~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\GOHMER~1
+>        F:\M14\GOHMER\GOHMER_021.XML
+>                                                  3
+>                    1 where the system is installed when a person at the facility
+>                    2 initiates a call to 911 using the system, if the system
+>                    3 is able to be configured to provide the notification without
+>                    4 an improvement to the hardware of the system.
+>                    5 ‘‘(c) ENFORCEMENT .—This section shall be enforced
+>                    6 under title V, except that section 501 applies only to the
+>                    7 extent that such section provides for the punishment of
+>                    8 a fine.
+>                    9 ‘‘(d) MULTI-LINE TELEPHONE SYSTEM DEFINED .—
+>                   10 The term ‘multi-line telephone system’ has the meaning
+>                   11 given such term in section 6502 of the Middle Class Tax
+>                   12 Relief and Job Creation Act of 2012 (47 U.S.C. 1471).’’.
+>                   13 (b) EFFECTIVE DATE .—The amendment made by
+>                   14 subsection (a) shall apply with respect to a multi-line tele15 phone system that is manufactured, imported, offered for
+>                   16 first sale or lease, first sold or leased, or installed after
+>                   17 the date that is 2 years after the date of the enactment
+>                   18 of this Act.
+>        f:\VHLC\072115\072115.321(603085|12)
+> VerDate Nov 217:33 Jul Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\CBOSBO~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\GOHMER~1

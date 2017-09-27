@@ -1,0 +1,339 @@
+>        G:\M\15\WELCH\WELCH_030.XML
+>                                                                           [∼114H3266]
+>                                                       .....................................................................
+>                                                           (Original Signature of Member)
+>                   115 TH CONGRESS
+>                       1ST SESSION
+>                                         H. R.ll
+>                   To improve the productivity and energy efficiency of the manufacturing sector
+>                        by directing the Secretary of Energy, in coordination with the National
+>                        Academies and other appropriate Federal agencies, to develop a national
+>                        smart manufacturing plan and to provide assistance to smalland mediumsized manufacturers in implementing smart manufacturing programs, and for other purposes.
+>                           IN THE HOUSE OF REPRESENTATIVES
+>                    Mr. WELCH introduced the following bill; which was referred to the Committee
+>                                     on llllllllllllll
+>                                           A BILL
+>                   To improve the productivity and energy efficiency of the
+>                        manufacturing sector by directing the Secretary of Energy, in coordination with the National Academies and
+>                        other appropriate Federal agencies, to develop a national
+>                        smart manufacturing plan and to provide assistance to
+>                        smalland mediumsized manufacturers in implementing
+>                        smart manufacturing programs, and for other purposes.
+>                     1 Be it enacted by the Senate and House of Representa2 tives of the United States of America in Congress assembled,
+>        g:\VHLC\061917\061917.268.(663318|2)
+> VerDate Nov 216:03 Jun 19Jkt 000PO 000Frm 000Fmt 665Sfmt 6C:\USERS\KEANDE~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\WELCH_~1.
+>        G:\M\15\WELCH\WELCH_030.XML
+>                                                   2
+>                    1 SECTION 1. SHORT TITLE.
+>                    2 This Act may be cited as the ‘‘Smart Manufacturing
+>                    3 Leadership Act’’.
+>                    4 SEC. 2. FINDINGS.
+>                    5 Congress finds that—
+>                    6 (1) the industrial sector—
+>                    7 (A) represents approximately 20 percent of
+>                    8 the economy of the United States;
+>                    9 (B) provides approximately 13 percent of
+>                   10 employment in the United States; and
+>                   11 (C) accounts for more than
+>                   12 30,000,000,000,000,000 Btus of energy, a
+>                   13 quantity that is equal to almost 1 3 of the en14 ergy consumption of the United States;
+>                   15 (2) smart manufacturing is set to transform the
+>                   16 manufacturing sector and the use by the manufac17 turing sector of energy, water, raw materials, and
+>                   18 labor over the 10 years following the date of enact19 ment of this Act;
+>                   20 (3) the transformation described in paragraph
+>                   21 (2) will result in savings in electricity, natural gas,
+>                   22 transportation fuels, chemical feedstocks, and many
+>                   23 other fuels;
+>                   24 (4) the interconnection of the many components
+>                   25 of manufacturing within a manufacturing plant with
+>                   26 other business functions within a company and
+>        g:\VHLC\061917\061917.268(663318|2)
+> VerDate Nov 216:03 Jun 1Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\KEANDE~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\WELCH_~1.
+>        G:\M\15\WELCH\WELCH_030.XML
+>                                                  3
+>                    1 across companies within a supply chain will enable
+>                    2 new production efficiencies;
+>                    3 (5) the improvements in automation described
+>                    4 in paragraph (4) are estimated to produce between
+>                    5 $5,000,000,000 and $25,000,000,000 in energy sav6 ings per year across the manufacturing sector for
+>                    7 electricity alone by 2035;
+>                    8 (6) smart manufacturing technologies are esti9 mated to add between $10,000,000,000,000 and
+>                   10 $15,000,000,000,000 to the global gross domestic
+>                   11 product over 20 years following the date of enact12 ment of this Act;
+>                   13 (7) market barriers exist to the widespread
+>                   14 adoption of smart manufacturing practices by all
+>                   15 sizes of firms and to the investment in smart manu16 facturing technologies, including lack of—
+>                   17 (A) common communication protocols be18 tween smart manufacturing devices, which pre19 vents interoperability, reduces system effi20 ciencies, and stifles innovation;
+>                   21 (B) common standards for storing and
+>                   22 sharing information relating to energy con23 sumption and energy savings;
+>                   24 (C) an openaccess smart manufacturing
+>                   25 platform that enables the networking of busig:\VHLC\061917\061917.268(663318|2)
+> VerDate Nov 216:03 Jun 1Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\KEANDE~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\WELCH_~1.
+>        G:\M\15\WELCH\WELCH_030.XML
+>                                                 4
+>                    1 ness and automation systems of multiple ven2 dors; and
+>                    3 (D) common cybersecurity protocols and
+>                    4 standards;
+>                    5 (8) addressing the barriers described in para6 graph (7) is in the interest of the United States;
+>                    7 (9) in response to the barriers described in
+>                    8 paragraph (7), the Secretary of Energy is working
+>                    9 with the private sector to reduce the market barriers
+>                   10 through the development of voluntary protocols and
+>                   11 standards;
+>                   12 (10) there exist many technologies of which
+>                   13 many domestic manufacturers are unaware that
+>                   14 could—
+>                   15 (A) improve the competitiveness of the do16 mestic manufacturers; and
+>                   17 (B) reduce the environmental impacts of
+>                   18 the domestic manufacturers;
+>                   19 (11) Federal agency action can facilitate great20 er economic growth through outreach and engage21 ment in the smart manufacturing technology area;
+>                   22 and
+>                   23 (12) the United States would benefit from a
+>                   24 concerted and focused effort to advance the adoption
+>        g:\VHLC\061917\061917.268(663318|2)
+> VerDate Nov 16:03 Jun 1Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\KEANDE~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\WELCH_~1.
+>        G:\M\15\WELCH\WELCH_030.XML
+>                                                 5
+>                    1 of smart manufacturing throughout the manufac2 turing sector of the United States.
+>                    3 SEC. 3. DEFINITIONS.
+>                    4 In this Act:
+>                    5 (1) ENERGY MANAGEMENT SYSTEM .—The term
+>                    6 ‘‘energy management system’’ means a business
+>                    7 management process based on standards of the
+>                    8 American National Standards Institute that enables
+>                    9 an organization to follow a systematic approach in
+>                   10 achieving continual improvement of energy perform11 ance, including energy efficiency, security, use, and
+>                   12 consumption.
+>                   13 (2) INDUSTRIAL ASSESSMENT CENTER .—The
+>                   14 term ‘‘industrial assessment center’’ means a center
+>                   15 located at an institution of higher education that—
+>                   16 (A) receives funding from the Department
+>                   17 of Energy;
+>                   18 (B) provides an indepth assessment of
+>                   19 smalland mediumsized manufacturer plant
+>                   20 sites to evaluate the facilities, services, and
+>                   21 manufacturing operations of the plant site; and
+>                   22 (C) identifies opportunities for potential
+>                   23 savings for smalland mediumsized manufac24 turer plant sites from energy efficiency improveg:\VHLC\061917\061917.268(663318|2)
+> VerDate Nov 16:03 Jun 1Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\KEANDE~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\WELCH_~1.
+>        G:\M\15\WELCH\WELCH_030.XML
+>                                                 6
+>                    1 ments, waste minimization, pollution preven2 tion, and productivity improvement.
+>                    3 (3) INFORMATION AND COMMUNICATION TECH4 NOLOGY .—The term ‘‘information and communica5 tion technology’’ means any electronic system or
+>                    6 equipment (including the content contained in the
+>                    7 system or equipment) used to create, convert, com8 municate, or duplicate data or information, including
+>                    9 computer hardware, firmware, software, communica10 tion protocols, networks, and data interfaces.
+>                   11 (4) NSTITUTION OF HIGHER EDUCATION .—The
+>                   12 term ‘‘institution of higher education’’ has the
+>                   13 meaning given the term in section 101(a) of the
+>                   14 Higher Education Act of 1965 (20 U.S.C. 1001(a)).
+>                   15 (5) NATIONAL LABORATORY .—The term ‘‘Na16 tional Laboratory’’ has the meaning given the term
+>                   17 in section 2 of the Energy Policy Act of 2005 (42
+>                   18 U.S.C. 15801).
+>                   19 (6) NORTH AMERICAN INDUSTRY CLASSIFICA20 TION SYSTEM .—The term ‘‘North American Indus21 try Classification System’’ means the standard used
+>                   22 by Federal statistical agencies in classifying business
+>                   23 establishments for the purpose of collecting, ana24 lyzing, and publishing statistical data relating to the
+>                   25 business economy of the United States.
+>        g:\VHLC\061917\061917.268(663318|2)
+> VerDate Nov 16:03 Jun 1Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\KEANDE~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\WELCH_~1.
+>        G:\M\15\WELCH\WELCH_030.XML
+>                                                 7
+>                    1 (7) SECRETARY .—The term ‘‘Secretary’’ means
+>                    2 the Secretary of Energy.
+>                    3 (8) SMALL AND MEDIUM MANUFACTURERS .—
+>                    4 The term ‘‘small and medium manufacturers’’
+>                    5 means manufacturing firms—
+>                    6 (A) classified in the North American In7 dustry Classification System as any of sectors
+>                    8 31 through 33;
+>                    9 (B) with gross annual sales of less than
+>                  10 $100,000,000;
+>                  11 (C) with fewer than 500 employees at the
+>                  12 plant site; and
+>                  13 (D) with annual energy bills totaling more
+>                  14 than $100,000 and less than $2,500,000.
+>                  15 (9) SMART MANUFACTURING .—The term
+>                  16 ‘‘smart manufacturing’’ means advanced tech17 nologies in information, automation, monitoring,
+>                  18 computation, sensing, modeling, and networking
+>                  19 that—
+>                  20 (A) digitally—
+>                  21 (i) simulate manufacturing production
+>                  22 lines;
+>                  23 (ii) operate computercontrolled man24 ufacturing equipment;
+>        g:\VHLC\061917\061917.26(663318|2)
+> VerDate Nov 16:03 Jun 1Jkt 000PO 000Frm 00Fmt 66Sfmt 62C:\USERS\KEANDE~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\WELCH_~1.
+>        G:\M\15\WELCH\WELCH_030.XML
+>                                                 8
+>                    1 (iii) monitor and communicate pro2 duction line status; and
+>                    3 (iv) manage and optimize energy pro4 ductivity and cost throughout production;
+>                    5 (B) model, simulate, and optimize the en6 ergy efficiency of a factory building;
+>                    7 (C) monitor and optimize building energy
+>                    8 performance;
+>                    9 (D) model, simulate, and optimize the de10 sign of energy efficient and sustainable prod11 ucts, including the use of digital prototyping
+>                   12 and additive manufacturing to enhance product
+>                   13 design;
+>                   14 (E) connect manufactured products in net15 works to monitor and optimize the performance
+>                   16 of the networks, including automated network
+>                   17 operations; and
+>                   18 (F) digitally connect the supply chain net19 work.
+>                   20 SEC. 4. DEVELOPMENT OF NATIONAL SMART MANUFAC21 TURING PLAN.
+>                   22 (a) IN GENERAL .—Not later than 3 years after the
+>                   23 date of enactment of this Act, the Secretary, in consulta24 tion with the National Academies, shall develop and com25 plete a national plan for smart manufacturing technology
+>        g:\VHLC\061917\061917.268(663318|2)
+> VerDate Nov 16:03 Jun 1Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\KEANDE~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\WELCH_~1.
+>        G:\M\15\WELCH\WELCH_030.XML
+>                                                 9
+>                    1 development and deployment to improve the productivity
+>                    2 and energy efficiency of the manufacturing sector of the
+>                    3 United States.
+>                    4 (b) CONTENT .—
+>                    5 (1) IN GENERAL .—The plan developed under
+>                    6 subsection (a) shall identify areas in which agency
+>                    7 actions by the Secretary and other heads of relevant
+>                    8 Federal agencies would—
+>                    9 (A) facilitate quicker development, deploy10 ment, and adoption of smart manufacturing
+>                   11 technologies and processes;
+>                   12 (B) result in greater energy efficiency and
+>                   13 lower environmental impacts for all American
+>                   14 manufacturers; and
+>                   15 (C) enhance competitiveness and strength16 en the manufacturing sectors of the United
+>                   17 States.
+>                   18 (2) INCLUSIONS .—Agency actions identified
+>                   19 under paragraph (1) shall include—
+>                   20 (A) an assessment of previous and current
+>                   21 actions of the Department of Energy relating to
+>                   22 smart manufacturing;
+>                   23 (B) the establishment of voluntary inter24 connection protocols and performance stand25 ards;
+>        g:\VHLC\061917\061917.268(663318|2)
+> VerDate Nov 16:03 Jun 1Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\KEANDE~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\WELCH_~1.
+>        G:\M\15\WELCH\WELCH_030.XML
+>                                                 10
+>                    1 (C) deployment of existing research re2 sults; and
+>                    3 (D) the leveraging of existing high-per4 formance computing infrastructure.
+>                    5 (c) BIENNIAL REVISIONS .—Not later than 2 years
+>                    6 after the date on which the Secretary completes the plan
+>                    7 under subsection (a), and not less frequently than once
+>                    8 every 2 years thereafter, the Secretary shall revise the
+>                    9 plan to account for advancements in information and com10 munication technology and manufacturing needs.
+>                   11 (d) REPORT .—Annually until the completion of the
+>                   12 plan under subsection (a), the Secretary shall submit to
+>                   13 Congress a report on the progress made in developing the
+>                   14 plan.
+>                   15 (e) FUNDING .—The Secretary shall use unobligated
+>                   16 funds of the Department of Energy to carry out this sec17 tion.
+>                   18 SEC. 5. LEVERAGING EXISTING AGENCY PROGRAMS TO AS19 SIST SMALL AND MEDIUM MANUFACTURERS.
+>                   20 (a) FINDINGS .—Congress finds that—
+>                   21 (1) the Department of Energy has existing
+>                   22 technical assistance programs that facilitate greater
+>                   23 economic growth through outreach to and engage24 ment with small and medium manufacturers;
+>        g:\VHLC\061917\061917.268(663318|2)
+> VerDate Nov 216:03 Jun 1Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\KEANDE~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\WELCH_~1.
+>       G:\M\15\WELCH\WELCH_030.XML
+>                                                11
+>                   1 (2) those technical assistance programs rep2 resent an important conduit for increasing the
+>                   3 awareness of and providing education to small and
+>                   4 medium manufacturers regarding the opportunities
+>                   5 for implementing smart manufacturing; and
+>                   6 (3) those technical assistance programs help fa7 cilitate the implementation of best practices.
+>                   8 (b) EXPANSION OF TECHNICAL ASSISTANCE P RO9 GRAMS .—The Secretary shall expand the scope of tech10 nologies covered by the Industrial Assessment Centers of
+>                  11 the Department of Energy—
+>                  12 (1) to include smart manufacturing technologies
+>                  13 and practices; and
+>                  14 (2) to equip the directors of the Industrial As15 sessment Centers with the training and tools nec16 essary to provide technical assistance in smart man17 ufacturing technologies and practices, including en18 ergy management systems, to manufacturers.
+>                  19 (c) FUNDING .—The Secretary shall use unobligated
+>                  20 funds of the Department of Energy to carry out this sec21 tion.
+>                  22 SEC. 6. LEVERAGING SMART MANUFACTURING INFRA23 STRUCTURE AT NATIONAL LABORATORIES.
+>                  24 (a) STUDY .—
+>       g:\VHLC\061917\061917.268(663318|2)
+> VerDate Nov 16:03 Jun 1Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\KEANDE~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\WELCH_~1.
+>        G:\M\15\WELCH\WELCH_030.XML
+>                                                12
+>                    1 (1) IN GENERAL .—Not later than 180 days
+>                    2 after the date of enactment of this Act, the Sec3 retary shall conduct a study on how the Department
+>                    4 of Energy can increase access to existing high-per5 formance computing resources in the National Lab6 oratories, particularly for small and medium manu7 facturers.
+>                    8 (2) INCLUSIONS .—In identifying ways to in9 crease access to National Laboratories under para10 graph (1), the Secretary shall—
+>                  11 (A) focus on increasing access to the com12 puting facilities of the National Laboratories;
+>                  13 and
+>                  14 (B) ensure that—
+>                  15 (i) the information from the manufac16 turer is protected; and
+>                  17 (ii) the security of the National Lab18 oratory facility is maintained.
+>                  19 (3) REPORT .—Not later than 1 year after the
+>                  20 date of enactment of this Act, the Secretary shall
+>                  21 submit to Congress a report describing the results of
+>                  22 the study.
+>                  23 (b) ACTIONS FOR INCREASED ACCESS .—The Sec24 retary shall facilitate access to the National Laboratories
+>                  25 studied under subsection (a) for small and medium manug:\VHLC\061917\061917.26(663318|2)
+> VerDate Nov 16:03 Jun 1Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\KEANDE~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\WELCH_~1.
+>        G:\M\15\WELCH\WELCH_030.XML
+>                                                 13
+>                    1 facturers so that small and medium manufacturers can
+>                    2 fully use the high-performance computing resources of the
+>                    3 National Laboratories to enhance the manufacturing com4 petitiveness of the United States.
+>                    5 SEC. 7. STATE LEADERSHIP GRANTS.
+>                    6 (a) FINDING .—Congress finds that the States—
+>                    7 (1) are committed to promoting domestic manu8 facturing and supporting robust economic develop9 ment activities; and
+>                   10 (2) are uniquely positioned to assist manufac11 turers, particularly small and medium manufactur12 ers, with deployment of smart manufacturing
+>                   13 through the provision of infrastructure, including—
+>                   14 (A) access to shared supercomputing facili15 ties;
+>                   16 (B) assistance in developing process sim17 ulations; and
+>                   18 (C) conducting demonstrations of the bene19 fits of smart manufacturing.
+>                   20 (b) GRANTS AUTHORIZED .—The Secretary may
+>                   21 make grants on a competitive basis to States for estab22 lishing State programs to be used as models for sup23 porting the implementation of smart manufacturing tech24 nologies.
+>                   25 (c) APPLICATION .—
+>        g:\VHLC\061917\061917.268(663318|2)
+> VerDate Nov 16:03 Jun 1Jkt 000PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\KEANDE~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\WELCH_~1.
+>        G:\M\15\WELCH\WELCH_030.XML
+>                                                14
+>                    1 (1) IN GENERAL .—To be eligible to receive a
+>                    2 grant under this section, a State shall submit to the
+>                    3 Secretary an application at such time, in such man4 ner, and containing such information as the Sec5 retary may require.
+>                    6 (2) CRITERIA .—The Secretary shall evaluate an
+>                    7 application for a grant under this section on the
+>                    8 basis of merit using criteria identified by the Sec9 retary, including—
+>                  10 (A) the breadth of academic and private
+>                  11 sector partners;
+>                  12 (B) alternate sources of funding;
+>                  13 (C) plans for dissemination of results; and
+>                  14 (D) the permanence of the infrastructure
+>                  15 to be put in place by the project.
+>                  16 (d) REQUIREMENTS .—
+>                  17 (1) TERM .—The term of a grant under this
+>                  18 section shall not exceed 3 years.
+>                  19 (2) MAXIMUM AMOUNT .—The amount of a
+>                  20 grant under this section shall be not more than
+>                  21 $3,000,000.
+>                  22 (3) MATCHING REQUIREMENT .—Each State
+>                  23 that receives a grant under this section shall con24 tribute matching funds in an amount equal to not
+>                  25 less than 30 percent of the amount of the grant.
+>        g:\VHLC\061917\061917.26(663318|2)
+> VerDate Nov 16:03 Jun 1Jkt 000PO 000Frm 00Fmt 66Sfmt 62C:\USERS\KEANDE~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\WELCH_~1.
+>        G:\M\15\WELCH\WELCH_030.XML
+>                                                15
+>                    1 (e) USE OF FUNDS .—
+>                    2 (1) IN GENERAL .—A State shall use a grant
+>                    3 provided under this section—
+>                    4 (A) to provide access to shared supercom5 puting facilities to small and medium manufac6 turers;
+>                    7 (B) to fund research and development of
+>                    8 transformational manufacturing processes and
+>                    9 materials technology that advance smart manu10 facturing; and
+>                  11 (C) to provide tools and training to small
+>                  12 and medium manufacturers on how to adopt en13 ergy management systems and implement smart
+>                  14 manufacturing technologies in the facilities of
+>                  15 the small and medium manufacturers.
+>                  16 (f) EVALUATION .—The Secretary shall conduct bian17 nual evaluations of each grant made under this section—
+>                  18 (1) to determine the impact and effectiveness of
+>                  19 programs funded with the grant; and
+>                  20 (2) to provide guidance to States on ways to
+>                  21 better execute the program of the State.
+>                  22 (g) FUNDING .—There is authorized to be appro23 priated to the Secretary to carry out this section
+>                  24 $10,000,000 for each of fiscal years 2018 through 2021.
+>        g:\VHLC\061917\061917.26(663318|2)
+> VerDate Nov 16:03 Jun 1Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\KEANDE~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\WELCH_~1.
+>         G:\M\15\WELCH\WELCH_030.XML
+>                                                              16
+>                         1 SEC. 8. REPORT.
+>                         2 The Secretary annually shall submit to Congress and
+>                         3 make publicly available a report on the progress made in
+>                         4 advancing smart manufacturing in the United States.
+>         g:\VHLC\061917\061917.268.xml (663318|2)
+>         June 19, 2017 (4:03 p.m.)
+> VerDate Nov 24 216:03 Jun 19, Jkt 0000PO 00000Frm 00016Fmt 6652Sfmt 620C:\USERS\KEANDE~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\WELCH_~1.

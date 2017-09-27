@@ -1,0 +1,616 @@
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                      .....................................................................
+>                                                          (Original Signature of Member)
+>                   115 TH CONGRESS
+>                       1ST SESSION H. R.ll
+>                   To amend the Employee Retirement Income Security Act of 1974 and the
+>                       Internal Revenue Code of 1986 to ensure that retirement investors receive advice in their best interests, and for other purposes.
+>                          IN THE HOUSE OF REPRESENTATIVES
+>                    Mr. ROEof Tennessee introduced the following bill; which was referred to the
+>                               Committee on lllllllllllllll
+>                                           A BILL
+>                   To amend the Employee Retirement Income Security Act
+>                       of 1974 and the Internal Revenue Code of 1986 to
+>                       ensure that retirement investors receive advice in their
+>                       best interests, and for other purposes.
+>                    1 Be it enacted by the Senate and House of Representa2 tives of the United States of America in Congress assembled,
+>                    3 SECTION 1. SHORT TITLE.
+>                    4 This Act may be cited as the ‘‘Affordable Retirement
+>                    5 Advice for Savers Act’’.
+>        g:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 07Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>       G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                2
+>                   1 SEC. 2. REPEAL OF FIDUCIARY DEFINITION RULEMAKING.
+>                   2 (a) IN GENERAL .—The Fiduciary Definition rule3 making described in subsection (b) is repealed and shall
+>                   4 have no force or effect, and the regulations and prohibited
+>                   5 transaction exemptions amended or repealed by such rule6 making are restored or revived as if such rulemaking had
+>                   7 not been issued.
+>                   8 (b) FIDUCIARY DEFINITION R ULEMAKING .—The Fi9 duciary Definition rulemaking described in this subsection
+>                  10 consists of the following:
+>                  11 (1) The final rule of the Department of Labor
+>                  12 titled ‘‘Definition of the Term ‘Fiduciary’; Conflict
+>                  13 of Interest Rule—Retirement Investment Advice’’
+>                  14 published April 8, 2016 (81 Fed. Reg. 20946).
+>                  15 (2) The ‘‘Best Interest Contract Exemption’’
+>                  16 published April 8, 2016 (81 Fed. Feg. 21002) and
+>                  17 the technical correction published July 11, 2016 (81
+>                  18 Fed. Reg. 44773).
+>                  19 (3) The ‘‘Class Exemption for Principal Trans20 actions in Certain Assets Between Investment Ad21 vice Fiduciaries and Employee Benefit Plans and
+>                  22 IRAs’’ published April 8, 2016 (81 Fed. Reg.
+>                  23 21089) and the technical correction published July
+>                  24 11, 2016 (81 Fed. Reg. 44784).
+>                  25 (4) The ‘‘Amendment to Prohibited Transaction
+>                  26 Exemption (PTE) 751, Part V, Exemptions From
+>       g:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun Jkt 000PO 000Frm 000Fmt 6Sfmt 62C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                 3
+>                    1 Prohibitions Respecting Certain Classes of Trans2 actions Involving Employee Benefit Plans and Cer3 tain BrokerDealers, Reporting Dealers and Banks’’
+>                    4 published April 8, 2016 (81 Fed. Reg. 21139).
+>                    5 (5) The ‘‘Amendment to and Partial Revocation
+>                    6 of Prohibited Transaction Exemption (PTE) 86128
+>                    7 for Securities Transactions Involving Employee Ben8 efit Plans and BrokerDealers; Amendment to and
+>                    9 Partial Revocation of PTE 751, Exemptions From
+>                   10 Prohibitions Respecting Certain Classes of Trans11 actions Involving Employee Benefits Plans and Cer12 tain BrokerDealers, Reporting Dealers and Banks’’
+>                   13 published April 8, 2016 (81 Fed. Reg. 21181).
+>                   14 (6) The ‘‘Amendments to Class Exemptions 7515 1, 774, 8083 and 831’’ published April 8, 2016
+>                   16 (81 Fed. Reg. 21208).
+>                   17 (7) The ‘‘Amendment to and Partial Revocation
+>                   18 of Prohibited Transaction Exemption (PTE) 8424
+>                   19 for Certain Transactions Involving Insurance Agents
+>                   20 and Brokers, Pension Consultants, Insurance Com21 panies, and Investment Company Principal Under22 writers’’ published April 8, 2016 (81 Fed. Reg.
+>                   23 21147).
+>        g:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>       G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                               4
+>                   1 SEC. 3. RULES RELATING TO THE PROVISION OF INVEST2 MENT ADVICE.
+>                   3 (a) AMENDMENTS TO THE EMPLOYEE RETIREMENT
+>                   4 INCOME SECURITY ACT OF 1974.—
+>                   5 (1) DEFINITION OF INVESTMENT ADVICE .—
+>                   6 Section 3(21) of the Employee Retirement Income
+>                   7 Security Act of 1974 (29 U.S.C. 1002(21)) is
+>                   8 amended by adding at the end the following:
+>                   9 ‘‘(C)(i) For purposes of clause (ii) of subparagraph
+>                  10 (A), the term ‘investment advice’ means a recommenda11 tion communicated electronically, on paper, or orally
+>                  12 that—
+>                  13 ‘‘(I) relates to—
+>                  14 ‘‘(aa) the advisability of acquiring, holding,
+>                  15 disposing, or exchanging any moneys or other
+>                  16 property of a plan by the plan, plan partici17 pants, or plan beneficiaries, including any rec18 ommendation whether to take a distribution of
+>                  19 benefits from such plan or any recommendation
+>                  20 relating to the investment of any moneys or
+>                  21 other property of such plan to be distributed
+>                  22 from such plan;
+>                  23 ‘‘(bb) the management of moneys or other
+>                  24 property of such plan, including recommenda25 tions relating to the management of moneys or
+>       g:\VHLC\060717\060717.07(646849|8)
+> VerDate 0ct12:17 Jun 0Jkt 00PO 000Frm 000Fmt 66Sfmt 6C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                  5
+>                    1 other property to be distributed from such plan;
+>                    2 or
+>                    3 ‘‘(cc) the advisability of retaining or ceas4 ing to retain a person who would receive a fee
+>                    5 or other compensation for providing any of the
+>                    6 types of advice described in this subclause; and
+>                    7 ‘‘(II) is rendered pursuant to—
+>                    8 ‘‘(aa) a written acknowledgment, provided
+>                    9 electronically or on paper, of the obligation of
+>                   10 the advisor to comply with section 404 with re11 spect to the provision of such recommendation;
+>                   12 or
+>                   13 ‘‘(bb) a mutual agreement, arrangement,
+>                   14 or understanding, which may include limitations
+>                   15 on scope, timing, and responsibility to provide
+>                   16 ongoing monitoring or advice services, between
+>                   17 the person making such recommendation and
+>                   18 the plan that such recommendation is individ19 ualized to the plan and such plan intends to
+>                   20 materially rely on such recommendation in
+>                   21 making investment or management decisions
+>                   22 with respect to any moneys or other property of
+>                   23 such plan.
+>                   24 ‘‘(ii) For purposes of clause (i)(II)(bb), any dis25 claimer of a mutual agreement, arrangement, or underg:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 0Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                     6
+>                     1 standing shall state only the following: ‘This communica2 tion is not individualized to you, and you are not intended
+>                     3 to rely materially on this communication in making invest4 ment or management decisions.’. Such disclaimer shall not
+>                     5 be effective unless such disclaimer is in writing and is
+>                     6 communicated in a clear and prominent manner and an
+>                     7 objective person would reasonably conclude that, based on
+>                     8 all the facts and circumstances, there was not a mutual
+>                     9 agreement, arrangement, or understanding.
+>                    10 ‘‘(iii) For purposes of clause (i)(II)(bb), a commu11 nication shall not be considered to be a recommendation
+>                    12 made pursuant to a mutual agreement, arrangement, or
+>                    13 understanding, if such communication contains the dis14 claimer required by clause (ii), and—
+>                    15 ‘‘(I) it is provided in conjunction with clear and
+>                    16 prominent disclosure in writing to a plan, plan par17 ticipant, or beneficiary that the person providing the
+>                    18 communication is doing so in its marketing or sales
+>                    19 capacity, including any communication regarding the
+>                    20 terms and conditions of the engagement of the per21 son providing the communication, and that the per22 son is not intending to provide investment advice
+>                    23 within the meaning of this subparagraph or to other24 wise act within and under the obligations of the best
+>                    25 interest standard as described in this subparagraph;
+>        g:\VHLC\060717\060717.079.x(646849|8)
+> VerDate 0ct 012:17 Jun 0Jkt 0000PO 000Frm 0000Fmt 66Sfmt 62C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                  7
+>                    1 ‘‘(II) the person providing the communication is
+>                    2 a current or potential counterparty or service pro3 vider to the plan in connection with any transaction
+>                    4 based on the communication, but only if—
+>                    5 ‘‘(aa) the plan is represented, in connection
+>                    6 with such transaction, by a plan fiduciary that
+>                    7 is independent of the person providing the com8 munication, and, except in the case of a swap
+>                    9 (as defined in section 1a of the Commodity Ex10 change Act (7 U.S.C. 1a) or security-based
+>                   11 swap (as defined in section 3(a) of the Securi12 ties Exchange Act (15 U.S.C. 78c(a))), inde13 pendent of the plan sponsor; and
+>                   14 ‘‘(bb) prior to such transaction, the inde15 pendent plan fiduciary represents in writing to
+>                   16 the person providing the communication that it
+>                   17 is aware that the person has a financial interest
+>                   18 in the transaction and that it has determined
+>                   19 that the person is not intending to provide in20 vestment advice within the meaning of this sub21 paragraph or to otherwise act as a fiduciary to
+>                   22 the plan subject to section 404;
+>                   23 ‘‘(III) the person providing the communication
+>                   24 is an employee of any sponsoring employer or affil25 iate or employee organization who provides the comg:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 0Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                  8
+>                    1 munication to the plan for no fee or other compensa2 tion other than the employee’s normal compensation;
+>                    3 ‘‘(IV) the person providing the communication
+>                    4 discloses in writing to the plan fiduciary that the
+>                    5 person is not undertaking to provide investment ad6 vice as a fiduciary to the plan subject to section 404
+>                    7 and the communication consists solely of—
+>                    8 ‘‘(aa) making available to the plan, without
+>                    9 regard to the individualized needs of the plan,
+>                   10 securities or other property or investment prod11 ucts through a platform or similar mechanism
+>                   12 from which a plan fiduciary may select or mon13 itor investment alternatives; or
+>                   14 ‘‘(bb) in connection with a platform or
+>                   15 similar mechanism described in item (aa)—
+>                   16 ‘‘(AA) identifying investment alter17 natives that meet objective criteria speci18 fied by the plan, such as criteria con19 cerning expense ratios, fund sizes, types of
+>                   20 asset, or credit quality;
+>                   21 ‘‘(BB) providing objective financial
+>                   22 data and comparisons with independent
+>                   23 benchmarks to the plan; or
+>                   24 ‘‘(CC) identifying a sample set of in25 vestment alternatives based on the plan’s
+>        g:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 0Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                   9
+>                    1 stated criteria in response to an inquiry
+>                    2 from a plan fiduciary;
+>                    3 ‘‘(V) the communication consists solely of valu4 ation information; or
+>                    5 ‘‘(VI) the communication consists solely of—
+>                    6 ‘‘(aa) information described in Department
+>                    7 of Labor Interpretive Bulletin 96–1 (29 C.F.R.
+>                    8 2509.96–1, as in effect on January 1, 2015),
+>                    9 regardless of whether such education is pro10 vided to a plan or plan fiduciary or a partici11 pant or beneficiary;
+>                   12 ‘‘(bb) information provided to participants
+>                   13 or beneficiaries regarding the factors to con14 sider in deciding whether to elect to receive a
+>                   15 distribution from a plan or an individual retire16 ment plan (as defined in section 7701(a)(37) of
+>                   17 the Internal Revenue Code of 1986) and wheth18 er to roll over such distribution to a plan or an
+>                   19 individual retirement plan (as defined in section
+>                   20 7701(a)(37) of the Internal Revenue Code of
+>                   21 1986), so long as any examples of different dis22 tribution alternatives are accompanied by all
+>                   23 material facts and assumptions on which the
+>                   24 examples are based; or
+>        g:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 07Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                  10
+>                    1 ‘‘(cc) any additional information treated as
+>                    2 education by the Secretary.’’.
+>                    3 (2) EXEMPTION RELATING TO INVESTMENT AD4 VICE .—Section 408(b) of the Employee Retirement
+>                    5 Income Security Act of 1974 is amended by adding
+>                    6 at the end the following:
+>                    7 ‘‘(21)(A) Any transaction, including a contract
+>                    8 for service, between a person providing investment
+>                    9 advice described in section 3(21)(A)(ii) and the ad10 vice recipient in connection with such investment ad11 vice, and any transaction consisting of the provision
+>                   12 of such investment advice, if the following conditions
+>                   13 are satisfied:
+>                   14 ‘‘(i) No more than reasonable compensa15 tion is paid (as determined under section
+>                   16 408(b)(2)) for such investment advice.
+>                   17 ‘‘(ii) If the investment advice is based on
+>                   18 a limited range of investment options (which
+>                   19 may consist, in whole or in part, of proprietary
+>                   20 products), such limitations shall be clearly dis21 closed to the advice recipient prior to any trans22 action based on the investment advice in the
+>                   23 form of a notice that only states the following:
+>                   24 ‘This recommendation is based on a limited
+>                   25 range of investment options, and the same or
+>        g:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 0Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                  11
+>                    1 similar investments may be available at a dif2 ferent cost (greater or lesser) from other
+>                    3 sources.’.
+>                    4 ‘‘(iii) If the investment advice may result
+>                    5 in variable compensation to the person pro6 viding the investment advice (or any affiliate of
+>                    7 such person), the receipt of such compensation
+>                    8 shall be clearly disclosed to the advice recipient
+>                    9 prior to any transaction based on the invest10 ment advice. For purposes of this subpara11 graph, clear disclosure of variable compensation
+>                   12 shall include, in a manner calculated to be un13 derstood by the average individual, each of the
+>                   14 following:
+>                   15 ‘‘(I) A notice that states only the fol16 lowing: ‘This recommendation may result
+>                   17 in varying amounts of fees or other com18 pensation to the person providing the rec19 ommendation (or its affiliate), and the
+>                   20 same or similar investments may be avail21 able at a different cost (greater or lesser)
+>                   22 from other sources.’. Any regulations or
+>                   23 administrative guidance implementing this
+>                   24 subclause may not require this notice to be
+>                   25 updated more than annually.
+>        g:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 07Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                  12
+>                    1 ‘‘(II) A description of any fee or other
+>                    2 compensation that is directly or indirectly
+>                    3 payable to the person (or its affiliate) by
+>                    4 the advice recipient with respect to such
+>                    5 transaction (expressed as an amount, for6 mula, percentage of assets, per capita
+>                    7 charge, or estimate or range of such com8 pensation).
+>                    9 ‘‘(III) A description of the types and
+>                   10 ranges of any compensation that are rea11 sonably expected to be directly or indirectly
+>                   12 payable to the person (or its affiliate) by
+>                   13 any third party in connection with such
+>                   14 transaction (expressed as an amount, for15 mula, percentage of assets, per capita
+>                   16 charge, or estimate or range of such com17 pensation).
+>                   18 ‘‘(IV) Upon request of the advice re19 cipient, a disclosure of the specific
+>                   20 amounts of compensation described in
+>                   21 clause (iii) that the person will receive in
+>                   22 connection with the particular transaction
+>                   23 (expressed as an amount, formula, percent24 age of assets, per capita charge, or esti25 mate of such compensation).
+>        g:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 07Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>       G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                13
+>                   1 ‘‘(B) No recommendation will fail to satisfy the
+>                   2 conditions described in clauses (i) through (iii) of
+>                   3 subparagraph (A) solely because the person, acting
+>                   4 in good faith and with reasonable diligence, makes
+>                   5 an error or omission in disclosing the information
+>                   6 specified in such clauses, provided that the person
+>                   7 discloses the correct information to the advice recipi8 ent as soon as practicable, but not later than 30
+>                   9 days from the date on which the person knows of
+>                  10 such error or omission.
+>                  11 ‘‘(C) Any notice provided pursuant to a require12 ment under clause (ii) or clause (iii)(I) of subpara13 graph (A) shall have no effect on any other notice
+>                  14 otherwise required without regard to this title, and
+>                  15 shall be provided in addition to, and not in lieu of,
+>                  16 any other such notice.
+>                  17 ‘‘(D) For purposes of this paragraph, the term
+>                  18 ‘affiliate’ has the meaning given in subsection
+>                  19 (g)(11)(B).’’.
+>                  20 (b) AMENDMENTS TO THE INTERNAL REVENUE
+>                  21 CODE OF 1986.—
+>                  22 (1) EXEMPTION FOR INVESTMENT ADVICE
+>                  23 WHICH IS BEST INTEREST RECOMMENDATION .—Sec24 tion 4975(d) of the Internal Revenue Code of 1986
+>                  25 is amended by striking ‘‘or’’ at the end of paragraph
+>       g:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun Jkt 000PO 000Frm 000Fmt 6Sfmt 62C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                  14
+>                    1 (22), by striking the period at the end of paragraph
+>                    2 (23) and inserting ‘‘, or’’, and by inserting after
+>                    3 paragraph (23) the following:
+>                    4 ‘‘(24) provision of investment advice by a fidu5 ciary to a plan, plan participant, or beneficiary with
+>                    6 respect to the plan, which is a best interest rec7 ommendation or a transaction connected to such ad8 vice.’’.
+>                    9 (2) INVESTMENT ADVICE ; BEST INTEREST REC10 OMMENDATION .—Section 4975(e) of such Code is
+>                   11 amended by adding at the end the following:
+>                   12 ‘‘(10) INVESTMENT ADVICE .—
+>                   13 ‘‘(A) IN GENERAL .—For purposes of this
+>                   14 section, the term ‘investment advice’ means a
+>                   15 recommendation, communicated electronically,
+>                   16 on paper, or orally, that—
+>                   17 ‘‘(i) relates to—
+>                   18 ‘‘(I) the advisability of acquiring,
+>                   19 holding, disposing, or exchanging any
+>                   20 moneys or other property of a plan by
+>                   21 the plan, plan participants, or plan
+>                   22 beneficiaries, including any rec23 ommendation whether to take a dis24 tribution of benefits from such plan or
+>                   25 any recommendation relating to the
+>        g:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 0Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                  15
+>                    1 investment of any moneys or other
+>                    2 property of such plan to be distrib3 uted from such plan;
+>                    4 ‘‘(II) the management of moneys
+>                    5 or other property of such plan, includ6 ing recommendations relating to the
+>                    7 management of moneys or other prop8 erty to be distributed from such plan;
+>                    9 or
+>                   10 ‘‘(III) the advisability of retain11 ing or ceasing to retain a person who
+>                   12 would receive a fee or other com13 pensation for providing any of the
+>                   14 types of advice described in this sub15 clause; and
+>                   16 ‘‘(ii) is rendered pursuant to—
+>                   17 ‘‘(I) a written acknowledgment,
+>                   18 provided electronically or on paper,
+>                   19 that the person is a fiduciary with re20 spect to the provision of such rec21 ommendation; or
+>                   22 ‘‘(II) a mutual agreement, ar23 rangement, or understanding which
+>                   24 may include limitations on scope, tim25 ing, and responsibility to provide ong:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 0Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                 16
+>                    1 going monitoring or advice services,
+>                    2 between the person making such rec3 ommendation and the plan, plan par4 ticipant, or beneficiary that such rec5 ommendation is individualized to the
+>                    6 plan, plan participant, or beneficiary
+>                    7 and such plan, plan participant, or
+>                    8 beneficiary intends to materially rely
+>                    9 on such recommendation in making
+>                   10 investment or management decisions
+>                   11 with respect to any moneys or other
+>                   12 property of such plan.
+>                   13 ‘‘(B) DISCLAIMER OF A MUTUAL AGREE14 MENT , ARRANGEMENT , OR UNDERSTANDING .—
+>                   15 For purposes of subparagraph (A)(ii)(II), any
+>                   16 disclaimer of a mutual agreement, arrangement,
+>                   17 or understanding shall state only the following:
+>                   18 ‘This communication is not individualized to
+>                   19 you, and you are not intended to rely materially
+>                   20 on this communication in making investment or
+>                   21 management decisions.’. Such disclaimer shall
+>                   22 not be effective unless such disclaimer is in
+>                   23 writing and is communicated in a clear and
+>                   24 prominent manner and an objective person
+>                   25 would reasonably conclude that, based on all
+>        g:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                17
+>                    1 the facts and circumstances, there was not a
+>                    2 mutual agreement, arrangement, or under3 standing.
+>                    4 ‘‘(C) WHEN RECOMMENDATION TREATED
+>                    5 AS MADE PURSUANT TO A MUTUAL AGREE6 MENT , ARRANGEMENT , OR UNDERSTANDING .—
+>                    7 For purposes of subparagraph (A)(ii)(II), a
+>                    8 communication shall not be treated as a rec9 ommendation made pursuant to a mutual
+>                  10 agreement, arrangement, or understanding, if
+>                  11 such communication contains the disclaimer re12 quired by subparagraph (B), and—
+>                  13 ‘‘(i) SELLER ’S EXCEPTION .—The
+>                  14 communication is provided in conjunction
+>                  15 with clear and prominent disclosure in
+>                  16 writing to a plan, plan participant, or ben17 eficiary that the person providing the com18 munication is doing so in its marketing or
+>                  19 sales capacity, including any communica20 tion regarding the terms and conditions of
+>                  21 the engagement of the person providing
+>                  22 the communication, and that the person is
+>                  23 not intending to provide investment advice
+>                  24 within the meaning of this subparagraph
+>                  25 or to otherwise act as a fiduciary to the
+>        g:\VHLC\060717\060717.07(646849|8)
+> VerDate 0ct 12:17 Jun 0Jkt 00PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                 18
+>                    1 plan or under the obligations of a best in2 terest recommendation.
+>                    3 ‘‘(ii) ERTAIN COUNTERPARTIES OR
+>                    4 SERVICE PROVIDERS .—The person pro5 viding the communication is a current or
+>                    6 potential counterparty or service provider
+>                    7 to the plan in connection with any trans8 action based on the communication, but
+>                    9 only if—
+>                   10 ‘‘(I) the plan is represented, in
+>                   11 connection with such transaction, by a
+>                   12 plan fiduciary that is independent of
+>                   13 the person providing the communica14 tion, and, except in the case of a swap
+>                   15 (as defined in section 1a of the Com16 modity Exchange Act (7 U.S.C. 1a) or
+>                   17 security-based swap (as defined in
+>                   18 section 3(a) of the Securities Ex19 change Act (15 U.S.C. 78c(a))), inde20 pendent of the plan sponsor; and
+>                   21 ‘‘(II) prior to entering into such
+>                   22 transaction, the independent plan fi23 duciary represents in writing to the
+>                   24 person providing the communication
+>                   25 that it is aware that the person has a
+>        g:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                 19
+>                    1 financial interest in the transaction
+>                    2 and that it has determined that the
+>                    3 person is not intending to provide in4 vestment advice within the meaning of
+>                    5 this subparagraph or to otherwise act
+>                    6 as a fiduciary to the plan, plan par7 ticipants, or plan beneficiaries.
+>                    8 ‘‘(iii) MPLOYEES OF A PLAN SPON9 SOR .—The person providing the commu10 nication is an employee of any sponsoring
+>                   11 employer or affiliate or employee organiza12 tion who provides the communication to
+>                   13 the plan for no fee or other compensation
+>                   14 other than the employee’s normal com15 pensation.
+>                   16 ‘‘(iv) PLATFORM PROVIDERS SELEC17 TION AND MONITORING ASSISTANCE .—The
+>                   18 person providing the communication dis19 closes in writing to the plan fiduciary that
+>                   20 the person is not undertaking to provide
+>                   21 investment advice as a fiduciary (within
+>                   22 the meaning of this paragraph) or under
+>                   23 the obligations of a best interest rec24 ommendation and the communication con25 sists solely of—
+>        g:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                  20
+>                    1 ‘‘(I) making available to the plan,
+>                    2 plan participants, or plan bene3 ficiaries, without regard to the indi4 vidualized needs of the plan, plan par5 ticipants, or plan beneficiaries, securi6 ties or other property or investment
+>                    7 products through a platform or simi8 lar mechanism from which a plan fi9 duciary may select or monitor invest10 ment alternatives, or
+>                   11 ‘‘(II) in connection with a plat12 form or similar mechanism described
+>                   13 in subclause (I)—
+>                   14 ‘‘(aa) identifying investment
+>                   15 alternatives that meet objective
+>                   16 criteria specified by the plan,
+>                   17 such as criteria concerning ex18 pense ratios, fund sizes, types of
+>                   19 asset, or credit quality,
+>                   20 ‘‘(bb) providing objective fi21 nancial data and comparisons
+>                   22 with independent benchmarks to
+>                   23 the plan, or
+>                   24 ‘‘(cc) identifying a sample
+>                   25 set of investment alternatives
+>        g:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 07Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                 21
+>                    1 based on the plan’s stated cri2 teria in response to an inquiry
+>                    3 from a plan fiduciary.
+>                    4 ‘‘(v) VALUATION .—The communica5 tion consists solely of valuation informa6 tion.
+>                    7 ‘‘(vi) FINANCIAL EDUCATION .—The
+>                    8 communication consists solely of—
+>                    9 ‘‘(I) information described in De10 partment of Labor Interpretive Bul11 letin 961 (29 C.F.R. 2509.961, as in
+>                   12 effect on January 1, 2015), regardless
+>                   13 of whether such education is provided
+>                   14 to a plan or plan fiduciary or a partic15 ipant or beneficiary,
+>                   16 ‘‘(II) information provided to
+>                   17 participants or beneficiaries regarding
+>                   18 the factors to consider in deciding
+>                   19 whether to elect to receive a distribu20 tion from a plan and whether to roll
+>                   21 over such distribution to a plan, so
+>                   22 long as any examples of different dis23 tribution alternatives are accompanied
+>                   24 by all material facts and assumptions
+>                   25 on which the examples are based, or
+>        g:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                22
+>                    1 ‘‘(III) any additional information
+>                    2 treated as education by the Secretary.
+>                    3 ‘‘(11) BEST INTEREST RECOMMENDATION .—
+>                    4 For purposes of this subsection—
+>                    5 ‘‘(A) IN GENERAL .—The term ‘best inter6 est recommendation’ means a recommenda7 tion—
+>                    8 ‘‘(i) for which no more than reason9 able compensation is paid (as determined
+>                  10 under subsection (d)(2)),
+>                  11 ‘‘(ii) provided by a person acting with
+>                  12 the care, skill, prudence, and diligence
+>                  13 under the circumstances then prevailing
+>                  14 that a prudent person would exercise based
+>                  15 on—
+>                  16 ‘‘(I) the information obtained
+>                  17 through the reasonable diligence of
+>                  18 the person regarding factors such as
+>                  19 the advice recipient’s age, and
+>                  20 ‘‘(II) any other information that
+>                  21 the advice recipient discloses to the
+>                  22 person in connection with receiving
+>                  23 such recommendation, and
+>        g:\VHLC\060717\060717.07(646849|8)
+> VerDate 0ct 12:17 Jun 0Jkt 00PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                  23
+>                    1 ‘‘(iii) where the person places the in2 terests of the plan or advice recipient
+>                    3 above its own.
+>                    4 ‘‘(B) INVESTMENT OPTIONS ; VARIABLE
+>                    5 COMPENSATION .—A best interest recommenda6 tion may include a recommendation that—
+>                    7 ‘‘(i) is based on a limited range of in8 vestment options (which may consist, in
+>                    9 whole or in part, of proprietary products),
+>                   10 but only if any such limitations shall be
+>                   11 clearly disclosed to the advice recipient
+>                   12 prior to any transaction based on the in13 vestment advice in the form of a notice
+>                   14 that only states the following: ‘This rec15 ommendation is based on a limited range
+>                   16 of investment options, and the same or
+>                   17 similar investments may be available at a
+>                   18 different cost (greater or lesser) from other
+>                   19 sources.’, or
+>                   20 ‘‘(ii) may result in variable compensa21 tion to the person providing the rec22 ommendation (or any affiliate of such per23 son), but only if the receipt of such com24 pensation shall be clearly disclosed to the
+>        g:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 0Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                  24
+>                    1 advice recipient prior to any transaction
+>                    2 based on the investment advice.
+>                    3 ‘‘(C) CLEAR DISCLOSURE OF VARIABLE
+>                    4 COMPENSATION .—For purposes of this para5 graph, clear disclosure of variable compensation
+>                    6 shall include, in a manner calculated to be un7 derstood by the average individual, each of the
+>                    8 following:
+>                    9 ‘‘(i) A notice that states only the fol10 lowing: ‘This recommendation may result
+>                   11 in varying amounts of fees or other com12 pensation to the person providing the rec13 ommendation (or its affiliate), and the
+>                   14 same or similar investments may be avail15 able at a different cost (greater or lesser)
+>                   16 from other sources.’. Any regulations or
+>                   17 administrative guidance implementing this
+>                   18 clause may not require this notice to be
+>                   19 updated more than annually.
+>                   20 ‘‘(ii) A description of any fee or other
+>                   21 compensation that is directly or indirectly
+>                   22 payable to the person (or its affiliate) by
+>                   23 the advice recipient with respect to such
+>                   24 transaction (expressed as an amount, for25 mula, percentage of assets, per capita
+>        g:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 0Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                 25
+>                    1 charge, or estimate or range of such com2 pensation).
+>                    3 ‘‘(iii) A description of the types and
+>                    4 ranges of any compensation that are rea5 sonably expected to be directly or indirectly
+>                    6 payable to the person (or its affiliate) by
+>                    7 any third party in connection with such
+>                    8 transaction (expressed as an amount, for9 mula, percentage of assets, per capita
+>                   10 charge, or estimate or range of such com11 pensation).
+>                   12 ‘‘(iv) Upon request of the advice re13 cipient, a disclosure of the specific
+>                   14 amounts of compensation described in
+>                   15 clause (iii) that the person will receive in
+>                   16 connection with the particular transaction
+>                   17 (expressed as an amount, formula, percent18 age of assets, per capita charge, or esti19 mate of such compensation).
+>                   20 ‘‘(D) DEFINITION OF AFFILIATE .—For
+>                   21 purposes of this paragraph, the term ‘affiliate’
+>                   22 has the meaning given in subsection
+>                   23 (f)(8)(J)(ii).
+>                   24 ‘‘(E) CORRECTION OF CERTAIN ERRORS
+>                   25 AND OMISSIONS .—A recommendation shall not
+>        g:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                26
+>                    1 fail to be a best interest recommendation solely
+>                    2 because a person who, acting in good faith and
+>                    3 with reasonable diligence, makes an error or
+>                    4 omission in disclosing the information specified
+>                    5 in subparagraph (B), if the person discloses the
+>                    6 correct information to the advice recipient as
+>                    7 soon as practicable but not later than 30 days
+>                    8 from the date on which the person knows of
+>                    9 such error or omission.
+>                  10 ‘‘(F) SPECIAL RULE .—Any notice provided
+>                  11 pursuant to a requirement under subparagraph
+>                  12 (B)(i) or subparagraph (C)(i) shall have no ef13 fect on any other notice otherwise required
+>                  14 without regard to this title, and shall be pro15 vided in addition to, and not in lieu of, any
+>                  16 other such notice.’’.
+>                  17 (3) FAILURES RELATING TO BEST INTEREST
+>                  18 RECOMMENDATION .—
+>                  19 (A) CORRECTION .—Section 4975(f)(5) of
+>                  20 such Code is amended—
+>                  21 (i) by striking ‘‘(5) CORRECTION22 The terms’’ and inserting:
+>                  23 ‘‘(5) CORRECTION .—
+>                  24 ‘‘(A) N GENERAL .—Except as provided in
+>                  25 subparagraph (B), the terms’’, and
+>        g:\VHLC\060717\060717.07(646849|8)
+> VerDate 0ct 12:17 Jun Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                  27
+>                    1 (ii) by adding at the end the fol2 lowing:
+>                    3 ‘‘(B) DETERMINATION OF CORRECTION ’
+>                    4 AND ‘CORRECT ’ WITH RESPECT TO BEST INTER5 EST ADVICE RECOMMENDATIONS .—In the case
+>                    6 of a prohibited transaction arising by the fail7 ure of investment advice to be a best interest
+>                    8 recommendation, the terms ‘correction’ and
+>                    9 ‘correct’ mean the payment to, or reimburse10 ment of, actual damages of the plan, plan par11 ticipants, or plan beneficiaries resulting directly
+>                   12 from the plan’s, plan participant’s, or plan
+>                   13 beneficiary’s reliance on such investment advice,
+>                   14 if any, that have not otherwise been paid or re15 imbursed to the plan, plan participants, or plan
+>                   16 beneficiaries, including payments and reim17 bursements made pursuant to subparagraph
+>                   18 (A) if such amount is greater than the amount
+>                   19 determined under subparagraph (A).’’.
+>                   20 (B) A MOUNT INVOLVED FOR PURPOSES OF
+>                   21 EXCISE TAX .—The first sentence of section
+>                   22 4975(f)(4) of such Code is amended by striking
+>                   23 ‘‘excess compensation.’’ and inserting ‘‘excess
+>                   24 compensation, and in the case of a prohibited
+>                   25 transaction arising by the failure of investment
+>        g:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 0Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>        G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                 28
+>                    1 advice to be a best interest recommendation,
+>                    2 the amount involved shall be the amount paid
+>                    3 to the person providing the advice (or its affil4 iate, as defined in paragraph (8)(J)(ii)) that
+>                    5 has not been paid or reimbursed to the plan,
+>                    6 plan participants, or plan beneficiaries, includ7 ing payments and reimbursements made pursu8 ant to paragraph (5).’’.
+>                    9 (c) EFFECTIVE DATE .—The amendments made by
+>                   10 subsections (a) and (b) shall take effect on the date of
+>                   11 the enactment of this Act and shall apply with respect to
+>                   12 communications provided or recommendations made on or
+>                   13 after 2 years after such date.
+>                   14 (d) GRANDFATHERED TRANSACTIONS AND S ERV15 ICES .—The amendments made by subsections (a) and (b)
+>                   16 shall not apply to any service or transaction rendered, en17 tered into, or for which a person has been compensated
+>                   18 prior to the date on which the amendments become effec19 tive under subsection (c).
+>                   20 (e) TRANSITION .—Until such time as regulations or
+>                   21 other guidance are issued to carry out the amendments
+>                   22 made by subsections (a) and (b), a plan or a fiduciary
+>                   23 shall be treated as meeting the requirements of such
+>                   24 amendments if the plan or fiduciary, as the case may be,
+>        g:\VHLC\060717\060717.079(646849|8)
+> VerDate 0ct 12:17 Jun 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM
+>          G:\CMTE\EW\15\ERISA\RET_ADVICE.XML
+>                                                                    29
+>                           1 complies with a reasonable good faith interpretation of
+>                           2 such amendments.
+>          g:\VHLC\060717\060717.079.xml (646849|8)
+>          June 7, 2017 (12:17 p.m.)
+> VerDate 0ct 09 2012:17 Jun 07, 2Jkt 00000PO 00000 Frm 00029 Fmt 6652Sfmt 6201C:\USERS\JWGROSS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\RET_AD~1.XM

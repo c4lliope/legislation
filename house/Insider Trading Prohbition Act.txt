@@ -1,0 +1,115 @@
+>        F:\BJY\114SEC\INSIDER\HIMES_03C.XML
+>                                                      .....................................................................
+>                                                          (Original Signature of Member)
+>                   114 TH CONGRESS
+>                       1ST SESSION
+>                                         H. R.ll
+>                   To amend the Securities Exchange Act of 1934 to prohibit certain securities
+>                       trading and related communications by those who possess material, non-public information.
+>                          IN THE HOUSE OF REPRESENTATIVES
+>                    Mr. HIMESintroduced the following bill; which was referred to the Committee
+>                                    on llllllllllllll
+>                                           A BILL
+>                   To amend the Securities Exchange Act of 1934 to prohibit
+>                       certain securities trading and related communications by
+>                       those who possess material, nonpublic information.
+>                    1 Be it enacted by the Senate and House of Representa2 tives of the United States of America in Congress assembled,
+>                    3 SECTION 1. SHORT TITLE.
+>                    4 This Act may be cited as the ‘‘Insider Trading Prohi5 bition Act’’.
+>        f:\VHLC\032415\032415.124(595881|4)
+> VerDate Nov 213:09 Mar 2Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\HIMES_~1.X
+>       F:\BJY\114SEC\INSIDER\HIMES_03C.XML
+>                                              2
+>                  1 SEC. 2. PROHIBITION ON INSIDER TRADING.
+>                  2 (a) N GENERAL .—The Securities Exchange Act of
+>                  3 1934 (15 U.S.C. 78a et seq.) is amended by adding after
+>                  4 section 16 the following new section:
+>                  5 ‘‘SEC. 16A. PROHIBITION ON INSIDER TRADING.
+>                  6 ‘‘(a) ROHIBITION AGAINST TRADING SECURITIES
+>                  7 WHILE IN POSSESSION OF MATERIAL , NONPUBLIC IN8 FORMATION .—It shall be unlawful for any person, directly
+>                  9 or indirectly, to purchase, sell, or enter into, or cause the
+>                 10 purchase or sale of or entry into, any security, security11 based swap, or security-based swap agreement, while in
+>                 12 possession of material, nonpublic information relating to
+>                 13 such security, security-based swap, or security-based swap
+>                 14 agreement, or relating to the market for such security, se15 curity-based swap, or security-based swap agreement, if
+>                 16 such person knows, or recklessly disregards, that such in17 formation has been obtained wrongfully, or that such pur18 chase, sale, or entry would constitute a wrongful use of
+>                 19 such information.
+>                 20 ‘‘(b) ROHIBITION AGAINST THE WRONGFUL COM21 MUNICATION OF CERTAIN MATERIAL , NONPUBLIC INFOR22 MATION .—It shall be unlawful for any person whose own
+>                 23 purchase or sale of a security, security-based swap, or
+>                 24 entry into a security-based swap agreement would violate
+>                 25 subsection (a) (referred to in this subsection as the ‘com26 municating person’), wrongfully to communicate material,
+>       f:\VHLC\032415\032415.1(595881|4)
+> VerDate Nov 13:09 Mar Jkt 00PO 000Frm 00Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\HIMES_~1.X
+>        F:\BJY\114SEC\INSIDER\HIMES_03C.XML
+>                                                 3
+>                    1 nonpublic information relating to such security, security2 based swap, or security-based swap agreement, or relating
+>                    3 to the market for such security, security-based swap, or
+>                    4 security-based swap agreement, to any other person if—
+>                    5 ‘‘(1) the other person—
+>                    6 ‘‘(A) purchases, sells, or causes the pur7 chase or sale of, any security or security-based
+>                    8 swap or enters into or causes the entry into any
+>                    9 security-based swap agreement, to which such
+>                  10 communication relates; or
+>                  11 ‘‘(B) communicates the information to an12 other person who makes or causes such a pur13 chase, sale, or entry while in possession of such
+>                  14 information; and
+>                  15 ‘‘(2) such a purchase, sale, or entry while in
+>                  16 possession of such information is reasonably foresee17 able.
+>                  18 ‘‘(c) STANDARD AND KNOWLEDGE REQUIREMENT .—
+>                  19 ‘‘(1) STANDARD .—For purposes of this section,
+>                  20 trading while in possession of material, nonpublic in21 formation under subsection (a) or communicating
+>                  22 material nonpublic information under subsection (b)
+>                  23 is wrongful only if the information has been obtained
+>                  24 by, or its communication or use would constitute, di25 rectly or indirectly—
+>        f:\VHLC\032415\032415.12(595881|4)
+> VerDate Nov 13:09 Mar 2Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\HIMES_~1.X
+>        F:\BJY\114SEC\INSIDER\HIMES_03C.XML
+>                                                  4
+>                    1 ‘‘(A) theft, bribery, misrepresentation, or
+>                    2 espionage (through electronic or other means)
+>                    3 ‘‘(B) a violation of any Federal law pro4 tecting computer data or the intellectual prop5 erty or privacy of computer users; or
+>                    6 ‘‘(C) conversion, misappropriation, or other
+>                    7 unauthorized and deceptive taking of such in8 formation, or a breach of any fiduciary duty or
+>                    9 any other personal or other relationship of trust
+>                   10 and confidence.
+>                   11 ‘‘(2) KNOWLEDGE REQUIREMENT .—It shall not
+>                   12 be necessary that the person trading while in posses13 sion of such information (as proscribed by sub14 section (a)), or making the communication (as pro15 scribed by subsection (b)), know the specific means
+>                   16 by which the information was obtained or commu17 nicated, or whether any personal benefit was paid or
+>                   18 promised by or to any person in the chain of com19 munication, so long as the person trading while in
+>                   20 possession of such information or making the com21 munication, as the case may be, was aware, or reck22 lessly disregarded that such information was wrong23 fully obtained or communicated.
+>                   24 ‘‘(d) DERIVATIVE LIABILITY .—Except as provided in
+>                   25 section 20(a), no person shall be liable under this section
+>        f:\VHLC\032415\032415.124(595881|4)
+> VerDate Nov 213:09 Mar 2Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\HIMES_~1.X
+>        F:\BJY\114SEC\INSIDER\HIMES_03C.XML
+>                                                   5
+>                     1 solely by reason of the fact that such person controls or
+>                     2 employs a person who has violated this section, if such
+>                     3 controlling person or employer did not participate in, prof4 it from, or directly or indirectly induce the acts consti5 tuting the violation of this section.
+>                     6 ‘‘(e) EXEMPTED TRANSACTIONS .—The Commission
+>                     7 may, by rule, exempt any person, security, or transaction,
+>                     8 or any class persons securities, or transactions, from any
+>                     9 or all of the provisions of this section, upon such terms
+>                   10 and conditions as it considers necessary or appropriate,
+>                   11 if the Commission determines that such action is not in12 consistent with the purposes of this section. The prohibi13 tions of this section shall not apply to any person who
+>                   14 acts at the specific direction of, and solely for the account
+>                   15 of, a person whose own securities trading, or communica16 tions of material, nonpublic information, would be lawful
+>                   17 under this section.’’.
+>                   18 (b) CONFORMING AMENDMENTS .—The Securities
+>                   19 Exchange Act of 1934 (15 U.S.C. 78a et seq.) is further
+>                   20 amended—
+>                   21 (1) in section 21(d)(2), by inserting ‘‘or section
+>                   22 16A,’’ after ‘‘section 10(b) of this title’’;
+>                   23 (2) in section 21A—
+>                   24 (A) in subsection (g)(1), by inserting ‘‘and
+>                   25 section 16A,’’ after ‘‘thereunder,’’; and
+>        f:\VHLC\032415\032415.124(595881|4)
+> VerDate Nov 213:09 Mar 2Jkt 000PO 0000Frm 000Fmt 66Sfmt 62C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\HIMES_~1.X
+>         F:\BJY\114SEC\INSIDER\HIMES_03C.XML
+>                                                             6
+>                        1 (B) in subsection (h)(1), by inserting ‘‘and
+>                        2 section 16A,’’ after ‘‘thereunder,’’; and
+>                        3 (3) in section 21C(f), by inserting ‘‘or section
+>                        4 16A,’’ after ‘‘section 10(b)’’.
+>         f:\VHLC\032415\032415.124.xml (595881|4)
+>         March 24, 2015 (1:09 p.m.)
+> VerDate Nov 24 13:09 Mar 24, Jkt 00000PO 00000Frm 0000Fmt 665Sfmt 620C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\HIMES_~1.X

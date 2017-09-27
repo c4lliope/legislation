@@ -1,0 +1,227 @@
+>        G:\M\15\LIEU\LIEU_027.XML
+>                                                     .....................................................................
+>                                                         (Original Signature of Member)
+>                   115TH CONGRESS
+>                      1ST SESSION
+>                                        H. R.ll
+>                    To increase cybersecurity education and job growth, and for other purposes.
+>                          IN THE HOUSE OF REPRESENTATIVES
+>                    Mr. TEDL IEUof California introduced the following bill; which was referred
+>                            to the Committee on llllllllllllll
+>                                          A BILL
+>                      To increase cybersecurity education and job growth, and
+>                                         for other purposes.
+>                    1 Be it enacted by the Senate and House of Representa2 tives of the United States of America in Congress assembled,
+>                    3 SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+>                    4 (a) SHORT TITLE .—This Act may be cited as the
+>                    5 ‘‘New Collar Jobs Act of 2017’’.
+>                    6 (b) TABLE OF CONTENTS .—The table of contents for
+>                    7 this Act is as follows:
+>                       Sec. 1. Short title; table of contents.
+>                       Sec. 2. Findings.
+>                       Sec. 3. Employee cybersecurity education.
+>                       Sec. 4. Student loan repayment for certain cybersecurity employees.
+>                       Sec. 5. CyberCorps scholarship-for-service program.
+>        g:\VHLC\071917\071917.294(658589|22)
+> VerDate 0ct 16:41 Jul 1Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\KCSWISS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIEU_027.XML
+>        G:\M\15\LIEU\LIEU_027.XML
+>                                                  2
+>                       Sec. 6. Increased funding for Advanced Technology Education program.
+>                       Sec. 7. Cybersecurity training incentive for Government contracts.
+>                    1 SEC. 2. FINDINGS.
+>                    2 Congress find the following:
+>                    3 (1) Domestic factory output has increased by
+>                    4 21 percent since June 2009, but manufacturing em5 ployment has only increased 5 percent during that
+>                    6 time, and has been flat since late 2014.
+>                    7 (2) As manufacturers leverage new technologies
+>                    8 from robotics to distributed control systems to create
+>                    9 modern factories and industrial plants, different em10 ployment requirements have emerged including the
+>                   11 need for cybersecurity talent.
+>                   12 (3) Leading cybersecurity experts have reported
+>                   13 spike of 250 percent in industrial automation and
+>                   14 control system cyberincidents occurring during the
+>                   15 period between 2011 and 2015 and as a result are
+>                   16 seeking personnel with knowledge of their industry
+>                   17 coupled with knowledge of security technology to
+>                   18 prevent their organization from becoming victims of
+>                   19 cyberattacks.
+>                   20 SEC. 3. EMPLOYEE CYBERSECURITY EDUCATION.
+>                   21 (a) IN GENERAL .—Subpart D of part IV of sub22 chapter A of chapter 1 of the Internal Revenue Code of
+>                   23 1986 is amended by adding at the end the following new
+>                   24 section:
+>        g:\VHLC\071917\071917.294(658589|22)
+> VerDate 0ct 16:41 Jul 1Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\KCSWISS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIEU_027.XML
+>       G:\M\15\LIEU\LIEU_027.XML
+>                                                3
+>                   1 ‘‘SEC. 45S. EMPLOYEE CYBERSECURITY EDUCATION.
+>                   2 ‘‘(a) N GENERAL .—For purposes of section 38, the
+>                   3 employee cybersecurity education credit determined under
+>                   4 this section for the taxable year is an amount equal to
+>                   5 50 percent of the aggregate qualified employee
+>                   6 cybersecurity education expenses paid or incurred by the
+>                   7 employer during such taxable year.
+>                   8 ‘‘(b) IMITATION .—The amount allowed as a credit
+>                   9 under subsection (a) for the taxable year with respect to
+>                  10 an employee shall not exceed $5,000.
+>                  11 ‘‘(c) UALIFIED EMPLOYEE C YBERSECURITY E DU12 CATION EXPENSES .—For purposes of this section, the
+>                  13 term ‘qualified employee cybersecurity education expenses’
+>                  14 means amounts paid or incurred for each employee who
+>                  15 earns a certificate or degree at the undergraduate or grad16 uate level or industryrecognized certification relating to
+>                  17 those specialty areas and work roles that are listed in
+>                  18 NCWF Work Roles in the document entitled, ‘NICE
+>                  19 Cybersecurity Workforce Framework (NCWF)’, published
+>                  20 by the National Initiative for Cybersecurity Education
+>                  21 (NICE) of the National Institute of Standards and Tech22 nology.
+>                  23 ‘‘(d) ERTAIN RULES TO APPLY .—Rules similar to
+>                  24 the rules of subsections (i)(1) and (k) of section 51 shall
+>                  25 apply for purposes of this section.’’.
+>       g:\VHLC\071917\071917.29(658589|22)
+> VerDate 0ct 16:41 Jul Jkt 00PO 000Frm 000Fmt 66Sfmt 6C:\USERS\KCSWISS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIEU_027.XML
+>       G:\M\15\LIEU\LIEU_027.XML
+>                                              4
+>                  1 (b) CREDIT MADE PART OF GENERAL BUSINESS
+>                  2 CREDIT.—Subsection (b) of section 38 of such Code is
+>                  3 amended by striking ‘‘plus’’ at the end of paragraph (35),
+>                  4 by striking the period at the end of paragraph (36) and
+>                  5 inserting ‘‘, plus’’, and by adding at the end the following
+>                  6 new paragraph:
+>                  7 ‘‘(37) the employee cybersecurity education
+>                  8 credit determined under section 45S(a).’’.
+>                  9 (c) DENIAL OF DOUBLE BENEFIT .—Subsection (a)
+>                 10 of section 280C of such Code is amended by inserting
+>                 11 ‘‘45S(a),’’ after ‘‘45P(a),’’.
+>                 12 (d) CLERICAL AMENDMENT .—The table of sections
+>                 13 for subpart D of part IV of subchapter A of chapter 1
+>                 14 of such Code is amended by adding at the end the fol15 lowing new item:
+>                     ‘‘Sec. 45S. Employee cybersecurity education.’’.
+>                 16 (e) EFFECTIVE DATE .—The amendments made by
+>                 17 this section shall apply to individuals commencing appren18 ticeship programs after the date of the enactment of this
+>                 19 Act.
+>                 20 SEC. 4. STUDENT LOAN REPAYMENT FOR CERTAIN
+>                 21 CYBERSECURITY EMPLOYEES.
+>                 22 Section 455 of the Higher Education Act of 1965 (20
+>                 23 U.S.C. 1087e) is amended by adding at the end the fol24 lowing:
+>       g:\VHLC\071917\071917.2(658589|22)
+> VerDate 0ct16:41 Jul Jkt 00PO 000Frm 00Fmt 66Sfmt 6C:\USERS\KCSWISS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIEU_027.XML
+>       G:\M\15\LIEU\LIEU_027.XML
+>                                               5
+>                   1 ‘‘(r) LAN REPAYMENT FOR CYBERSECURITY W ORK2 ERS IN ECONOMICALLY DISTRESSED AREA.—
+>                   3 ‘‘(1) N GENERAL .—The Secretary shall cancel
+>                   4 the amount described in paragraph (2) of the bal5 ance of interest and principal due, in accordance
+>                   6 with such paragraph, on any eligible Federal Direct
+>                   7 Loan not in default for a borrower who—
+>                   8 ‘‘(A) makes 36 consecutive monthly pay9 ments on the eligible Federal Direct Loan after
+>                  10 the date of the enactment of this section pursu11 ant to any one or a combination of the fol12 lowing—
+>                  13 ‘‘(i) payments under an income-based
+>                  14 repayment plan under section 493C;
+>                  15 ‘‘(ii) payments under a standard re16 payment plan under subsection (d)(1)(A),
+>                  17 based on a 10-year repayment period;
+>                  18 ‘‘(iii) monthly payments under a re19 payment plan under subsection (d)(1) or
+>                  20 (g) of not less than the monthly amount
+>                  21 calculated under subsection (d)(1)(A),
+>                  22 based on a 10-year repayment period; or
+>                  23 ‘‘(iv) payments under an income con24 tingent repayment plan under subsection
+>                  25 (d)(1)(D); and
+>       g:\VHLC\071917\071917.29(658589|22)
+> VerDate 0ct16:41 Jul Jkt 000PO 000Frm 00Fmt 66Sfmt 6C:\USERS\KCSWISS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIEU_027.XML
+>        G:\M\15\LIEU\LIEU_027.XML
+>                                                  6
+>                    1 ‘‘(B) during the period in which the bor2 rower makes each of the 36 consecutive month3 ly payments described in subparagraph (A), has
+>                    4 been employed in a cybersecurity job—
+>                    5 ‘‘(i) located in an area that, for at
+>                    6 least 12 of such consecutive monthly pay7 ments is an economically distressed area;
+>                    8 and
+>                    9 ‘‘(ii) that requires that the borrower
+>                   10 work in the economically distressed area no
+>                   11 less than 60 percent of total work hours.
+>                   12 ‘‘(2) CANCELLATION AMOUNT .—After the con13 clusion of the employment period described in para14 graph (1), the Secretary shall cancel the lesser of
+>                   15 the following:
+>                   16 ‘‘(A) The obligation to repay the balance of
+>                   17 principal and interest due as of the time of such
+>                   18 cancellation, on the eligible Federal Direct
+>                   19 Loans made to the borrower under this part.
+>                   20 ‘‘(B) $25,000.
+>                   21 ‘‘(3) INELIGIBILITY OF DOUBLE BENEFITS .—
+>                   22 No borrower may, for the same service, receive a re23 duction of loan obligations under both this sub24 section and—
+>                   25 ‘‘(A) subsection (m); or
+>        g:\VHLC\071917\071917.294(658589|22)
+> VerDate 0ct 16:41 Jul 1Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\KCSWISS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIEU_027.XML
+>        G:\M\15\LIEU\LIEU_027.XML
+>                                                 7
+>                    1 ‘‘(B) section 428J, 428K, 428L, or 460.
+>                    2 ‘‘(4) DEFINITIONS .—In this section:
+>                    3 ‘‘(A) C YBERSECURITY JOB .—The term
+>                    4 ‘cybersecurity job’ means—
+>                    5 ‘‘(i) a skill role as defined in the
+>                    6 NCWF Work Roles by the National Initia7 tive for Cybersecurity Education (NICE)
+>                    8 Cybersecurity Workforce Framework
+>                    9 (NCWF) of the National Institute of
+>                  10 Standards and Technology, Special Publi11 cation 800–181, or any successor docu12 ment; or
+>                  13 ‘‘(ii) teaching a cybersecurity course
+>                  14 for a skill role described in clause (i).
+>                  15 ‘‘(B) ECONOMICALLY DISTRESSED AREA .—
+>                  16 The term ‘economically distressed area’ means
+>                  17 an area that meets 1 or more criteria under
+>                  18 section 301(a) of the Public Works and Eco19 nomic Development Act of 1965 (42 U.S.C.
+>                  20 3161(a)).’’.
+>                  21 SEC. 5. CYBERCORPS SCHOLARSHIP-FOR-SERVICE PRO22 GRAM.
+>                  23 (a) FUNDING NCREASE .—It is the sense of the Con24 gress that the number of scholarships awarded by the Na25 tional Science Foundation for scholarships awarded under
+>        g:\VHLC\071917\071917.29(658589|22)
+> VerDate 0ct 16:41 Jul Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\KCSWISS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIEU_027.XML
+>       G:\M\15\LIEU\LIEU_027.XML
+>                                                8
+>                   1 the Federal cyber scholarship-for-service program estab2 lished by section 302 of the Cybersecurity Enhancement
+>                   3 Act of 2014 for fiscal year 2018 and each succeeding fiscal
+>                   4 year should be not less than double the number of such
+>                   5 scholarships awarded for fiscal year 2017.
+>                   6 (b) C YBERSECURITY COURSE INSTRUCTION .—Sec7 tion 302 of the Cybersecurity Enhancement Act of 2014
+>                   8 (15 U.S.C. 7442) is amended—
+>                   9 (1) in subsection (a), by striking ‘‘and security
+>                  10 managers’’ and inserting ‘‘security managers, and
+>                  11 cybersecurity course instructors,’’; and
+>                  12 (2) in subsection (d), by adding at the end the
+>                  13 following: ‘‘Such work may include teaching a
+>                  14 cybersecurity course for a skill role as defined in the
+>                  15 NCWF Work Roles by the National Initiative for
+>                  16 Cybersecurity Education (NICE) Cybersecurity
+>                  17 Workforce Framework (NCWF) of the National In18 stitute of Standards and Technology, Special Publi19 cation 800–181, or any successor document.’’.
+>                  20 (c) ELIMINATION OF PRIORITY FOR FEDERAL GOV21 ERNMENT EMPLOYMENT PLACEMENTS .—Section 302(b)
+>                  22 of such Act (15 U.S.C. 7442(b)) is amended—
+>                  23 (1) in paragraph (1), by adding ‘‘and’’ at the
+>                  24 end;
+>       g:\VHLC\071917\071917.29(658589|22)
+> VerDate 0ct 16:41 Jul Jkt 00PO 000Frm 000Fmt 66Sfmt 6C:\USERS\KCSWISS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIEU_027.XML
+>        G:\M\15\LIEU\LIEU_027.XML
+>                                                   9
+>                    1 (2) in paragraph (2), by striking ‘‘; and’’ and
+>                    2 inserting a period; and
+>                    3 (3) by striking paragraph (3).
+>                    4 SEC. 6. INCREASED FUNDING FOR ADVANCED TECH5 NOLOGY EDUCATION PROGRAM.
+>                    6 It is the Sense of the Congress that the amount ex7 pended for the Information technology and Cybersecurity
+>                    8 division of the Advanced Technological Education pro9 gram of the National Science Foundation established by
+>                   10 section 3(a) of the Scientific and AdvancedTechnology
+>                   11 Act of 1992 (Public Law 102–476) for fiscal year 2018
+>                   12 should be an amount equal to not less than 110 percent
+>                   13 of the amount expended for such division for fiscal year
+>                   14 2017.
+>                   15 SEC. 7. CYBERSECURITY TRAINING INCENTIVE FOR GOV16 ERNMENT CONTRACTS.
+>                   17 (a) N GENERAL .—Subpart 15.3 of the Federal Ac18 quisition Regulation shall be revised to require, in the eval19 uation of a competitive proposal received in response to
+>                   20 a solicitation for a contract valued in excess of
+>                   21 $5,000,000, that the head of an executive agency award
+>                   22 a five percent score increase to each competitive proposal
+>                   23 submitted by a qualified offeror.
+>                   24 (b) DEFINITIONS .—In this section:
+>        g:\VHLC\071917\071917.294(658589|22)
+> VerDate 0ct 16:41 Jul 1Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\KCSWISS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIEU_027.XML
+>        G:\M\15\LIEU\LIEU_027.XML
+>                                                    10
+>                     1 (1) EXECUTIVE AGENCY .—The term ‘‘executive
+>                     2 agency’’ has the meaning given that term in section
+>                     3 102 of title 40, United States Code.
+>                     4 (2) QUALIFIED OFFEROR .—The term ‘‘qualified
+>                     5 offeror’’ means a business that has claimed the em6 ployee cybersecurity education credit under section
+>                     7 45S of the Internal Revenue Code of 1986, as added
+>                     8 by section 3, at least once within the threeyear pe9 riod preceding the date on which the business sub10 mits a competitive proposal for a contract valued in
+>                    11 excess of $5,000,000.
+>        g:\VHLC\071917\071917.294.x(658589|22)
+> VerDate 0ct 016:41 Jul 1Jkt 0000PO 000Frm 0001Fmt 66Sfmt 62C:\USERS\KCSWISS\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\LIEU_027.XML

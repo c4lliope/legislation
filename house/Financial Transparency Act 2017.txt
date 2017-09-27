@@ -1,0 +1,1110 @@
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                                       [∼114H2477]
+>                                                    .....................................................................
+>                                                        (Original Signature of Member)
+>                  115 TH CONGRESS
+>                      1ST SESSION H. R.ll
+>                  To amend securities, commodities, and banking laws to make the information
+>                      reported to financial regulatory agencies electronically searchable, to enable RegTech applications, and for other purposes.
+>                          IN THE HOUSE OF REPRESENTATIVES
+>                    Mr. SSAintroduced the following bill; which was referred to the Committee
+>                                   on llllllllllllll
+>                                         A BILL
+>                  To amend securities, commodities, and banking laws to make
+>                       the information reported to financial regulatory agencies
+>                       electronically searchable, to enable RegTech applications,
+>                       and for other purposes.
+>                    1 Be it enacted by the Senate and House of Representa2 tives of the United States of America in Congress assembled,
+>                    3 SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+>                    4 (a) SHORT TITLE .—This Act may be cited as the
+>                    5 ‘‘Financial Transparency Act of 2017’’.
+>                    6 (b) TABLE OF CONTENTS .—The table of contents for
+>                    7 this Act is as follows:
+>        G:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 16:13 Mar 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>          G:\M\15\ISSA\ISSA_006.XML
+>                                                                  2
+>                              Sec. 1. Short title; table of contents.
+>                                            TITLE I—DEPARTMENT OF THE TREASURY
+>                              Sec. 101. Data standards.
+>                              Sec. 102. Open data publication by the Department of the Treasury.
+>                              Sec. 103. Rulemaking.
+>                              Sec. 104. Classified and protected information.
+>                              Sec. 105. No new disclosure requirements.
+>                              Sec. 106. Conforming amendments to the Office of Financial Research.
+>                                      TITLE II—SECURITIES AND EXCHANGE COMMISSION
+>                              Sec. 201. Data standards requirements for the Securities and Exchange Commission.
+>                              Sec. 202. Open data publication by the Securities and Exchange Commission.
+>                              Sec. 203. Data transparency at the Municipal Securities Rulemaking Board.
+>                              Sec. 204. Data transparency at national securities associations.
+>                              Sec. 205. Shorterterm burden reduction and disclosure simplification at the
+>                                               Securities and Exchange Commission; sunset.
+>                              Sec. 206. No new disclosure requirements.
+>                                   TITLE III—FEDERAL DEPOSIT INSURANCE CORPORATION
+>                              Sec. 301. Data standards requirements for the Federal Deposit Insurance Corporation.
+>                              Sec. 302. Open data publication by the Federal Deposit Insurance Corporation.
+>                              Sec. 303. Rulemaking.
+>                              Sec. 304. No new disclosure requirements.
+>                                TITLE IV—OFFICE OF THE COMPTROLLER OF THE CURRENCY
+>                              Sec. 401. Data standards and open data publication requirements for the Office
+>                                               of the Comptroller of the Currency.
+>                              Sec. 402. Rulemaking.
+>                              Sec. 403. No new disclosure requirements.
+>                                  TITLE V—BUREAU OF CONSUMER FINANCIAL PROTECTION
+>                              Sec. 501. Data standards and open data publication requirements for the Bureau of Consumer Financial Protection.
+>                              Sec. 502. Rulemaking.
+>                              Sec. 503. No new disclosure requirements.
+>                                              TITLE VI—FEDERAL RESERVE SYSTEM
+>                              Sec. 601. Data standards requirements for the Board of Governors of the Federal Reserve System.
+>                              Sec. 602. Open data publication by the Board of Governors of the Federal Reserve System.
+>                              Sec. 603. Rulemaking.
+>                              Sec. 604. No new disclosure requirements.
+>                                    TITLE VII—COMMODITY FUTURES TRADING COMMISSION
+>                              Sec. 701. Data standards.
+>                              Sec. 702. Open data publication by the Commodity Futures Trading Commission.
+>          G:\VHLC\030817\030817.252.xml (646127|7)
+>          March 8, 2017 (4:13 p.m.)
+> VerDate Nov 24 2016:13 Mar 08, 2Jkt 00000PO 00000Frm 00002Fmt 6652 Sfmt 621C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                   3
+>                       Sec. 703. Rulemaking.
+>                       Sec. 704. No new disclosure requirements.
+>                            TITLE VIII—NATIONAL CREDIT UNION ADMINISTRATION
+>                       Sec. 801. Data standards.
+>                       Sec. 802. Open data publication by the National Credit Union Administration.
+>                       Sec. 803. Rulemaking.
+>                       Sec. 804. No new disclosure requirements.
+>                               TITLE IX—FEDERAL HOUSING FINANCE AGENCY
+>                       Sec. 901. Data standards requirements for the Federal Housing Finance Agency.
+>                       Sec. 902. Open data publication by the Federal Housing Finance Agency.
+>                       Sec. 903. Rulemaking.
+>                       Sec. 904. No new disclosure requirements.
+>                    1 TITLE I—DEPARTMENT OF THE
+>                    2 TREASURY
+>                    3 SEC. 101. DATA STANDARDS.
+>                    4 (a) N GENERAL .—Subtitle A of title I of the Finan5 cial Stability Act of 2010 (12 U.S.C. 5311 et seq.) is
+>                    6 amended by adding at the end the following:
+>                    7 ‘‘SEC. 124. DATA STANDARDS.
+>                    8 ‘‘(a) N GENERAL .—The Secretary of the Treasury
+>                    9 shall, by rule, promulgate data standards for the informa10 tion reported to member agencies by financial entities
+>                   11 under the jurisdiction of the member agency and the data
+>                   12 collected from member agencies on behalf of the Council.
+>                   13 ‘‘(b) TANDARDIZATION .—Member agencies, in con14 sultation with the Secretary of the Treasury, shall imple15 ment regulations promulgated by the Secretary of the
+>                   16 Treasury under subsection (a) to standardize the types
+>                   17 and formats of data reported to member agencies or col18 lected on behalf of the Council, as described under subG:\VHLC\030817\030817.252.(646127|7)
+> VerDate Nov 216:13 Mar 0Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                  4
+>                    1 section (a). If a member agency fails to implement such
+>                    2 regulations prior to the expiration of the 3-year period fol3 lowing the date of publication of final regulations, the Sec4 retary of the Treasury, in consultation with the Chair5 person, may implement such regulations with respect to
+>                    6 the financial entities under the jurisdiction of the member
+>                    7 agency.
+>                    8 ‘‘(c) DATA STANDARDS .—
+>                    9 ‘‘(1) COMMON IDENTIFIERS AND DATA FOR10 MATS .—The data standards promulgated under sub11 section (a) shall include—
+>                   12 ‘‘(A) common identifiers for information
+>                   13 reported to member agencies or collected on be14 half of the Council, including a common legal
+>                   15 entity identifier for all entities required to re16 port to member agencies; and
+>                   17 ‘‘(B) common data formats for information
+>                   18 reported to member agencies or collected on be19 half of the Council.
+>                   20 ‘‘(2) DATA STANDARD REQUIREMENTS .—The
+>                   21 data standards promulgated under subsection (a)
+>                   22 shall, to the extent practicable—
+>                   23 ‘‘(A) render information fully searchable
+>                   24 and machinereadable;
+>                   25 ‘‘(B) be nonproprietary;
+>        G:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 216:13 Mar 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                  5
+>                    1 ‘‘(C) incorporate standards developed and
+>                    2 maintained by voluntary consensus standards
+>                    3 bodies; and
+>                    4 ‘‘(D) be consistent with and implement ap5 plicable accounting and reporting principles.
+>                    6 ‘‘(3) CONSULTATION .—In promulgating data
+>                    7 standards under subsection (a), the Secretary of the
+>                    8 Treasury shall consult with other Federal depart9 ments and agencies and multi-agency initiatives re10 sponsible for Federal data standards.
+>                   11 ‘‘(4) NTEROPERABILITY OF DATA .—In promul12 gating data standards under subsection (a), the Sec13 retary of the Treasury shall seek to promote inter14 operability of financial regulatory data across mem15 bers of the Council.’’.
+>                   16 (b) CLERICAL AMENDMENT .—The table of contents
+>                   17 under section 1(b) of the DoddFrank Wall Street Reform
+>                   18 and Consumer Protection Act is amended by inserting
+>                   19 after the item relating to section 123 the following:
+>                       ‘‘Sec. 124. Data standards.’’.
+>                   20 SEC. 102. OPEN DATA PUBLICATION BY THE DEPARTMENT
+>                   21 OF THE TREASURY.
+>                   22 Section 124 of the Financial Stability Act of 2010,
+>                   23 as added by section 101, is amended by adding at the end
+>                   24 the following:
+>        G:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 216:13 Mar 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                  6
+>                    1 ‘‘(d) OPEN DATA PUBLICATION .—All public informa2 tion published by the Secretary of the Treasury under this
+>                    3 subtitle shall be published as open data, freely available
+>                    4 for download in bulk, accessible via application program5 ming interface where appropriate, and offered without any
+>                    6 registration requirement or reuse restriction.’’.
+>                    7 SEC. 103. RULEMAKING.
+>                    8 Not later than the end of the 2-year period beginning
+>                    9 on the date of the enactment of this Act, the Secretary
+>                   10 of the Treasury shall issue the regulations required under
+>                   11 the amendments made by this title. The Secretary may
+>                   12 delegate the functions required under the amendments
+>                   13 made by this title to an appropriate office within the De14 partment of the Treasury.
+>                   15 SEC. 104. CLASSIFIED AND PROTECTED INFORMATION.
+>                   16 Nothing in this title or the amendments made by this
+>                   17 title shall require the disclosure to the public of—
+>                   18 (1) information that would be exempt from dis19 closure under section 552 of title 5, United States
+>                   20 Code (commonly known as the ‘‘Freedom of Infor21 mation Act’’); or
+>                   22 (2) information protected under section 552a of
+>                   23 title 5, United States Code (commonly known as the
+>                   24 ‘‘Privacy Act of 1974’’), or section 6103 of the In25 ternal Revenue Code of 1986.
+>        G:\VHLC\030817\030817.252.(646127|7)
+> VerDate Nov 216:13 Mar 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                   7
+>                    1 SEC. 105. NO NEW DISCLOSURE REQUIREMENTS.
+>                    2 Nothing in this title or the amendments made by this
+>                    3 title shall be construed to require the Secretary of the
+>                    4 Treasury to collect additional information under the stat5 utes amended by this title, beyond information that was
+>                    6 collected under such statutes before the date of the enact7 ment of this Act.
+>                    8 SEC. 106. CONFORMING AMENDMENTS TO THE OFFICE OF
+>                    9 FINANCIAL RESEARCH.
+>                   10 Section 153 of the Financial Stability Act of 2010
+>                   11 (12 U.S.C. 5343) is amended—
+>                   12 (1) in subsection (a)—
+>                   13 (A) by striking paragraph (2); and
+>                   14 (B) by redesignating paragraphs (3)
+>                   15 through (7) as paragraphs (2) through (6), re16 spectively; and
+>                   17 (2) by amending subsection (c) to read as fol18 lows:
+>                   19 ‘‘(c) ULEMAKING AUTHORITY .—The Office, in con20 sultation with the Chairperson, shall issue rules, regula21 tions, and orders only to the extent necessary to carry out
+>                   22 the purposes and duties described in paragraphs (1) and
+>                   23 (6) of subsection (a).’’.
+>        G:\VHLC\030817\030817.252.(646127|7)
+> VerDate Nov 216:13 Mar 0Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                             8
+>                  1 TITLE II—SECURITIES AND
+>                  2 EXCHANGE COMMISSION
+>                  3 SEC. 201. DATA STANDARDS REQUIREMENTS FOR THE SE4 CURITIES AND EXCHANGE COMMISSION.
+>                  5 (a) DATA STANDARDS FOR INVESTMENT ADVISERS ’
+>                  6 REPORTS UNDER THE INVESTMENT ADVISERS ACT OF
+>                  7 1940.—Section 204 of the Investment Advisers Act of
+>                  8 1940 (15 U.S.C. 80b–4) is amended—
+>                  9 (1) by redesignating the second subsection (d)
+>                 10 (relating to Records of Persons With Custody of
+>                 11 Use) as subsection (e); and
+>                 12 (2) by adding at the end the following:
+>                 13 ‘‘(f) ATA STANDARDS FOR REPORTS FILED UNDER
+>                 14 THIS SECTION .—
+>                 15 ‘‘(1) REQUIREMENT .—The Commission shall,
+>                 16 by rule, adopt data standards for all reports filed by
+>                 17 investment advisers with the Commission under this
+>                 18 section.
+>                 19 ‘‘(2) CHARACTERISTICS .—The data standards
+>                 20 required by paragraph (1) shall, to the extent prac21 ticable—
+>                 22 ‘‘(A) render information fully searchable
+>                 23 and machinereadable;
+>                 24 ‘‘(B) be nonproprietary;
+>       G:\VHLC\030817\030817.2(646127|7)
+> VerDate Nov16:13 Mar Jkt 00PO 000Frm 00Fmt 6Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                              9
+>                  1 ‘‘(C) incorporate standards developed and
+>                  2 maintained by voluntary consensus standards
+>                  3 bodies; and
+>                  4 ‘‘(D) be consistent with and implement ap5 plicable accounting and reporting principles.
+>                  6 ‘‘(3) INCORPORATION OF STANDARDS .—In
+>                  7 adopting data standards by rule under this sub8 section, the Commission shall incorporate all applica9 ble data standards promulgated by the Secretary of
+>                 10 the Treasury.’’.
+>                 11 (b) DATA STANDARDS FOR REGISTRATION STATE12 MENTS AND REPORTS UNDER THE INVESTMENT COM13 PANY ACT OF 1940.—The Investment Company Act of
+>                 14 1940 (15 U.S.C. 80a–1 et seq.) is amended—
+>                 15 (1) in section 8, by adding at the end the fol16 lowing:
+>                 17 ‘‘(g) ATA STANDARDS FOR REGISTRATION STATE18 MENTS .—
+>                 19 ‘‘(1) REQUIREMENT .—The Commission shall,
+>                 20 by rule, adopt data standards for all registration
+>                 21 statements required to be filed with the Commission
+>                 22 under this section, except that the Commission may
+>                 23 exempt exhibits, signatures, and certifications from
+>                 24 such data standards.
+>       G:\VHLC\030817\030817.25(646127|7)
+> VerDate Nov 16:13 Mar Jkt 00PO 000Frm 00Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                                10
+>                   1 ‘‘(2) CHARACTERISTICS .—The data standards
+>                   2 required by paragraph (1) shall, to the extent prac3 ticable—
+>                   4 ‘‘(A) render information fully searchable
+>                   5 and machinereadable;
+>                   6 ‘‘(B) be nonproprietary;
+>                   7 ‘‘(C) incorporate standards developed and
+>                   8 maintained by voluntary consensus standards
+>                   9 bodies; and
+>                  10 ‘‘(D) be consistent with and implement ap11 plicable accounting and reporting principles.
+>                  12 ‘‘(3) INCORPORATION OF STANDARDS .—In
+>                  13 adopting data standards by rule under this sub14 section, the Commission shall incorporate all applica15 ble data standards promulgated by the Secretary of
+>                  16 the Treasury.’’; and
+>                  17 (2) in section 30, by adding at the end the fol18 lowing:
+>                  19 ‘‘(k) DATA STANDARDS FOR REPORTS .—
+>                  20 ‘‘(1) REQUIREMENT .—The Commission shall,
+>                  21 by rule, adopt data standards for all reports re22 quired to be filed with the Commission under this
+>                  23 section, except that the Commission may exempt ex24 hibits, signatures, and certifications from such data
+>                  25 standards.
+>       G:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 16:13 Mar 0Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                           11
+>                  1 ‘‘(2) CHARACTERISTICS .—The data standards
+>                  2 required by paragraph (1) shall, to the extent prac3 ticable—
+>                  4 ‘‘(A) render information fully searchable
+>                  5 and machinereadable;
+>                  6 ‘‘(B) be nonproprietary;
+>                  7 ‘‘(C) incorporate standards developed and
+>                  8 maintained by voluntary consensus standards
+>                  9 bodies; and
+>                 10 ‘‘(D) be consistent with and implement ap11 plicable accounting and reporting principles.
+>                 12 ‘‘(3) INCORPORATION OF STANDARDS .—In
+>                 13 adopting data standards by rule under this sub14 section, the Commission shall incorporate all applica15 ble data standards promulgated by the Secretary of
+>                 16 the Treasury.’’.
+>                 17 (c) DATA STANDARDS FOR NFORMATION REQUIRED
+>                 18 TO BE SUBMITTED OR PUBLISHED BY NATIONALLY R EC19 OGNIZED STATISTICAL RATING ORGANIZATIONS .—Section
+>                 20 15E of the Securities Exchange Act of 1934 (15 U.S.C.
+>                 21 78o–7) is amended by adding at the end the following:
+>                 22 ‘‘(w) DATA STANDARDS FOR INFORMATION R E23 QUIRED TO BE SUBMITTED OR PUBLISHED UNDER THIS
+>                 24 SECTION.—
+>       G:\VHLC\030817\030817.(646127|7)
+> VerDate Nov16:13 Mar Jkt 00PO 000Frm 00Fmt 6Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                                12
+>                   1 ‘‘(1) REQUIREMENT .—The Commission shall,
+>                   2 by rule, adopt data standards for all information re3 quired to be submitted or published by a nationally
+>                   4 recognized statistical rating organization under this
+>                   5 section.
+>                   6 ‘‘(2) CHARACTERISTICS .—The data standards
+>                   7 required by paragraph (1) shall, to the extent prac8 ticable—
+>                   9 ‘‘(A) render information fully searchable
+>                  10 and machinereadable;
+>                  11 ‘‘(B) be nonproprietary;
+>                  12 ‘‘(C) incorporate standards developed and
+>                  13 maintained by voluntary consensus standards
+>                  14 bodies; and
+>                  15 ‘‘(D) be consistent with and implement ap16 plicable accounting and reporting principles.
+>                  17 ‘‘(3) INCORPORATION OF STANDARDS .—In
+>                  18 adopting data standards by rule under this sub19 section, the Commission shall incorporate all applica20 ble data standards promulgated by the Secretary of
+>                  21 the Treasury.’’.
+>                  22 (d) DATA STANDARDS FOR ASSET BACKED S ECURI23 TIES DISCLOSURES .—Section 7(c) of the Securities Act of
+>                  24 1933 (15 U.S.C. 77g(c)) is amended by adding at the end
+>                  25 the following:
+>       G:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 16:13 Mar 0Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                               13
+>                   1 ‘‘(3) DATA STANDARDS FOR ASSETBACKED SE2 CURITIES DISCLOSURES .—
+>                   3 ‘‘(A) REQUIREMENT .—The Commission
+>                   4 shall, by rule, adopt data standards for all dis5 closures required under this subsection.
+>                   6 ‘‘(B) CHARACTERISTICS .—The data stand7 ards required by subparagraph (A) shall, to the
+>                   8 extent practicable—
+>                   9 ‘‘(i) render information fully search10 able and machinereadable;
+>                  11 ‘‘(ii) be nonproprietary;
+>                  12 ‘‘(iii) incorporate standards developed
+>                  13 and maintained by voluntary consensus
+>                  14 standards bodies; and
+>                  15 ‘‘(iv) be consistent with and imple16 ment applicable accounting and reporting
+>                  17 principles.
+>                  18 ‘‘(C) NCORPORATION OF STANDARDS .—In
+>                  19 adopting data standards by rule under this
+>                  20 paragraph, the Commission shall incorporate all
+>                  21 applicable data standards promulgated by the
+>                  22 Secretary of the Treasury.’’.
+>                  23 (e) DATA STANDARDS FOR CORPORATE D ISCLO24 SURES UNDER THE SECURITIES ACT OF 1933.—Section
+>       G:\VHLC\030817\030817.25(646127|7)
+> VerDate Nov 16:13 Mar Jkt 000PO 000Frm 00Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                14
+>                    1 7 of the Securities Act of 1933 (15 U.S.C. 77g) is amend2 ed by adding at the end the following:
+>                    3 ‘‘(e) DATA STANDARDS .—
+>                    4 ‘‘(1) REQUIREMENT .—The Commission shall,
+>                    5 by rule, adopt data standards for all registration
+>                    6 statements and for all prospectuses included in reg7 istration statements required to be filed with the
+>                    8 Commission under this title, except that the Com9 mission may exempt exhibits, signatures, and certifi10 cations from such data standards.
+>                  11 ‘‘(2) CHARACTERISTICS .—The data standards
+>                  12 required by paragraph (1) shall, to the extent prac13 ticable—
+>                  14 ‘‘(A) render information fully searchable
+>                  15 and machinereadable;
+>                  16 ‘‘(B) be nonproprietary;
+>                  17 ‘‘(C) incorporate standards developed and
+>                  18 maintained by voluntary consensus standards
+>                  19 bodies; and
+>                  20 ‘‘(D) be consistent with and implement ap21 plicable accounting and reporting principles.
+>                  22 ‘‘(3) INCORPORATION OF STANDARDS .—In
+>                  23 adopting data standards by rule under this sub24 section, the Commission shall incorporate all applicaG:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 16:13 Mar 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                             15
+>                  1 ble data standards promulgated by the Secretary of
+>                  2 the Treasury.’’.
+>                  3 (f) DATA STANDARDS FOR PERIODIC AND CURRENT
+>                  4 CORPORATE DISCLOSURES UNDER THE SECURITIES E X5 CHANGE ACT OF 1934.—Section 13 of the Securities Ex6 change Act of 1934 (15 U.S.C. 78m) is amended by add7 ing at the end the following:
+>                  8 ‘‘(s) ATA STANDARDS .—
+>                  9 ‘‘(1) REQUIREMENT .—The Commission shall,
+>                 10 by rule, adopt data standards for all information
+>                 11 contained in periodic and current reports required to
+>                 12 be filed or furnished under this section or under sec13 tion 15(d), except that the Commission may exempt
+>                 14 exhibits, signatures, and certifications from such
+>                 15 data standards.
+>                 16 ‘‘(2) CHARACTERISTICS .—The data standards
+>                 17 required by paragraph (1) shall, to the extent prac18 ticable—
+>                 19 ‘‘(A) render information fully searchable
+>                 20 and machinereadable;
+>                 21 ‘‘(B) be nonproprietary;
+>                 22 ‘‘(C) incorporate standards developed and
+>                 23 maintained by voluntary consensus standards
+>                 24 bodies; and
+>       G:\VHLC\030817\030817.25(646127|7)
+> VerDate Nov 16:13 Mar Jkt 00PO 000Frm 00Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                            16
+>                  1 ‘‘(D) be consistent with and implement ap2 plicable accounting and reporting principles.
+>                  3 ‘‘(3) INCORPORATION OF STANDARDS .—In
+>                  4 adopting data standards by rule under this sub5 section, the Commission shall incorporate all applica6 ble data standards promulgated by the Secretary of
+>                  7 the Treasury.’’.
+>                  8 (g) DATA STANDARDS FOR CORPORATE PROXY AND
+>                  9 CONSENT SOLICITATION MATERIALS UNDER THE SECU10 RITIES EXCHANGE ACT OF 1934.—Section 14 of the Se11 curities Exchange Act of 1934 (15 U.S.C. 78n) is amend12 ed by adding at the end the following:
+>                 13 ‘‘(k) ATA STANDARDS FOR PROXY AND CONSENT
+>                 14 SOLICITATION MATERIALS .—
+>                 15 ‘‘(1) REQUIREMENT .—The Commission shall,
+>                 16 by rule, adopt data standards for all information
+>                 17 contained in any proxy or consent solicitation mate18 rial prepared by an issuer for an annual meeting of
+>                 19 the shareholders of the issuer, except that the Com20 mission may exempt exhibits, signatures, and certifi21 cations from such data standards.
+>                 22 ‘‘(2) CHARACTERISTICS .—The data standards
+>                 23 required by paragraph (1) shall, to the extent prac24 ticable—
+>       G:\VHLC\030817\030817.2(646127|7)
+> VerDate Nov16:13 Mar Jkt 00PO 000Frm 00Fmt 6Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                              17
+>                   1 ‘‘(A) render information fully searchable
+>                   2 and machinereadable;
+>                   3 ‘‘(B) be nonproprietary;
+>                   4 ‘‘(C) incorporate standards developed and
+>                   5 maintained by voluntary consensus standards
+>                   6 bodies; and
+>                   7 ‘‘(D) be consistent with and implement ap8 plicable accounting and reporting principles.
+>                   9 ‘‘(3) INCORPORATION OF STANDARDS .—In
+>                  10 adopting data standards by rule under this sub11 section, the Commission shall incorporate all applica12 ble data standards promulgated by the Secretary of
+>                  13 the Treasury.’’.
+>                  14 (h) DATA STANDARDS FOR SECURITY-BASED SWAP
+>                  15 REPORTING .—Section 15F of the Securities Exchange Act
+>                  16 of 1934 (15 U.S.C. 78o–10) is amended by adding at the
+>                  17 end the following:
+>                  18 ‘‘(m) DATA STANDARDS FOR SECURITY-BASED SWAP
+>                  19 REPORTING .—
+>                  20 ‘‘(1) REQUIREMENT .—The Commission shall,
+>                  21 by rule, adopt data standards for all reports related
+>                  22 to security-based swaps that are required under this
+>                  23 Act.
+>       G:\VHLC\030817\030817.25(646127|7)
+> VerDate Nov 16:13 Mar Jkt 00PO 000Frm 000Fmt 6Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                18
+>                    1 ‘‘(2) CHARACTERISTICS .—The data standards
+>                    2 required by paragraph (1) shall, to the extent prac3 ticable—
+>                    4 ‘‘(A) render information fully searchable
+>                    5 and machinereadable;
+>                    6 ‘‘(B) be nonproprietary;
+>                    7 ‘‘(C) incorporate standards developed and
+>                    8 maintained by voluntary consensus standards
+>                    9 bodies; and
+>                  10 ‘‘(D) be consistent with and implement ap11 plicable accounting and reporting principles.
+>                  12 ‘‘(3) INCORPORATION OF STANDARDS .—In
+>                  13 adopting data standards by rule under this sub14 section, the Commission shall incorporate all applica15 ble data standards promulgated by the Secretary of
+>                  16 the Treasury.’’.
+>                  17 (i) RULEMAKING .—
+>                  18 (1) IN GENERAL .—Not later than the end of
+>                  19 the 2-year period beginning on the date of the enact20 ment of this Act, the Securities and Exchange Com21 mission shall issue the regulations required under
+>                  22 the amendments made by this section.
+>                  23 (2) SCALING OF REGULATORY REQUIRE24 MENTS .—In issuing the regulations required under
+>                  25 the amendments made by this section, the Securities
+>        G:\VHLC\030817\030817.25(646127|7)
+> VerDate Nov 16:13 Mar 0Jkt 000PO 000Frm 000Fmt 6Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                 19
+>                    1 and Exchange Commission may scale data reporting
+>                    2 requirements in order to reduce any unjustified bur3 den on emerging growth companies, lending institu4 tions, accelerated filers, smaller reporting companies,
+>                    5 and other smaller issuers, as determined by the
+>                    6 study required under section 205(c), while still pro7 viding searchable information to investors.
+>                    8 (3) MINIMIZING DISRUPTION .—In issuing the
+>                    9 regulations required under the amendments made by
+>                   10 this section, the Securities and Exchange Commis11 sion shall seek to minimize disruptive changes to the
+>                   12 persons affected by such regulations.
+>                   13 SEC. 202. OPEN DATA PUBLICATION BY THE SECURITIES
+>                   14 AND EXCHANGE COMMISSION.
+>                   15 Section 4 of the Securities Exchange Act of 1934 (15
+>                   16 U.S.C. 78d) is amended by adding at the end the fol17 lowing:
+>                   18 ‘‘(j) PEN DATA PUBLICATION .—All public informa19 tion published by the Commission under the securities
+>                   20 laws and the DoddFrank Wall Street Reform and Con21 sumer Protection Act shall be published as open data,
+>                   22 freely available for download in bulk, accessible via appli23 cation programming interface where appropriate, and of24 fered without any registration requirement or reuse re25 striction.’’.
+>        G:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 16:13 Mar 08Jkt 00PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                               20
+>                   1 SEC. 203. DATA TRANSPARENCY AT THE MUNICIPAL SECU2 RITIES RULEMAKING BOARD.
+>                   3 (a) N GENERAL .—Section 15B(b) of the Securities
+>                   4 Exchange Act of 1934 (15 U.S.C. 78o–4(b)) is amended
+>                   5 by adding at the end the following:
+>                   6 ‘‘(8) ATA STANDARDS .—
+>                   7 ‘‘(A) REQUIREMENT .—If the Board establishes
+>                   8 information systems under paragraph (3), the Board
+>                   9 shall adopt data standards for information sub10 mitted via such systems.
+>                  11 ‘‘(B) CHARACTERISTICS .—The data standards
+>                  12 required by subparagraph (A) shall, to the extent
+>                  13 practicable—
+>                  14 ‘‘(i) render information fully searchable
+>                  15 and machinereadable;
+>                  16 ‘‘(ii) be nonproprietary;
+>                  17 ‘‘(iii) incorporate standards developed and
+>                  18 maintained by voluntary consensus standards
+>                  19 bodies; and
+>                  20 ‘‘(iv) be consistent with and implement ap21 plicable accounting and reporting principles.
+>                  22 ‘‘(C) INCORPORATION OF STANDARDS .—In
+>                  23 adopting data standards under this paragraph, the
+>                  24 Board shall incorporate all applicable data standards
+>                  25 promulgated by the Secretary of the Treasury.’’.
+>                  26 (b) RULEMAKING .—
+>       G:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 16:13 Mar 0Jkt 00PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                                21
+>                   1 (1) IN GENERAL .—Not later than the end of
+>                   2 the 2-year period beginning on the date of the enact3 ment of this Act, the Municipal Securities Rule4 making Board shall issue the regulations required
+>                   5 under the amendments made by this section.
+>                   6 (2) SCALING OF REGULATORY REQUIRE7 MENTS .—In issuing the regulations required under
+>                   8 the amendments made by this section, the Municipal
+>                   9 Securities Rulemaking Board may scale data report10 ing requirements in order to reduce any unjustified
+>                  11 burden on smaller regulated entities.
+>                  12 (3) MINIMIZING DISRUPTION .—In issuing the
+>                  13 regulations required under the amendments made by
+>                  14 this section, the Municipal Securities Rulemaking
+>                  15 Board shall seek to minimize disruptive changes to
+>                  16 the persons affected by such regulations.
+>                  17 SEC. 204. DATA TRANSPARENCY AT NATIONAL SECURITIES
+>                  18 ASSOCIATIONS.
+>                  19 (a) IN GENERAL .—Section 15A of the Securities Ex20 change Act of 1934 (15 U.S.C. 78o–3) is amended by add21 ing at the end the following:
+>                  22 ‘‘(n) DATA STANDARDS .—
+>                  23 ‘‘(1) REQUIREMENT .—A national securities as24 sociation registered pursuant to subsection (a) shall
+>       G:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 16:13 Mar 0Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                22
+>                    1 adopt data standards for all information that is reg2 ularly filed with or submitted to the association.
+>                    3 ‘‘(2) CHARACTERISTICS .—The data standards
+>                    4 required by paragraph (1) shall, to the extent prac5 ticable—
+>                    6 ‘‘(A) render information fully searchable
+>                    7 and machinereadable;
+>                    8 ‘‘(B) be nonproprietary;
+>                    9 ‘‘(C) incorporate standards developed and
+>                  10 maintained by voluntary consensus standards
+>                  11 bodies; and
+>                  12 ‘‘(D) be consistent with and implement ap13 plicable accounting and reporting principles.
+>                  14 ‘‘(3) INCORPORATION OF STANDARDS .—In
+>                  15 adopting data standards under this subsection, the
+>                  16 association shall incorporate all applicable data
+>                  17 standards promulgated by the Secretary of the
+>                  18 Treasury.’’.
+>                  19 (b) RULEMAKING .—
+>                  20 (1) IN GENERAL .—Not later than the end of
+>                  21 the 2-year period beginning on the date of the enact22 ment of this Act, a national securities association
+>                  23 shall adopt the standards required under the amend24 ments made by this section.
+>        G:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 16:13 Mar 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                               23
+>                   1 (2) SCALING OF REGULATORY REQUIRE2 MENTS .—In adopting the standards required under
+>                   3 the amendments made by this section, a national se4 curities association may scale data reporting require5 ments in order to reduce any unjustified burden on
+>                   6 smaller regulated entities.
+>                   7 (3) MINIMIZING DISRUPTION .—In adopting the
+>                   8 standards required under the amendments made by
+>                   9 this section, a national securities association shall
+>                  10 seek to minimize disruptive changes to the persons
+>                  11 affected by such standards.
+>                  12 SEC. 205. SHORTERTERM BURDEN REDUCTION AND DIS13 CLOSURE SIMPLIFICATION AT THE SECURI14 TIES AND EXCHANGE COMMISSION; SUNSET.
+>                  15 (a) ADOPTION OF STANDARDS FOR CORPORATE FI16 NANCIAL DATA .—
+>                  17 (1) IN GENERAL .—Not later than one year
+>                  18 after the date of enactment of this Act, the Securi19 ties and Exchange Commission, shall, by rule, adopt
+>                  20 a data standard that is both humanreadable and
+>                  21 machinereadable, and complies with the require22 ments under the amendments made by section 201,
+>                  23 with respect to any corporate financial data for
+>                  24 which the Commission was using the eXtensible
+>       G:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 16:13 Mar 0Jkt 00PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                             24
+>                  1 Business Reporting Language standard as of the
+>                  2 date of enactment of this Act.
+>                  3 (2) SCALING OF REGULATORY REQUIRE4 MENTS .—The Securities and Exchange Commission
+>                  5 may scale data reporting requirements under this
+>                  6 section in order to reduce any unjustified burden on
+>                  7 emerging growth companies, lending institutions, ac8 celerated filers, smaller reporting companies, and
+>                  9 other smaller issuers, as determined by the study re10 quired under subsection (c), while still providing
+>                 11 searchable information to investors.
+>                 12 (3) MINIMIZING DISRUPTION .—In issuing the
+>                 13 regulations required under the amendments made by
+>                 14 this section, the Securities and Exchange Commis15 sion shall seek to minimize disruptive changes to the
+>                 16 persons affected by such regulations.
+>                 17 (b) BETTER ENFORCEMENT OF THE QUALITY OF
+>                 18 CORPORATE FINANCIAL DATA SUBMITTED TO THE SECU19 RITIES AND EXCHANGE COMMISSION .—
+>                 20 (1) DATA QUALITY IMPROVEMENT PROGRAM .—
+>                 21 Within six months after the date of the enactment
+>                 22 of this Act, the Commission shall establish a pro23 gram to improve the quality of corporate financial
+>                 24 data filed or furnished by issuers under the SecuriG:\VHLC\030817\030817.25(646127|7)
+> VerDate Nov 16:13 Mar Jkt 00PO 000Frm 00Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                              25
+>                   1 ties Act of 1933 and the Securities Exchange Act of
+>                   2 1934. The program shall include the following:
+>                   3 (A) The designation of an official in the
+>                   4 Office of the Chairman responsible for the im5 provement of the quality of eXtensible Business
+>                   6 Reporting Language data filed with or fur7 nished to the Commission by issuers.
+>                   8 (B) The issuance by the Division of Cor9 poration Finance of comment letters requiring
+>                  10 correction of errors in data filings and submis11 sions, where necessary.
+>                  12 (2) GOALS .—In establishing the program under
+>                  13 this section, the Commission shall seek to—
+>                  14 (A) improve the quality of data filed with
+>                  15 or furnished to the Commission to a commer16 cially acceptable level; and
+>                  17 (B) make data filed with or furnished to
+>                  18 the Commission useful to investors.
+>                  19 (c) REPORT ON THE USE OF M ACHINEREADABLE
+>                  20 DATA FOR CORPORATE DISCLOSURES .—
+>                  21 (1) IN GENERAL .—Not later than six months
+>                  22 after the date of the enactment of this Act, and
+>                  23 every six months thereafter, the Commission shall
+>                  24 issue a report to the Committee on Financial Serv25 ices of the House of Representatives and the ComG:\VHLC\030817\030817.25(646127|7)
+> VerDate Nov 16:13 Mar Jkt 000PO 000Frm 00Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                 26
+>                    1 mittee on Banking, Housing, and Urban Affairs of
+>                    2 the Senate on the use of machinereadable data for
+>                    3 corporate disclosures.
+>                    4 (2) CONTENT .—Each report required under
+>                    5 paragraph (1) shall include—
+>                    6 (A) an identification of which corporate
+>                    7 disclosures required under section 7 of the Se8 curities Act of 1933, section 13 of the Securi9 ties Exchange Act of 1934, or section 14 of the
+>                   10 Securities Exchange Act of 1934 are expressed
+>                   11 as machinereadable data and which are not;
+>                   12 (B) an analysis of the costs and benefits of
+>                   13 the use of machinereadable data in corporate
+>                   14 disclosure to investors, markets, the Commis15 sion, and issuers;
+>                   16 (C) a summary of enforcement actions that
+>                   17 result from the use or analysis of machineread18 able data collected under section 7 of the Secu19 rities Act of 1933, section 13 of the Securities
+>                   20 Exchange Act of 1934, or section 14 of the Se21 curities Exchange Act of 1934; and
+>                   22 (D) an analysis of how the Commission is
+>                   23 itself using the machinereadable data collected
+>                   24 by the Commission.
+>        G:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 216:13 Mar 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                 27
+>                    1 (d) SUNSET .—On and after the end of the 7-year pe2 riod beginning on the date of the enactment of this Act,
+>                    3 this section shall have no force or effect.
+>                    4 SEC. 206. NO NEW DISCLOSURE REQUIREMENTS.
+>                    5 Nothing in this title or the amendments made by this
+>                    6 title shall be construed to require the Securities and Ex7 change Commission, the Municipal Securities Rulemaking
+>                    8 Board, or a national securities association to collect addi9 tional information under the statutes amended by this
+>                   10 title, beyond information that was collected under such
+>                   11 statutes before the date of the enactment of this Act.
+>                   12 TITLE III—FEDERAL DEPOSIT
+>                   13 INSURANCE CORPORATION
+>                   14 SEC. 301. DATA STANDARDS REQUIREMENTS FOR THE FED15 ERAL DEPOSIT INSURANCE CORPORATION.
+>                   16 The Federal Deposit Insurance Act (12 U.S.C. 1811
+>                   17 et seq.) is amended by adding at the end the following:
+>                   18 ‘‘SEC. 51. DATA STANDARDS.
+>                   19 ‘‘(a) EQUIREMENT .—The Corporation shall, by rule,
+>                   20 adopt data standards for all information that the Corpora21 tion receives from any depository institution or financial
+>                   22 company under this Act or under title II of the Dodd23 Frank Wall Street Reform and Consumer Protection Act.
+>                   24 ‘‘(b) CHARACTERISTICS .—The data standards re25 quired by subsection (a) shall, to the extent practicable—
+>        G:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 16:13 Mar 08Jkt 00PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                 28
+>                    1 ‘‘(1) render information fully searchable and
+>                    2 machinereadable;
+>                    3 ‘‘(2) be nonproprietary;
+>                    4 ‘‘(3) incorporate standards developed and main5 tained by voluntary consensus standards bodies; and
+>                    6 ‘‘(4) be consistent with and implement applica7 ble accounting and reporting principles.
+>                    8 ‘‘(c) NCORPORATION OF STANDARDS .—In adopting
+>                    9 data standards by rule under this section, the Corporation
+>                   10 shall incorporate all applicable data standards promul11 gated by the Secretary of the Treasury.
+>                   12 ‘‘(d) FINANCIAL COMPANY DEFINED .—For purposes
+>                   13 of this section, the term ‘financial company’ has the mean14 ing given that term under section 201(a) of the Dodd15 Frank Wall Street Reform and Consumer Protection Act
+>                   16 (12 U.S.C. 5381(a)).’’.
+>                   17 SEC. 302. OPEN DATA PUBLICATION BY THE FEDERAL DE18 POSIT INSURANCE CORPORATION.
+>                   19 The Federal Deposit Insurance Act (12 U.S.C. 1811
+>                   20 et seq.), as amended by section 301, is further amended
+>                   21 by adding at the end the following:
+>                   22 ‘‘SEC. 52. OPEN DATA PUBLICATION.
+>                   23 ‘‘All public information published by the Corporation
+>                   24 under this Act or under the DoddFrank Wall Street Re25 form and Consumer Protection Act shall be published as
+>        G:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 16:13 Mar 08Jkt 00PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                 29
+>                    1 open data, freely available for download in bulk, accessible
+>                    2 via application programming interface where appropriate,
+>                    3 and offered without any registration requirement or reuse
+>                    4 restriction.’’.
+>                    5 SEC. 303. RULEMAKING.
+>                    6 (a) IN GENERAL .—Not later than the end of the 27 year period beginning on the date of the enactment of this
+>                    8 Act, the Federal Deposit Insurance Corporation shall
+>                    9 issue the regulations required under the amendments
+>                   10 made by this title.
+>                   11 (b) SCALING OF REGULATORY REQUIREMENTS .—In
+>                   12 issuing the regulations required under the amendments
+>                   13 made by this title, the Federal Deposit Insurance Corpora14 tion may scale data reporting requirements in order to re15 duce any unjustified burden on smaller regulated entities.
+>                   16 (c) MINIMIZING DISRUPTION .—In issuing the regula17 tions required under the amendments made by this title,
+>                   18 the Federal Deposit Insurance Corporation shall seek to
+>                   19 minimize disruptive changes to the persons affected by
+>                   20 such regulations.
+>                   21 SEC. 304. NO NEW DISCLOSURE REQUIREMENTS.
+>                   22 Nothing in this title or the amendments made by this
+>                   23 title shall be construed to require the Federal Deposit In24 surance Corporation to collect additional information
+>                   25 under the statutes amended by this title, beyond informaG:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 16:13 Mar 08Jkt 00PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                              30
+>                   1 tion that was collected under such statutes before the date
+>                   2 of the enactment of this Act.
+>                   3 TITLE IV—OFFICE OF THE
+>                   4 COMPTROLLER OF THE CUR5 RENCY
+>                   6 SEC. 401. DATA STANDARDS AND OPEN DATA PUBLICATION
+>                   7 REQUIREMENTS FOR THE OFFICE OF THE
+>                   8 COMPTROLLER OF THE CURRENCY.
+>                   9 The Revised Statutes of the United States is amend10 ed by inserting after section 332 (12 U.S.C. 14) the fol11 lowing:
+>                  12 ‘‘SEC. 333. DATA STANDARDS; OPEN DATA PUBLICATION.
+>                  13 ‘‘(a) DATA STANDARDS .—
+>                  14 ‘‘(1) REQUIREMENT .—The Comptroller of the
+>                  15 Currency shall, by rule, adopt data standards for all
+>                  16 information that is regularly filed with or submitted
+>                  17 to the Comptroller of the Currency by any entity
+>                  18 with respect to which the Office of the Comptroller
+>                  19 of the Currency is the appropriate Federal banking
+>                  20 agency (as defined under section 3 of the Federal
+>                  21 Deposit Insurance Act).
+>                  22 ‘‘(2) CHARACTERISTICS .—The data standards
+>                  23 required by paragraph (1) shall, to the extent prac24 ticable—
+>       G:\VHLC\030817\030817.25(646127|7)
+> VerDate Nov 16:13 Mar Jkt 000PO 000Frm 00Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                31
+>                    1 ‘‘(A) render information fully searchable
+>                    2 and machinereadable;
+>                    3 ‘‘(B) be nonproprietary;
+>                    4 ‘‘(C) incorporate standards developed and
+>                    5 maintained by voluntary consensus standards
+>                    6 bodies; and
+>                    7 ‘‘(D) be consistent with and implement ap8 plicable accounting and reporting principles.
+>                    9 ‘‘(3) INCORPORATION OF STANDARDS .—In
+>                  10 adopting data standards by rule under this sub11 section, the Comptroller of the Currency shall incor12 porate all applicable data standards promulgated by
+>                  13 the Secretary of the Treasury.
+>                  14 ‘‘(b) OPEN DATA PUBLICATION .—All public informa15 tion published by the Comptroller of the Currency under
+>                  16 title LXII or the DoddFrank Wall Street Reform and
+>                  17 Consumer Protection Act shall be published as open data,
+>                  18 freely available for download in bulk, accessible via appli19 cation programming interface where appropriate, and of20 fered without any registration requirement or reuse re21 striction.’’.
+>                  22 SEC. 402. RULEMAKING.
+>                  23 (a) IN GENERAL .—Not later than the end of the 224 year period beginning on the date of the enactment of this
+>        G:\VHLC\030817\030817.25(646127|7)
+> VerDate Nov 16:13 Mar 0Jkt 000PO 000Frm 000Fmt 6Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                  32
+>                    1 Act, the Comptroller of the Currency shall issue the regu2 lations required under the amendments made by this title.
+>                    3 (b) SCALING OF REGULATORY REQUIREMENTS .—In
+>                    4 issuing the regulations required under the amendments
+>                    5 made by this title, the Comptroller of the Currency may
+>                    6 scale data reporting requirements in order to reduce any
+>                    7 unjustified burden on smaller regulated entities.
+>                    8 (c) MINIMIZING DISRUPTION .—In issuing the regula9 tions required under the amendments made by this title,
+>                   10 the Comptroller of the Currency shall seek to minimize
+>                   11 disruptive changes to the persons affected by such regula12 tions.
+>                   13 SEC. 403. NO NEW DISCLOSURE REQUIREMENTS.
+>                   14 Nothing in this title or the amendments made by this
+>                   15 title shall be construed to require the Comptroller of the
+>                   16 Currency to collect additional information under the stat17 utes amended by this title, beyond information that was
+>                   18 collected under such statutes before the date of the enact19 ment of this Act.
+>        G:\VHLC\030817\030817.252.(646127|7)
+> VerDate Nov 216:13 Mar 0Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                              33
+>                   1 TITLE V—BUREAU OF CON2 SUMER FINANCIAL PROTEC3 TION
+>                   4 SEC. 501. DATA STANDARDS AND OPEN DATA PUBLICATION
+>                   5 REQUIREMENTS FOR THE BUREAU OF CON6 SUMER FINANCIAL PROTECTION.
+>                   7 (a) IN GENERAL .—The Consumer Financial Protec8 tion Act of 2010 (12 U.S.C. 5481 et seq.) is amended by
+>                   9 inserting after section 1018 the following:
+>                  10 ‘‘SEC. 1019. DATA STANDARDS.
+>                  11 ‘‘(a) REQUIREMENT .—The Bureau shall, by rule,
+>                  12 adopt data standards for all information that is regularly
+>                  13 filed with or submitted to the Bureau under this title.
+>                  14 ‘‘(b) CHARACTERISTICS .—The data standards re15 quired by subsection (a) shall, to the extent practicable—
+>                  16 ‘‘(1) render information fully searchable and
+>                  17 machinereadable;
+>                  18 ‘‘(2) be nonproprietary;
+>                  19 ‘‘(3) incorporate standards developed and main20 tained by voluntary consensus standards bodies; and
+>                  21 ‘‘(4) be consistent with and implement applica22 ble accounting and reporting principles.
+>                  23 ‘‘(c) NCORPORATION OF STANDARDS .—In adopting
+>                  24 data standards by rule under this section, the Bureau
+>       G:\VHLC\030817\030817.25(646127|7)
+> VerDate Nov 16:13 Mar Jkt 000PO 000Frm 00Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                 34
+>                    1 shall incorporate all applicable data standards promul2 gated by the Secretary of the Treasury.
+>                    3 ‘‘SEC. 1020. OPEN DATA PUBLICATION.
+>                    4 ‘‘All public information published by the Bureau
+>                    5 under this title shall be published as open data, freely
+>                    6 available for download in bulk, accessible via application
+>                    7 programming interface where appropriate, and offered
+>                    8 without any registration requirement or reuse restric9 tion.’’.
+>                   10 (b) CLERICAL AMENDMENT .—The table of contents
+>                   11 under section 1(b) of the DoddFrank Wall Street Reform
+>                   12 and Consumer Protection Act is amended by inserting
+>                   13 after the item relating to section 1018 the following:
+>                       ‘‘Sec. 1019. Data standards.
+>                       ‘‘Sec. 1020. Open data publication.’’.
+>                   14 SEC. 502. RULEMAKING.
+>                   15 (a) IN GENERAL .—Not later than the end of the 216 year period beginning on the date of the enactment of this
+>                   17 Act, the Bureau of Consumer Financial Protection shall
+>                   18 issue the regulations required under the amendments
+>                   19 made by this title.
+>                   20 (b) SCALING OF REGULATORY REQUIREMENTS .—In
+>                   21 issuing the regulations required under the amendments
+>                   22 made by this title, the Bureau of Consumer Financial Pro23 tection may scale data reporting requirements in order to
+>        G:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 216:13 Mar 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                             35
+>                  1 reduce any unjustified burden on smaller regulated enti2 ties.
+>                  3 (c) MINIMIZING DISRUPTION .—In issuing the regula4 tions required under the amendments made by this title,
+>                  5 the Bureau of Consumer Financial Protection shall seek
+>                  6 to minimize disruptive changes to the persons affected by
+>                  7 such regulations.
+>                  8 SEC. 503. NO NEW DISCLOSURE REQUIREMENTS.
+>                  9 Nothing in this title or the amendments made by this
+>                 10 title shall be construed to require the Bureau of Consumer
+>                 11 Financial Protection to collect additional information
+>                 12 under the statutes amended by this title, beyond informa13 tion that was collected under such statutes before the date
+>                 14 of the enactment of this Act.
+>                 15 TITLE VI—FEDERAL RESERVE
+>                 16 SYSTEM
+>                 17 SEC. 601. DATA STANDARDS REQUIREMENTS FOR THE
+>                 18 BOARD OF GOVERNORS OF THE FEDERAL RE19 SERVE SYSTEM.
+>                 20 (a) DATA STANDARDS FOR INFORMATION FILED OR
+>                 21 SUBMITTED BY N ONBANK FINANCIAL COMPANIES .—Sec22 tion 161(a) of the Financial Stability Act of 2010 (12
+>                 23 U.S.C. 5361(a)) is amended by adding at the end the fol24 lowing:
+>       G:\VHLC\030817\030817.25(646127|7)
+> VerDate Nov 16:13 Mar Jkt 00PO 000Frm 00Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                36
+>                    1 ‘‘(4) DATA STANDARDS FOR REPORTS UNDER
+>                    2 THIS SUBSECTION .—
+>                    3 ‘‘(A) IN GENERAL .—The Board of Gov4 ernors shall adopt data standards for all finan5 cial data that is regularly filed with or sub6 mitted to the Board of Governors by any
+>                    7 nonbank financial company pursuant to this
+>                    8 subsection.
+>                    9 ‘‘(B) CHARACTERISTICS .—The data stand10 ards required by this section shall, to the extent
+>                  11 practicable—
+>                  12 ‘‘(i) render information fully search13 able and machinereadable;
+>                  14 ‘‘(ii) be nonproprietary;
+>                  15 ‘‘(iii) incorporate standards developed
+>                  16 and maintained by voluntary consensus
+>                  17 standards bodies; and
+>                  18 ‘‘(iv) be consistent with and imple19 ment applicable accounting and reporting
+>                  20 principles.
+>                  21 ‘‘(C) INCORPORATION OF STANDARDS .—In
+>                  22 adopting data standards by rule under this
+>                  23 paragraph, the Board of Governors shall incor24 porate all applicable data standards promul25 gated by the Secretary of the Treasury.’’.
+>        G:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 16:13 Mar 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                              37
+>                   1 (b) DATA STANDARDS FOR INFORMATION FILED OR
+>                   2 SUBMITTED BY SAVINGS AND LOAN HOLDING COMPA3 NIES .—Section 10 of the Home Owners’ Loan Act (12
+>                   4 U.S.C. 1467a) is amended by adding at the end the fol5 lowing:
+>                   6 ‘‘(u) ATA STANDARDS .—
+>                   7 ‘‘(1) REQUIREMENT .—The Board shall adopt
+>                   8 data standards for all information that is regularly
+>                   9 filed with or submitted to the Board by any savings
+>                  10 and loan holding company, or subsidiary of a savings
+>                  11 and loan holding company, other than a depository
+>                  12 institution, under this section.
+>                  13 ‘‘(2) CHARACTERISTICS .—The data standards
+>                  14 required by this subsection shall, to the extent prac15 ticable—
+>                  16 ‘‘(A) render information fully searchable
+>                  17 and machinereadable;
+>                  18 ‘‘(B) be nonproprietary;
+>                  19 ‘‘(C) incorporate standards developed and
+>                  20 maintained by voluntary consensus standards
+>                  21 bodies; and
+>                  22 ‘‘(D) be consistent with and implement ap23 plicable accounting and reporting principles.
+>                  24 ‘‘(3) INCORPORATION OF STANDARDS .—In
+>                  25 adopting data standards by rule under this section,
+>       G:\VHLC\030817\030817.25(646127|7)
+> VerDate Nov 16:13 Mar Jkt 00PO 000Frm 000Fmt 6Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                              38
+>                   1 the Board of Governors shall incorporate all applica2 ble data standards promulgated by the Secretary of
+>                   3 the Treasury.’’.
+>                   4 (c) DATA STANDARDS FOR NFORMATION FILED OR
+>                   5 SUBMITTED BY BANK HOLDING COMPANIES .—Section 5
+>                   6 of the Bank Holding Company Act of 1956 (12 U.S.C.
+>                   7 1844) is amended by adding at the end the following:
+>                   8 ‘‘(h) ATA STANDARDS .—
+>                   9 ‘‘(1) REQUIREMENT .—The Board shall adopt
+>                  10 data standards for all information that is regularly
+>                  11 filed with or submitted to the Board by any bank
+>                  12 holding company in a report under subsection (c).
+>                  13 ‘‘(2) CHARACTERISTICS .—The data standards
+>                  14 required by this subsection shall, to the extent prac15 ticable—
+>                  16 ‘‘(A) render information fully searchable
+>                  17 and machinereadable;
+>                  18 ‘‘(B) be nonproprietary;
+>                  19 ‘‘(C) incorporate standards developed and
+>                  20 maintained by voluntary consensus standards
+>                  21 bodies; and
+>                  22 ‘‘(D) be consistent with and implement ap23 plicable accounting and reporting principles.
+>                  24 ‘‘(3) INCORPORATION OF STANDARDS .—In
+>                  25 adopting data standards under this subsection, the
+>       G:\VHLC\030817\030817.25(646127|7)
+> VerDate Nov 16:13 Mar Jkt 00PO 000Frm 000Fmt 6Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                             39
+>                  1 Board shall incorporate all applicable data standards
+>                  2 promulgated by the Secretary of the Treasury.’’.
+>                  3 (d) DATA STANDARDS FOR INFORMATION SUB4 MITTED BY FINANCIAL MARKET UTILITIES OR INSTITU5 TIONS UNDER THE PAYMENT , CLEARING , AND S ETTLE6 MENT SUPERVISION ACT OF 2010.—Section 809 of the
+>                  7 Payment, Clearing, and Settlement Supervision Act of
+>                  8 2010 (12 U.S.C. 5468) is amended by adding at the end
+>                  9 the following:
+>                 10 ‘‘(h) ATA STANDARDS .—
+>                 11 ‘‘(1) REQUIREMENT .—The Board of Governors
+>                 12 shall adopt data standards for all information that
+>                 13 is regularly filed with or submitted to the Board by
+>                 14 any financial market utility or financial institution
+>                 15 under subsection (a) or (b).
+>                 16 ‘‘(2) CHARACTERISTICS .—The data standards
+>                 17 required by this subsection shall, to the extent prac18 ticable—
+>                 19 ‘‘(A) render information fully searchable
+>                 20 and machinereadable;
+>                 21 ‘‘(B) be nonproprietary;
+>                 22 ‘‘(C) incorporate standards developed and
+>                 23 maintained by voluntary consensus standards
+>                 24 bodies; and
+>       G:\VHLC\030817\030817.25(646127|7)
+> VerDate Nov 16:13 Mar Jkt 00PO 000Frm 00Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                  40
+>                    1 ‘‘(D) be consistent with and implement ap2 plicable accounting and reporting principles.
+>                    3 ‘‘(3) INCORPORATION OF STANDARDS .—In
+>                    4 adopting data standards under this subsection, the
+>                    5 Board of Governors shall incorporate all applicable
+>                    6 data standards promulgated by the Secretary of the
+>                    7 Treasury.’’.
+>                    8 SEC. 602. OPEN DATA PUBLICATION BY THE BOARD OF
+>                    9 GOVERNORS OF THE FEDERAL RESERVE SYS10 TEM.
+>                   11 The Federal Reserve Act (12 U.S.C. 226 et seq.) is
+>                   12 amended by adding at the end the following:
+>                   13 ‘‘SEC. 32 OPEN DATA PUBLICATION BY THE BOARD OF GOV14 ERNORS.
+>                   15 ‘‘All public information published by the Board of
+>                   16 Governors under this Act, the Bank Holding Company Act
+>                   17 of 1956, the Financial Stability Act of 2010, the Home
+>                   18 Owners’ Loan Act, the Payment, Clearing, and Settlement
+>                   19 Supervision Act of 2010, or the Enhancing Financial In20 stitution Safety and Soundness Act of 2010 shall be pub21 lished as open data, freely available for download in bulk,
+>                   22 accessible via application programming interface where
+>                   23 appropriate, and offered without any registration require24 ment or reuse restriction.’’.
+>        G:\VHLC\030817\030817.252.(646127|7)
+> VerDate Nov 216:13 Mar 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                 41
+>                    1 SEC. 603. RULEMAKING.
+>                    2 (a) IN GENERAL .—Not later than the end of the 23 year period beginning on the date of the enactment of this
+>                    4 Act, the Board of Governors of the Federal Reserve Sys5 tem shall issue the regulations required under the amend6 ments made by this title.
+>                    7 (b) SCALING OF REGULATORY REQUIREMENTS .—In
+>                    8 issuing the regulations required under the amendments
+>                    9 made by this title, the Board of Governors of the Federal
+>                   10 Reserve System may scale data reporting requirements in
+>                   11 order to reduce any unjustified burden on smaller regu12 lated entities.
+>                   13 (c) MINIMIZING DISRUPTION .—In issuing the regula14 tions required under the amendments made by this title,
+>                   15 the Board of Governors of the Federal Reserve System
+>                   16 shall seek to minimize disruptive changes to the persons
+>                   17 affected by such regulations.
+>                   18 SEC. 604. NO NEW DISCLOSURE REQUIREMENTS.
+>                   19 Nothing in this title or the amendments made by this
+>                   20 title shall be construed to require the Board of Governors
+>                   21 of the Federal Reserve System to collect additional infor22 mation under the statutes amended by this title, beyond
+>                   23 information that was collected under such statutes before
+>                   24 the date of the enactment of this Act.
+>        G:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 16:13 Mar 08Jkt 00PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>       G:\M\15\ISSA\ISSA_006.XML
+>                                                42
+>                   1 TITLE VII—COMMODITY FU2 TURES TRADING COMMIS3 SION
+>                   4 SEC. 701. DATA STANDARDS.
+>                   5 The Commodity Exchange Act (7 U.S.C. 1 et seq.)
+>                   6 is amended by adding at the end the following:
+>                   7 ‘‘SEC. 24. DATA STANDARDS.
+>                   8 ‘‘(a) EQUIREMENT .—The Commission shall, by rule,
+>                   9 adopt data standards for all information that is regularly
+>                  10 filed with or submitted to the Commission under this Act,
+>                  11 all information that is required to be reported to a reg12 istered swap data repository under this Act, and all infor13 mation that is required to be publicly disclosed by parties
+>                  14 to a swap under this Act.
+>                  15 ‘‘(b) CHARACTERISTICS .—The data standards re16 quired by subsection (a) shall, to the extent practicable—
+>                  17 ‘‘(1) render information fully searchable and
+>                  18 machinereadable;
+>                  19 ‘‘(2) be nonproprietary;
+>                  20 ‘‘(3) incorporate standards developed and main21 tained by voluntary consensus standards bodies; and
+>                  22 ‘‘(4) be consistent with and implement applica23 ble accounting and reporting principles.
+>                  24 ‘‘(c) NCORPORATION OF STANDARDS .—In adopting
+>                  25 data standards by rule under this section, the Commission
+>       G:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 16:13 Mar 0Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                 43
+>                    1 shall incorporate all applicable data standards promul2 gated by the Secretary of the Treasury.’’.
+>                    3 SEC. 702. OPEN DATA PUBLICATION BY THE COMMODITY
+>                    4 FUTURES TRADING COMMISSION.
+>                    5 The Commodity Exchange Act (7 U.S.C. 1 et seq.),
+>                    6 as amended by section 701, is further amended by adding
+>                    7 at the end the following:
+>                    8 ‘‘SEC. 25. OPEN DATA PUBLICATION.
+>                    9 ‘‘All public information published by the Commission
+>                   10 under this Act shall be published as open data, freely
+>                   11 available for download in bulk, accessible via application
+>                   12 programming interface where appropriate, and offered
+>                   13 without any registration requirement or reuse restric14 tion.’’.
+>                   15 SEC. 703. RULEMAKING.
+>                   16 (a) IN GENERAL .—Not later than the end of the 217 year period beginning on the date of the enactment of this
+>                   18 Act, the Commodity Futures Trading Commission shall
+>                   19 issue the regulations required under the amendments
+>                   20 made by this title.
+>                   21 (b) SCALING OF REGULATORY REQUIREMENTS .—In
+>                   22 issuing the regulations required under the amendments
+>                   23 made by this title, the Commodity Futures Trading Com24 mission may scale data reporting requirements in order
+>        G:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 16:13 Mar 08Jkt 00PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                 44
+>                    1 to reduce any unjustified burden on smaller regulated en2 tities.
+>                    3 (c) MINIMIZING DISRUPTION .—In issuing the regula4 tions required under the amendments made by this title,
+>                    5 the Commodity Futures Trading Commission shall seek
+>                    6 to minimize disruptive changes to the persons affected by
+>                    7 such regulations.
+>                    8 SEC. 704. NO NEW DISCLOSURE REQUIREMENTS.
+>                    9 Nothing in this title or the amendments made by this
+>                   10 title shall be construed to require the Commodity Futures
+>                   11 Trading Commission to collect additional information
+>                   12 under the statutes amended by this title, beyond informa13 tion that was collected under such statutes before the date
+>                   14 of the enactment of this Act.
+>                   15 TITLE VIII—NATIONAL CREDIT
+>                   16 UNION ADMINISTRATION
+>                   17 SEC. 801. DATA STANDARDS.
+>                   18 Title I of the Federal Credit Union Act (12 U.S.C.
+>                   19 1752 et seq.) is amended by adding at the end the fol20 lowing:
+>                   21 ‘‘SEC. 132. DATA STANDARDS.
+>                   22 ‘‘(a) REQUIREMENT .—The Board shall, by rule,
+>                   23 adopt data standards for all information and reports regu24 larly filed with or submitted to the Administration under
+>                   25 this Act.
+>        G:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 16:13 Mar 08Jkt 00PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                   45
+>                     1 ‘‘(b) CHARACTERISTICS .—The data standards re2 quired by subsection (a) shall, to the extent practicable—
+>                     3 ‘‘(1) render information fully searchable and
+>                     4 machinereadable;
+>                     5 ‘‘(2) be nonproprietary;
+>                     6 ‘‘(3) incorporate standards developed and main7 tained by voluntary consensus standards bodies; and
+>                     8 ‘‘(4) be consistent with and implement applica9 ble accounting and reporting principles.
+>                   10 ‘‘(c) NCORPORATION OF STANDARDS .—In adopting
+>                   11 data standards by rule under this section, the Board shall
+>                   12 incorporate all applicable data standards promulgated by
+>                   13 the Secretary of the Treasury.’’.
+>                   14 SEC. 802. OPEN DATA PUBLICATION BY THE NATIONAL
+>                   15 CREDIT UNION ADMINISTRATION.
+>                   16 Title I of the Federal Credit Union Act (12 U.S.C.
+>                   17 1752 et seq.), as amended by section 801, is further
+>                   18 amended by adding at the end the following:
+>                   19 ‘‘SEC. 133. OPEN DATA PUBLICATION.
+>                   20 ‘‘All public information published by the Administra21 tion under this title shall be published as open data, freely
+>                   22 available for download in bulk, accessible via application
+>                   23 programming interface where appropriate, and offered
+>                   24 without any registration requirement or reuse restric25 tion.’’.
+>        G:\VHLC\030817\030817.252.(646127|7)
+> VerDate Nov 216:13 Mar 0Jkt 000PO 0000Frm 000Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                 46
+>                    1 SEC. 803. RULEMAKING.
+>                    2 (a) IN GENERAL .—Not later than the end of the 23 year period beginning on the date of the enactment of this
+>                    4 Act, the National Credit Union Administration Board
+>                    5 shall issue the regulations required under the amendments
+>                    6 made by this title.
+>                    7 (b) SCALING OF REGULATORY REQUIREMENTS .—In
+>                    8 issuing the regulations required under the amendments
+>                    9 made by this title, the National Credit Union Administra10 tion Board may scale data reporting requirements in order
+>                   11 to reduce any unjustified burden on smaller regulated en12 tities.
+>                   13 (c) MINIMIZING DISRUPTION .—In issuing the regula14 tions required under the amendments made by this title,
+>                   15 the National Credit Administration Board shall seek to
+>                   16 minimize disruptive changes to the persons affected by
+>                   17 such regulations.
+>                   18 SEC. 804. NO NEW DISCLOSURE REQUIREMENTS.
+>                   19 Nothing in this title or the amendments made by this
+>                   20 title shall be construed to require the National Credit
+>                   21 Union Administration Board to collect additional informa22 tion under the statutes amended by this title, beyond in23 formation that was collected under such statutes before
+>                   24 the date of the enactment of this Act.
+>        G:\VHLC\030817\030817.252(646127|7)
+> VerDate Nov 16:13 Mar 08Jkt 00PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                47
+>                    1 TITLE IX—FEDERAL HOUSING
+>                    2 FINANCE AGENCY
+>                    3 SEC. 901. DATA STANDARDS REQUIREMENTS FOR THE FED4 ERAL HOUSING FINANCE AGENCY.
+>                    5 Part 1 of subtitle A of the Federal Housing Enter6 prises Financial Safety and Soundness Act of 1992 (12
+>                    7 U.S.C. 4501 et seq.) is amended by adding at the end
+>                    8 the following:
+>                    9 ‘‘SEC. 1319H. DATA STANDARDS.
+>                  10 ‘‘(a) REQUIREMENT .—The Agency shall, by rule,
+>                  11 adopt data standards for all information that is regularly
+>                  12 filed with or submitted to the Agency under this Act.
+>                  13 ‘‘(b) CHARACTERISTICS .—The data standards re14 quired by subsection (a) shall, to the extent practicable—
+>                  15 ‘‘(1) render information fully searchable and
+>                  16 machinereadable;
+>                  17 ‘‘(2) be nonproprietary;
+>                  18 ‘‘(3) incorporate standards developed and main19 tained by voluntary consensus standards bodies; and
+>                  20 ‘‘(4) be consistent with and implement applica21 ble accounting and reporting principles.
+>                  22 ‘‘(c) NCORPORATION OF STANDARDS .—In adopting
+>                  23 data standards by rule under this section, the Agency shall
+>                  24 incorporate all applicable data standards promulgated by
+>                  25 the Secretary of the Treasury.’’.
+>        G:\VHLC\030817\030817.25(646127|7)
+> VerDate Nov 16:13 Mar 0Jkt 000PO 000Frm 000Fmt 6Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>        G:\M\15\ISSA\ISSA_006.XML
+>                                                  48
+>                    1 SEC. 902. OPEN DATA PUBLICATION BY THE FEDERAL
+>                    2 HOUSING FINANCE AGENCY.
+>                    3 Part 1 of subtitle A of the Federal Housing Enter4 prises Financial Safety and Soundness Act of 1992 (12
+>                    5 U.S.C. 4501 et seq.), as amended by section 901, is fur6 ther amended by adding at the end the following:
+>                    7 ‘‘SEC. 1319I. OPEN DATA PUBLICATION.
+>                    8 ‘‘All public information published by the Agency
+>                    9 under this Act shall be published as open data, freely
+>                   10 available for download in bulk, accessible via application
+>                   11 programming interface where appropriate, and offered
+>                   12 without any registration requirement or reuse restric13 tion.’’.
+>                   14 SEC. 903. RULEMAKING.
+>                   15 (a) IN GENERAL .—Not later than the end of the 216 year period beginning on the date of the enactment of this
+>                   17 Act, the Federal Housing Finance Agency shall issue the
+>                   18 regulations required under the amendments made by this
+>                   19 title.
+>                   20 (b) MINIMIZING DISRUPTION .—In issuing the regula21 tions required under the amendments made by this title,
+>                   22 the Federal Housing Finance Agency shall seek to mini23 mize disruptive changes to the persons affected by such
+>                   24 regulations.
+>        G:\VHLC\030817\030817.252.(646127|7)
+> VerDate Nov 216:13 Mar 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X
+>         G:\M\15\ISSA\ISSA_006.XML
+>                                                            49
+>                        1 SEC. 904. NO NEW DISCLOSURE REQUIREMENTS.
+>                        2 Nothing in this title or the amendments made by this
+>                        3 title shall be construed to require the Federal Housing Fi4 nance Agency to collect additional information under the
+>                        5 statutes amended by this title, beyond information that
+>                        6 was collected under such statutes before the date of the
+>                        7 enactment of this Act.
+>         G:\VHLC\030817\030817.252.xml (646127|7)
+>         March 8, 2017 (4:13 p.m.)
+> VerDate Nov 24 16:13 Mar 08, Jkt 0000PO 00000Frm 00049Fmt 665Sfmt 620C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\ISSA_006.X

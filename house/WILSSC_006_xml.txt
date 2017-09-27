@@ -1,0 +1,96 @@
+>        G:\M\15\WILSSC\WILSSC_006.XML
+>                                                                           [114H3994]
+>                                                      .....................................................................
+>                                                          (Original Signature of Member)
+>                   115 TH CONGRESS
+>                       1ST SESSION
+>                                         H. R.ll
+>                   To direct the Administrator of the National Highway Traffic Safety Administration to conduct a study to determine appropriate cybersecurity standards for motor vehicles, and for other purposes.
+>                          IN THE HOUSE OF REPRESENTATIVES
+>                   Mr. W ILSONof South Carolina (for himself and ED.LIEU of California)
+>                       introduced the following bill; which was referred to the Committee on
+>                       lllllllllllllll
+>                                           A BILL
+>                   To direct the Administrator of the National Highway Traffic
+>                       Safety Administration to conduct a study to determine
+>                       appropriate cybersecurity standards for motor vehicles,
+>                       and for other purposes.
+>                    1 Be it enacted by the Senate and House of Representa2 tives of the United States of America in Congress assembled,
+>                    3 SECTION 1. SHORT TITLE.
+>                    4 This Act may be cited as the ‘‘Security and Privacy
+>                    5 in Your Car Study Act of 2017’’ or the ‘‘SPY Car Study
+>                    6 Act of 2017’’.
+>        G:\VHLC\012417\012417.153.(647537|4)
+> VerDate 0ct 14:39 Jan 24Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\CBOSBO~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\WILSSC~1.X
+>        G:\M\15\WILSSC\WILSSC_006.XML
+>                                                   2
+>                    1 SEC. 2. STUDY ON CYBERSECURITY STANDARDS FOR
+>                    2 MOTOR VEHICLES.
+>                    3 (a) STUDY REQUIRED .—The Administrator of the
+>                    4 National Highway Traffic Safety Administration, in con5 sultation with the Federal Trade Commission, the Direc6 tor of the National Institute of Standards and Technology,
+>                    7 the Secretary of Defense, the Automotive Information
+>                    8 Sharing and Analysis Center, SAE International, manu9 facturers of motor vehicles, manufacturers of original
+>                   10 motor vehicle equipment, and relevant academic institu11 tions, shall conduct a study to determine appropriate
+>                   12 standards for the regulation of the cybersecurity of motor
+>                   13 vehicles manufactured or imported for sale in the United
+>                   14 States that should be adopted by the Administration and
+>                   15 any other appropriate Federal agencies. The study shall
+>                   16 include an identification of—
+>                   17 (1) the isolation measures that are necessary to
+>                   18 separate critical software systems from other soft19 ware systems;
+>                   20 (2) the measures that are necessary to detect
+>                   21 and prevent or minimize in the software systems of
+>                   22 motor vehicles anomalous codes associated with ma23 licious behavior;
+>                   24 (3) the techniques that are necessary to detect
+>                   25 and prevent, discourage, or mitigate intrusions into
+>                   26 the software systems of motor vehicles and other
+>        G:\VHLC\012417\012417.153.(647537|4)
+> VerDate 0ct 14:39 Jan 24Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\CBOSBO~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\WILSSC~1.X
+>        G:\M\15\WILSSC\WILSSC_006.XML
+>                                                 3
+>                    1 cybersecurity risks in motor vehicles, such as contin2 uous penetration testing and ondemand risk assess3 ments;
+>                    4 (4) best practices to secure driving data col5 lected by the electronic systems of motor vehicles
+>                    6 while such data are stored onboard the vehicle, in
+>                    7 transit from the vehicle to another location, in
+>                    8 offboard storage, and in long-term storage (whether
+>                    9 onboard or offboard the vehicle); and
+>                  10 (5) a timeline for implementing systems and
+>                  11 software that reflect the measures, techniques, and
+>                  12 best practices identified under paragraphs (1)
+>                  13 through (4).
+>                  14 (b) REPORTS TO CONGRESS .—
+>                  15 (1) PRELIMINARY REPORT .—Not later than 1
+>                  16 year after the date of the enactment of this Act, the
+>                  17 Administrator shall submit to the Committee on En18 ergy and Commerce of the House of Representatives
+>                  19 and the Committee on Commerce, Science, and
+>                  20 Transportation of the Senate a report containing the
+>                  21 preliminary findings of the study conducted under
+>                  22 subsection (a).
+>                  23 (2) FINAL REPORT .—Not later than 6 months
+>                  24 after the submission of the report under paragraph
+>                  25 (1), the Administrator shall submit to the commitG:\VHLC\012417\012417.153(647537|4)
+> VerDate 0ct 14:39 Jan 2Jkt 00PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\CBOSBO~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\WILSSC~1.X
+>        G:\M\15\WILSSC\WILSSC_006.XML
+>                                                 4
+>                    1 tees described in such paragraph a report containing
+>                    2 the complete findings of the study conducted under
+>                    3 subsection (a), including recommended dates for the
+>                    4 adoption and effectiveness of the standards deter5 mined to be appropriate in such study and rec6 ommendations for any legislation that may be nec7 essary to authorize the adoption of such standards.
+>                    8 (3) FORM OF REPORT .—The report required by
+>                    9 paragraph (2) shall be submitted in unclassified
+>                   10 form but may contain a classified annex.
+>                   11 (c) DEFINITIONS .—In this section:
+>                   12 (1) ADMINISTRATOR .—The term ‘‘Adminis13 trator’’ means the Administrator of the National
+>                   14 Highway Traffic Safety Administration.
+>                   15 (2) CRITICAL SOFTWARE SYSTEM .—The term
+>                   16 ‘‘critical software system’’ means a software system
+>                   17 of a motor vehicle that can affect the driver’s control
+>                   18 of the movement of the vehicle.
+>                   19 (3) DRIVING DATA .—The term ‘‘driving data’’
+>                   20 includes any electronic information collected about—
+>                   21 (A) a vehicle’s status, including its location
+>                   22 or speed; or
+>                   23 (B) any owner, lessee, driver, or passenger
+>                   24 of a vehicle.
+>        G:\VHLC\012417\012417.153(647537|4)
+> VerDate 0ct 14:39 Jan 2Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\CBOSBO~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\WILSSC~1.X

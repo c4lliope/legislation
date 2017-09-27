@@ -1,0 +1,21 @@
+> 115THCONGRESS
+>    1STSESSION
+>                   S.ll
+>       To expedite the deployment of highway construction projects.
+>     IN THE SENATE OF THE UNITED STATES
+>                   llllllllll
+>  Mr. LAKEintroduced the following bill; which was read twice and referred
+>            to the Committee on llllllllll
+>                    A BILL
+> To expedite the deployment of highway construction projects.
+     Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE. This Act may be cited as the ‘‘Transportation Investment Recalibration to Equality Act’’ or the ‘‘TIRE Act’’.
+SEC. 2. REPEAL OF CERTAIN REQUIREMENTS FOR HIGH-WAY CONSTRUCTION PROJECTS.
+     (a) N GENERAL .—Section 113 of title 23, United States Code, is repealed.
+     (b) CONFORMING AMENDMENTS .—
+         (1) Section 106(d)(1) of title 23, United States Code, is amended by striking ‘‘113 or’’.
+          (2) Section 610(h)(1) of title 23, United States Code, is amended in the undesignated matter following subparagraph (B) by striking ‘‘sections 113 and 114’’ and inserting ‘‘section 114’’.
+          (3) Section 1420(b)(1) of the FAST Act (23 U.S.C. 101 note; Public Law 114–94) is amended by striking ‘‘113 or’’.
+          (4) Section 1511(i)(1) of the Transportation Equity Act for the 21st Century (23 U.S.C. 601 note; Public Law 105–178) is amended in the undesignated matter following subparagraph (B) by striking ‘‘sections 113 and 114’’ and inserting ‘‘section 114’’.
+          (5) The analysis for chapter 1 of title 23, United States Code, is amended by striking the item relating to section 113.
+      (c) APPLICABILITY .—This Act and the amendments made by this Act shall apply only to projects that commence on or after the date of enactment of this Act.

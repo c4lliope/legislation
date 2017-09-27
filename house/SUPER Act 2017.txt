@@ -1,0 +1,209 @@
+>        G:\M\15\PETECA\PETECA_014.XML
+>                                                                           [∼114H508]
+>                                                       .....................................................................
+>                                                           (Original Signature of Member)
+>                   115 TH CONGRESS
+>                       1ST SESSION
+>                                         H. R.ll
+>                   To establish a task force to review policies and measures to promote, and
+>                       to develop best practices for, reduction of shortlived climate pollutants,
+>                       and for other purposes.
+>                           IN THE HOUSE OF REPRESENTATIVES
+>                        Mr. PETERS introduced the following bill; which was referred to the
+>                                Committee on llllllllllllll
+>                                           A BILL
+>                   To establish a task force to review policies and measures
+>                        to promote, and to develop best practices for, reduction
+>                        of shortlived climate pollutants, and for other purposes.
+>                     1 Be it enacted by the Senate and House of Representa2 tives of the United States of America in Congress assembled,
+>                     3 SECTION 1. SHORT TITLE.
+>                     4 This Act may be cited as the ‘‘Super Pollutant Emis5 sions Reduction Act of 2017’’ or the ‘‘SUPER Act of
+>                     6 2017’’.
+>        g:\VHLC\060717\060717.191.(659370|6)
+> VerDate Nov 215:50 Jun 0Jkt 000PO 0000Frm 000Fmt 66Sfmt 62C:\USERS\AEBELL\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\PETECA~1.XML
+>        G:\M\15\PETECA\PETECA_014.XML
+>                                                  2
+>                    1 SEC. 2. FINDINGS AND PURPOSE.
+>                    2 (a) FINDINGS .—Congress makes the following find3 ings:
+>                    4 (1) Carbon dioxide emissions are estimated to
+>                    5 account for 40 to 45 percent of anthropogenic radi6 ative forcing (or manmade global warming), while
+>                    7 the remainder is driven by non-carbon dioxide cli8 mate pollutants, primarily shortlived climate pollut9 ants. These shortlived climate pollutants, or ‘‘super
+>                   10 pollutants’’, have shorter atmospheric lifespans than
+>                   11 carbon dioxide, but cause about 25 to 2000 times
+>                   12 more warming per ton over a 25 to 100 year period,
+>                   13 and in many cases the emissions are growing much
+>                   14 faster than carbon dioxide.
+>                   15 (2) Several of the shortlived climate pollutants
+>                   16 are also potent air pollutants that harm human
+>                   17 health and reduce crop yields. Reducing these pollut18 ants can save thousands of lives every year in the
+>                   19 United States and prevent millions of premature
+>                   20 deaths from air pollution worldwide, while also in21 creasing agricultural production.
+>                   22 (3) International efforts to address shortlived
+>                   23 climate pollutants are underway, including the Cli24 mate and Clean Air Coalition to Reduce ShortLived
+>                   25 Climate Pollutants, led by the Department of State
+>                   26 and the United Nations Environment Programme,
+>        g:\VHLC\060717\060717.191(659370|6)
+> VerDate Nov 215:50 Jun 0Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\AEBELL\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\PETECA~1.XML
+>        G:\M\15\PETECA\PETECA_014.XML
+>                                                  3
+>                    1 the Global Methane Initiative, and the recently final2 ized Kigali Amendment to the Montreal Protocol on
+>                    3 Substances that Deplete the Ozone Layer. The
+>                    4 Kigali Amendment, agreed to by 197 countries in
+>                    5 October 2016, could mitigate 80 billion metric tons
+>                    6 of carbon dioxide equivalent emissions by 2050,
+>                    7 avoiding up to 0.5 °C warming by the end of the cen8 tury.
+>                    9 (4) Many of the technologies to reduce short10 lived climate pollutants already exist, but in some
+>                   11 cases, adoption of such technologies has been slow.
+>                   12 Most alternatives to the super pollutant HFCs are
+>                   13 invented and produced by American companies and
+>                   14 many American companies that previously used
+>                   15 super pollutants are introducing alternatives in do16 mestic and export markets. The appliances that use
+>                   17 alternatives to HFCs and enhance energy efficiency
+>                   18 are also designed in the United States. United
+>                   19 States leadership and innovation in development of
+>                   20 new technologies to replace super pollutants is ex21 pected to result in job growth and benefits for the
+>                   22 United States economy.
+>                   23 (5) The Federal Government has a number of
+>                   24 programs and initiatives that aim to, or the out25 comes of which, reduce emissions of shortlived clig:\VHLC\060717\060717.191(659370|6)
+> VerDate Nov 215:50 Jun 0Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\AEBELL\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\PETECA~1.XML
+>        G:\M\15\PETECA\PETECA_014.XML
+>                                                  4
+>                    1 mate pollutants, but these programs are scattered
+>                    2 across multiple agencies and there is insufficient co3 ordination to maximize reductions of these pollut4 ants. In February 2012, the Government Account5 ability Office published an annual report, ‘‘Opportu6 nities to Reduce Duplication, Overlap and Frag7 mentation, Achieve Savings, and Enhance Revenue’’,
+>                    8 which examined the efficiency and efficacy of gov9 ernment programs, including those that address die10 sel emissions that contain black carbon, a shortlived
+>                   11 climate pollutant.
+>                   12 (6) Executive Order 13514 requires Federal
+>                   13 agencies to develop plans for reducing
+>                   14 hydrofluorocarbons and methane, but few agencies
+>                   15 have focused on these compounds in their annual
+>                   16 Strategic Sustainability Performance Plans. Execu17 tive Order 13693 directs Federal agencies to take
+>                   18 into account environmental and sustainability factors
+>                   19 in Federal acquisition processes, including in the
+>                   20 purchase of products using high-global warming po21 tential hydrofluorocarbons. In May 2016, the De22 partment of Defense, General Services Administra23 tion, and National Aeronautics and Space Adminis24 tration finalized and published a rule to amend the
+>                   25 Federal Acquisition Regulation (FAR), Rule 81 FR
+>        g:\VHLC\060717\060717.191(659370|6)
+> VerDate Nov 215:50 Jun 0Jkt 00PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\AEBELL\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\PETECA~1.XML
+>        G:\M\15\PETECA\PETECA_014.XML
+>                                                  5
+>                    1 30429, directing Federal agencies to procure, when
+>                    2 feasible, alternatives to high-global warming poten3 tial hydrofluorocarbons. The rule also encourages
+>                    4 improved refrigerant management and the use of re5 claimed (instead of virgin) hydrofluorocarbons as ex6 amples of sustainable procurement under the FAR.
+>                    7 (7) Because of their short atmospheric life8 times, reducing global emissions of shortlived cli9 mate pollutants can quickly cut the rate of global
+>                   10 temperature rise in half, by 2050, and help stabilize
+>                   11 global temperatures below 2 °C above preindustrial
+>                   12 temperatures by 2100, when combined with reduc13 tions of global emissions of carbon dioxide. Such re14 duction in shortlived climate pollutants is possible
+>                   15 with the use of currently available technologies.
+>                   16 Without shortlived climate pollutant mitigation,
+>                   17 warming can exceed 2 °C within 35 years. Cutting
+>                   18 shortlived climate pollutants along with carbon diox19 ide can also reduce the rate of projected global sea20 level rise by half and total sealevel rise by a third.
+>                   21 Steps to reduce shortlived climate pollutants are
+>                   22 likely to have air quality and public health benefits
+>                   23 as well.
+>                   24 (b) PURPOSE .—The purpose of this Act is to—
+>        g:\VHLC\060717\060717.191(659370|6)
+> VerDate Nov 215:50 Jun 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\AEBELL\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\PETECA~1.XML
+>        G:\M\15\PETECA\PETECA_014.XML
+>                                                   6
+>                    1 (1) coordinate and optimize the Federal Gov2 ernment’s existing efforts to address shortlived cli3 mate pollutants;
+>                    4 (2) reduce overlap and duplication of such ef5 forts; and
+>                    6 (3) encourage Federal operations, programs,
+>                    7 policies, and initiatives to reduce shortlived climate
+>                    8 pollutants by—
+>                    9 (A) ensuring that the coordinated Federal
+>                   10 programs are effective and forwardlooking in
+>                   11 their efforts to control shortlived climate pol12 lutants;
+>                   13 (B) ensuring coordination of such Federal
+>                   14 operations, programs, policies, and initiatives
+>                   15 with State, local, regional, tribal, and industry
+>                   16 efforts; and
+>                   17 (C) supporting such State, local, regional,
+>                   18 tribal, and industry efforts.
+>                   19 SEC. 3. TASK FORCE ON SUPER POLLUTANTS.
+>                   20 (a) ESTABLISHMENT .—Not later than 90 days after
+>                   21 the date of the enactment of this Act, the President shall
+>                   22 establish the ‘‘Task Force on Super Pollutants’’ (referred
+>                   23 to in this section as the ‘‘Task Force’’).
+>                   24 (b) DUTIES .—The Task Force shall—
+>        g:\VHLC\060717\060717.191(659370|6)
+> VerDate Nov 215:50 Jun 0Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\AEBELL\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\PETECA~1.XML
+>        G:\M\15\PETECA\PETECA_014.XML
+>                                                   7
+>                    1 (1) review existing and potential policies and
+>                    2 measures that promote reduction of shortlived cli3 mate pollutants, in part by identifying and evalu4 ating programs and activities of the Federal govern5 ment that contribute, or could contribute, to such
+>                    6 reduction;
+>                    7 (2) identify and recommend specific existing
+>                    8 Federal programs and activities evaluated under
+>                    9 paragraph (1) that are unnecessarily duplicative and
+>                   10 can be consolidated to achieve greater efficiency and
+>                   11 effectiveness;
+>                   12 (3) identify gaps where programs do not exist,
+>                   13 and recommend focused programs and activities to
+>                   14 fill these gaps to achieve reductions of shortlived cli15 mate pollutants, with an emphasis on industry
+>                   16 standards and publicprivate partnerships where pos17 sible;
+>                   18 (4) identify and highlight programs and activi19 ties where reductions in shortlived climate pollut20 ants can continue to spur innovation and job cre21 ation in the private sector and increase United
+>                   22 States competitiveness in the global market for new
+>                   23 technologies to replace those using shortlived cli24 mate pollutants;
+>        g:\VHLC\060717\060717.191(659370|6)
+> VerDate Nov 215:50 Jun 0Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\AEBELL\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\PETECA~1.XML
+>        G:\M\15\PETECA\PETECA_014.XML
+>                                                  8
+>                    1 (5) identify, compile, evaluate, and develop best
+>                    2 practices for reductions of shortlived climate pollut3 ants, including by—
+>                    4 (A) identifying and evaluating both domes5 tic and international best practices and stand6 ards practiced and set by governments, industry
+>                    7 in each sector listed in subsection (c)(5), stand8 ards bodies, and other relevant institutions; and
+>                    9 (B) identifying and evaluating costeffec10 tive mitigation projects, strategies, and policies
+>                   11 at the State, local, and tribal level, with the
+>                   12 greatest potential for reduction of shortlived
+>                   13 climate pollutants; and
+>                   14 (6) not later than 18 months after the date of
+>                   15 enactment of this Act, submit to Congress a report
+>                   16 on the findings and recommendations developed
+>                   17 under paragraphs (1) through (5), including quan18 tification of cumulative emission reductions achiev19 able for each shortlived climate pollutant through
+>                   20 implementation of Task Force recommendations.
+>                   21 (c) MEMBERS .—The Task Force established under
+>                   22 subsection (a) shall include representatives of—
+>                   23 (1) all relevant Federal agencies, including—
+>                   24 (A) the Secretary of Energy;
+>        g:\VHLC\060717\060717.191(659370|6)
+> VerDate Nov 215:50 Jun 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\AEBELL\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\PETECA~1.XML
+>        G:\M\15\PETECA\PETECA_014.XML
+>                                                  9
+>                    1 (B) the Administrator of the Environ2 mental Protection Agency;
+>                    3 (C) the Secretary of the Interior;
+>                    4 (D) the Secretary of Transportation;
+>                    5 (E) the Secretary of Agriculture;
+>                    6 (F) the Secretary of State;
+>                    7 (G) the Secretary of Commerce; and
+>                    8 (H) the Secretary of Health and Human
+>                    9 Services;
+>                   10 (2) relevant offices and councils within the Ex11 ecutive Office of the President, including—
+>                   12 (A) the Office of Management and Budget;
+>                   13 (B) the Office of Science and Technology
+>                   14 Policy; and
+>                   15 (C) the Council on Environmental Quality;
+>                   16 (3) State, local, and tribal governments or asso17 ciations;
+>                   18 (4) academic and non-governmental organiza19 tions with expertise in shortlived climate pollutants;
+>                   20 and
+>                   21 (5) relevant industry organizations, rep22 resenting at least the following sectors:
+>                   23 (A) Energy supply and transmission, in24 cluding fossil fuels.
+>                   25 (B) Solid waste.
+>        g:\VHLC\060717\060717.191(659370|6)
+> VerDate Nov 215:50 Jun 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\AEBELL\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\PETECA~1.XML
+>        G:\M\15\PETECA\PETECA_014.XML
+>                                                   10
+>                     1 (C) Transportation.
+>                     2 (D) Chemical manufacturing and user in3 dustries.
+>                     4 (E) Agriculture.
+>                     5 (F) Wastewater.
+>                     6 (G) Buildings.
+>                     7 (H) Other sectors as determined appro8 priate by the President.
+>                     9 (d) DEFINITION .—In this Act, the term ‘‘shortlived
+>                   10 climate pollutant’’ means any of the following:
+>                   11 (1) Black carbon.
+>                   12 (2) Methane.
+>                   13 (3) Hydrofluorocarbons.
+>                   14 (4) Tropospheric ozone and its precursors.
+>                   15 (5) Emissions from banks of ozonedepleting
+>                   16 substances.
+>        g:\VHLC\060717\060717.191.(659370|6)
+> VerDate Nov 215:50 Jun 07Jkt 000PO 000Frm 000Fmt 665Sfmt 6C:\USERS\AEBELL\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\PETECA~1.XML

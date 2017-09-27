@@ -1,0 +1,800 @@
+> 112THCONGRESS
+>    2DSESSION S.ll
+>     IN THE SENATE OF THE UNITED STATES
+>                   llllllllll
+>  llllllllll introduced the following bill; which was read twice
+>        and referred to the Committee on llllllllll
+>                   A BILL
+    Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+SEC. 2. PHARMACEUTICAL DISTRIBUTION SUPPLY CHAIN. Chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351 et seq.) is amended by adding at the end the following: ‘‘Subchapter G—Pharmaceutical Distribution Supply Chain
+‘‘SEC. 581. DEFINITIONS. ‘‘In this subchapter:
+          ‘‘(1) ALERT .—The term ‘alert’ means a notification to all affected trading partners that illegitimate product has been identified in the pharmaceutical distribution supply chain or has the potential to enter the pharmaceutical distribution supply chain.
+          ‘‘(2) AUTHORIZED .—The term ‘authorized’ means:
+               ‘‘(A) in the case of a manufacturer or repackager, having a valid registration in accordance with section 510;
+               ‘‘(B) in the case of a wholesale distributor, having a valid license under State law or section ø583¿, as applicable, and a valid listing in accordance with section ø503(e)(4)¿; ø‘‘(C) in the case of a third-party logistics provider, having a valid license under State law or section ø584(a)(1)¿, as applicable, and having a valid listing in accordance witø584(b)¿; and¿
+               ‘‘(D) in the case of a dispenser, having a valid license under State law.
+          ‘‘(3) DISPENSER .—The term ‘dispenser’ means a retail pharmacy, hospital pharmacy, or any other person authorized by law to dispense or administer prescription drugs øand the affiliated warehouses or distribution centers of such entities under common ownership and control that do not engage in wholesale distribution¿. The term ‘dispenser’ does not include persons who dispense product solely to be used in animals in accordance with section 512(a)(5).
+          ‘‘(4) DISPOSITION .—The term ‘disposition’ means ensuring that product does not reenter the pharmaceutical distribution supply chain, which may include disposal of the product or other actions such as retaining a sample of the product for further additional physical examination or laboratory analysis of the product by a manufacturer or regulatory or law enforcement agency.
+          ‘‘(5) DISTRIBUTE OR DISTRIBUTION .—The term ‘distribute’ or ‘distribution’ means the sale, purchase, trade, delivery, handling, storage, receipt, or brokering of prescription drugs.
+          ‘‘(6) ILLEGITIMATE PRODUCT .—The term ‘illegitimate product’ means a product for which credible evidence shows that the product—
+               ‘‘(A) is øpotentially¿ counterfeit, diverted, or stolen;
+               ‘‘(B) is øpotentially¿ intentionally adulterated øsuch that the product would result in serious adverse health consequences or death to humans¿; or
+               ‘‘(C) øappears otherwise unfit for distribution øsuch that the product could result in serious adverse health consequence or death to humans¿¿.
+          ‘‘(7) LICENSED .—The term ‘licensed’ means—
+               ‘‘(A) in the case of a wholesale distributor, having a valid license or licenses, as applicable, to engage in wholesale distribution as required under øsection 583¿;
+               ‘‘(B) in the case of a third-party logistics provider, having a valid license to engage in business as a third-party logistics provider as required under øsection 584¿; and
+               ‘‘(C) in the case of a dispenser, having a valid license under State law.
+          ‘‘(8) LISTED.—The term ‘listed’ means—
+               ‘‘(A) in the case of a wholesale distributor, having a current ølisting¿ with the Secretary as required under øsection 503(e)(4)¿; and
+               ‘‘(B) in the case of a third-party logistics provider, having a current ølisting¿ with the Secretary as required under øsection 584(b)¿.
+          ‘‘(9) MANUFACTURER .—The term ‘manufacturer’ means, with respect to a product—
+               ‘‘(A) the person that holds the application approved under section 505 or the license issued under section 351 of the Public Health Service Act for the product, or if the product is not the subject of an approved application or license, the person who manufactured the product;
+               ‘‘(B) a colicensed partner of the person described in subparagraph (A) that obtains the product directly from the person described in subparagraph (A) or (C); or
+               ‘‘(C) a colicensed person that manufactures the product for a person described in subparagraph (A) or (B).
+          ‘‘(10) PACKAGE .—The term ‘package’ means the smallest individual saleable unit of product for distribution in øinterstate¿ commerce by a manufacturer or repackager that is intended by the manufacturer for ultimate sale to the dispenser of such product. An individual saleable unit is the smallest container of product put into interstate commerce by the manufacturer that is intended by the manufacturer for individual sale to a dispenser.
+          ‘‘(11) PRESCRIPTION DRUG .—The term ‘prescription drug’ means a drug for human use subject to section 503(b).
+          ‘‘(12) PRODUCT .—The term ‘product’ means a prescription drug in a finished dosage form for administration to a patient without substantial further manufacturing (such as capsules, tablets, and lyophilized products before reconstitution).
+          ‘‘(13) PRODUCT IDENTIFIER .—The term ‘product identifier’ means a standardized graphic that includes, in both humanreadable form and on a machinereadable data carrier that conforms to the standards developed by a widelyrecognized international standards development organization, the standardized numerical identifier, lot number, and expiration date of the product.
+          ‘‘(14) R EPACKAGER .—The term ‘repackager’ means a person who owns or operates an establishment that repacks and relabels a product or package for further sale.
+          ‘‘(15) RETURN .—The term ‘return’ means providing product to the trading partner from which such product was purchased and for which the trading partner returning such product receives compensation.
+          ‘‘(16) RETURNS PROCESSOR .—The term ‘returns processor’ means a person who owns or operates an establishment that dispositions or otherwise processes nonsaleable product received from an authorized trading partner such that the product may not be further distributed.
+          ‘‘(17) SPECIFIC PATIENT NEED .—The term ‘specific patient need’ refers to the transfer of a product from one pharmacy to another to fill a prescription for an identified patient. Such term does not include the transfer of a product from one pharmacy to another for the purpose of increasing or replenishing stock in anticipation of a potential need.
+          ‘‘(18) STANDARDIZED NUMERICAL IDENTIFIER OR SNI .—The term ‘standardized numerical identifier’ or ‘SNI’ means a set of numbers or characters used to uniquely identify each package or homogenous case that is composed of the National Drug Code that corresponds to the specific product (including the particular package configuration) combined with a unique alphanumeric serial number of up to 20 characters.
+          ‘‘(19) SUSPECT PRODUCT .—The term ‘suspect product’ means a product for which there is reason to believe that such product—
+               ‘‘(A) is øpotentially¿ counterfeit, diverted, or stolen;
+               ‘‘(B) is øpotentially¿ intentionally adulterated øsuch that the product would result in serious adverse health consequences or death to humans¿; or
+               ‘‘(C) øappears otherwise unfit for distribution øsuch that the product would result in serious adverse health consequences or death to humans¿¿.
+          ‘‘(20) T HIRDPARTY LOGISTICS PROVIDER .— The term ‘third-party logistics provider’ means an establishment that warehouses, stores, segregates, or prepares for shipment product on behalf of a manufacturer, wholesale distributor, health care provider, or dispenser, but which does not have any ownership interest in the product. The term does not include a common carrier unless, in addition to transporting a product, the common carrier also performs any of the activities described in the preceding sentence with respect to that product.
+          ‘‘(21) TRADING PARTNER .—The term ‘trading partner’ means—
+               ‘‘(A) a manufacturer, repackager, wholesale distributor, or dispenser from whom a manufacturer, repackager, wholesale distributor, or dispenser accepts ownership of a product or to whom a manufacturer, repackager, wholesale distributor, or dispenser transfers ownership of a product; or
+               ‘‘(B) a third-party logistics provider from whom a manufacturer, repackager, wholesale distributor, or dispenser accepts possession of a product or to whom a manufacturer, repackager, wholesale distributor, or dispenser transfers possession of a product.
+          ‘‘(22) TRANSACTION .—
+               ‘‘(A) N GENERAL .—The term ‘transaction’ means the transfer of product between persons in which a change of ownership occurs, including a return of product.
+               ‘‘(B) EXEMPTIONS .—The term ‘transaction’ does not include—
+                   ‘‘(i) intracompany distribution of any product øbetween members of an affiliated group (as defined in section 1504(a) of the Internal Revenue Code of 1986) ¿;
+                   ‘‘(ii) the distribution of a product or an offer to distribute a product among hospitals or other health care entities that are under common control;
+                    ‘‘(iii) the distribution of a product or an offer to distribute a product for emergency medical reasons including a public health emergency declaration pursuant to section 319 of the Public Health Service Act, except that a drug shortage not caused by a public health emergency shall not constitute an emergency medical reason;
+                    ‘‘(iv) the dispensing of a product pursuant to a valid prescription executed in accordance with section 503(b);
+                    ‘‘(v) the distribution of product samples by a manufacturer or a licensed wholesale distributor in accordance with section 503(d);
+                    ‘‘(vi) the distribution of blood or blood components intended for transfusion;
+                    ‘‘(vii) the distribution of minimal quantities of product by a licensed retail pharmacy to a licensed practitioner for office use;
+                   ‘‘(viii) the distribution of a product or an offer to distribute a product by a charitable organization to a nonprofit affiliate of the organization to the extent otherwise permitted by law;
+                   ‘‘(ix) the distribution of a product pursuant to the sale or merger of a pharmacy or pharmacies, except that any records required to be maintained for the product shall be transferred to the new owner of the product; ø‘‘(x) the dispensing of a product approved under section 512(b);¿ ø‘‘(xi) øproducts transferred to or from any facility that is licensed by the Nuclear Regulatory Commission or by a State pursuant to an agreement with such Commission under section 274 of the Atomic Energy Act of 1954 (42 U.S.C. 2021)¿/ øradioactive drugs or radioactive biological products (as defined in section 600.3(ee) of title 21, Code of Federal Regulations) that are regulated by the Nuclear Regulatory Commission øNote from working group : Do these differ? Do we need both/either?¿¿;¿ ø‘‘(xii) the purchase or other acquisition, by a hospital or other health care entity that is a member of a group purchasing organization, of a product for use by such hospital or health care entity from the group purchasing organization or from other hospitals or health care entities that are members of such organizations; ¿ ø‘‘(xiii) the distribution of a medical convenience kit that contains products if— ¿ ø‘‘(I) the medical convenience kit is assembled in an establishment that is registered with the Food and Drug Administration as a medical device manufacturer;¿ ø‘‘(II) the medical convenience kit manufacturer purchased the product directly from the manufacturer or from a wholesale distributor that purchased the prescription drug directly from the manufacturer;¿ ø‘‘(III) the medical convenience kit manufacturer does not alter the primary container or label of the prescription drug as purchased from the manufacturer or wholesale distributor;¿ ø‘‘(IV) the medical convenience kit does not contain a controlled substance that appears in a schedule contained in the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 801, et seq); and ¿ ø‘‘(V) the products contained in the medical kit are—¿ ø‘‘(aa) intravenous solutions intended for the replenishment of fluids and electrolytes;¿ ø‘‘(bb) products intended to maintain the equilibrium of water and minerals in the body; ¿ ø‘‘(cc) products intended for irrigation or reconstitution;¿ ø‘‘(dd) anesthetics;¿ ø‘‘(ee) anticoagulants;¿ ø‘‘(ff) vasopressors; or¿ ø‘‘(gg) sympathicomimetics;¿ ø‘‘(xiv) the distribution of an intravenous product that, by its formulation, is intended for the replenishment of fluids and electrolytes (such as sodium, chloride, and potassium) or calories (such as dextrose and amino acids);¿ ø‘‘(xv) the distribution of an intravenous product used to maintain the equilibrium of water and minerals in the body, such as dialysis solutions;¿ ø‘‘(xvi) the distribution of a product that is intended for irrigation or reconstitution, or sterile water, whether intended for such purposes or for injection; or ¿
+                   ‘‘(xvii) the distribution of compressed medical gas, as defined in section 575(2). ø‘‘(C) COMPRESSED MEDICAL GAS .—For purposes of subparagraph (B)(xvii), the term ‘compressed medical gas’ means any substance in its gaseous or cryogenic liquid form that meets medical purity standards and has application in a medical or homecare environment, including oxygen and nitrous oxide. ¿ ø‘‘(D) AUTHORITY OF SECRETARY .—The Secretary shall, by regulation, establish a process by which to add products or transactions to, or remove products or transactions from, the list of exempted products and transactions under subparagraph (B).¿
+          ‘‘(23) TRANSACTION HISTORY .—The term ‘transaction history’ means a statement in paper or electronic form, including the transaction information for each prior transaction going back to the manufacturer of the product.
+          ‘‘(24) TRANSACTION INFORMATION .—The term ‘transaction information’ means—
+              ‘‘(A) the proprietary or established name or names of the product;
+              ‘‘(B) the strength and dosage form of the product;
+              ‘‘(C) the National Drug Code number of the product;
+              ‘‘(D) the container size;
+              ‘‘(E) the number of containers;
+              ‘‘(F) the lot number of the product;
+              ‘‘(G) the date of the transaction;
+              ‘‘(H) the date of the shipment, if different from the date of the transaction;
+               ‘‘(I) the business name and address of the person from whom ownership is being transferred; and
+               ‘‘(J) the business name and address of the person to whom ownership is being transferred.
+          ‘‘(25) TRANSACTION STATEMENT .—The ‘transaction statement’ is a øsigned¿ statement, in paper or electronic form, that the entity transferring ownership in a transaction—
+               ‘‘(A) is authorized as required undeøthis subchapter/section 582¿;
+               ‘‘(B) received the product from a person that is authorized as ørequired under this subchapter/section 582 ¿/øas described in paragraph (2)¿;
+               ‘‘(C) received the transaction information and transaction statement ørequired under this subchapter/section 582¿/øas described in paragraph (2)¿ from the prior owner of the product;
+               ‘‘(D) øhad systems and processes in place to prevent shipment of suspect product or illegitimate product as prohibited under øthis subchapter/section 582 ¿ and¿ did not knowingly and intentionally ship øsuspect product or illegitimate¿ product; and
+              ‘‘(E) attests to the accuracy of the transaction information provided to the subsequent owner of the product and attests that the entity has not altered the transaction history.
+          ‘‘(26) VERIFICATION OR VERIFY .—The term ‘verification’ or ‘verify’ means determining whether the product identifier affixed to, or imprinted upon, a package or homogeneous case corresponds to the standardized numerical identifier, lot number, and expiration date assigned to the product by the manufacturer or the repackager, as applicable. Verification of the product identifier may occur by using humanreadable or machinereadable methods.
+          ‘‘(27) WHOLESALE DISTRIBUTOR .—
+              ‘‘(A) IN GENERAL .—The term ‘wholesale distributor’ means a person engaged in the distribution of product to a person other than the consumer or patient, or receipt of product by a person other than the consumer or patient.
+              ‘‘(B) EXEMPTIONS .—The term ‘wholesale distributor’ does not include—
+                   ‘‘(i) intracompany distribution of any product øbetween members of an affiliated group (as defined in section 1504(a) of the Internal Revenue Code of 1986) ¿;
+                    ‘‘(ii) the distribution of a product, or an offer to distribute a product among hospitals or other health care entities which are under common control;
+                    ‘‘(iii) the distribution of a product or an offer to distribute a product for emergency medical reasons, including a public health emergency declaration pursuant to section 319 of the Public Health Service Act, except that a drug shortage not caused by a public health emergency shall not constitute an emergency medical reason;
+                    ‘‘(iv) dispensing of a product pursuant to a valid prescription executed in accordance with subsection 503(b);
+                    ‘‘(v) the distribution of minimal quantities of product by a licensed retail pharmacy to a licensed practitioner for office use;
+                    ‘‘(vi) the distribution of a product or an offer to distribute a product by a charitable organization to a nonprofit affiliate of the organization to the extent otherwise permitted by law;
+                    ‘‘(vii) the purchase or other acquisition by a dispenser, hospital, or other health care entity of a drug for use by such dispenser, hospital, or other health care entity;
+                    ‘‘(viii) the distribution of product by the manufacturer of the product;
+                    ‘‘(ix) the receipt or transfer of a drug by an authorized third-party logistics provider provided that such third-party logistics provider does not take ownership of the product;
+                    ‘‘(x) a common carrier that transports a prescription drug, provided that the common carrier does not take ownership of the drug;
+                    ‘‘(xi) the distribution of product, or an offer to distribute product by an authorized repackager that has taken ownership of the product and repacked it in accordance with this øsubchapter¿/øsection 582(e)¿;
+                    ‘‘(xii) product returns when conducted by a dispenser in accordance with section 203.23 of title 21, Code of Federal Regulations (or any successor regulation); ø‘‘(xiii) the distribution of a medical convenience kit that contains products if— ¿ ø‘‘(I) the medical convenience kit is assembled in an establishment that is registered with the Food and Drug Administration as a medical device manufacturer;¿ ø‘‘(II) the medical convenience kit manufacturer purchased the product directly from the manufacturer or from a wholesale distributor that purchased the prescription drug directly from the manufacturer;¿ ø‘‘(III) the medical convenience kit manufacturer does not alter the primary container or label of the prescription drug as purchased from the manufacturer or wholesale distributor;¿ ø‘‘(IV) the medical convenience kit does not contain a controlled substance that appears in a schedule contained in the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 801, et seq); and ¿ ø‘‘(V) the products contained in the medical kit are—¿ ø‘‘(aa) intravenous solutions intended for the replenishment of fluids and electrolytes;¿ ø‘‘(bb) products intended to maintain the equilibrium of water and minerals in the body; ¿ ø‘‘(cc) products intended for irrigation or reconstitution;¿ ø‘‘(dd) anesthetics;¿ ø‘‘(ee) anticoagulants;¿ ø‘‘(ff) vasopressors; or¿ ø‘‘(gg) sympathicomimetics;¿ ø‘‘(xiv) the distribution of an intravenous product that, by its formulation, is intended for the replenishment of fluids and electrolytes (such as sodium, chloride, and potassium) or calories (such as dextrose and amino acids);¿ ø‘‘(xv) the distribution of an intravenous product used to maintain the equilibrium of water and minerals in the body, such as dialysis solutions;¿ ø‘‘(xvi) the distribution of a product that is intended for irrigation or reconstitution, or sterile water, whether intended for such purposes or for injection; or ¿
+                   ‘‘(xvii) the distribution of compressed medical gas, as defined in subparagraph
+               (C).
+               ‘‘(C) For purposes of subparagraph
+          (B)(xvii), the term ‘compressed medical gas’ means any substance in its gaseous or cryogenic liquid form that meets medical purity standards and has application in a medical or homecare environment, including oxygen and nitrous oxide. ø‘‘(D) SECRETARY AUTHORITY .—The Secretary shall, by regulation, establish a process by which to add products or transactions to, or remove products or transactions from, the list of exempted products and transactions under subparagraph (B).¿
+ ‘‘SEC. 582. REQUIREMENTS.
+     ‘‘(a) N GENERAL .—
+          ‘‘(1) OTHER ACTIVITIES .—Each manufacturer, repackager, wholesale distributor, third-party logistics provider, and dispenser shall comply with the requirements set forth in this section.øIf an entity meets the definition of more than one of the entities listed in the preceding sentence, such entity shall comply with all applicable requirements in this section, but shall not be required to duplicate requirements.¿
+          ‘‘(2) STANDARDS .—The Secretary shall, in consultation with other appropriate Federal officials, manufacturers, repackagers, wholesale distributors, dispensers, and other pharmaceutical distribution supply chain stakeholders, develop standards for the interoperable exchange of transaction information for tracking and tracing prescription drugs. øThe standards developed under this paragraph shall comply with a form and format developed by a widely recognized international standards development organization.¿ The Secretary shall publish such standards not later than ø2 years¿ after the date of enactment of the øshort title¿.
+          ‘‘(3) WAIVERS , EXCEPTIONS , AND EXEMPTIONS .—
+               ‘‘(A) N GENERAL .—Not later than 2 years after the date of enactment of the øshort title¿, the Secretary shall, by guidance—
+                   ‘‘(i) establish a process by which an authorized manufacturer, repackager, wholesale distributor, or dispenser may request a waiver from any of the requirements set forth in this section if the Secretary determines that such requirements would result in an undue economic hardship or for emergency medical reasons, including a public health emergency declaration pursuant to section 319 of the Public Health Service Act; and
+                   ‘‘(ii) establish a process by which the Secretary may determine exceptions to the product identifier requirement if a product is packaged in a container too small or otherwise unable to accommodate a label with sufficient space to bear the information required for compliance with this section.
+               ‘‘(B) ADDITIONAL EXEMPTIONS .—The Secretary may, at any time, by guidance, determine other products or transactions that shall be exempt from the requirements of this section.
+          ‘‘(4) SELF-EXECUTING REQUIREMENTS .—Except where otherwise specified, the requirements of this øsection¿ may be enforced without further regulations or guidance from the Secretary.
+          ‘‘(5) GRANDFATHERED PRODUCT .—
+               ‘‘(A) N GENERAL .—Not later than øø1¿/ ø2¿ years after the date of enactment of the øshort title¿¿, the Secretary shall finalize guidance specifying whether and under what circumstances product that is not labeled with a product identifier and that is in the supply chain at the time of the effective date of the requirements of this section shall be exempted from the requirements of this section. ø‘‘(B) WHOLESALER LICENSES .—Notwithstanding section 581(7)(A), until the date that is 1 year after the effective date of the wholesale distributor licensing øregulations¿/ørequirements¿ under section 583, the term ‘licensed wholesaler’ shall mean a wholesaler with a valid license under State law. ¿ ø‘‘(C) THIRD PARTY LOGISTICS PROVIDER LICENSES .—Until the date that is 1 year after the effective date of the third-party logistics provider licensing øregulations¿/ørequirements¿ under section 584, a third-party logistics provider øshall be considered ‘licensed’ under section 581(7)(B) unless the Secretary has made a finding that the third-party logistics provider does not utilize good handling and distribution practices and publishes notice thereof¿ ø or¿ øhas a valid wholesale distributor license under State law¿.¿ ø‘‘(D) LABEL CHANGES .—Changes made to package labels solely to incorporate the product identifier may be submitted to the Secretary in the annual report of an establishment, in accordance with section 314.70(d) of chapter 21, Code of Federal Regulations (or any successor regulation).¿
+     ‘‘(b) MANUFACTURER REQUIREMENTS .—
+          ‘‘(1) PRODUCT TRACING .—
+              ‘‘(A) IN GENERAL .—Beginning not later than ø6 months¿/ø1 year¿ after the date of enactment of the øshort title ¿, a manufacturer shall—
+                   ‘‘(i) not accept ownership of a product unless the previous owner ø, prior to the transaction,¿ provides the transaction history, transaction information, and a transaction statement for the product;
+                   ‘‘(ii) øupon¿/øbefore¿ each transaction in which such manufacturer transfers ownership of a product, provide the subsequent owner with transaction history, transaction information, and a transaction statement;
+                   ‘‘(iii) maintain the transaction information øand product identifier ¿ for each transaction for not less than ø2¿/ø10¿ years after the date of the transaction; and
+                   ‘‘(iv) beginning not later than ø18 months¿/ø4 years¿ after the date of enactment of øshort title ¿, affix or imprint a product identifier to each package and homogenous case of product intended to be introduced in a transaction in commerce.
+               ‘‘(B) NONSALEABLE RETURNS .—A manufacturer may return a nonsaleable prescription drug to the manufacturer or repackager, to the wholesale distributor from whom such prescription drug was purchased, or to a person acting on behalf of such a person, including a returns processor, without providing the information required under subparagraph (A)(ii).
+          ‘‘(2) AUTHORIZED TRADING PARTNERS .—Beginning not later than ø3 months¿/ø2 years¿ after the date of enactment of the øshort title¿, the trading partners of a manufacturer may be only authorized trading partners.
+          ‘‘(3) VERIFICATION .—
+               ‘‘(A) N GENERAL .—Beginning not later than ø18 months¿/ø4 years¿ after the date of enactment of øinsert short title ¿, a manufacturer shall comply with the following requirements:
+                   ‘‘(i) A manufacturer shall have systems in place to enable the manufacturer to respond to verification requests described in clause (ii).
+                   ‘‘(ii) Upon receiving a request for verification from an authorized ømanufacturer,¿ repackager, wholesale distributor, or dispenser, a manufacturer shall, not later than ø24 hours after receiving ¿ the verification request, notify the person making the request whether the product identifier, including the standard numeric identifier, that is the subject of the request corresponds to the product identifier affixed or imprinted by the manufacturer. If the manufacturer has any reason to believe the product is a suspect product or illegitimate product, the manufacturer shall advise the person making the request of such belief at the time such manufacturer responds to the verification request.
+               ‘‘(B) ELECTRONIC DATABASE .—A manufacturer may satisfy the requirements of subparagraph (A) by developing a secure electronic database that can be accessed and queried by appropriate members of the pharmaceutical distribution supply chain, except that the establishment and operation of such a database shall not relieve a manufacturer of the requirement under subparagraph (A)(ii) to respond to a verification request submitted by means other than the electronic database.
+               ‘‘(C) RESUMED SUSPECT PRODUCT .—If a manufacturer conducting a verification identifies a product identifier that does not correspond to the product identifier affixed or imprinted by the manufacturer, the manufacturer shall treat such product as suspect product and conduct an investigation as described in paragraph (4).
+              ‘‘(D) RETURNED PRODUCT .—Upon receipt of a returned product that the manufacturer intends to further distribute, before further distributing such product, the manufacturer shall verify the product identifier for each sealed homogeneous case of such product or, if such product is not in a sealed homogeneous case, verify the product identifier on each package.
+          ‘‘(4) INVESTIGATION .—
+              ‘‘(A) IN GENERAL .—Beginning not later than ø6 months¿/ø1 year¿ after the date of enactment of the øshort title ¿, a manufacturer shall have systems in place to identify suspect product, segregate suspect product or illegitimate product within the possession or control of the manufacturer from product intended for distribution, and investigate suspect product.
+              ‘‘(B) TREATMENT OF SUSPECT PRODUCT .—
+                   ‘‘(i) N GENERAL .—Upon identifying a product as a suspect product, a manufacturer shall—
+                        ‘‘(I) segregate such product within the possession or control of the manufacturer from product intended for distribution; and
+                        ‘‘(II) promptly conduct an investigation in coordination with affected trading partners, as applicable, to determine whether the product is an illegitimate product, including verifying product information, authenticating any applicable øtransaction history and¿ transaction information in the possession of the manufacturer, and otherwise investigating to determine whether the product is an illegitimate product.
+                   ‘‘(ii) CLEARED PRODUCT .—If suspect product is determined not to be illegitimate product, such product may be further distributed. ø‘‘(C) RECORDS .—A manufacturer shall keep records of the investigation of a suspect product for not less than ø2¿/ø10¿ years after the conclusion of the investigation.øNote from working group: This option would include product investigated and cleared.¿¿
+               ‘‘(D) REQUESTS FOR INFORMATION .— Upon a request by the Secretary or other appropriate Federal or State official, in the event of a recall or for the purpose of investigating a suspect product, illegitimate product, or recalled product, a manufacturer shall, not later than ø24 hours ¿ after receiving the request or in other such reasonable time as determined by the Secretary, provide the applicable transaction information, transaction history, and transaction statements for the product.
+          ‘‘(5) DISPOSITION.—
+               ‘‘(A) SYSTEMS FOR DISPOSITION OF ILLEGITIMATE PRODUCT .—Beginning not later than ø6 months ¿/ø1 year ¿ after the date of enactment of the øshort title¿, a manufacturer shall have systems in place to—
+                   ‘‘(i) properly disposition product within the possession or control of the manufacturer, as appropriate, to ensure that illegitimate product does not enter the pharmaceutical distribution supply chain; and
+                   ‘‘(ii) take reasonable steps to remove illegitimate product not in the possession or control of the manufacturer from the pharmaceutical distribution supply chain.
+               ‘‘(B) DISPOSITION OF ILLEGITIMATE PRODUCT .—Upon determining that a product in the possession or control of a manufacturer is an illegitimate product, the manufacturer shall promptly notify the Secretary and properly disposition such product. ø‘‘(C) RECORDS .—A manufacturer shall keep records of an investigation of an illegitimate product for not less than ø2¿/ø10¿ years after the conclusion of the investigation. ¿
+          ‘‘(6) ALERTS .—Beginning not later than ø6 months¿/ø1 year¿ after the date of enactment of the øshort title¿, a manufacturer shall comply with the following:
+               ‘‘(A) A manufacturer shall maintain systems to enable the manufacturer to receive, issue, and terminate alerts. Such systems shall include means to identify affected trading partners to whom alerts are required to be sent under this øsection¿.
+               ‘‘(B) Upon determining that a product in the possession or control of the manufacturer is an illegitimate product, the manufacturer shall issue an alert to the Secretary and all affected trading partners not later than 24 hours after making such determination.
+               ‘‘(C) A manufacturer shall issue alerts to the Secretary and affected trading partners not later than 24 hours after determining or being notified by the Secretary or a trading partner that there is a high risk that a product manufactured by, or purported to be a product manufactured by, the manufacturer is a suspect product. For purposes of this subparagraph, a ‘high-risk’ may include a specific high-risk that could increase the risk that illegitimate product will enter into distribution and other high risks, as determined by the Secretary in guidance.
+               ‘‘(D) Upon a determination, in consultation with the Secretary, that an alert is no longer necessary, a manufacturer shall promptly notify affected trading partners that such alert has been terminated.
+               ‘‘(E) Upon the receipt of an alert from the Secretary or a trading partner, a manufacturer shall identify all product subject to such alert that is in the possession or control of the manufacturer, including any product that is subsequently received, and treat such product as suspect product.
+     ‘‘(c) WHOLESALE DISTRIBUTOR REQUIREMENTS .—
+          ‘‘(1) PRODUCT TRACING .—
+              ‘‘(A) IN GENERAL .—Beginning not later than ø6 months¿/ø1 year¿ after the date of enactment of the øshort title ¿, a wholesale distributor shall—
+                   ‘‘(i) not accept ownership of a product unless the previous owner ø, prior to the transaction,¿ provides the transaction history, transaction information, and a transaction statement for the product;
+                   ‘‘(ii) øupon¿/øbefore¿ each transaction in which the wholesale distributor transfers ownership of a product, provide the subsequent owner with transaction history, transaction information, and a transaction statement for the product;
+                   ‘‘(iii) maintain the transaction information for each transaction described in clauses (i) and (ii) for not less thaø2¿/ ø10¿ years after the transaction; and
+                   ‘‘(iv) beginning not later than ø30 months¿/ø6 years¿ after the date of enactment of øinsert short title ¿, engage in transactions involving product only if such product is encoded with a product identifier øexcept as provided in grandfathering provisions¿. ø‘‘(B) RETURNS øEXCEPTION ¿.—¿ ø‘‘(i) ALEABLE RETURNS .—Notwithstanding subparagraph (A)(i)—¿ ø‘‘(I) OPTION 1 .—a wholesale distributor shall maintain systems and processes to allow the wholesale distributor to accept returns from dispensers and associate returned product with the transaction information and transaction statement associated with that product. øNote from working group: This option would enable dispensers to return product without providing transaction information, transaction history, and transaction statement.¿¿ ø‘‘(II) OPTION 2 .—a wholesale distributor may accept returned product from a dispenser only if the wholesale distributor can associate returned product with the transaction information and transaction statement associated with that product. øFor purposes of this øparagraph¿, the transaction information and transaction history need not include transaction dates if it is not reasonably practicable to obtain such dates. ¿ øNote from working group: This option would enable dispensers to return product without providing transaction information, transaction history, and transaction statement, if the wholesaler could match the return to the associated transaction information, history, and statement.¿¿ ø‘‘(III) OPTION 3 .—a wholesale distributor may accept returned product from a dispenser, and, notwithstanding subparagraph ø(A)(ii)¿, may distribute such returned product without providing the transaction history. For all future transactions, the transaction history of such product shall begin with the wholesale distributor that accepted and verified the returned product.¿ ø‘‘(IV) OPTION 4 .—Note from working group: Deleting subparagraph
+                   (B)(i) such that there is no exception for saleable returns would mean that the wholesaler could not accept returns that are not accompanied by a pedigree, which means in turn a dispenser would have to maintain pedigrees to return product.¿
+                   ‘‘(ii) N ONSALEABLE RETURNS .—A wholesale distributor may return a non-saleable prescription drug to the manufacturer or repackager, to the wholesale distributor from whom such prescription drug was purchased, or to a person acting on behalf of such a person, including a returns processor, without providing the information required under subparagraph
+               (A)(i).
+          ‘‘(2) AUTHORIZED TRADING PARTNERS .—Beginning not later than ø3 months¿/ø2 years¿ after the date of enactment of the øshort title¿, the trading partners of a wholesale distributor may be only authorized trading partners.
+          ‘‘(3) VERIFICATION .—Beginning not later than ø30 months¿/ø6 years¿ after the date of enactment of øinsert short title¿, a wholesale distributor—
+               ‘‘(A) shall have systems in place to enable the wholesale distributor to verify product as required under this section;
+               ‘‘(B) upon identifying a suspect product, shall verify the authenticity of the product with the manufacturer or repackager that imprinted or affixed the product identifier onto the product;
+               ‘‘(C) upon receipt of a returned product that the wholesaler distributor intends to further distribute in the pharmaceutical distribution supply chain, before further distributing such product, shall verify the product identifier data for each sealed homogeneous case of such product or, if such product is not in a sealed homogeneous case, verify the product identifier on each package; and
+              ‘‘(D) shall submit verification requests under this paragraph to the manufacturer or repackager through reasonable means including querying an electronic database, placing a phone call, or other means specified by the manufacturer or repackager.
+          ‘‘(4) INVESTIGATION .—
+              ‘‘(A) IN GENERAL .—Beginning not later than ø6 months¿/ø1 year¿ after the date of enactment of the øshort title ¿, a wholesale distributor shall—
+                   ‘‘(i) have systems in place to identify suspect product, segregate suspect product or illegitimate product within the possession or control of the wholesale distributor from product intended for distribution, and investigate suspect product; and
+                   ‘‘(ii) upon the receipt of an alert from the Secretary or a trading partner, or the independent observation of the wholesale distributor of factors that would make the product a suspect product, treat such product as suspect product.
+              ‘‘(B) TREATMENT OF SUSPECT PRODUCT .—
+                   ‘‘(i) N GENERAL .—Upon identifying a product as a suspect product, a wholesale distributor shall—
+                        ‘‘(I) segregate such product within the possession or control of the wholesale distributor from product intended for distribution; and
+                        ‘‘(II) promptly conduct an investigation in coordination with affected trading partners, as applicable, to determine whether the product is an illegitimate product. Such investigation shall include verifying product information, authenticating any applicable øtransaction history and ¿ transaction information, and otherwise investigating to determine whether the product is an illegitimate product.
+                   ‘‘(ii) CLEARED PRODUCT .—If suspect product is determined not to be illegitimate product, such product may be further distributed. ø‘‘(C) RECORDS .—A wholesale distributor shall keep records of the investigation of the suspect product for not less than ø2¿/ø10¿ years after the conclusion of the investigation. øNote from working group: This option would include product investigated and cleared. ¿¿
+               ‘‘(D) REQUESTS FOR INFORMATION .— Upon a request by the Secretary or other appropriate Federal or State official, in the event of a recall or for the purpose of investigating a suspect product, illegitimate product, or recalled product, a wholesale distributor shall, not later than ø24 hours¿ after receiving the request or in other such reasonable time as determined by the Secretary, provide the applicable transaction information, transaction history, and transaction statements for the product.
+          ‘‘(5) DISPOSITION.—
+               ‘‘(A) SYSTEMS FOR DISPOSITION OF ILLEGITIMATE PRODUCT .—Beginning not later than ø6 months ¿/ø1 year ¿ after the date of enactment of the øshort title ¿, a wholesale distributor shall have systems in place to—
+                   ‘‘(i) properly disposition product within the possession or control of the wholesale distributor, as appropriate, to ensure that illegitimate product does not enter the pharmaceutical distribution supply chain; and
+                   ‘‘(ii) take reasonable steps to remove illegitimate product not in the possession or control of the wholesale distributor from the pharmaceutical distribution supply chain.
+               ‘‘(B) DISPOSITION OF ILLEGITIMATE PRODUCT .—Upon determining that a product in the possession or control of a wholesale distributor is an illegitimate product, the wholesale distributor shall promptly notify the Secretary and properly disposition such product. ø‘‘(C) RECORDS .—A wholesale distributor shall keep records of an investigation of an illegitimate product for not less than ø2¿/ø10¿ years after the conclusion of the investigation. ¿
+          ‘‘(6) ALERTS .—Beginning not later than ø6 months¿/ø1 year¿ after the date of enactment of the øshort title ¿, a wholesale distributor shall comply with the following:
+               ‘‘(A) A wholesale distributor shall maintain systems to enable the wholesale distributor to receive, issue, and terminate alerts. Such systems shall include means to identify affected trading partners to whom alerts are required to be sent under this section.
+              ‘‘(B) Upon the receipt of an alert from the Secretary or a trading partner, a wholesale distributor shall identify all product subject to such alert that is in the possession or control of the wholesale distributor, including any product that is subsequently received, and treat such product as suspect product.
+              ‘‘(C) Upon determining that a product in the possession or control of the wholesale distributor is an illegitimate product, a wholesale distributor shall issue an alert to the Secretary and all affected trading partners not later than 24 hours after making such determination.
+              ‘‘(D) Upon a determination, in consultation with the Secretary, that an alert is no longer necessary, a wholesale distributor shall promptly notify affected trading partners that such alert has been terminated.
+     ‘‘(d) DISPENSER REQUIREMENTS .—
+          ‘‘(1) PRODUCT TRACING .—
+              ‘‘(A) IN GENERAL .—Beginning not later than ø6 months¿/ø1 year¿ after the date of enactment of the øshort title¿, a dispenser—
+                   ‘‘(i) shall not accept ownership of a product, unless the previous owner ø, prior to the transaction, ¿ provides transaction history, transaction information, and a transaction statement;
+                   ‘‘(ii) øupon¿/øbefore¿ each transaction in which the dispenser transfers ownership of a product (but not including dispensing to a patient), shall provide the subsequent owner with transaction history, transaction information, and a transaction statement for the product, except that the requirements of this clause shall not apply to sales by a dispenser to another dispenser to fulfill a specific patient need;
+                   ‘‘(iii) shall maintain transaction information as necessary, but not longer than ø2¿/ø4¿/ø7¿ years after the transaction to respond to an alert or recall or to investigate suspect product; and
+                   ‘‘(iv) beginning not later than ø3¿/ ø7¿ years after the date of enactment of øinsert short title ¿, may engage in transactions involving product only if such product is encoded with a product identifier øexcept as provided in grandfathering provisions¿.
+              ‘‘(B) AGREEMENTS WITH THIRD PARTIES.—A dispenser may enter into a written agreement with a third party, including an authorized wholesale distributor, under which the third party confidentially maintains the transaction information required to be maintained under this subsection on behalf of the dispenser. If a dispenser enters into such an agreement, the dispenser shall maintain a copy of the written agreement and shall not be relieved of the other obligations of the dispenser under this subsection. ø‘‘(C) RETURNS EXCEPTION .—Note from working group: If choose to do any of the returns options (1), (2) or (3) in subsection
+          (c)(1)(B)(i), then insert clause (i): ¿ ø‘‘(i) SALEABLE RETURNS .—A dispenser may return product to the trading partner from which the dispenser obtained the product without providing the information required under subparagraph (B). ¿
+                   ‘‘(ii) NONSALEABLE RETURNS .—A dispenser may return a nonsaleable prescription drug to the manufacturer or repackager, to the wholesale distributor from whom such prescription drug was purchased, to a returns processor, or to a person acting on behalf of such persons without providing the information required under subparagraph (A)(i).
+          ‘‘(2) AUTHORIZED TRADING PARTNERS .—Beginning not later than ø3 months¿/ø2 years¿ after the date of enactment of the øshort title¿, the trading partners of a dispenser may be only authorized trading partners.
+          ‘‘(3) VERIFICATION .—Beginning not later than ø3¿/ø7¿ years after the date of enactment of øinsert short title¿, a dispenser—
+               ‘‘(A) shall have systems in place to enable the dispenser to verify product as required under this section; and
+               ‘‘(B) upon identifying a suspect product, shall
+                   ‘‘(i) confirm whether the lot number of the suspect product corresponds with a legitimate lot number for the product;
+                   ‘‘(ii) verify at leastø3 packages or 10% of the affected product, whichever is greater, or all packages, if there are fewer than 3,¿ with the manufacturer or repackager that imprinted or affixed the product identifier onto the product; and
+                   ‘‘(iii) submit a verification request under this paragraph to the manufacturer or repackager through reasonable means, including querying an electronic database, placing a phone call, or other means specified by the manufacturer or repackager.
+          ‘‘(4) INVESTIGATION .—
+               ‘‘(A) N GENERAL .—Beginning not later than ø6 months¿/ø1 year¿ after the date of enactment of the øshort title¿, a dispenser shall—
+                   ‘‘(i) have systems in place to identify suspect product, segregate suspect product or illegitimate product within the possession or control of the dispenser from product intended for dispensing or further distribution, and investigate suspect product; and
+                   ‘‘(ii) upon the receipt of an alert from the Secretary or a trading partner, or the independent observation of the dispenser of factors that would make the product a suspect product, a dispenser shall treat such product as suspect product.
+               ‘‘(B) TREATMENT OF SUSPECT PRODUCT .—
+                   ‘‘(i) N GENERAL .—Upon identifying a product as a suspect product, a dispenser shall—
+                        ‘‘(I) segregate such product within the possession or control of the dispenser from product intended for distribution; and
+                        ‘‘(II) promptly conduct an investigation in coordination with affected trading partners, as applicable, to determine whether the product is an illegitimate product, which shall include verifying product information as described in paragraph (3), authenticating any applicable øtransaction history and ¿ transaction information, and otherwise investigating to determine whether the product is an illegitimate product.
+                   ‘‘(ii) CLEARED PRODUCT .—If suspect product is determined not to be illegitimate product, such product may be dispensed or further distributed. ø‘‘(C) RECORDS .—A dispenser shall keep records of the investigation of the suspect product for not less thanø2¿/ø10¿ years after the conclusion of the investigation. øNote from working group: This option would include product investigated and cleared.¿¿
+               ‘‘(D) REQUESTS FOR INFORMATION .— Upon a request by the Secretary or other appropriate Federal or State official, in the event of a recall or for the purpose of investigating a suspect, illegitimate, or recalled product, a dispenser shall, not later thanø2 business days ¿ after receiving the request or in another such reasonable time as determined by the Secretary, provide lot level transaction information and the immediate previous source of the product, and, as applicable, the immediate subsequent recipient of the product.
+          ‘‘(5) DISPOSITION.—
+               ‘‘(A) SYSTEMS FOR DISPOSITION OF ILLEGITIMATE PRODUCT .—Beginning not later than ø6 months ¿/ø1 year ¿ after the date of enactment of the øshort title¿, a dispenser shall have systems in place to—
+                   ‘‘(i) properly disposition product within the possession or control of the dispenser, as appropriate, to ensure that illegitimate product does not enter the pharmaceutical distribution supply chain; and
+                   ‘‘(ii) take reasonable steps to remove illegitimate product not in the possession or control of the dispenser from the pharmaceutical distribution supply chain.
+               ‘‘(B) DISPOSITION OF ILLEGITIMATE PRODUCT .—Upon determining that a product in the possession or control of the dispenser is an illegitimate product, the dispenser shall promptly notify the Secretary and properly disposition such product. ø‘‘(C) RECORDS .—A dispenser shall keep records of an investigation of an illegitimate product for not less than ø2¿/ø10¿ years after the conclusion of the investigation. ¿
+          ‘‘(6) ALERTS .—Beginning not later than ø6 months¿/ø1 year¿ after the date of enactment of the øshort title¿, a dispenser shall comply with the following: ø‘‘(A) A dispenser shall maintain systems to enable the dispenser to receivø, issue, and terminate¿ alerts. øSuch systems shall include means to identify affected trading partners to whom alerts are required to be sent under this section.¿¿
+               ‘‘(B) Upon the receipt of an alert from the Secretary or a trading partner, a dispenser shall identify all product subject to such alert that is in the possession or control of the dispenser, including any product that is subsequently received, and treat it as suspect product. ø‘‘(C) Upon determining that a product in the possession or control of the dispenser is an illegitimate product, the dispenser shall issue an alert to the Secretary and all affected trading partners not later than 24 hours after such determination.¿ ø‘‘(D) Upon a determination, in consultation with the Secretary, that an alert is no longer necessary, promptly notify affected trading partners that such alert has been terminated.¿
+     ‘‘(e) EPACKAGER REQUIREMENTS .—
+          ‘‘(1) PRODUCT TRACING .—Beginning not later than ø6 months¿/ø1 year¿ after the date of enactment of the øshort title¿, a repackager shall—
+               ‘‘(A) not accept ownership of a product unless the previous owner ø, prior to the transaction,¿ provides transaction history, transaction information, and a transaction statement for the product;
+               ‘‘(B) øupon¿/øbefore¿ each transaction in which the repackager transfers ownership of a product, provide the subsequent owner with transaction history, transaction information, and a transaction statement;
+               ‘‘(C) maintain the transaction information for each transaction for not less than ø2¿/ø10¿ years after the transaction;
+               ‘‘(D) beginning not later than ø2¿/ø5¿ years after the date of enactment oføthe short title¿, affix or imprint a product identifier to each package and homogenous case of product intended to be reintroduced in a transaction in commerce; and
+               ‘‘(E) maintain records that allow the repackager to associate the product identifier the repackager affixes or imprints with the product identifier assigned by the original manufacturer of the product.
+          ‘‘(2) AUTHORIZED TRADING PARTNERS .—Beginning ø3 months¿/ø2 years¿ after the date of enactment of the øshort title¿, the trading partners of a repackager may be only authorized trading partners.
+          ‘‘(3) VERIFICATION .—
+               ‘‘(A) N GENERAL .—Beginning not later than ø2¿/ø5¿ years after the date of enactment of øinsert short title ¿, a repackager shall comply with the following requirements:
+                   ‘‘(i) A repackager shall have systems in place to enable the manufacturer to respond to verification requests described in clause (ii).
+                   ‘‘(ii) Upon receiving a request for verification from an authorized ømanufacturer¿, ørepackager¿, wholesale distributor, or dispenser, a repackager shall, not later than ø24 hours ¿ after receiving the verification request, notify the person making the request whether the product identifier, including the standard numeric identifier, that is the subject of the request corresponds to the product identifier affixed or imprinted by the repackager. If the repackager has reason to believe the product is a suspect product or illegitimate product, the repackager shall advise the person making a verification request of that information at the time it responds to the verification request. ø‘‘(iii) In responding to a request for verification under clause (ii), the repackager shall consult the records described in paragraph (1)(E) to verify the product identifier assigned by the original manufacturer with the manufacturer.¿
+               ‘‘(B) ELECTRONIC DATABASE .—A repackager may satisfy the requirements of subparagraph (A) by developing a secure electronic database that can be accessed and queried by authorized members of the supply chain, except that the establishment and operation of such a database shall not relieve a repackager of the requirement to comply with clauses (ii) and (iii) of subparagraph (A) in the case of a verification request submitted by means other than the electronic database.
+               ‘‘(C) RESUMED SUSPECT PRODUCT .—If a repackager conducting a verification request identifies a product identifier that does not correspond to that affixed or imprinted by the repackager, the repackager shall treat such product as suspect product and conduct an investigation as described in paragraph (4).
+               ‘‘(D) RETURNED PRODUCT .—Upon receipt of a returned product that the repackager intends to further distribute, before further distributing such product, the repackager shall verify the product identifier data that the repackager assigned for each sealed homogeneous case of such product or, if such product is not in a sealed homogeneous case, verify the product identifier on each package.
+          ‘‘(4) INVESTIGATION .—
+               ‘‘(A) N GENERAL .—Beginning not later than ø6 months¿/ø1 year¿ after the date of enactment of the øshort title¿, a repackager shall have systems in place to identify suspect product, segregate suspect product or illegitimate product within the possession or control of the repackager from product intended for distribution, and investigate suspect product.
+              ‘‘(B) TREATMENT OF SUSPECT PRODUCT .—
+                   ‘‘(i) N GENERAL .—Upon identifying a product as a suspect product, a repackager shall—
+                        ‘‘(I) segregate such product within the possession or control of the repackager from product intended for distribution; and
+                        ‘‘(II) promptly conduct an investigation in coordination with affected trading partners, as applicable, to determine whether the product is an illegitimate product. Such investigation shall include verifying product information øthat the repackager assigned and the associated product information assigned by the original manufacturer¿, authenticating any applicable øtransaction history and ¿ transaction information, and otherwise investigating to determine whether the product is an illegitimate product.
+                   ‘‘(ii) RECEIPT OF AN ALERT .—Upon the receipt of an alert from the Secretary or a trading partner, or the independent observation of the repackager of factors that would make the product a suspect product, a repackager shall treat such product as suspect product.
+                   ‘‘(iii)CLEARED PRODUCT .—If suspect product is determined not to be illegitimate product, such product may be further distributed. ø‘‘(C) RECORDS .—A repackager shall keep records of the investigation of the suspect product for not less thanø2¿/ø10¿ years after the conclusion of the investigation. ø Note from working group: This option would include product investigated and cleared.¿¿
+               ‘‘(D) REQUESTS FOR INFORMATION .— Upon a request by the Secretary or other appropriate Federal or State official, in the event of a recall or for the purpose of investigating a suspect product, illegitimate product, or recalled product, a repackager shall, not later thaø24 hours¿ after receiving the request or in other such reasonable time as determined by the Secretary, provide the applicable transaction information, transaction history, and transaction statements for the product.
+          ‘‘(5) DISPOSITION.—
+               ‘‘(A) SYSTEMS FOR DISPOSITION OF ILLEGITIMATE PRODUCT .—Beginning not later than ø6 months ¿/ø1 year ¿ after the date of enactment of the øshort title ¿, a repackager shall have systems in place to—
+                   ‘‘(i) properly disposition product within the possession or control of the repackager, as appropriate, to ensure that illegitimate product does not enter the pharmaceutical distribution supply chain; and
+                   ‘‘(ii) take reasonable steps to remove illegitimate product not in the possession or control of the repackager from the pharmaceutical distribution supply chain.
+               ‘‘(B) DISPOSITION OF ILLEGITIMATE PRODUCT .—Upon determining that a product in the possession or control of a repackager is an illegitimate product, the repackager shall properly disposition such product. ø‘‘(C) RECORDS .—A repackager shall keep records of an investigation of an illegitimate product for not less than ø2¿/ø10¿ years after the conclusion of the investigation. ¿
+          ‘‘(6) ALERTS .—Beginning not later than ø6 months¿/ø1 year¿ after the date of enactment of the øshort title¿, a repackager shall comply with the following:
+               ‘‘(A) A repackager shall have systems in place to enable the repackager to receive, issue, and terminate alerts. Such systems shall include means to identify affected trading partners to whom alerts are required to be sent under this section.
+               ‘‘(B) Upon the receipt of an alert from the Secretary or a trading partner, a repackager shall identify all product subject to such alert that is in the possession or control of the repackager, including any product that is subsequently received, and treat such product as suspect product.
+               ‘‘(C) Upon determining that a product in the possession or control of the repackager is an illegitimate product, the repackager shall issue an alert to the Secretary and all affected trading partners not later than 24 hours after making such determination.
+              ‘‘(D) Upon a determination, in consultation with the Secretary, that an alert is no longer necessary, a repackager shall promptly notify affected trading partners that such alert has been terminated.
+     ‘‘(f) HIRDPARTY LOGISTICS PROVIDER REQUIREMENTS .—
+          ‘‘(1) PRODUCT TRACING .—Beginning not later than ø6 months¿/ø1 year¿ after the date of enactment of the øshort title¿, a third-party logistics provider shall—
+              ‘‘(A) not accept possession of a product unless the owner of the product ø, prior to the transaction,¿ provides the transaction history, transaction information, and a transaction statement for the product. øNote from working group: If kept, need to require that trading partners that use third-party logistics providers provide this information to the third party logistics providers¿; ø‘‘(B) maintain a copy of the information described in subparagraph (A) for not less than ø2¿/ø10¿ years after the transfer of possession. øNote from working group: Only if keep (A)] ¿; and¿ ø‘‘(C) beginning not later than ø3¿/ø7¿ years after the date of enactment of øinsert short title¿, a third-party logistics provider may accept possession of product only if such product is encoded with a product identifieøexcept as provided in grandfathering provisions. ¿¿
+          ‘‘(2) TRADING PARTNERS .—Beginning ø3 months¿/ø2 years ¿ after the date of enactment of the øshort title ¿, the trading partners of a third-party logistics provider may be only authorized trading partners.
+          ‘‘(3) INVESTIGATION .—
+               ‘‘(A) N GENERAL .—Beginning not later than ø6 months¿/ø1 year¿ after the date of enactment of the øshort title¿, a third-party logistics provider shall—
+                   ‘‘(i) have systems in place to identify suspect product, segregate suspect product or illegitimate product within the possession øor control¿ of the third-party logistics provider from product intended for distribution, øand promptly alert the trading partner who has ownership of the product to the need to investigate suspect product¿; and
+                   ‘‘(ii) upon the receipt of an alert from the Secretary or a trading partner, or the independent observation of the third-party logistics provider of factors that would make the product a suspect product, treat such product as suspect product.
+               ‘‘(B) TREATMENT OF SUSPECT PRODUCT .—
+                   ‘‘(i) N GENERAL .—Upon identifying a product as a suspect product, a third-party logistics provider shall—
+                        ‘‘(I) segregate such product within the possession øor control ¿ of the third-party logistics provider from product intended for distribution; and
+                        ‘‘(II) promptly alert the trading partner with ownership of the product of the need to conduct an investigation in coordination with affected trading partners, as applicable, to determine whether the product is an illegitimate product.
+                   ‘‘(ii) CLEARED PRODUCT .—If suspect product is determined not to be illegitimate product by the trading partner that owns the product, such product may be further distributed. ø‘‘(C) RECORDS .—A third-party logistics provider shall keep records of øcompliance with this paragraph ¿ for not less than ø2¿/ø10¿ years after the conclusion of the investigation. øNote from working group: This option would include product investigated and cleared. ¿¿
+               ‘‘(D) REQUESTS FOR INFORMATION .— Upon a request by the Secretary or other appropriate Federal or State official, in the event of a recall or for the purpose of investigating a suspect product, illegitimate product, or recalled product, a third-party logistics provider shall, not later than ø24 hours ¿ after receiving the request or in other such reasonable time as determined by the Secretary, provide the applicable transaction information, transaction history, and transaction statements for the product.
+          ‘‘(4) DISPOSITION.—
+               ‘‘(A) SYSTEMS FOR TRANSFER OF ILLEGITIMATE PRODUCT .—Beginning not later than ø6 months ¿/ø1 year ¿ after the date of enactment of the øshort title¿, a third-party logistics provider shall have systems in place to properly transfer possession of product to the trading partner with ownership of the product for disposition.
+               ‘‘(B) TRANSFER OF ILLEGITIMATE PRODUCT .—Upon receiving information from a trading partner or the Secretary that a product in the possession of the third-party logistics provider is an illegitimate product, the third-party logistics provider shall promptly transfer possession of the product to the trading partner with ownership of the product for disposition of such product. ø‘‘(C) RECORDS .—A third-party logistics provider shall keep records of øcompliance with this paragraph ¿ for not less than ø2¿/ø10¿ years after the conclusion of the investigation. ¿
+          ‘‘(5) ALERTS .—Beginning not later than ø6 months¿/ø1 year¿ after the date of enactment of the øshort title ¿, a third-party logistics provider shall have systems in place to enable the third-party logistics provider to receive alerts.
+      ‘‘(g) UNSET .—The requirements regarding the provision and receipt of transaction information, transaction history, and transaction statements under øsubsections
+(b)(1), (c)(1), (d)(1), (e)(1), and (f)(1) ¿ shall cease to be effective upon the full implementation of the regulations promulgated under subsection (c) of section 3 oføinsert short title ¿, as provided in paragraph (6) of such section.’’.
+ SEC. 3. ENHANCED DRUG DISTRIBUTION SECURITY. ø(a) PILOT PROJECTS .—¿ ø(1) IN GENERAL .—Not later than ø18 months¿/ø4 years ¿ after the date of enactment of this Act, the Secretary shall establish 1 or more pilot projects in coordination with pharmaceutical manufacturers, repackagers, wholesale distributors, third-party logistics providers, and dispensers to explore and evaluate methods to øautomatically verify all product and to ¿ rapidly and effectively detect and identify suspect product throughout the pharmaceutical distribution chain.¿ ø(2) CONTENT .— ø(A) IN GENERAL .—The Secretary shall ensure that the pilot projects under paragraph
+          (1) reflect the diversity of the pharmaceutical distribution supply chain and that the projects overall include participants representative of every sector and subsector, including both large and small businesses, except that not every pilot project shall be required to capture every sector, subsector, or business size. ¿ ø(B) PROJECT DESIGN .—The pilot projects shall be designed to— ¿ ø(i) utilize product identifier data for product tracing, including the use of aggregation and inference;¿ ø(ii) improve the technical capabilities of each sector and subsector to comply with an interoperable, electronic, unitlevel package tracing system; and¿ ø(iii) øcomplete other activities ¿/øfulfill other goals ¿ as determined by the Secretary.¿ ø(b) PUBLIC MEETINGS .—¿ ø(1) IN GENERAL .—Not later than ø6 months¿/ø2 years ¿ after the date of enactment of this Act, and at least every ø6 months ¿/ø1 year ¿ thereafter, the Secretary shall hold a public meeting to explore and evaluate methods to øautomatically verify all product and to ¿ rapidly and effectively detect and identify suspect product throughout the pharmaceutical distribution chain.¿ ø(2) CONTENT .—Each of the following topics shall be addressed in at least one of the public meetings described in paragraph (1): ¿ ø(A) Best practices in each of the different sectors within the pharmaceutical distribution chain to implement the requirements of section 582 of the Federal Food, Drug, and Cosmetic Act, as added by section 2. ¿ ø(B) The costs and benefits of implementation of such section 582, including the impact on each pharmaceutical distribution chain sector and on public health. ¿ ø(C) The impact of the returns exceptions under subsections (c)(1)(B) and (d)(1)(C) of such section 582 on the usefulness of the transaction information, transaction history, and transaction statement as a means of protecting public health.¿ ø(D) Whether additional electronic traceability requirements, including enhanced unit level capabilities or a unit level package tracing system, are needed to protect public health.¿ ø(E) The systems and processes needed to utilize the product identifiers to enhance unitlevel package tracing capabilities.¿ ø(F) The technical capabilities and legal authorities, if any, needed to establish a unitlevel package tracing system.¿ ø(G) The impact that unitlevel requirements would have on patient safety, the drug supply, cost and regulatory burden, and timely patient access to prescription drugs. ¿ ø(H) Other topics, as determined by the Secretary.¿ ø(3) GUIDANCE DOCUMENT .—Not later than ø6 months ¿ after each public meeting required under this subsection, the Secretary shall publish a guidance document detailing the recommendations of the Secretary with respect to the subject of such public meeting.¿ ø(c) REGULATIONS .—¿ ø(1) ENHANCED DRUG DISTRIBUTION SECURITY .—Notwithstanding any other provision of this Act øor the amendments made by this Act ¿, not earlier than ø5/8 years ¿ and not later than ø6/10 years¿ after the date of enactment of this Act, the Secretary øshall/may¿ issue proposed regulations that—¿ ø(A) ørequire the use of interoperable electronic systems for tracking, tracing, and øautomatically¿ verifying product, which may include requiring the use of additional product identifiers or product identifier technology that meet the standards developed under section 582(a)(2) of the Federal Food, Drug, and Cosmetic Act, as added by section 2; ¿¿ ø(B) øif dispensers are not required to pass pedigree in Phase I: ¿ ørequire dispensers to provide transaction information, transaction history and a transaction statement upon transferring ownership of a product to a trading partner¿;¿ ø(C) ørequire the maintenance and provision of transaction data at the unit level under subsections (b)(1), (c)(1), (d)(1), (e)(1), and
+          (f)(1) of such section 582 ¿; and¿ ø(D) øat the discretion of the Secretary, create additional requirements to prevent drugs that are counterfeit, stolen, diverted, or otherwise unfit for distribution from entering into or being further distributed in the supply chain ¿.¿ ø(2) RESTRICTIONS .—In promulgating the regulations under paragraph (1), the Secretary shall— ¿ ø(A) not require the adoption of specific business systems for the maintenance and transmission of data; and¿ ø(B) not impose any new requirements on dispensers that are in addition to the requirements set forth under øsubsection (d) of such section 582¿.¿ ø(3) PROCEDURE .— ø(A) The Secretary, in promulgating any regulation pursuant to this section, shall— ¿ ø(i) issue a notice of proposed rulemaking that includes a copy of the proposed regulation;¿ ø(ii) provide a period of not less than 60 days for comments on the proposed regulation; and¿ ø(iii) publish the final regulation not less than ø2 years ¿ before the effective date of the regulation.¿ ø(4) DEFAULT PROVISIONS .—If the Secretary has not finalized regulations under this subsection by the date that is ø8/13¿ years after the date of enactment of this Act, øor if the regulations under this subsection have not gone into effect by the date that is ø10/15¿ years after the date of enactment of this Act,¿ the following shall go into effect: ¿ ø(A) The exceptions for saleable returns under subsections (c)(1)(B)(i) and (d)(1)(C)(i) of section 582 of the Federal Food Drug, and Cosmetic Act shall cease to be effective. ¿ ø(B) The transaction information and transaction statement as defined in section 581 and required under øsection 582¿ of the Federal Food, Drug, and Cosmetic Act shall include the package identifier for each package included in the transaction.¿ ø(C) The exchange of transaction information and transaction statements, as defined in paragraphs (24) and (25), respectively, of section 581 of the Federal Food, Drug, and Cosmetic Act and as required under section 582 of such Act, shall be effectuated in an electronic, interoperable system with automatic verification of all product in accordance with the standards published under section 582(a)(2) of the Federal Food, Drug, and Cosmetic Act. ¿ ø(5) DEFINITIONS .—Reference to applicable definitions under section 581 of FFDCA? ¿ ø(6) SUNSET .—The requirements regarding the provision and receipt of transaction information, transaction history, and transaction statements under section 582 of the Federal Food, Drug, and Cosmetic Act, as added by section 2, shall cease to be effective upon the full implementation of the regulations promulgated under paragraph (1). ¿
+ SEC. 4. NATIONAL LICENSURE STANDARDS FOR WHOLESALE DISTRIBUTORS.
+     (a) LICENSE REQUIREMENT .—Section 503(e) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353(e)) is amended by striking paragraph (2) and inserting the following:
+          ‘‘(2) LICENSE REQUIREMENT .—
+              ‘‘(A) N GENERAL .—No person—
+                   ‘‘(i) may engage in wholesale distribution of a drug subject to subsection (b) in any State unless such person—
+                       ‘‘(I)(aa) is licensed by the State from which the drug is distributed; or
+                       ‘‘(bb) if the State from which the drug distributed has not established a licensure requirement, is licensed by the Secretary; and
+                        ‘‘(II) if the drug is distributed interstate, is licensed by the State into which the drug is distributed if the State into which the drug is distributed requires the licensure of wholesale distributors that distribute drugs into the State; and
+                    ‘‘(ii) øexcept in the case of a manufacturer duly registered under section 510, may engage in wholesale distribution of a drug subject to subsection (b) ømanufactured?¿ outside the United States in any State unless such person is licensed by the State into which the drug is distributed. øNote from working group: use ‘authorized’ concept here?¿¿
+               ‘‘(B) STANDARDS , TERMS , AND CONDITIONS .—The Secretary shall, by regulation, establish the standards, terms, and conditions for the licensing of persons to make wholesale distributions under subparagraph (A). Such standards shall apply to all State and Federal licenses described in such subparagraph (A) and may include—
+                   ‘‘(i) requirements for the storage and handling of such drugs;
+                   ‘‘(ii) requirements for the establishment and maintenance of records;
+                   ‘‘(iii) standards for hiring and employment, including conduct of background checks, fingerprinting, and prohibitions on the employment of certain persons because of criminal convictions or a pattern of violating this Act;
+                   ‘‘(iv) the establishment and implementation of minimum qualifications and ongoing training requirements for personnel;
+                   ‘‘(v) the prohibition of certain persons from engaging in wholesale distribution because of criminal convictions or a pattern of violating this Act;
+                   ‘‘(vi) the establishment of quality management systems;
+                   ‘‘(vii) the requirement that the wholesale distributor list with the Secretary, in accordance with subsection (b); ø‘‘(viii) standard operating procedures; and¿ ø‘‘(ix) the establishment of a reasonable bond that may be forfeited, in whole or in part, by a wholesale distributor that fails to comply with the terms of licensure.’’.¿
+     (b) LISTING AND FEES.—Section 503(e) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353(e)) is amended by adding at the end the following:
+          ‘‘(4) LISTING REQUIREMENT .—
+              ‘‘(A) IN GENERAL .—Each person who owns or operates and establishment that engages in wholesale distribution of drug subject to subsection (b) shall list such establishment with the Secretary and, at least annually, update or withdraw such listing.
+              ‘‘(B) REQUIRED INFORMATION .—The Secretary shall specify, by guidance, the information that a person must submit to the Secretary to meet the listing requirement and may specify what changes to such information must be submitted more frequently than annually to maintain a valid listing with the Secretary. ø‘‘(C) SUSPENSION OR REVOCATION OF LISTING .—The Secretary may suspend or revoke an establishment listing in writing at any time if the Secretary determines that a person engaging in wholesale distribution of drugs subject to subsection (b) failed to comply with any requirements of this Act.’’.¿
+          ‘‘(5) WHOLESALE DISTRIBUTION STANDARDS .—Each person who engages in wholesale distribution of drug subject to subsection (b) shall comply with the standards promulgated by the Secretary in accordance with paragraph (2)(B). ø‘‘(6) COSTS.—¿ ø‘‘(A) AUTHORIZED LISTING FEES OF SECRETARY .—The Secretary may assess fees on persons engaging in wholesale distribution who seek to list with the Secretary under paragraph
+          (4) in such an amount necessary to reimburse the Secretary for the costs associated with establishing and administering the establishment listing program and conducting periodic inspections of registrants under this subsection. The Secretary shall not generate surplus revenue from such a reimbursement mechanism. Fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriation Acts. Such fees may remain available until expended.¿ ø‘‘(B) AUTHORIZED LICENSURE FEES OF SECRETARY .—If a State does not establish a licensing program for wholesale distributors of drugs, the Secretary shall license the wholesale distributors located in such State and may collect a reasonable fee to perform that service, consistent with the limitation set forth in subparagraph (A).¿
+              ‘‘(C) STATE LICENSING FEES .—Nothing in this Act shall prohibit States from collecting fees from wholesale distributors in connection with State licensing of such distributors.’’.
+     (c) THIRD PARTY LOGISTICS PROVIDERS .—Section 503(e) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353(e)), as amended by subsection (b), is further amended by adding at the end the following:
+          ‘‘(7) HIRDPARTY LOGISTICS PROVIDERS .—
+              ‘‘(A) IN GENERAL .—Notwithstanding paragraphs (2) through (6), each entity that meets the definition of a third-party logistics provider under section 581(20) shall obtain a license as a third-party logistics provider as described in section ø584(a)¿ and is not required to obtain a license as a wholesale distributor if the entity never assumes an ownership interest in the product it handles. ‘‘øNote from working group: Same as above with respect to Federal promulgation of licensure standards, listing and payment of listing fee to FDA, and requirement that 3PL be licensed in States in which they do business or send the products or FDA if the States don’t play?¿’’.
+     (d) WHOLESALE DISTRIBUTION .—Section 503(e)(3) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353(e)(3)) is amended by striking subparagraph (B) and inserting the following:
+              ‘‘(B) the term ‘wholesale distribution’ means the activities of a wholesale distributor, as described in section 581(27).’’.
+     (e) LICENSURE STANDARDS .—Subchapter G of chapter V of the Federal Food, Drug, and Cosmetic Act, as added by section 2, is amended by adding at the end the following:
+ ‘‘SEC. 583. NATIONAL LICENSURE STANDARDS FOR WHOLESALE DISTRIBUTORS. ø‘‘PART —IOPTION I¿ ‘‘.’’. ø(a) OPTION (I)(A).—Defer to the Secretary of Health and Human Services to promulgate the licensure requirements through notice and comment rulemaking. ¿ ø(b) OPTION (I)(B).—Defer to the Secretary of Health and Human Services to promulgate the licensure requirements through notice and comment rulemaking, but limit the potential licensing requirements to the following areas of interest:¿ ø(1) Required information that must be submitted to the licensing authority (eg, names, addresses, etc.).¿ ø(2) Basic qualifications/background check (eg, no felony convictions, etc.).¿ ø(3) Appropriate education of personnel employed by licensee.¿ ø(4) Requirements for the storage and handling of prescription drugs, including requirements related to facility cleanliness and security. ¿ ø(5) Requirements related to the establishment and maintenance of appropriate records. ¿ ø(6) Filing of a bond as a condition of licensure.¿ øPART II—OPTION II¿
+>  2
+     ø(a) IN GENERAL .—Codify the requirements that
+currently appear in part 205 of title 21, Code of Federal
+Regulations to create a uniform standard that can be applied across all States (as opposed to minimum standards
+that can be dramatically supplemented by the States), but
+modify them as appropriate in the definitions and recordkeeping sections to ensure consistency with other requirements in this bill.¿
+     ø(b) REQUIREMENTS TO OBTAIN OR RENEW A LCENSE .—øSee 21 CFR 205.5 ¿ The following information
+shall be submitted by a wholesale drug distributor as part
+of the license described in øcross cite to section III ¿ and
+as part of any renewal of such license:¿
+          ø(1) The name, full business address, and telephone number of the licensee; ¿
+          ø(2) All trade or business names used by the licensee;¿
+          ø(3) Addresses, telephone numbers, and the
+     names of contact persons for all facilities used by
+     the licensee for the storage, handling, and distribution of prescription drugs;¿
+          ø(4) The type of ownership or operation (i.e.,
+     partnership, corporation, or sole proprietorship);
+     and¿
+          ø(5) The name(s) of the owner and/or operator
+     of the licensee, including—¿
+              ø(A) if a person, the name of the person; ¿
+              ø(B) if a partnership, the name of each
+          partner, and the name of the partnership; ¿
+              ø(C) if a corporation, the name and title of
+          each corporate officer and director, the corporate names, and the name of the State of incorporation; and¿
+              ø(D) if a sole proprietorship, the full name
+          of the sole proprietor and the name of the business entity.¿
+     ø(c) STATE LICENSES .—A single license shall suffice
+in any one State for a business entity operating more than
+one facility within that State, or for a parent entity with
+divisions, subsidiaries, and/or affiliate companies within
+that State when operations are conducted at more than
+one location and there exists joint ownership and control
+among all the entities.¿
+     ø(d) CHANGES .—Changes in any information in subsection (d) of this section shall be submitted to the licensing authority within 30 days of such change.¿
+     ø(e) DENIAL OF APPLICATION .—øSee 21 CFR
+205.6¿ The licensing authority may refuse to license a
+wholesale distributor based on any of the following factors:¿
+          ø(1) Any convictions of the applicant or licensee
+      under any Federal, State, or local laws relating to
+      drug samples, wholesale or retail drug distribution,
+      or distribution of controlled substances. ¿
+          ø(2) Any felony convictions of the applicant or
+      licensee under Federal, State, or local laws. ¿
+          ø(3) The applicant or licensee’s past experience
+      in the manufacture or distribution of prescription
+      drugs, including controlled substances.¿
+          ø(4) The furnishing by the applicant or licensee
+      of false or fraudulent material in any application
+      made in connection with drug manufacturing or distribution.¿
+          ø(5) Suspension or revocation by Federal,
+      State, or local government of any license currently
+      or previously held by the applicant or licensee for
+      the manufacture or distribution of any drugs, including controlled substances.¿
+          ø(6) Failure to comply with licensing requirements under previously granted licenses, if any. ¿
+          ø(7) Compliance with requirements to maintain
+      and/or make available to the licensing authority or
+     to Federal, State, or local law enforcement officials
+     those records required under this section. ¿
+          ø(8) The licensing authority shall have the
+     right to deny a license to an applicant if it determines that the granting of such a license would not
+     be in the public interest. ¿
+     ø(f) VERIFICATION OF CREDENTIALS .—øSee 21
+CFR 205.7¿ The State licensing authority shall require
+that personnel employed in wholesale distribution have appropriate education and/or experience to assume responsibility for positions related to compliance with State licensing requirements. øSee preemption language, below, for
+application of 21 CFR 205.8¿.¿
+     ø(g) STORAGE AND HANDLING .—øSee 21 CFR
+205.50¿ The following requirements for the storage and
+handling of prescription drugs, and for the establishment
+and maintenance of prescription drug distribution records,
+shall apply to wholesale drug distributors and their officers, agents, representatives, and employees:¿
+          ø(1) FACILITIES.—All facilities at which prescription drugs are stored, warehoused, handled,
+     held, offered, marketed, or displayed shall— ¿
+              ø(A) be of suitable size and construction to
+          facilitate cleaning, maintenance, and proper operations;¿
+               ø(B) have storage areas designed to provide adequate lighting, ventilation, temperature,
+          sanitation, humidity, space, equipment, and security conditions;¿
+               ø(C) have a quarantine area for storage of
+          prescription drugs that are outdated, damaged,
+          deteriorated, misbranded, or adulterated, or
+          that are in immediate or sealed, secondary containers that have been opened; ¿
+               ø(D) be maintained in a clean and orderly
+          condition; and¿
+               ø(E) be free from infestation by insects,
+          rodents, birds, or vermin of any kind. ¿
+          ø(2) SECURITY .—All facilities used for wholesale drug distribution shall be secure from unauthorized entry.¿
+               ø(A) Access from outside the premises
+          shall be kept to a minimum and be wellcontrolled.¿
+               ø(B) The outside perimeter of the premises shall be welllighted.¿
+               ø(C) Entry into areas where prescription
+          drugs are held shall be limited to authorized
+          personnel.¿
+               ø(D) All facilities shall be equipped with
+          an alarm system to detect entry after hours. ¿
+               ø(E) All facilities shall be equipped with a
+          security system that will provide suitable protection against theft and diversion. When appropriate, the security system shall provide protection against theft or diversion that is facilitated or hidden by tampering with computers or
+          electronic records.¿
+          ø(3) STORAGE .—All prescription drugs shall be
+     stored at appropriate temperatures and under appropriate conditions in accordance with requirements, if
+     any, in the labeling of such drugs, or with requirements in the current edition of an official compendium, such as the United States Pharmacopeia/National Formulary..¿
+               ø(A) If no storage requirements are established for a prescription drug, the drug may be
+          held at ‘‘controlled’’ room temperature, as defined in an official compendium, to help ensure
+          that its identity, strength, quality, and purity
+          are not adversely affected.¿
+               ø(B) Appropriate manual,
+          electromechanical, or electronic temperature
+          and humidity recording equipment, devices,
+          and/or logs shall be utilized to document proper
+          storage of prescription drugs.¿
+               ø(C) The recordkeeping requirements in
+          øparagraph (f)¿ of this section shall be followed
+          for all stored drugs.¿
+          ø(4) EXAMINATION OF MATERIALS .—
+               ø(A) Upon receipt, each outside shipping
+          container shall be visually examined for identity
+          and to prevent the acceptance of contaminated
+          prescription drugs or prescription drugs that
+          are otherwise unfit for distribution. This examination shall be adequate to reveal container
+          damage that would suggest possible contamination or other damage to the contents. ¿
+               ø(B) Each outgoing shipment shall be
+          carefully inspected for identity of the prescription drug products and to ensure that there is
+          no delivery of prescription drugs that have been
+          damaged in storage or held under improper
+          conditions.¿
+               ø(C) The recordkeeping requirements in
+          øparagraph (f)¿ of this section shall be followed
+          for all incoming and outgoing prescription
+          drugs.¿
+          ø(5) RETURNED , DAMAGED , AND OUTDATED
+      PRESCRIPTION DRUGS .—
+               ø(A) Prescription drugs that are outdated,
+          damaged, deteriorated, misbranded, or adulterated shall be quarantined and physically separated from other prescription drugs until they
+          are destroyed or returned to their supplier. ¿
+               ø(B) Any prescription drugs whose immediate or sealed outer or sealed secondary containers have been opened or used shall be identified as such, and shall be quarantined and
+          physically separated from other prescription
+          drugs until they are either destroyed or returned to the supplier.¿
+               ø(C) If the conditions under which a prescription drug has been returned cast doubt on
+          the drug’s safety, identity, strength, quality, or
+          purity, then the drug shall be destroyed, or returned to the supplier, unless examination, testing, or other investigation proves that the drug
+          meets appropriate standards of safety, identity,
+          strength, quality, and purity. In determining
+          whether the conditions under which a drug has
+          been returned cast doubt on the drug’s safety,
+          identity, strength, quality, or purity, the wholesale drug distributor shall consider, among
+          other things, the conditions under which the
+          drug has been held, stored, or shipped before or
+          during its return and the condition of the drug
+          and its container, carton, or labeling, as a result of storage or shipping. ¿
+               ø(D) The recordkeeping requirements in
+          øparagraph (f)¿ of this section shall be followed
+          for all outdated, damaged, deteriorated, misbranded, or adulterated prescription drugs. ¿
+          ø(6) RECORDKEEPING .—
+               ø(A) Wholesale drug distributors shall establish and maintain inventories and records of
+          all transactions regarding the receipt and distribution or other disposition of prescription
+          drugs consistent with the requirements in
+          øcross cite to section I ¿.¿
+               ø(B) Inventories and records shall be made
+          available for inspection and photocopying by authorized Federal, State, or local law enforcement agency officials for a period of 3 years
+          after the date of their creation. ¿
+               ø(C) Records described in this section that
+          are kept at the inspection site or that can be
+          immediately retrieved by computer or other
+          electronic means shall be readily available for
+          authorized inspection during the retention period. Records kept at a central location apart
+          from the inspection site and not electronically
+          retrievable shall be made available for inspection within 2 working days of a request by an
+          authorized official of a Federal, State, or local
+          law enforcement agency.¿
+          ø(7) WRITTEN POLICIES AND PROCEDURES .—
+     Wholesale drug distributors shall establish, maintain, and adhere to written policies and procedures,
+     which shall be followed for the receipt, security, storage, inventory, and distribution of prescription
+     drugs, including policies and procedures for identifying, recording, and reporting losses or thefts, and
+     for correcting all errors and inaccuracies in inventories. Wholesale drug distributors shall include in
+     their written policies and procedures the following: ¿
+               ø(A) A procedure whereby the oldest approved stock of a prescription drug product is
+          distributed first. The procedure may permit deviation from this requirement, if such deviation
+          is temporary and appropriate.¿
+               ø(B) A procedure to be followed for handling recalls and withdrawals of prescription
+          drugs. Such procedure shall be adequate to deal
+          with recalls and withdrawals due to— ¿
+                   ø(i) any action initiated at the request
+               of the Food and Drug Administration or
+               other Federal, State, or local law enforcement or other government agency, including the State licensing agency; ¿
+                   ø(ii) any voluntary action by the manufacturer to remove defective or potentially
+               defective drugs from the market; or ¿
+                   ø(iii) any action undertaken to promote public health and safety by replacing
+               of existing merchandise with an improved
+               product or new package design. ¿
+               ø(C) A procedure to ensure that wholesale
+          drug distributors prepare for, protect against,
+          and handle any crisis that affects security or
+          operation of any facility in the event of strike,
+          fire, flood, or other natural disaster, or other
+          situations of local, State, or national emergency.¿
+               ø(D) A procedure to ensure that any outdated prescription drugs shall be segregated
+          from other drugs and either returned to the
+          manufacturer or destroyed. This procedure shall
+          provide for written documentation of the disposition of outdated prescription drugs. This
+          documentation shall be maintained for 2 years
+          after disposition of the outdated drugs. ¿
+          ø(8) RESPONSIBLE PERSONS .—Wholesale drug
+      distributors shall establish and maintain lists of officers, directors, managers, and other persons in
+      charge of wholesale drug distribution, storage, and
+      handling, including a description of their duties and
+      a summary of their qualifications. ¿
+          ø(9) COMPLIANCE WITH FEDERAL , STATE ,AND
+      LOCAL LAW .—Wholesale drug distributors shall operate in compliance with applicable Federal, State,
+      and local laws and regulations. ¿
+               ø(A) Wholesale drug distributors shall permit authorized Federal, State, and local law enforcement officials to enter and inspect their
+          premises and delivery vehicles, and to audit
+          their records and written operating procedures,
+          at reasonable times and in a reasonable manner, to the extent authorized by law. ¿
+               ø(B) Wholesale drug distributors that deal
+          in controlled substances shall register with the
+          appropriate State controlled substance authority and with the Drug Enforcement Administration, and shall comply with all applicable State,
+          local, and DEA regulations.¿
+          ø(10) SALVAGING AND REPROCESSING .—Wholesale drug distributors shall be subject to the provisions of any applicable Federal, State, or local laws
+     or regulations that relate to prescription drug product salvaging or reprocessing, including parts 207,
+     210, and 211 of this chapter. ¿
+                øPART III—OPTION III¿
+> 10
+     ø(a) IN GENERAL .—The Secretary shall by regulation issue guidelines establishing standards, terms, and
+conditions for the licensing of person to make wholesale
+distributions of prescription drugs.¿
+     ø(b) GUIDELINES .—Such guidelines shall prescribe
+requirements for—¿
+          ø(1) the storage and handling of such drugs,
+     including facility requirements;¿
+          ø(2) the establishment and maintenance of
+     records of the distributions of such drugs; ¿
+          ø(3) the furnishing of a bond or other equivalent means of security if— ¿
+              ø(A) an applicant that is not a government
+          owned and operated wholesale distributor, for
+          the issuance or renewal of a wholesale distributor license shall submit a surety bond of
+          one hundred thousand dollars or other equivalent means of security acceptable to the State; ¿
+               ø(B) for purposes of subclause (I), the
+          State or other applicable authority may accept
+          a surety bond less than one hundred thousand
+          dollars if the annual gross receipts of the previous tax year for the wholesaler is $10,000,000
+          or less, in which case the surety bond shall be
+          $25,000; and¿
+               ø(C) if a wholesale distributor can provide
+          evidence that it possesses the required bond in
+          another State, the requirement for a bond in a
+          second State is waived;¿
+          ø(4) mandatory background checks and
+      fingerprinting of facility managers or designated
+      representatives;¿
+          ø(5) the establishment and implementation of
+      qualifications for key personnel;¿
+          ø(6) the mandatory physical inspection of any
+      facility to be used in wholesale distribution within a
+      reasonable time frame from the initial application of
+      the facility; and¿
+          ø(7) in accordance with øsubparagraph (d) ¿,
+      the prohibition of certain persons from receiving or
+      maintaining licensure for wholesale distribution. ¿
+      ø(c) INSPECTIONS .—To satisfy the inspection requirement the State or Federal licensing authority may
+conduct the inspection, or may accept an inspection by the
+facility’s resident State, or a third party accreditation or
+inspection service approved by the Secretary.¿
+      ø(d) GUIDELINES .—The guidelines under subparagraph shall include requirements to prohibit a person from
+receiving or maintaining licensure for wholesale distribution if the person—¿
+          ø(1) has been convicted of any felony for conduct relating to wholesale distribution, any felony
+      violation of øsubsection (i) or (k) ¿ of section 301 of
+      this Act, or any felony violation of section 1365 of
+      title 18, United States Code, relating to product
+      tampering; or¿
+          ø(2) has engaged in a pattern of violating the
+      requirements of this section, or State requirements
+      for licensure, that presents a threat of serious adverse health consequences or death to humans. ¿
+      ø(e) EFFECTIVE DATE.—Not later than 180 days
+after the date of enactment of this Act, the Secretary shall
+by regulation issue the guidelines. Such regulations shall
+take effect upon the expiration of 2 years after the date
+such regulations are published.¿
+                øPART IV—OPTION IV¿
+>  4
+     ø(a) IN GENERAL .—The Secretary shall by regulation issue guidelines establishing standards, terms, and
+conditions for the licensing of person to make wholesale
+distributions of prescription drugs.¿
+     ø(b) GUIDELINES .—Such guidelines shall prescribe
+requirements for—¿
+          ø(1) SEE SECTION 4160 OF THE CALIFORNIA
+     BUSINESS AND PROFESSIONS CODE .—
+              ø(A) A person may not act as a wholesaler
+          of any dangerous drug or dangerous device unless he or she has obtained a license from the
+          board.¿
+              ø(B) Upon approval by the board and the
+          payment of the required fee, the board shall
+          issue a license to the applicant. ¿
+              ø(C) A separate license shall be required
+          for each place of business owned or operated by
+          a wholesaler. Each license shall be renewed annually and shall not be transferable. ¿
+              ø(D) Every wholesaler shall be supervised
+          or managed by a designated representativeincharge. The designated representative shall be
+          responsible for the wholesaler’s compliance with
+          State and Federal laws governing wholesalers.
+          As part of its initial application for a license,
+          and for each renewal, each wholesaler shall, on
+          a form designed by the board, provide identifying information and the California license
+          number for a designated representative or pharmacist proposed to serve as the designated representative–incharge. The proposed designated
+          representativeincharge shall be subject to approval by the board. The board shall not issue
+          or renew a wholesaler license without identification of an approved designated representativeincharge for the wholesaler.¿
+               ø(E) Every wholesaler shall notify the
+          board in writing, on a form designed by the
+          board, within 30 days of the date when a designated representativeincharge ceases to act as
+          the designated representativeincharge, and
+          shall on the same form propose another designated representative or pharmacist to take
+          over as the designated representativeincharge.
+          The proposed replacement designated representativeincharge shall be subject to approval by
+          the board. If disapproved, the wholesaler shall
+          propose another replacement within 15 days of
+          the date of disapproval, and shall continue to
+          name proposed replacements until a designated
+          representativeincharge is approved by the
+          board.¿
+               ø(F) A drug manufacturer premises licensed by the Food and Drug Administration or
+          licensed pursuant to Section 111615 of the
+          Health and Safety Code that only distributes
+          dangerous drugs and dangerous devices of its
+          own manufacture is exempt from this section
+          and section 4161.¿
+               ø(G) The board may issue a temporary license, upon conditions and for periods of time
+          as the board determines to be in the public interest. A temporary license fee shall be shall be
+          required in an amount established by the board
+          as specified in øsubdivision (f) ¿ of section
+          4400. When needed to protect public safety, a
+          temporary license may be issued for a period
+          not to exceed 180 days, subject to terms and
+          conditions that the board deems necessary. If
+          the board determines that a temporary license
+          was issued by mistake or denies the application
+          for a permanent license, the temporary license
+          shall terminate upon either personal service of
+          the notice of termination upon the licenseholder
+          or service by certified mail, return receipt requested, at the licenseholder’s address of record
+          with the board, whichever occurs first. Neither
+          for purposes of retaining a temporary license,
+          nor for purposes of any disciplinary or license
+          denial proceeding before the board, shall the
+          temporary licenseholder be deemed to have a
+          vested property right or interest in the license. ¿
+          ø(2) øSEE SECTION 4161 OF THE CALIFORNIA
+     BUSINESS AND PROFESSIONS CODE¿.—
+              ø(A) IN GENERAL .—A person located outside this State that—¿
+                   ø(i) ships, sells, mails, or delivers dangerous drugs or dangerous devices into this
+              State; or¿
+                   ø(ii) sells, brokers, or distributes dangerous drugs or devices within this State
+              shall be considered a nonresident wholesaler.¿
+              ø(B) A nonresident wholesaler shall be licensed by the board prior to shipping, selling,
+          mailing, or delivering dangerous drugs or dangerous devices to a site located in this State or
+          selling, brokering, or distributing dangerous
+          drugs or devices within this State. ¿
+               ø(C) A separate license shall be required
+          for each place of business owned or operated by
+          a nonresident wholesaler from or through which
+          dangerous drugs or dangerous devices are
+          shipped, sold, mailed, or delivered to a site located in this State or sold, brokered, or distributed within this State. A license shall be renewed annually and shall not be transferable. ¿
+               ø(D) The following information shall be reported, in writing, to the board at the time of
+          initial application for licensure by a nonresident
+          wholesaler, on renewal of a nonresident wholesaler license, or within 30 days of a change in
+          that information:¿
+                    ø(i) Its agent for service of process in
+               this State.¿
+                    ø(ii) Its principal corporate officers,
+               as specified by the board, if any. ¿
+                    ø(iii) Its general partners, as specified
+               by the board, if any. ¿
+                    ø(iv) Its owners if the applicant is not
+               a corporation or partnership.¿
+               ø(E) A report containing the information
+          in subdivision (d) shall be made within 30 days
+          of any change of ownership, office, corporate officer, or partner.¿
+               ø(F) A nonresident wholesaler shall comply
+          with all directions and requests for information
+          from the regulatory or licensing agency of the
+          State in which it is licensed, as well as with all
+          requests for information made by the board. ¿
+               ø(G) A nonresident wholesaler shall maintain records of dangerous drugs and dangerous
+          devices sold, traded, or transferred to persons
+          in this State or within this State, so that the
+          records are in a readily retrievable form. ¿
+               ø(H) A nonresident wholesaler shall at all
+          times maintain a valid, unexpired license, permit, or registration to conduct the business of
+          the wholesaler in compliance with the laws of
+          the State in which it is a resident. An application for a nonresident wholesaler license in this
+          State shall include a license verification from
+          the licensing authority in the applicant’s State
+          of residence.¿
+               ø(I) The board may not issue or renew a
+          nonresident wholesaler license until the non-resident wholesaler identifies a designated representativeincharge and notifies the board in
+          writing of the identity and license number of
+          the designated representativeincharge.¿
+               ø(J) The designated representativeincharge shall be responsible for the nonresident
+          wholesaler’s compliance with State and Federal
+          laws governing wholesalers. A nonresident
+          wholesaler shall identify and notify the board of
+          a new designated representativeincharge within 30 days of the date that the prior designated
+          representativeincharge ceases to be the designated representative incharge.¿
+               ø(K) The board may issue a temporary license, upon conditions and for periods of time
+          as the board determines to be in the public interest. A temporary license fee shall be $550 or
+          another amount established by the board not to
+          exceed the annual fee for renewal of a license
+          to compound injectable sterile drug products.
+          When needed to protect public safety, a temporary license may be issued for a period not to
+          exceed 180 days, subject to terms and conditions that the board deems necessary. If the
+          board determines that a temporary license was
+          issued by mistake or denies the application for
+          a permanent license, the temporary license shall
+          terminate upon either personal service of the
+          notice of termination upon the licenseholder or
+          service by certified mail, return receipt requested, at the licenseholder’s address of record
+          with the board, whichever occurs first. Neither
+          for purposes of retaining a temporary license,
+          nor for purposes of any disciplinary or license
+          denial proceeding before the board, shall the
+          temporary licenseholder be deemed to have a
+          vested property right or interest in the license. ¿
+              ø(L) The registration fee shall be the fee
+          specified in subdivision (f) of section 4400. ¿
+          ø(3) øSEE SECTION 4162 OF THE CALIFORNIA
+     BUSINESS AND PROFESSIONS CODE¿.—
+              ø(A)(i) An applicant, that is not a government owned and operated wholesaler, for the
+          issuance or renewal of a wholesaler license shall
+          submit a surety bond of $100,000 or other
+          equivalent means of security acceptable to the
+          board payable to the Pharmacy Board Contingent Fund. The purpose of the surety bond is
+          to secure payment of any administrative fine
+          imposed by the board and any cost recovery ordered pursuant to Section 125.3. ¿
+               ø(ii) For purposes of paragraph (1), the
+          board may accept a surety bond less than one
+          hundred thousand dollars ($100,000) if the annual gross receipts of the previous tax year for
+          the wholesaler is ten million dollars
+          ($10,000,000) or less, in which case the surety
+          bond shall be $25,000. ¿
+               ø(iii) A person to whom an approved new
+          drug application has been issued by the United
+          States Food and Drug Administration who engages in the wholesale distribution of only the
+          dangerous drug specified in the new drug application, and is licensed or applies for licensure
+          as a wholesaler, shall not be required to post a
+          surety bond as provided in paragraph (1). ¿
+               ø(iv) For licensees subject to paragraph
+          (2) or (3), the board may require a bond up to $100,000 for any licensee who has been disciplined by any State or Federal agency or has been issued an administrative fine pursuant to this chapter.¿ ø(B) The board may make a claim against the bond if the licensee fails to pay a fine within 30 days after the order imposing the fine, or costs become final.¿ ø(C) A single surety bond or other equivalent means of security acceptable to the board shall satisfy the requirement of subsection (a) for all licensed sites under common control as defined in section 4126.5.¿ ø(4) øSEE SECTION 4162 5 OF THE CALIFORNIA BUSINESS AND PROFESSIONS CODE¿.— ø(A)(i) An applicant for the issuance or renewal of a nonresident wholesaler license shall submit a surety bond of $100,000, or other equivalent means of security acceptable to the board, such as an irrevocable letter of credit, or a deposit in a trust account or financial institution, payable to the Pharmacy Board Contingent Fund. The purpose of the surety bond is to secure payment of any administrative fine imposed by the board and any cost recovery ordered pursuant to section 125.3. ¿ ø(ii) For purposes of paragraph (1), the board may accept a surety bond less than $100,000 if the annual gross receipts of the previous tax year for the nonresident wholesaler is $10,000,000 or less in which the surety bond shall be $25,000.¿ ø(iii) For applicants who satisfy paragraph
+          (2), the board may require a bond up to $100,000 for any nonresident wholesaler who has been disciplined by any State or Federal agency or has been issued an administrative fine pursuant to this chapter. ¿ ø(iv) A person to whom an approved new drug application or a biologics license application has been issued by the United States Food and Drug Administration who engages in the wholesale distribution of only the dangerous drug specified in the new drug application or biologics license application, and is licensed or applies for licensure as a nonresident wholesaler, shall not be required to post a surety bond as provided in this section. ¿ ø(B) The board may make a claim against the bond if the licensee fails to pay a fine within 30 days of the issuance of the fine or when the costs become final.¿ ø(C) A single surety bond or other equivalent means of security acceptable to the board shall satisfy the requirement of subsection (a) for all licensed sites under common control as defined in section 4126.5.¿ ø(5) øSEE SECTION 4167 OF THE C ALIFORNIA BUSINESS AND PROFESSIONS CODE ¿.—A wholesaler shall not obtain, by purchase or otherwise, any dangerous drugs or dangerous devices that it cannot maintain, in a secure manner, on the premises licensed by the board.¿ ø(c) REVOCATION OF BOND .—The State that issues a license to a wholesale distributor, or the Secretary of Health and Human Services (referred to as the ‘‘Secretary’’), in the case that the Secretary licenses a wholesale distributor, may revoke the bond of an entity so licensed by such State or the Secretary, if such entity violates a licensure requirement under this section or a distribution requirement øunder section 582 of the Federal Food, Drug, and Cosmetic Act.¿¿
+ SEC. 5. NATIONAL LICENSURE STANDARDS FOR THIRD-PARTY LOGISTICS PROVIDERS. ø(option 1 ) Once licensure standards for wholesale distributors are decided, apply an applicable subset of those standards to licensure of third-party logistics providers.¿ ø(option 2) Defer to Secretary of Health and Human Services to promulgate licensure standards for third-party logistics providers through a notice and comment rulemakings.¿ ø(option 3 ) Defer to the Secretary of Health and Human Services to promulgate licensure standards for third-party logistics providers through notice and comment rulemaking, but prescribe that process as follows: ¿ Subchapter G of chapter V of the Federal Food, Drug, and Cosmetic Act, as amended by section 4, is further amended by adding at the end the following:
+> 10
+ ‘‘SEC. 584. FACILITY LICENSING REQUIREMENTS FOR THIRD-PARTY LOGISTICS PROVIDERS.
+      ‘‘(a) LICENSE REQUIREMENT .—No person may engage in the activities of a third-party logistics provider in any State unless such person—
+          ‘‘(1)(A) is licensed by the State from which the drug is distributed; or
+               ‘‘(B) if the State from which the drug distributed has not established a licensure requirement, is licensed by the Secretary; and
+          ‘‘(2) if the drug is distributed interstate, is licensed by the State into which the drug is distributed if the State into which the drug is distributed requires the licensure of third-party logistics providers that distribute drugs into the State. ø‘‘(b) LISTING REQUIREMENT .—¿ ø‘‘(1) IN GENERAL .—Each øperson¿/øestablishment¿ who engages in the activities of a third-party logistics provider shall list such establishment with the Secretary and, at least annually, update or withdraw such listing.¿ ø‘‘(2) REQUIRED INFORMATION .—The Secretary shall specify, by guidance, the information that a person must submit to the Secretary to meet the ølisting¿ requirement and may specify what changes to such information must be submitted more frequently than annually to maintain a valid ølisting¿ with the Secretary.¿ ø‘‘(3) SUSPENSION OR REVOCATION OF LISTING .—The Secretary may suspend or revoke a listing øby letter¿/øin writing¿ at any time if the Secretary determines that a person engaged as a third-party logistics provider has failed to comply with any requirements of this øAct¿/øsubchapter¿.¿ ø‘‘(c) OSTS .—¿
+          ‘‘(1) AUTHORIZED LISTING FEES OF SECRETARY .—The Secretary may assess fees on persons engaging as third-party logistic providers who seek to list with the Secretary under this subsection in such an amount necessary to reimburse the Secretary for the costs associated with establishing and administering the listing program and conducting periodic inspections of registrants under this section. The Secretary shall not generate surplus revenue from such a reimbursement mechanism. Fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriation Acts. Such fees may remain available until expended.
+          ‘‘(2) AUTHORIZED LICENSURE FEES OF SECRETARY .—If a State does not establish a licensure program for third-party logistics providers, the Secretary shall license the third-party logistics providers located in such State and may collect a reasonable fee to perform that service, consistent with the limitation set forth in paragraph (1).
+          ‘‘(3) TATE LICENSING FEES .—Nothing in this Act shall prohibit States from collecting fees from third-party logistics providers in connection with State licensing of such distributors.
+     ‘‘(d) LICENSE REGULATIONS .—
+          ‘‘(1) N GENERAL .—Not later than 180 days after the date of enactment of the øinsert short title¿, the Secretary shall issue regulations regarding the issuance and eligibility requirements of a facility license, including the revocation and reissuance of such license, to third-party logistics providers under this section.
+          ‘‘(2) CONTENT .—Such regulations shall—
+               ‘‘(A) establish a process by which the Secretary shall, upon request by a third-party logistics provider, issue a license to a third-party logistics provider who is accredited by a third-party accreditation program approved by the Secretary;
+               ‘‘(B) establish a process by which the Secretary shall issue a license to a third-party logistics provider if the Secretary is not able to approve a third-party accreditation program because no such program meets the Secretary’s requirements necessary for approval of such a third-party accreditation program;
+               ‘‘(C) require that the entity complies with good storage practices, as determined by the Secretary at such facility, including—
+                    ‘‘(i) maintaining access to warehouse space of suitable size to facilitate safe operations, including a suitable area to quarantine suspect product;
+                    ‘‘(ii) maintaining adequate security; and
+                    ‘‘(iii) having written policies and procedures to—
+                        ‘‘(I) address receipt, security, storage, inventory, shipment, and distribution of a prescription drug;
+                        ‘‘(II) identify, record, and report confirmed losses or thefts in the United States;
+                        ‘‘(III) correct errors and inaccuracies in inventories;
+                        ‘‘(IV) provide support for manufacturer recalls;
+                        ‘‘(V) prepare for, protect against, and address any reasonably foreseeable crisis that affects security or operation at the facility, such as a strike, fire, or flood;
+                        ‘‘(VI) ensure that any expired prescription drug is segregated from other drugs and returned to the manufacturer or repackager or destroyed;
+                        ‘‘(VII) maintain the capability to electronically trace the receipt and outbound distribution of a prescription drug, and supplies and records of inventory; and
+                        ‘‘(VIII) quarantine or destroy a suspect product if directed to do so by the respective prescription drug manufacturer, wholesaler, or dispenser or an authorized government agency;
+               ‘‘(D) provide for periodic inspection, as determined by the Secretary, of such facility warehouse space to ensure compliance with this section;
+               ‘‘(E) prohibit a facility from having as a manager or designated representative anyone convicted of any felony violation of section 301(i) or 301(k) of this Act or any violation of section 1365 of title 18, United States Code relating to product tampering;
+               ‘‘(F) perform mandatory background checks of a facility manager or a designated representative of such manager; and
+               ‘‘(G) require the third-party logistics provider to provide the Secretary, upon a request by the Secretary, a list of all prescription drug manufacturers, wholesale distributors, and dispensers for whom the third-party logistics provider provides services at such facility.
+      ‘‘(e) VALIDITY OF LICENSE .—øA license issued under this section shall remain valid as long as such third-party logistics provider remains accredited by the Secretary, but such license shall be renewed in accordance with subsection (f). ¿If the Secretary finds that the third-party accreditation program demonstrates that all applicable requirements for licensure under this section are met, øthe Secretary shall treat a third-party logistics provider receiving accreditation as if such provider has received a license under this section¿. ø‘‘(f) ENEWAL OF LICENSES .—The Secretary shall develop procedures for license renewal. Licenses issued under this section shall expire on the date that is 3 years after issuance of the license. Such an expired license may be renewed for additional 3-year periods according to procedures developed by the Secretary.¿ ø‘‘(g) EVOCATION OF BOND .—øA State that issues a license to a third-party logistics provider ¿, or the Secretary, in the case that the Secretary licenses a third-party logistics provider, may revoke the bond of an entity so licensed by such State or the Secretary, in whole or in part, if such entity violates a licensure requirement under this section or a distribution requirement øunder section 582.¿’’.¿
+ SEC. 6. PENALTIES.
+      (a) PROHIBITED ACT .—Section 301(t) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 331(t)), is amended—
+          (1) by striking ‘‘or’’ after ‘‘the requirements of section 503(d),’’; and
+          (2) by inserting ‘‘, failure to comply with the standards under section ø582¿, the failure to list under section øsection 583 or 584, as applicable ¿,’’ after ‘‘in violation of section 503(e)’’.
+      (b) ADULTERATION .—Section 501 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351), is amended by adding at the end the following:
+      ‘‘(k) If it is a drug and its distribution does not comply with the standards under section 503(e) or the requirements under section 582.’’.
+      (c) M ISBRANDING .—Section 502 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 352), is amended by adding at the end the following:
+      ‘‘(bb) If it is a drug and it was distributed by a person not authorized to distribute the product within the meaning of section 581(2).’’.
+ SEC. 7. UNIFORM NATIONAL POLICY.
+     (a) PRODUCT TRACING REQUIREMENTS .—Beginning on the date of enactment of this Act, no State or political subdivision of a State may establish or continue in effect any requirements with respect to transaction history, transaction information, or transaction statement of a pharmaceutical product as such product changes ownership in the supply chain (including requirements for paper or electronic pedigree systems or for tracking and tracing drugs throughout the distribution system) which are inconsistent with, more stringent than, or in addition to, any requirements applicable under this Act (or the amendments made by this Act).
+     (b) DISTRIBUTION AND LICENSING STANDARDS .—
+          (1) N GENERAL .—Beginning on the date of enactment of this Act, no State or political subdivision of a State may establish any standards, requirements, or regulations with respect to wholesale drug distributor or third-party logistics provider licensure or product tracing which are inconsistent with, øless stringent than,¿ øin addition to, or more stringent than,¿ the standards and requirements applicable under the amendments made by this Act.
+          (2) ADMINISTRATION FEES .—Notwithstanding paragraph (1), a State may administer fee collections for effectuating the wholesale drug distributor and third-party logistics provider licensure requirements under øsections 503(e), 583, and 584 ¿.
+          (3) SUSPENSION AND REVOCATION OF LICENSES .—Notwithstanding paragraph (1), a State—
+               (A) may provide for the suspension or revocation of licenses issued by the State for violations of the laws øof such State¿;
+               (B) upon conviction of violations of Federal, State, or local drug laws or regulations, may provide for fines, imprisonment, or civil penalties; and ø(C) may regulate activities of licensure entities in a manner that is consistent with the distribution and licensing standards, and product tracing requirements under øsection 582 of the Federal Food, Drug, and Cosmetic Act, as added by section 2¿.¿ ø(c) EXCEPTION .—Nothing in subsection (a) or (b) shall be construed to preempt State requirements related to the distribution of prescription drugs if such requirements are not related to licensure or product tracing. øNote from working group : This language would, for example, preserve the current CA law that prohibits wholesale distributors from selling excessive amounts of controlled substances¿.¿

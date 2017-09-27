@@ -1,0 +1,685 @@
+>        F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                      .....................................................................
+>                                                          (Original Signature of Member)
+>                   114TH CONGRESS
+>                       2D SESSION
+>                                        H. R.ll
+>                   To amend title XVIII of the Social Security Act to provide for regulatory
+>                       relief under the Medicare program for certain providers of services and
+>                       suppliers and increased transparency in hospital coding and enrollment
+>                       data, and for other purposes.
+>                          IN THE HOUSE OF REPRESENTATIVES
+>                    Mr. TIBERI(for himself and MrCDERMOTT ) introduced the following bill;
+>                    which was referred to the Committee on lllllllllllllll
+>                                          A BILL
+>                   To amend title XVIII of the Social Security Act to provide
+>                       for regulatory relief under the Medicare program for
+>                       certain providers of services and suppliers and increased
+>                       transparency in hospital coding and enrollment data, and
+>                       for other purposes.
+>                    1 Be it enacted by the Senate and House of Representa2 tives of the United States of America in Congress assembled,
+>                    3 SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+>                    4 (a) SHORT TITLE.—This Act may be cited as the
+>                    5 ‘‘Helping Hospitals Improve Patient Care Act of 2016’’.
+>        f:\VHLC\051816\051816.165(626106|39)
+> VerDate Nov 213:46 May 1Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>        F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                   2
+>                    1 (b) TABLE OF CONTENTS .—The table of contents for
+>                    2 this Act is as follows:
+>                       Sec. 1. Short title; table of contents.
+>                            TITLE I—PROVISIONS RELATING TO MEDICARE PART A
+>                       Sec. 101. Development of Medicare study for HCPCS version of MS–DRG
+>                                    codes for similar hospital services.
+>                       Sec. 102. Establishing beneficiary equity in the Medicare hospital readmission
+>                                    program.
+>                       Sec. 103. Fiveyear extension of the rural community hospital demonstration
+>                                    program.
+>                       Sec. 104. Regulatory relief for LTCHs.
+>                       Sec. 105. Savings from IPPS MACRA payfor through not applying documentation and coding adjustments.
+>                            TITLE II—PROVISIONS RELATING TO MEDICARE PART B
+>                       Sec. 201. Continuing Medicare payment under HOPD prospective payment system for services furnished by midbuild offcampus outpatient
+>                                    departments of providers.
+>                       Sec. 202. Treatment of cancer hospitals in offcampus outpatient department of
+>                                    a provider policy.
+>                       Sec. 203. Treatment of eligible professionals in ambulatory surgical centers for
+>                                    meaningful use and MIPS.
+>                                  TITLE III—OTHER MEDICARE PROVISIONS
+>                       Sec. 301. Delay in authority to terminate contracts for Medicare Advantage
+>                                    plans failing to achieve minimum quality ratings.
+>                       Sec. 302. Requirement for enrollment data reporting for Medicare.
+>                       Sec. 303. Updating the Welcome to Medicare package.
+>                    3 TITLE I—PROVISIONS RELATING
+>                    4 TO MEDICARE PART A
+>                    5 SEC. 101. DEVELOPMENT OF MEDICARE STUDY FOR HCPCS
+>                    6 VERSION OF MS–DRG CODES FOR SIMILAR
+>                    7 HOSPITAL SERVICES.
+>                    8 Section 1886 of the Social Security Act (42 U.S.C.
+>                    9 1395ww) is amended by adding at the end the following
+>                   10 new subsection:
+>                   11 ‘‘(t) RELATING SIMILAR INPATIENT AND O UT12 PATIENT HOSPITAL SERVICES .—
+>        f:\VHLC\051816\051816.165(626106|39)
+> VerDate Nov 213:46 May 1Jkt 000PO 0000Frm 000Fmt 66Sfmt 62C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>       F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                               3
+>                   1 ‘‘(1) DEVELOPMENT OF HCPCS VERSION OF
+>                   2 MS–DRG CODES .—
+>                   3 ‘‘(A) N GENERAL .—Not later than Janu4 ary 1, 2018, the Secretary shall develop
+>                   5 HCPCS versions for MS–DRGs that is similar
+>                   6 to the ICD–10–PCS for such MS–DRGs such
+>                   7 that, to the extent possible, the MS–DRG as8 signment shall be similar for a claim coded with
+>                   9 the HCPCS version as an identical claim coded
+>                  10 with a ICD–10–PCS code.
+>                  11 ‘‘(B) COVERAGE OF SURGICAL MS –DRGS .—
+>                  12 In carrying out subparagraph (A), the Sec13 retary shall develop HCPCS versions of MS–
+>                  14 DRG codes for not fewer than 10 surgical MS–
+>                  15 DRGs.
+>                  16 ‘‘(C) PUBLICATION AND DISSEMINATION
+>                  17 OF THE HCPCS VERSIONS OF MS –DRGS .—
+>                  18 ‘‘(i) N GENERAL .—The Secretary
+>                  19 shall develop a HCPCS MS–DRG defini20 tions manual and software that is similar
+>                  21 to the definitions manual and software for
+>                  22 ICD–10–PCS codes for such MS–DRGs.
+>                  23 The Secretary shall post the HCPCS MS–
+>                  24 DRG definitions manual and software on
+>                  25 the Internet website of the Centers for
+>       f:\VHLC\051816\051816.16(626106|39)
+> VerDate Nov 13:46 May 1Jkt 00PO 000Frm 000Fmt 6Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>        F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                 4
+>                    1 Medicare & Medicaid Services. The
+>                    2 HCPCS MS–DRG definitions manual and
+>                    3 software shall be in the public domain and
+>                    4 available for use and redistribution without
+>                    5 charge.
+>                    6 ‘‘(ii) USE OF PREVIOUS ANALYSIS
+>                    7 DONE BY MEDPAC .—In developing the
+>                    8 HCPCS MS–DRG definitions manual and
+>                    9 software under clause (i), the Secretary
+>                  10 shall consult with the Medicare Payment
+>                  11 Advisory Commission and shall consider
+>                  12 the analysis done by such Commission in
+>                  13 translating outpatient surgical claims into
+>                  14 inpatient surgical MS–DRGs in preparing
+>                  15 chapter 7 (relating to hospital shortstay
+>                  16 policy issues) of its ‘Medicare and the
+>                  17 Health Care Delivery System’ report sub18 mitted to Congress in June 2015.
+>                  19 ‘‘(D) DEFINITION AND REFERENCE .—In
+>                  20 this paragraph:
+>                  21 ‘‘(i) HCPCS.—The term ‘HCPCS’
+>                  22 means, with respect to hospital items and
+>                  23 services, the code under the Healthcare
+>                  24 Common Procedure Coding System
+>        f:\VHLC\051816\051816.16(626106|39)
+> VerDate Nov 13:46 May 1Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>       F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                               5
+>                   1 (HCPCS) (or a successor code) for such
+>                   2 items and services.
+>                   3 ‘‘(ii) ICD–10–PCS.—The term ‘ICD–
+>                   4 10–PCS’ means the International Classi5 fication of Diseases, 10th Revision, Proce6 dure Coding System, and includes a subse7 quent revision of such International Classi8 fication of Diseases, Procedure Coding
+>                   9 System.’’.
+>                  10 SEC. 102. ESTABLISHING BENEFICIARY EQUITY IN THE
+>                  11 MEDICARE HOSPITAL READMISSION PRO12 GRAM.
+>                  13 (a) TRANSITIONAL ADJUSTMENT FOR DUAL ELIGI14 BLE POPULATION .—Section 1886(q)(3) of the Social Se15 curity Act (42 U.S.C. 1395ww(q)(3)) is amended—
+>                  16 (1) in subparagraph (A), by inserting ‘‘subject
+>                  17 to subparagraph (D),’’ after ‘‘purposes of paragraph
+>                  18 (1),’’; and
+>                  19 (2) by adding at the end the following new sub20 paragraph:
+>                  21 ‘‘(D) TRANSITIONAL ADJUSTMENT FOR
+>                  22 DUAL ELIGIBLES .—
+>                  23 ‘‘(i)N GENERAL .—In determining a
+>                  24 hospital’s adjustment factor under this
+>                  25 paragraph for purposes of making payf:\VHLC\051816\051816.16(626106|39)
+> VerDate Nov 13:46 May 1Jkt 00PO 000Frm 000Fmt 6Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>        F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                  6
+>                    1 ments for discharges occurring during and
+>                    2 after fiscal year 2019, and before the ap3 plication of clause (i) of subparagraph (E),
+>                    4 the Secretary shall assign hospitals to
+>                    5 groups (as defined by the Secretary under
+>                    6 clause (ii)) and apply the applicable provi7 sions of this subsection using a method8 ology in a manner that allows for separate
+>                    9 comparison of hospitals within each such
+>                   10 group, as determined by the Secretary.
+>                   11 ‘‘(ii) DEFINING GROUPS .—For pur12 poses of this subparagraph, the Secretary
+>                   13 shall define groups of hospitals based on
+>                   14 their overall proportion of inpatients who
+>                   15 are fullbenefit dual eligible individuals (as
+>                   16 defined in section 1935(c)(6)). In defining
+>                   17 groups, the Secretary shall consult the
+>                   18 Medicare Payment Advisory Commission
+>                   19 and may consider the analysis done by
+>                   20 such Commission in preparing the portion
+>                   21 of its report submitted to Congress in June
+>                   22 2013 relating to readmissions.
+>                   23 ‘‘(iii) MINIMIZING REPORTING BUR24 DEN ON HOSPITALS .—In carrying out this
+>                   25 subparagraph, the Secretary shall not imf:\VHLC\051816\051816.165(626106|39)
+> VerDate Nov 213:46 May 1Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>       F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                               7
+>                   1 pose any additional reporting requirements
+>                   2 on hospitals.
+>                   3 ‘‘(iv) BUDGET NEUTRAL DESIGN
+>                   4 METHODOLOGY .—The Secretary shall de5 sign the methodology to implement this
+>                   6 subparagraph so that the estimated total
+>                   7 amount of reductions in payments under
+>                   8 this subsection equals the estimated total
+>                   9 amount of reductions in payments that
+>                  10 would otherwise occur under this sub11 section if this subparagraph did not
+>                  12 apply.’’.
+>                  13 (b) SUBSEQUENT ADJUSTMENTS BASED ON IM14 PACT REPORTS .—Section 1886(q)(3) of the Social Secu15 rity Act (42 U.S.C. 1395ww(q)(3)), as amended by sub16 section (a), is further amended by adding at the end the
+>                  17 following new subparagraph:
+>                  18 ‘‘(E) CHANGES IN RISK ADJUSTMENT .—
+>                  19 ‘‘(i) CONSIDERATION OF REC20 OMMENDATIONS IN IMPACT REPORTS .—
+>                  21 The Secretary may take into account the
+>                  22 studies conducted and the recommenda23 tions made by the Secretary under section
+>                  24 2(d)(1) of the IMPACT Act of 2014 (Pub25 lic Law 113–185; 42 U.S.C. 1395lll note)
+>       f:\VHLC\051816\051816.16(626106|39)
+> VerDate Nov 13:46 May 1Jkt 00PO 000Frm 000Fmt 6Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>       F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                8
+>                   1 with respect to the application under this
+>                   2 subsection of risk adjustment methodolo3 gies. Nothing in this clause shall be con4 strued as precluding consideration of the
+>                   5 use of groupings of hospitals.’’.
+>                   6 (c) MED PAC STUDY ON READMISSIONS PROGRAM .—
+>                   7 The Medicare Payment Advisory Commission shall con8 duct a study to review overall hospital readmissions de9 scribed in section 1886(q)(5)(E) of the Social Security Act
+>                  10 (42 U.S.C. 1395ww(q)(5)(E)) and whether such readmis11 sions are related to any changes in outpatient and emer12 gency services furnished. The Commission shall submit to
+>                  13 Congress a report on such study in its report to Congress
+>                  14 in June 2017.
+>                  15 (d) ADDRESSING ISSUE OF CERTAIN PATIENTS .—
+>                  16 Subparagraph (E) of section 1886(q)(3) of the Social Se17 curity Act (42 U.S.C. 1395ww(q)(3)), as added by sub18 section (b), is further amended by adding at the end the
+>                  19 following new clause:
+>                  20 ‘‘(ii) ONSIDERATION OF EXCLUSION
+>                  21 OF PATIENT CASES BASED ON V OR OTHER
+>                  22 APPROPRIATE CODES .—In promulgating
+>                  23 regulations to carry out this subsection
+>                  24 with respect to discharges occurring after
+>                  25 fiscal year 2018, the Secretary may conf:\VHLC\051816\051816.16(626106|39)
+> VerDate Nov 13:46 May 1Jkt 00PO 000Frm 000Fmt 66Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>        F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                 9
+>                    1 sider the use of V or other ICD-related
+>                    2 codes for removal of a readmission. The
+>                    3 Secretary may consider modifying meas4 ures under this subsection to incorporate V
+>                    5 or other ICD-related codes at the same
+>                    6 time as other changes are being made
+>                    7 under this subparagraph.’’.
+>                    8 (e) REMOVAL OF CERTAIN R EADMISSIONS .—Sub9 paragraph (E) of section 1886(q)(3) of the Social Security
+>                  10 Act (42 U.S.C. 1395ww(q)(3)), as added by subsection (b)
+>                  11 and amended by subsection (d), is further amended by
+>                  12 adding at the end the following new clause:
+>                  13 ‘‘(iii) REMOVAL OF CERTAIN RE14 ADMISSIONS .—In promulgating regulations
+>                  15 to carry out this subsection, with respect
+>                  16 to discharges occurring after fiscal year
+>                  17 2018, the Secretary may consider removal
+>                  18 as a readmission of an admission that is
+>                  19 classified within one or more of the fol20 lowing: transplants, endstage renal dis21 ease, burns, trauma, psychosis, or sub22 stance abuse. The Secretary may consider
+>                  23 modifying measures under this subsection
+>                  24 to remove readmissions at the same time
+>        f:\VHLC\051816\051816.16(626106|39)
+> VerDate Nov 13:46 May 18Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>        F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                  10
+>                    1 as other changes are being made under
+>                    2 this subparagraph.’’.
+>                    3 SEC. 103. FIVEYEAR EXTENSION OF THE RURAL COMMU4 NITY HOSPITAL DEMONSTRATION PROGRAM.
+>                    5 (a) EXTENSION .—Section 410A of the Medicare Pre6 scription Drug, Improvement, and Modernization Act of
+>                    7 2003 (Public Law 108–173; 42 U.S.C. 1395ww note), as
+>                    8 amended by sections 3123 and 10313 of the Patient Pro9 tection and Affordable Care Act (Public Law 111–148),
+>                   10 is amended—
+>                   11 (1) in subsection (a)(5), by striking ‘‘5-year ex12 tension period’’ and inserting ‘‘10-year extension pe13 riod’’; and
+>                   14 (2) in subsection (g)—
+>                   15 (A) in the subsection heading, by striking
+>                   16 ‘‘FIVEYEAR ’’ and inserting ‘‘TENYEAR ’’;
+>                   17 (B) in paragraph (1), by striking ‘‘addi18 tional 5-year’’ and inserting ‘‘additional 1019 year’’;
+>                   20 (C) by striking ‘‘5-year extension period’’
+>                   21 and inserting ‘‘10-year extension period’’ each
+>                   22 place it appears;
+>                   23 (D) in paragraph (4)(B)—
+>        f:\VHLC\051816\051816.165(626106|39)
+> VerDate Nov 213:46 May 1Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>        F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                 11
+>                    1 (i) in the matter preceding clause (i),
+>                    2 by inserting ‘‘each 5-year period in’’ after
+>                    3 ‘‘hospital during’’; and
+>                    4 (ii) in clause (i), by inserting ‘‘each
+>                    5 applicable 5-year period in’’ after ‘‘the first
+>                    6 day of’’; and
+>                    7 (E) by adding at the end the following new
+>                    8 paragraphs:
+>                    9 ‘‘(5) OTHER HOSPITALS IN DEMONSTRATION
+>                   10 PROGRAM .—During the second 5 years of the 1011 year extension period, the Secretary shall apply the
+>                   12 provisions of paragraph (4) to rural community hos13 pitals that are not described in paragraph (4) but
+>                   14 are participating in the demonstration program
+>                   15 under this section as of December 30, 2014, in a
+>                   16 similar manner as such provisions apply to rural
+>                   17 community hospitals described in paragraph (4).
+>                   18 ‘‘(6) XPANSION OF DEMONSTRATION PROGRAM
+>                   19 TO RURAL AREAS IN ANY STATE .—
+>                   20 ‘‘(A) IN GENERAL .—The Secretary shall,
+>                   21 notwithstanding subsection (a)(2) or paragraph
+>                   22 (2) of this subsection, not later than 120 days
+>                   23 after the date of the enactment of this para24 graph, issue a solicitation for applications to se25 lect up to the maximum number of additional
+>        f:\VHLC\051816\051816.16(626106|39)
+> VerDate Nov 13:46 May 18Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>        F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                  12
+>                    1 rural community hospitals located in any State
+>                    2 to participate in the demonstration program
+>                    3 under this section for the second 5 years of the
+>                    4 10-year extension period without exceeding the
+>                    5 limitation under paragraph (3) of this sub6 section.
+>                    7 ‘‘(B) PRIORITY .—In determining which
+>                    8 rural community hospitals that submitted an
+>                    9 application pursuant to the solicitation under
+>                   10 subparagraph (A) to select for participation in
+>                   11 the demonstration program, the Secretary—
+>                   12 ‘‘(i) shall give priority to rural com13 munity hospitals located in one of the 20
+>                   14 States with the lowest population densities
+>                   15 (as determined by the Secretary using the
+>                   16 2015 Statistical Abstract of the United
+>                   17 States); and
+>                   18 ‘‘(ii) may consider—
+>                   19 ‘‘(I) closures of hospitals located
+>                   20 in rural areas in the State in which
+>                   21 the rural community hospital is lo22 cated during the 5-year period imme23 diately preceding the date of the en24 actment of this paragraph; and
+>        f:\VHLC\051816\051816.165(626106|39)
+> VerDate Nov 213:46 May 1Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>       F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                             13
+>                  1 ‘‘(II) the population density of
+>                  2 the State in which the rural commu3 nity hospital is located.’’.
+>                  4 (b) CHANGE IN TIMING FOR REPORT .—Subsection
+>                  5 (e) of such section 410A is amended—
+>                  6 (1) by striking ‘‘Not later than 6 months after
+>                  7 the completion of the demonstration program under
+>                  8 this section’’ and inserting ‘‘Not later than August
+>                  9 1, 2018’’; and
+>                 10 (2) by striking ‘‘such program’’ and inserting
+>                 11 ‘‘the demonstration program under this section’’.
+>                 12 SEC. 104. REGULATORY RELIEF FOR LTCHS.
+>                 13 (a) TECHNICAL CHANGE TO THE MEDICARE LONG-14 TERM CARE HOSPITAL MORATORIUM EXCEPTION .—
+>                 15 (1) IN GENERAL .—Section 114(d)(7) of the
+>                 16 Medicare, Medicaid, and SCHIP Extension Act of
+>                 17 2007 (42 U.S.C. 1395ww note), as amended by sec18 tions 3106(b) and 10312(b) of Public Law 111–148,
+>                 19 section 1206(b)(2) of the Pathway for SGR Reform
+>                 20 Act of 2013 (division B of Public Law 113–67), and
+>                 21 section 112 of the Protecting Access to Medicare Act
+>                 22 of 2014, is amended by striking ‘‘The moratorium
+>                 23 under paragraph (1)(A)’’ and inserting ‘‘Any mora24 torium under paragraph (1)’’.
+>       f:\VHLC\051816\051816.1(626106|39)
+> VerDate Nov13:46 May 1Jkt 00PO 000Frm 00Fmt 6Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>       F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                             14
+>                  1 (2) EFFECTIVE DATE .—The amendment made
+>                  2 by paragraph (1) shall take effect as if included in
+>                  3 the enactment of section 112 of the Protecting Ac4 cess to Medicare Act of 2014.
+>                  5 (b) MODIFICATION TO MEDICARE LONG-TERM CARE
+>                  6 HOSPITAL HIGH COST OUTLIER PAYMENTS .—Section
+>                  7 1886(m) of the Social Security Act (42 U.S.C.
+>                  8 1395ww(m)) is amended by adding at the end the fol9 lowing new paragraph:
+>                 10 ‘‘(7) REATMENT OF HIGH COST OUTLIER PAY11 MENTS .—
+>                 12 ‘‘(A) ADJUSTMENT TO THE STANDARD
+>                 13 FEDERAL PAYMENT RATE FOR ESTIMATED
+>                 14 HIGH COST OUTLIER PAYMENTS .—Under the
+>                 15 system described in paragraph (1), for fiscal
+>                 16 years beginning on or after October 1, 2017,
+>                 17 the Secretary shall reduce the standard Federal
+>                 18 payment rate as if the estimated aggregate
+>                 19 amount of high cost outlier payments for stand20 ard Federal payment rate discharges for each
+>                 21 such fiscal year would be equal to 8 percent of
+>                 22 estimated aggregate payments for standard
+>                 23 Federal payment rate discharges for each such
+>                 24 fiscal year.
+>       f:\VHLC\051816\051816.1(626106|39)
+> VerDate Nov13:46 May 1Jkt 00PO 000Frm 00Fmt 6Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>        F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                15
+>                    1 ‘‘(B) LIMITATION ON HIGH COST OUTLIER
+>                    2 PAYMENT AMOUNTS .—Notwithstanding sub3 paragraph (A), the Secretary shall set the fixed
+>                    4 loss amount for high cost outlier payments such
+>                    5 that the estimated aggregate amount of high
+>                    6 cost outlier payments made for standard Fed7 eral payment rate discharges for fiscal years be8 ginning on or after October 1, 2017, shall be
+>                    9 equal to 99.6875 percent of 8 percent of esti10 mated aggregate payments for standard Fed11 eral payment rate discharges for each such fis12 cal year.
+>                  13 ‘‘(C) WAIVER OF BUDGET NEUTRALITY .—
+>                  14 Any reduction in payments resulting from the
+>                  15 application of subparagraph (B) shall not be
+>                  16 taken into account in applying any budget neu17 trality provision under such system.
+>                  18 ‘‘(D) NO EFFECT ON SITE NEUTRAL HIGH
+>                  19 COST OUTLIER PAYMENT RATE .—This para20 graph shall not apply with respect to the com21 putation of the applicable site neutral payment
+>                  22 rate under paragraph (6).’’.
+>        f:\VHLC\051816\051816.16(626106|39)
+> VerDate Nov 13:46 May 18Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>       F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                               16
+>                   1 SEC. 105. SAVINGS FROM IPPS MACRA PAYFOR THROUGH
+>                   2 NOT APPLYING DOCUMENTATION AND COD3 ING ADJUSTMENTS.
+>                   4 Section 7(b)(1)(B)(iii) of the TMA, Abstinence Edu5 cation, and QI Programs Extension Act of 2007 (Public
+>                   6 Law 110–90), as amended by section 631(b) of the Amer7 ican Taxpayer Relief Act of 2012 (Public Law 122–240)
+>                   8 and section 414(1)(B)(iii) of the Medicare Access and
+>                   9 CHIP Reauthorization Act of 2015 (Public Law 114–10),
+>                  10 is amended by striking ‘‘an increase of 0.5 percentage
+>                  11 points for discharges occurring during each of fiscal years
+>                  12 2018 through 2023’’ and inserting ‘‘an increase of 0.4590
+>                  13 percentage points for discharges occurring during fiscal
+>                  14 year 2018 and 0.5 percentage points for discharges occur15 ring during each of fiscal years 2019 through 2023’’.
+>                  16 TITLE II—PROVISIONS RELAT17 ING TO MEDICARE PART B
+>                  18 SEC. 201. CONTINUING MEDICARE PAYMENT UNDER HOPD
+>                  19 PROSPECTIVE PAYMENT SYSTEM FOR SERV20 ICES FURNISHED BY MIDBUILD OFFCAMPUS
+>                  21 OUTPATIENT DEPARTMENTS OF PROVIDERS.
+>                  22 (a) N GENERAL .—Section 1833(t)(21) of the Social
+>                  23 Security Act (42 U.S.C. 1395l(t)(21)) is amended—
+>                  24 (1) in subparagraph (B)—
+>       f:\VHLC\051816\051816.16(626106|39)
+> VerDate Nov 13:46 May 1Jkt 00PO 000Frm 000Fmt 66Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>        F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                 17
+>                    1 (A) in clause (i), by striking ‘‘clause (ii)’’
+>                    2 and inserting ‘‘the subsequent provisions of this
+>                    3 subparagraph’’; and
+>                    4 (B) by adding at the end the following new
+>                    5 clauses:
+>                    6 ‘‘(iii) DEEMED TREATMENT FOR
+>                    7 2017.—For purposes of applying clause (ii)
+>                    8 with respect to applicable items and serv9 ices furnished during 2017, a department
+>                   10 of a provider (as so defined) not described
+>                   11 in such clause is deemed to be billing
+>                   12 under this subsection with respect to cov13 ered OPD services furnished prior to No14 vember 2, 2015, if the Secretary received
+>                   15 from the provider prior to December 2,
+>                   16 2015, an attestation (pursuant to section
+>                   17 413.65(b)(3) of title 42 of the Code of
+>                   18 Federal Regulations) that such department
+>                   19 was a department of a provider (as so de20 fined).
+>                   21 ‘‘(iv) ALTERNATIVE EXCEPTION BE22 GINNING WITH 2018 .—For purposes of
+>                   23 paragraph (1)(B)(v) and this paragraph
+>                   24 with respect to applicable items and serv25 ices furnished during 2018 or a subsequent
+>        f:\VHLC\051816\051816.165(626106|39)
+> VerDate Nov 213:46 May 1Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>        F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                  18
+>                    1 year, the term ‘offcampus outpatient de2 partment of a provider’ also shall not in3 clude a department of a provider (as so de4 fined) that is not described in clause (ii)
+>                    5 if—
+>                    6 ‘‘(I) the Secretary receives from
+>                    7 the provider an attestation (pursuant
+>                    8 to such section 413.65(b)(3)) before
+>                    9 July 1, 2016, that such department
+>                   10 met the requirements of a department
+>                   11 of a provider specified in section
+>                   12 413.65 of title 42 of the Code of Fed13 eral Regulations;
+>                   14 ‘‘(II) the provider includes such
+>                   15 department as part of the provider on
+>                   16 its enrollment form in accordance with
+>                   17 the enrollment process under section
+>                   18 1866(j); and
+>                   19 ‘‘(III) before July 1, 2016, the
+>                   20 department met the midbuild require21 ment of clause (v) and the Secretary
+>                   22 receives from the chief executive offi23 cer or chief operating officer of the
+>                   24 provider a written certification that
+>                   25 the department met such requirement.
+>        f:\VHLC\051816\051816.165(626106|39)
+> VerDate Nov 213:46 May 1Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>        F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                  19
+>                    1 ‘‘(v) MID BUILD REQUIREMENT DE2 SCRIBED .—The midbuild requirement of
+>                    3 this clause is, with respect to a department
+>                    4 of a provider, that before November 2,
+>                    5 2015, the provider had a binding written
+>                    6 agreement with an outside unrelated party
+>                    7 for the actual construction of such depart8 ment.
+>                    9 ‘‘(vii) UDIT .—Not later than Decem10 ber 31, 2018, the Secretary shall audit the
+>                   11 compliance with requirements of clause (iv)
+>                   12 with respect to a department of a provider
+>                   13 for which an attestation is submitted under
+>                   14 such clause. If the Secretary finds as a re15 sult of an audit under this clause that the
+>                   16 applicable requirements were not met with
+>                   17 respect to such department, the depart18 ment shall not be excluded from the term
+>                   19 ‘offcampus outpatient department of a
+>                   20 provider’ under the respective clause.
+>                   21 ‘‘(viii) MPLEMENTATION .—For pur22 poses of implementing clauses (iii) through
+>                   23 (vii):
+>                   24 ‘‘(I) Notwithstanding any other
+>                   25 provision of law, the Secretary may
+>        f:\VHLC\051816\051816.165(626106|39)
+> VerDate Nov 213:46 May 1Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>        F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                 20
+>                    1 implement such clauses by program
+>                    2 instruction or otherwise.
+>                    3 ‘‘(II) Subchapter I of chapter 35
+>                    4 of title 44, United States Code, shall
+>                    5 not apply.
+>                    6 ‘‘(III) For purposes of carrying
+>                    7 out this subparagraph with respect to
+>                    8 clauses (iii) and (iv) (and clause (vii)
+>                    9 insofar as it relates to such clauses),
+>                   10 the Secretary shall provide for the
+>                   11 transfer from the Supplementary
+>                   12 Medical Insurance Trust Fund under
+>                   13 section 1841, of $10,000,000 to the
+>                   14 Centers for Medicare & Medicaid
+>                   15 Services Program Management Ac16 count to remain available until De17 cember 31, 2018.’’; and
+>                   18 (2) in subparagraph (E), by adding at the end
+>                   19 the following new clause:
+>                   20 ‘‘(iv) The determination of an audit
+>                   21 under subparagraph (B)(vii).’’.
+>                   22 (b) EFFECTIVE DATE .—The amendments made by
+>                   23 this section shall be effective as if included in the enact24 ment of section 603 of the Bipartisan Budget Act of 2015
+>                   25 (Public Law 114–74).
+>        f:\VHLC\051816\051816.16(626106|39)
+> VerDate Nov 13:46 May 18Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>        F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                 21
+>                    1 SEC. 202. TREATMENT OF CANCER HOSPITALS IN OFFCAM2 PUS OUTPATIENT DEPARTMENT OF A PRO3 VIDER POLICY.
+>                    4 (a) N GENERAL .—Section 1833(t)(21)(B) of the So5 cial Security Act (42 U.S.C. 1395l(t)(21)(B)), as amended
+>                    6 by section 201(a), is amended—
+>                    7 (1) by inserting after clause (v) the following
+>                    8 new clause:
+>                    9 ‘‘(vi) EXCLUSION FOR CERTAIN CAN10 CER HOSPITALS .—For purposes of para11 graph (1)(B)(v) and this paragraph with
+>                   12 respect to applicable items and services
+>                   13 furnished during 2017 or a subsequent
+>                   14 year, the term ‘offcampus outpatient de15 partment of a provider’ also shall not in16 clude a department of a provider (as so de17 fined) that is not described in clause (ii) if
+>                   18 the provider is a hospital described in sec19 tion 1886(d)(1)(B)(v) and—
+>                   20 ‘‘(I) in the case of a department
+>                   21 that met the requirements of section
+>                   22 413.65 of title 42 of the Code of Fed23 eral Regulations after November 1,
+>                   24 2015, and before the date of the en25 actment of this clause, the Secretary
+>                   26 receives from the provider an attestaf:\VHLC\051816\051816.16(626106|39)
+> VerDate Nov 13:46 May 18Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>        F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                  22
+>                    1 tion that such department met such
+>                    2 requirements not later than 60 days
+>                    3 after such date of enactment; or
+>                    4 ‘‘(II) in the case of a department
+>                    5 that meets such requirements after
+>                    6 such date of enactment, the Secretary
+>                    7 receives from the provider an attesta8 tion that such department meets such
+>                    9 requirements not later than 60 days
+>                   10 after the date such requirements are
+>                   11 first met with respect to such depart12 ment.’’;
+>                   13 (2) in clause (vii), by inserting after the first
+>                   14 sentence the following: ‘‘Not later than 2 years after
+>                   15 the date the Secretary receives an attestation under
+>                   16 clause (vi) relating to compliance of a department of
+>                   17 a provider with requirements referred to in such
+>                   18 clause, the Secretary shall audit the compliance with
+>                   19 such requirements with respect to the department.’’;
+>                   20 and
+>                   21 (3) in clause (viii)(III), by adding at the end
+>                   22 the following: ‘‘For purposes of carrying out this
+>                   23 subparagraph with respect to clause (vi) (and clause
+>                   24 (vii) insofar as it relates to such clause), the Sec25 retary shall provide for the transfer from the Supf:\VHLC\051816\051816.165(626106|39)
+> VerDate Nov 213:46 May 1Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>        F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                 23
+>                    1 plementary Medical Insurance Trust Fund under
+>                    2 section 1841, of $2,000,000 to the Centers for Medi3 care & Medicaid Services Program Management Ac4 count to remain available until expended.’’’’.
+>                    5 (b) OFFSETTING SAVINGS .—Section 1833(t)(18) of
+>                    6 the Social Security Act (42 U.S.C. 1395l(t)(18)) is
+>                    7 amended—
+>                    8 (1) in subparagraph (B), by inserting ‘‘, subject
+>                    9 to subparagraph (C),’’ after ‘‘shall’’; and
+>                   10 (2) by adding at the end the following new sub11 paragraph:
+>                   12 ‘‘(C) TARGET PCR ADJUSTMENT .—In ap13 plying section 419.43(i) of title 42 of the Code
+>                   14 of Federal Regulations to implement the appro15 priate adjustment under this paragraph for
+>                   16 services furnished on or after January 1, 2018,
+>                   17 the Secretary shall use a target PCR that is 1.0
+>                   18 percentage points less than the target PCR that
+>                   19 would otherwise apply. In addition to the per20 centage point reduction under the previous sen21 tence, the Secretary may consider making an
+>                   22 additional percentage point reduction to such
+>                   23 target PCR that takes into account payment
+>                   24 rates for applicable items and services described
+>                   25 in paragraph (21)(C) other than for services
+>        f:\VHLC\051816\051816.16(626106|39)
+> VerDate Nov 13:46 May 18Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>       F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                24
+>                   1 furnished by hospitals described in section
+>                   2 1886(d)(1)(B)(v). In making any budget neu3 trality adjustments under this subsection for
+>                   4 2018 or a subsequent year, the Secretary shall
+>                   5 not take into account the reduced expenditures
+>                   6 that result from the application of this subpara7 graph.’’.
+>                   8 (c) EFFECTIVE DATE .—The amendments made by
+>                   9 this section shall be effective as if included in the enact10 ment of section 603 of the Bipartisan Budget Act of 2015
+>                  11 (Public Law 114–74).
+>                  12 SEC. 203. TREATMENT OF ELIGIBLE PROFESSIONALS IN
+>                  13 AMBULATORY SURGICAL CENTERS FOR
+>                  14 MEANINGFUL USE AND MIPS.
+>                  15 (a) IN GENERAL .—Section 1848(a)(7)(D) of the So16 cial Security Act (42 U.S.C. 1395w–4(a)(7)(D)) is amend17 ed—
+>                  18 (1) by striking ‘‘ HOSPITAL-BASED ELIGIBLE
+>                  19 PROFESSIONALS ’’ and all that follows through ‘‘No
+>                  20 payment’’ and inserting the following: ‘‘ HOSPITAL21 BASED AND AMBULATORY SURGICAL CENTER-BASED
+>                  22 ELIGIBLE PROFESSIONALS .—
+>                  23 ‘‘(i) HOSPITAL-BASED .—No pay24 ment’’; and
+>       f:\VHLC\051816\051816.16(626106|39)
+> VerDate Nov 13:46 May 1Jkt 000PO 000Frm 00Fmt 66Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>        F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                 25
+>                    1 (2) by adding at the end the following new
+>                    2 clauses:
+>                    3 ‘‘(ii) AMBULATORY SURGICAL CEN4 TER-BASED .—Subject to clause (iv), no
+>                    5 payment adjustment may be made under
+>                    6 subparagraph (A) for 2017 and 2018 in
+>                    7 the case of an eligible professional with re8 spect to whom substantially all of the cov9 ered professional services furnished by
+>                   10 such professional are furnished in an am11 bulatory surgical center.
+>                   12 ‘‘(iii) DETERMINATION .—The deter13 mination of whether an eligible profes14 sional is an eligible professional described
+>                   15 in clause (ii) may be made on the basis
+>                   16 of—
+>                   17 ‘‘(I) the site of service (as de18 fined by the Secretary); or
+>                   19 ‘‘(II) an attestation submitted by
+>                   20 the eligible professional.
+>                   21 Determinations made under subclauses (I)
+>                   22 and (II) shall be made without regard to
+>                   23 any employment or billing arrangement be24 tween the eligible professional and any
+>                   25 other supplier or provider of services.
+>        f:\VHLC\051816\051816.165(626106|39)
+> VerDate Nov 213:46 May 1Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>        F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                 26
+>                    1 ‘‘(iv) SUNSET .—Clause (ii) shall no
+>                    2 longer apply as of the first year that be3 gins more than 3 years after the date on
+>                    4 which the Secretary determines, through
+>                    5 notice and comment rulemaking, that cer6 tified EHR technology applicable to the
+>                    7 ambulatory surgical center setting is avail8 able.’’.
+>                    9 (b) CONTINUED APPLICATION OF CERTAIN P ROVI10 SIONS UNDER MIPS.—Section 1848(o)(2)(D) of the So11 cial Security Act (42 U.S.C. 1395w–4(o)(2)(D)) is amend12 ed by adding at the end the following new sentence: ‘‘The
+>                   13 provisions of subparagraphs (B) and (D) of subsection
+>                   14 (a)(7), including the application of clause (iv) of such sub15 paragraph (D), shall apply to assessments of MIPS eligi16 ble professionals under subsection (q) with respect to the
+>                   17 performance category described in subsection (q)(2)(A)(iv)
+>                   18 in a manner similar to the manner in which such provi19 sions apply with respect to payment adjustments made
+>                   20 under subsection (a)(7)(A).’’.
+>        f:\VHLC\051816\051816.165(626106|39)
+> VerDate Nov 213:46 May 1Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>       F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                            27
+>                  1 TITLE III—OTHER MEDICARE
+>                  2 PROVISIONS
+>                  3 SEC. 301. DELAY IN AUTHORITY TO TERMINATE CON4 TRACTS FOR MEDICARE ADVANTAGE PLANS
+>                  5 FAILING TO ACHIEVE MINIMUM QUALITY
+>                  6 RATINGS.
+>                  7 (a) FINDINGS.—Consistent with the studies provided
+>                  8 under the IMPACT Act of 2014 (Public Law 113–185),
+>                  9 it is the intent of Congress—
+>                 10 (1) to continue to study and request input on
+>                 11 the effects of socioeconomic status and dualeligible
+>                 12 populations on the Medicare Advantage STARS rat13 ing system before reforming such system with the
+>                 14 input of stakeholders; and
+>                 15 (2) pending the results of such studies and
+>                 16 input, to provide for a temporary delay in authority
+>                 17 of the Centers for Medicare & Medicaid Services
+>                 18 (CMS) to terminate Medicare Advantage plan con19 tracts solely on the basis of performance of plans
+>                 20 under the STARS rating system.
+>                 21 (b) DELAY IN MA CONTRACT TERMINATION AU22 THORITY FOR PLANS FAILING TO ACHIEVE MINIMUM
+>                 23 QUALITY RATINGS .—Section 1857(h) of the Social Secu24 rity Act (42 U.S.C. 1395w–27(h)) is amended by adding
+>                 25 at the end the following new paragraph:
+>       f:\VHLC\051816\051816.(626106|39)
+> VerDate Nov13:46 May Jkt 00PO 000Frm 00Fmt 66Sfmt C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>       F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                               28
+>                   1 ‘‘(3) DELAY IN CONTRACT TERMINATION AU2 THORITY FOR PLANS FAILING TO ACHIEVE MINIMUM
+>                   3 QUALITY RATING .—During the period beginning on
+>                   4 the date of enactment of this paragraph and through
+>                   5 the end of plan year 2018, the Secretary may not
+>                   6 terminate a contract under this section with respect
+>                   7 to the offering of an MA plan by a Medicare Advan8 tage organization solely because the MA plan has
+>                   9 failed to achieve a minimum quality rating under the
+>                  10 5-star rating system under section 1853(o)(4).’’.
+>                  11 SEC. 302. REQUIREMENT FOR ENROLLMENT DATA REPORT12 ING FOR MEDICARE.
+>                  13 Section 1874 of the Social Security Act (42 U.S.C.
+>                  14 1395kk) is amended by adding at the end the following
+>                  15 new subsection:
+>                  16 ‘‘(g) REQUIREMENT FOR ENROLLMENT DATA R E17 PORTING .—
+>                  18 ‘‘(1) IN GENERAL .—Each year (beginning with
+>                  19 2016), the Secretary shall submit to the Committees
+>                  20 on Ways and Means and Energy and Commerce of
+>                  21 the House of Representatives and the Committee on
+>                  22 Finance of the Senate a report on Medicare enroll23 ment data (and, in the case of part A, on data on
+>                  24 individuals receiving benefits under such part) as of
+>       f:\VHLC\051816\051816.16(626106|39)
+> VerDate Nov 13:46 May 1Jkt 00PO 000Frm 000Fmt 66Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>        F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                29
+>                    1 a date in such year specified by the Secretary. Such
+>                    2 data shall be presented—
+>                    3 ‘‘(A) by Congressional district and State;
+>                    4 and
+>                    5 ‘‘(B) in a manner that provides for such
+>                    6 data based on—
+>                    7 ‘‘(i) fee-for-service enrollment (as de8 fined in paragraph (2));
+>                    9 ‘‘(ii) enrollment under part C (includ10 ing separate for aggregate enrollment in
+>                  11 MA–PD plans and aggregate enrollment in
+>                  12 MA plans that are not MA–PD plans); and
+>                  13 ‘‘(iii) enrollment under part D.
+>                  14 ‘‘(2) F EEFOR SERVICE ENROLLMENT DE15 FINED .—For purpose of paragraph (1)(B)(i), the
+>                  16 term ‘fee-for-service enrollment’ means aggregate en17 rollment (including receipt of benefits other than
+>                  18 through enrollment) under—
+>                  19 ‘‘(A) part A only;
+>                  20 ‘‘(B) part B only; and
+>                  21 ‘‘(C) both part A and part B.’’.
+>                  22 SEC. 303. UPDATING THE WELCOME TO MEDICARE PACK23 AGE.
+>                  24 (a) N GENERAL .—Not later than 12 months after
+>                  25 the last day of the period for the request of information
+>        f:\VHLC\051816\051816.16(626106|39)
+> VerDate Nov 13:46 May 18Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1
+>        F:\P\H14\CMS\MEDCR\REGRELIEF_01.XML
+>                                                      30
+>                      1 described in subsection (b), the Secretary of Health and
+>                      2 Human Services shall, taking into consideration informa3 tion collected pursuant to subsection (b), update the infor4 mation included in the Welcome to Medicare package to
+>                      5 include information, presented in a clear and simple man6 ner, about options for receiving benefits under the Medi7 care program under title XVIII of the Social Security Act
+>                      8 (42 U.S.C. 1395 et seq.), including through the original
+>                      9 medicare fee-for-service program under parts A and B of
+>                     10 such title (42 U.S.C. 1395c et seq., 42 U.S.C. 1395j et
+>                     11 seq.), Medicare Advantage plans under part C of such title
+>                     12 (42 U.S.C. 1395w–21 et seq.), and prescription drug plans
+>                     13 under part D of such title (42 U.S.C. 1395w–101 et
+>                     14 seq.)). The Secretary shall make subsequent updates to
+>                     15 the information included in the Welcome to Medicare
+>                     16 package as appropriate.
+>                     17 (b) REQUEST FOR INFORMATION .—Not later than six
+>                     18 months after the date of the enactment of this Act, the
+>                     19 Secretary of Health and Human Services shall request in20 formation, including recommendations, from stakeholders
+>                     21 (including patient advocates, issuers, and employers) on
+>                     22 information included in the Welcome to Medicare package,
+>                     23 including pertinent data and information regarding enroll24 ment and coverage for Medicare eligible individuals.
+>        f:\VHLC\051816\051816.165.xm(626106|39)
+> VerDate Nov 2413:46 May 18Jkt 0000PO 0000Frm 000Fmt 665Sfmt 62C:\USERS\EGGROS~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\REGREL~1

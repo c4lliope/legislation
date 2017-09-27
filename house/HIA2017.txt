@@ -1,0 +1,937 @@
+>        G:\M\15\BARR\BARR_012.XML
+>                                                      .....................................................................
+>                                                          (Original Signature of Member)
+>                   115 TH CONGRESS
+>                       1ST SESSION H. R.ll
+>                   To improve the integrity and safety of horseracing by requiring a uniform
+>                       antidoping and medication control program to be developed and enforced
+>                       by an independent Horseracing AntiDoping and Medication Control Authority.
+>                          IN THE HOUSE OF REPRESENTATIVES
+>                    Mr. BARR introduced the following bill; which was referred to the Committee
+>                                    on llllllllllllll
+>                                           A BILL
+>                   To improve the integrity and safety of horseracing by requiring a uniform antidoping and medication control program to be developed and enforced by an independent
+>                       Horseracing AntiDoping and Medication Control Authority.
+>                    1 Be it enacted by the Senate and House of Representa2 tives of the United States of America in Congress assembled,
+>                    3 SECTION 1. SHORT TITLE.
+>                    4 This Act may be cited as the ‘‘Horseracing Integrity
+>                    5 Act of 2017’’.
+>        G:\VHLC\052317\052317.335.(660200|3)
+> VerDate 0ct 16:52 May 23Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                  2
+>                    1 SEC. 2. FINDINGS.
+>                    2 Congress finds the following:
+>                    3 (1) Recognizing the substantial relation that
+>                    4 horseracing has to interstate commerce, Congress
+>                    5 enacted the Interstate Horseracing Act of 1978 (15
+>                    6 U.S.C. 3001 et seq.) to regulate parimutuel wager7 ing on horseracing in order to protect and further
+>                    8 the horseracing industry of the United States. This
+>                    9 Act does not modify or supplement the Interstate
+>                   10 Horseracing Act of 1978 or impair or restrict the
+>                   11 operation and enforcement of State law or regulation
+>                   12 of horseracing with respect to matters unrelated to
+>                   13 antidoping and medication control or for violations
+>                   14 of State or Federal criminal law.
+>                   15 (2) Approximately 40 percent of the 740,239
+>                   16 starts by Thoroughbred, Quarter Horse, and
+>                   17 Standardbred racehorses in 2015 were made by
+>                   18 horses that competed in more than one State. Those
+>                   19 Thoroughbred, Quarter Horse, and Standardbred
+>                   20 racehorses which participated in races in more than
+>                   21 one State in 2015 made over 55 percent of all
+>                   22 United States racing starts that year.
+>                   23 (3) Uniform adoption of national antidoping
+>                   24 and medication control standards for horseracing in
+>                   25 the United States will promote interstate commerce,
+>                   26 encourage fair competition and a level playing field,
+>        G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                  3
+>                    1 assure full and fair disclosure of information to pur2 chasers of breeding stock and to the wagering pub3 lic, will improve the marketplace for domestic and
+>                    4 international sales of United States horses, will pro5 vide a platform for consistency with all major inter6 national horseracing standards, address growing do7 mestic concerns over disparities with international
+>                    8 rules, and provide for the safety and welfare of
+>                    9 horses and jockeys.
+>                   10 (4) The use of therapeutic medications in horse11 racing in the United States must place the health
+>                   12 and welfare of the horse at the highest level of pri13 ority while achieving consistency with the uses per14 mitted in major international horseracing jurisdic15 tions. Because the various States have been unable
+>                   16 to adopt a national uniform antidoping and medica17 tion control program, national uniform regulations
+>                   18 with respect to the use of, and testing for, drugs ca19 pable of affecting the results of a horse race and
+>                   20 therapeutic medications used in horseracing, such
+>                   21 rules, procedures, and enforcement policies should be
+>                   22 implemented, consistent with internationally accept23 ed best practices, by an independent antidoping and
+>                   24 medication control organization authorized by an
+>                   25 Act of Congress.
+>        G:\VHLC\052317\052317.335.(660200|3)
+> VerDate 0ct 16:52 May 23Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                  4
+>                    1 (5) For human sports, Congress has dem2 onstrated its commitment to fair competition
+>                    3 through legislation, oversight, funding, and by its
+>                    4 execution of an international treaty, the UNESCO
+>                    5 International Convention Against Doping in Sport.
+>                    6 By ratifying the UNESCO Convention, the United
+>                    7 States agreed to adopt appropriate measures con8 sistent with the principles of the World AntiDoping
+>                    9 Code and to take appropriate action, including legis10 lation, regulation, policies, or administrative prac11 tices to implement that commitment.
+>                   12 (6) In the context of Olympic sports, Congress
+>                   13 has recognized the United States AntiDoping Agen14 cy as an independent antidoping and medication
+>                   15 control organization possessing high-level expertise
+>                   16 and credibility in the development and administra17 tion of an antidoping and medication control pro18 gram.
+>                   19 (7) Congress supports the establishment of an
+>                   20 independent antidoping and medication control or21 ganization to ensure the wagering public’s con22 fidence in the fairness of horseracing and to
+>                   23 strengthen and harmonize antidoping and medica24 tion control rules and sanctions for horseracing in
+>                   25 order to ensure fair and transparent horseraces and
+>        G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                 5
+>                    1 to deter the commission of antidoping and medica2 tion control rule violations.
+>                    3 (8) The movement of horses among the States
+>                    4 for the purpose of participating in covered
+>                    5 horseraces, the widespread acceptance, receipt, and
+>                    6 transmission of wagers on covered horseraces in
+>                    7 interstate commerce, and the need to ensure integ8 rity of competition in, and wagering on, covered
+>                    9 horseraces warrant congressional action as set forth
+>                  10 in this Act.
+>                  11 SEC. 3. DEFINITIONS.
+>                  12 In this Act:
+>                  13 (1) AUTHORITY .—The term ‘‘Authority’’ means
+>                  14 the independent Horseracing AntiDoping and Medi15 cation Control Authority established by section 5.
+>                  16 (2) COMMISSION .—The term ‘‘Commission’’
+>                  17 means the Federal Trade Commission.
+>                  18 (3) COVERED HORSERACE .—The term ‘‘covered
+>                  19 horserace’’ means any horserace that has a substan20 tial relation to interstate commerce, including any
+>                  21 horserace that is the subject of interstate offtrack
+>                  22 wagers.
+>                  23 (4) COVERED HORSE .—The term ‘‘covered
+>                  24 horse’’ means any Thoroughbred, Quarter, or
+>                  25 Standardbred horse, beginning on the date of the
+>        G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                 6
+>                    1 horse’s first timed and reported workout at a race
+>                    2 track that participates in covered horseraces or a li3 censed training facility until the Authority receives
+>                    4 written notice that the horse has been retired.
+>                    5 (5) COVERED PERSONS .—The term ‘‘covered
+>                    6 persons’’ means all trainers, owners, veterinarians,
+>                    7 persons (legal and natural) licensed by a state rac8 ing commission and the agents, assigns and employ9 ees of such persons and other horse support per10 sonnel who are engaged in the care, training, or rac11 ing of covered horses.
+>                   12 (6) EQUINE CONSTITUENCIES .—The term
+>                   13 ‘‘equine constituencies’’ means, collectively, the own14 ers and breeders, trainers, racetracks, veterinarians,
+>                   15 State racing commissions, and jockeys.
+>                   16 (7) EQUINE INDUSTRY REPRESENTATIVE .—The
+>                   17 term ‘‘equine industry representative’’ means an or18 ganization regularly and significantly engaged in the
+>                   19 equine industry, including organizations that rep20 resent the interests of, and whose membership con21 sists of, owners and breeders, trainers, racetracks,
+>                   22 veterinarians, State racing commissions, and jock23 eys.
+>                   24 (8) H ORSERACING ANTIDOPING AND MEDICA25 TION CONTROL PROGRAM .—The term ‘‘horseracing
+>        G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>       G:\M\15\BARR\BARR_012.XML
+>                                                7
+>                   1 antidoping and medication control program’’ means
+>                   2 the program established under section 6.
+>                   3 (9) INTERSTATE OFFTRACK WAGER .—The
+>                   4 term ‘‘interstate offtrack wager’’ has the meaning
+>                   5 given such term in section 3 of the Interstate Horse6 racing Act of 1978 (15 U.S.C. 3002).
+>                   7 (10) JOCKEY .—The term ‘‘jockey’’ means a
+>                   8 rider or driver of a covered horse in covered
+>                   9 horseraces.
+>                  10 (11) MEDICATION AND REGULATORY EX11 PERTS .—The term ‘‘medication and regulatory ex12 perts’’ means organizations or associations that are
+>                  13 actively involved in the establishment of equine
+>                  14 medication standards, or groups or associations rep15 resenting entities responsible for the current regula16 tion of the equine industry, or groups or associations
+>                  17 representing equine practitioners and veterinarians.
+>                  18 (12) OWNERS AND BREEDERS .—The term
+>                  19 ‘‘owners and breeders’’ means those persons who ei20 ther hold ownership interests in covered horses or
+>                  21 who are in the business of breeding covered horses.
+>                  22 (13) PROHIBITED METHODS .—The term ‘‘pro23 hibited methods’’ means any methods that are on
+>                  24 the list of prohibited methods identified in section
+>                  25 6(g).
+>       G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 00PO 000Frm 000Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                 8
+>                    1 (14) PROHIBITED SUBSTANCES .—The term
+>                    2 ‘‘prohibited substances’’ means any substances that
+>                    3 are on the list of prohibited substances identified in
+>                    4 section 6(g).
+>                    5 (15) PERMITTED METHODS .—The term ‘‘per6 mitted methods’’ means those methods identified in
+>                    7 the list of permitted methods identified in section
+>                    8 6(g).
+>                    9 (16) PERMITTED SUBSTANCES .—The term
+>                  10 ‘‘permitted substances’’ means those substances con11 tained in the list of permitted substances identified
+>                  12 in section 6(g).
+>                  13 (17) RACETRACK .—The term ‘‘racetrack’’
+>                  14 means an organization licensed by a State racing
+>                  15 commission to conduct covered horseraces.
+>                  16 (18) STATE RACING COMMISSION .—The term
+>                  17 ‘‘State racing commission’’ means that entity des18 ignated by State statute or, in the absence of stat19 ute, by regulation, with jurisdiction to regulate the
+>                  20 conduct of horseracing within the State.
+>                  21 (19) TAKEOUT .—The term ‘‘takeout’’ means
+>                  22 that portion of a wager that is deducted from or not
+>                  23 included in the parimutuel pool, and that is distrib24 uted to persons other than those placing wagers.
+>        G:\VHLC\052317\052317.33(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                 9
+>                    1 (20) TRAINERS .—The term ‘‘trainer’’ means an
+>                    2 individual engaged in the training of covered horses.
+>                    3 (21) VETERINARIAN .—The term ‘‘veterinarian’’
+>                    4 means a licensed veterinarian who provides veteri5 nary services to covered horses.
+>                    6 (22) WORKOUT .—The term ‘‘workout’’ means a
+>                    7 timed running of a horse over a predetermined dis8 tance not associated with a race or, with regard to
+>                    9 a horse taking part in harness or pace racing, its
+>                  10 first qualifying race.
+>                  11 SEC. 4. JURISDICTION FOR HORSERACING ANTIDOPING
+>                  12 AND MEDICATION CONTROL MATTERS.
+>                  13 (a) IN GENERAL .—Effective upon the effective date
+>                  14 of the antidoping and medication control program as set
+>                  15 forth in section 10, the Authority shall exercise authority
+>                  16 over all horseracing antidoping and medication control
+>                  17 matters consistent with the provisions of this Act.
+>                  18 (b) POWERS AND AUTHORITY .—
+>                  19 (1) IN GENERAL .—The Authority shall be es20 tablished as a private, independent, self-regulatory,
+>                  21 non-profit corporation with responsibility for devel22 oping and administering an antidoping and medica23 tion control program for covered horses, covered per24 sons, and covered horseraces consistent with the pro25 visions of this Act.
+>        G:\VHLC\052317\052317.33(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>       G:\M\15\BARR\BARR_012.XML
+>                                                10
+>                   1 (2) POWERS .—The Authority shall be vested
+>                   2 with the same antidoping and medication control
+>                   3 powers over horseracing licensees as the State racing
+>                   4 commissions have in their respective States in re5 spect to access to offices, track facilities, and other
+>                   6 places of business of licensees, search and seizure,
+>                   7 issuance and enforcement of subpoenas and sub8 poenas duces tecum, and other investigatory powers.
+>                   9 (3) CONSENT .—As a condition of eligibility to
+>                  10 participate in covered horseraces, covered persons
+>                  11 agree that they and their covered horses shall be
+>                  12 bound by the provisions of the horseracing anti13 doping and medication control program established
+>                  14 in accordance with section 6.
+>                  15 (c) EXCLUSIVE JURISDICTION AND OVERSIGHT .—
+>                  16 (1) JURISDICTION OF COMMISSION .—The Com17 mission shall have exclusive jurisdiction over all
+>                  18 horseracing antidoping and medication control mat19 ters consistent with this Act.
+>                  20 (2) ACTIVITIES OF AUTHORITY .—The Authority
+>                  21 shall engage in activities in accordance with such
+>                  22 rules as are approved pursuant to this Act.
+>                  23 (d) GUIDING PRINCIPLES .—In carrying out the pro24 visions of this Act, the Commission and the Authority
+>       G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 00PO 000Frm 000Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                  11
+>                    1 shall be guided by the findings and principles contained
+>                    2 in section 2.
+>                    3 (e) STATE COMPACT .—The jurisdiction and authority
+>                    4 granted to the Commission and the Authority under this
+>                    5 Act shall terminate if, at any time after the expiration of
+>                    6 five years following the effectiveness of the antidoping
+>                    7 and medication control program—
+>                    8 (1) an interstate compact is established that in9 cludes among its members 75 percent of the states
+>                   10 in which starts in covered races occurred during the
+>                   11 calendar year preceding the formation of the com12 pact and those States which collectively hosted not
+>                   13 less than 90 percent of the total racing starts of cov14 ered horses in covered races for the twoyear period
+>                   15 preceding the formation of the compact, and
+>                   16 (2)(A) all member States enter into and main17 tain an agreement with the Authority for services
+>                   18 consistent with the antidoping and medication con19 trol program provided for in section 6 in those
+>                   20 States, or
+>                   21 (B) the compact is drafted with public input
+>                   22 from horseracing industry constituencies (including
+>                   23 trainers, owners, the breed registry, veterinarians,
+>                   24 regulators, race tracks, testing laboratories, bettors,
+>                   25 and jockeys) by persons who conform to the conflict
+>        G:\VHLC\052317\052317.335.(660200|3)
+> VerDate 0ct 16:52 May 23Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                  12
+>                    1 of interest restrictions set forth in section 5(d); obli2 gates the compact to pay the costs of winding down
+>                    3 the Authority and transitioning its operations to the
+>                    4 compact; provides for uniform antidoping and medi5 cation control regulations among all member States,
+>                    6 consistent with section 6 and no less restrictive than
+>                    7 the Authority’s most recent antidoping and medica8 tion control program; and is governed and main9 tained by a board, which would include among its
+>                   10 members persons meeting the requirements of Sec11 tion 5(b), each board member conforming to the
+>                   12 conflict of interest restrictions set forth in section
+>                   13 5(d).
+>                   14 The consent of Congress is hereby given to inter15 state compacts meeting the requirements referenced
+>                   16 in this section 5(h).
+>                   17 SEC. 5. ESTABLISHMENT OF HORSERACING ANTIDOPING
+>                   18 AND MEDICATION CONTROL AUTHORITY.
+>                   19 (a) ESTABLISHMENT .—There is established the
+>                   20 Horseracing Antidoping and Medication Control Author21 ity, a private, independent, self-regulatory, nonprofit cor22 poration with responsibility for developing and admin23 istering an antidoping and medication control program
+>                   24 for covered horses, covered persons, and covered
+>                   25 horseraces.
+>        G:\VHLC\052317\052317.335.(660200|3)
+> VerDate 0ct 16:52 May 23Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                  13
+>                    1 (b) COMPOSITION .—The Authority shall be governed
+>                    2 by a board (in this section referred to as the ‘‘Board’’)
+>                    3 which shall be comprised of the following:
+>                    4 (1) The chief executive officer of the United
+>                    5 States AntiDoping Agency.
+>                    6 (2) Six individuals, selected by the United
+>                    7 States AntiDoping Agency from among members of
+>                    8 the board of the United States AntiDoping Agency.
+>                    9 (3) Six individuals selected by the United
+>                   10 States AntiDoping Agency—
+>                   11 (A) from among individuals who represent
+>                   12 different equine industry constituencies; and
+>                   13 (B) such that—
+>                   14 (i) at least 1 member has expertise in
+>                   15 equine antidoping and medication control
+>                   16 regulation;
+>                   17 (ii) at least 1 member has significant
+>                   18 experience as an owner of covered horses
+>                   19 or is a person with expertise in the breed20 ing of race horses;
+>                   21 (iii) at least 1 member was formerly
+>                   22 employed as an executive with a racetrack;
+>                   23 (iv) at least 1 member has a degree in
+>                   24 veterinary medicine and either has exper25 tise in equine veterinary practice with reG:\VHLC\052317\052317.335.(660200|3)
+> VerDate 0ct 16:52 May 23Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                 14
+>                    1 gard to race horses or expertise in veteri2 nary research in matters affecting race
+>                    3 horses;
+>                    4 (v) at least 1 member has expertise in
+>                    5 training covered horses; and
+>                    6 (vi) at least 1 member has expertise
+>                    7 in riding covered horses as a jockey.
+>                    8 (c) SELECTION METHODOLOGY .—In selecting indi9 viduals under subsection (b), the United States Anti10 Doping Agency shall—
+>                   11 (1) solicit lists of 2 candidates each from a
+>                   12 crosssection of equine industry representatives;
+>                   13 (2) endeavor to provide diversity among the
+>                   14 Board’s membership between persons primarily in15 volved with the 3 breeds of racehorses, to the great16 est extent practicable and consistent with the stand17 ards for Board membership set forth in this section;
+>                   18 (3) if Board positions remain unfilled from the
+>                   19 lists solicited under paragraph (1), ask organiza20 tions, groups, and associations that represent the
+>                   21 various equine constituencies set forth in subsection
+>                   22 (b)(3)(B)to submit an additional 2 candidates from
+>                   23 which the Agency may fill the remaining open Board
+>                   24 positions; and
+>        G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                 15
+>                    1 (4) if Board positions remain unfilled from the
+>                    2 second set of candidate lists, choose, in accordance
+>                    3 with subsection (b), one or more persons at large
+>                    4 with substantial experience in the equine industry
+>                    5 and meets the qualifications of the person described
+>                    6 in subsection (b) whose position on the Board re7 mains to be filled.
+>                    8 (d) CONFLICTS OF INTEREST .—To avoid any conflict
+>                    9 of interest, no member of the Board shall be—
+>                   10 (1) an individual who has a financial interest in
+>                   11 or provides goods or services to covered horses;
+>                   12 (2) an official or officer of any equine industry
+>                   13 representative or serve in any governance or policy14 making capacity for an equine industry representa15 tive; or
+>                   16 (3) an employee or have a business or commer17 cial relationship with any of the individuals or orga18 nizations described in paragraphs (1) or (2).
+>                   19 (e) TERMS ; VACANCIES .—
+>                   20 (1) STAGGERED TERMS .—The terms of mem21 bers of the Board shall be 3 years and shall be stag22 gered so that the terms of no more than 5 members
+>                   23 of the Board expire in any year.
+>        G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                16
+>                    1 (2) LIMITATION ON CONSECUTIVE TERMS .—
+>                    2 Members of the Board may serve for no more than
+>                    3 2 consecutive full terms.
+>                    4 (3) VACANCIES .—Vacancies among Board posi5 tions held by equine industry candidates shall be
+>                    6 filled pursuant to the provisions of subsection (b)
+>                    7 and any other vacancies shall be filled pursuant to
+>                    8 the provisions of the rules of the Authority. At any
+>                    9 time after the expiration of 5 years following the
+>                  10 date on which initial selection and appointment of
+>                  11 the members of the Board of the Authority is com12 pleted under section 5, the United States Anti13 Doping Agency may withdraw from participation in
+>                  14 the Authority and direct its chief executive officer
+>                  15 and board members resign their memberships on the
+>                  16 Board of the Authority. Following receipt of such
+>                  17 resignations by the Authority, the remaining mem18 bers of the Board of the Authority shall select new
+>                  19 Board members to fill the vacant positions in the
+>                  20 same manner as is provided in paragraphs (1)
+>                  21 through (4) of subsection (c).
+>                  22 (f) STANDING COMMITTEES .—
+>                  23 (1) IN GENERAL .—The Authority shall estab24 lish one or more standing advisory and technical
+>                  25 committees, which shall include qualified representaG:\VHLC\052317\052317.33(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                17
+>                    1 tives from horseracing industry constituencies, in2 cluding trainers, owners, the breed registry, veteri3 narians, regulators, race tracks, testing laboratories,
+>                    4 bettors, and jockeys.
+>                    5 (2) COMMITTEE ON DEVELOPMENT AND MAIN6 TENANCE OF THE HORSERACING ANTIDOPING AND
+>                    7 MEDICATION CONTROL PROGRAM .— The Authority
+>                    8 shall establish a standing advisory committee, which
+>                    9 shall include medication and regulatory experts and
+>                  10 other representatives from horseracing industry con11 stituencies, to provide advice and guidance to the
+>                  12 Board on the development and maintenance of the
+>                  13 horseracing antidoping and medication control pro14 gram
+>                  15 (3) CHAIRPERSON OF COMMITTEE ON PER16 MITTED AND PROHIBITED SUBSTANCES AND METH17 ODS.—The Authority shall appoint the Board mem18 ber selected pursuant to subsection (b)(3)(B)(i) to
+>                  19 serve as the chairperson of the standing advisory
+>                  20 and technical committee on permitted and prohibited
+>                  21 substances and methods.
+>                  22 (4) DUTIES .—The committees established
+>                  23 under paragraph (1) shall assist the Authority in es24 tablishing and administering the horseracing anti25 doping and medication control program.
+>        G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>       G:\M\15\BARR\BARR_012.XML
+>                                              18
+>                   1 (5) COMMITTEE CONFLICTS OF INTEREST .—No
+>                   2 standing committee members, other than those who
+>                   3 are members of the Board of the Authority or em4 ployees of the Authority, shall be subject to the con5 flict of interest provisions set forth in section 5(d).
+>                   6 (g) ADMINISTRATION OF THE AUTHORITY .—
+>                   7 (1) ADMINISTRATIVE STRUCTURE .—The Au8 thority shall establish an administrative structure
+>                   9 and employ among its staff employees with sufficient
+>                  10 experience in and knowledge of equine-related and
+>                  11 antidoping and medication control matters as ap12 propriate to carry out the responsibilities set forth in
+>                  13 this Act.
+>                  14 (2) EMPLOYEES GENERALLY .—The Board of
+>                  15 the Authority shall select the Authority’s chief exec16 utive officer. All Authority employees shall serve at
+>                  17 the pleasure the Authority’s chief executive officer.
+>                  18 All Authority employees shall be subject to the con19 flict of interest revisions applicable to members of
+>                  20 the Board of the Authority as set forth in section
+>                  21 5(d).
+>                  22 (h) OVERSIGHT OF RULES PRESCRIBED BY THE A U23 THORITY .—
+>                  24 (1) FILING REQUIREMENT .—The Authority
+>                  25 shall file with the Commission, in accordance with
+>       G:\VHLC\052317\052317.33(660200|3)
+> VerDate 0ct16:52 May 2Jkt 00PO 000Frm 000Fmt 6Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                19
+>                    1 such rules as the Commission may prescribe, copies
+>                    2 of any proposed rule or change to any rule (collec3 tively ‘‘proposed rule’’) of the Authority. Proposed
+>                    4 rule means the lists of permitted and prohibited sub5 stances; laboratory standards for accreditation and
+>                    6 protocols; schedules of sanctions for violations; proc7 esses and procedures for disciplinary hearings; and
+>                    8 formula and methodology for determining assess9 ments set out in section 11(e).
+>                  10 (2) PUBLICATION AND COMMENT .—
+>                  11 (A) IN GENERAL .—The Commission shall
+>                  12 publish the proposed rule and provide interested
+>                  13 persons an opportunity to comment.
+>                  14 (B) APPROVAL REQUIRED .—No proposed
+>                  15 rule shall take effect unless it has been ap16 proved by the Commission.
+>                  17 (3) APPROVAL .—
+>                  18 (A) PERIOD .—The Commission shall ap19 prove or disapprove a proposed rule no later
+>                  20 than 45 days after the proposed rule is pub21 lished.
+>                  22 (B) CONDITIONS .—The Commission shall
+>                  23 approve a proposed rule if it finds that such
+>                  24 proposed rule is consistent with the requireG:\VHLC\052317\052317.33(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>       G:\M\15\BARR\BARR_012.XML
+>                                              20
+>                   1 ments of this Act and the rules and regulations
+>                   2 promulgated by the Commission.
+>                   3 (i) OVERSIGHT OF FINAL DECISIONS OF THE A U4 THORITY .—
+>                   5 (1) NOTICE OF SANCTIONS .—If the Authority
+>                   6 imposes any final sanction, the Authority shall
+>                   7 promptly file notice thereof with the Commission in
+>                   8 such form as the Commission may require.
+>                   9 (2) REVIEW BY ADMINISTRATIVE LAW
+>                  10 JUDGE .—
+>                  11 (A) APPLICATION FOR REVIEW .—All final
+>                  12 sanctions of the Authority shall be subject to
+>                  13 review by an administrative law judge appointed
+>                  14 pursuant to this Act upon application by the
+>                  15 Commission or any person aggrieved by such
+>                  16 final sanction filed within 30 days after the
+>                  17 date such notice was filed with the Commission.
+>                  18 (B) APPOINTMENT OF ADMINISTRATIVE
+>                  19 LAW JUDGE .—The Commission shall appoint
+>                  20 one or more administrative law judges to serve
+>                  21 a term of seven years unless earlier removed by
+>                  22 the Commission for cause. At the time of his/
+>                  23 her appointment, the administrative law judge
+>                  24 shall have been a practicing lawyer for at least
+>                  25 ten years and shall have demonstrated expertise
+>       G:\VHLC\052317\052317.33(660200|3)
+> VerDate 0ct16:52 May 2Jkt 00PO 000Frm 000Fmt 6Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                 21
+>                    1 in matters relating to horseracing and anti2 doping and medication control.
+>                    3 (C) NATURE OF REVIEW .—In matters re4 viewed pursuant to this subsection, the adminis5 trative law judge shall conduct a hearing in a
+>                    6 manner as the Commission may specify by rule.
+>                    7 Such hearing shall conform to section 556 of
+>                    8 title 5, United States Code. The administrative
+>                    9 law judge shall determine whether—
+>                   10 (i) a person has engaged in such acts
+>                   11 or practices or has omitted such acts or
+>                   12 practices as the Authority has found the
+>                   13 person to have engaged in or omitted; and
+>                   14 (ii) such acts, practices, or omissions
+>                   15 are in violation of the Act or the anti16 doping and medication control rules ap17 proved by the Commission.
+>                   18 (D) DECISION BY ADMINISTRATIVE LAW
+>                   19 JUDGE .—The administrative law judge shall
+>                   20 render a decision within 60 days of the conclu21 sion of the hearing. Such decision may affirm,
+>                   22 reverse, modify, set aside, or remand for further
+>                   23 proceedings, in whole or in part, the final sanc24 tion of the Authority. Such decision shall con25 stitute the decision of the Commission without
+>        G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                22
+>                    1 further proceedings unless there is a timely no2 tice or application for review filed pursuant to
+>                    3 paragraph (3).
+>                    4 (3) REVIEW BY COMMISSION .—
+>                    5 (A) NOTICE OF REVIEW BY COMMISSION .—
+>                    6 The Commission may, on its own motion, re7 view any decision of the administrative law
+>                    8 judge rendered pursuant to subsection (i)(2) by
+>                    9 giving notice thereof to the Authority and inter10 ested parties within 30 days of the decision by
+>                  11 the administrative law judge.
+>                  12 (B) APPLICATION FOR REVIEW .—The Au13 thority or any person aggrieved by the decision
+>                  14 of an administrative law judge rendered pursu15 ant to subsection (i)(2) may petition the Com16 mission to review such decision by filing an ap17 plication for review within 30 days of the ren18 dering of such decision. If such application is
+>                  19 denied, the decision of the administrative law
+>                  20 judge shall constitute the decision of the Com21 mission without further proceedings. Whether
+>                  22 to grant review is within the Commission’s dis23 cretion, provided however that the Commission
+>                  24 may grant review only where the application
+>                  25 therefor demonstrates:
+>        G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                 23
+>                    1 (i) a prejudicial error was committed
+>                    2 in the conduct of the proceeding; or
+>                    3 (ii) the decision embodies an erro4 neous application of the antidoping and
+>                    5 medication rules previously approved by
+>                    6 the Commission.
+>                    7 (C) NATURE OF REVIEW .—In matters re8 viewed pursuant to this subsection, the Com9 mission may affirm, reverse, modify, set aside
+>                   10 or remand for further proceedings, in whole or
+>                   11 in part, on the basis of the record before the
+>                   12 administrative law judge and briefs submitted
+>                   13 to the Commission. The Commission shall give
+>                   14 deference to a factual finding by the adminis15 trative law judge unless such finding is clearly
+>                   16 erroneous. The Commission shall review a con17 clusion of law by the administrative law judge
+>                   18 de novo. The Commission shall not permit the
+>                   19 taking of additional evidence except upon a
+>                   20 showing that such additional evidence is mate21 rial and that such evidence could not in the ex22 ercise of reasonable diligence have been adduced
+>                   23 previously.
+>                   24 (4) STAY OF PROCEEDINGS .—Review by an ad25 ministrative law judge or the Commission pursuant
+>        G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                 24
+>                    1 to subsection (i) shall not operate as a stay of any
+>                    2 final sanction of the Authority unless the adminis3 trative law judge or Commission otherwise orders.
+>                    4 SEC. 6. HORSERACING ANTIDOPING AND MEDICATION
+>                    5 CONTROL PROGRAM REQUIRED.
+>                    6 (a) PROGRAM REQUIRED .—Not later than 1 year
+>                    7 after the date on which initial selection and appointment
+>                    8 of the members of the board of the Authority is completed
+>                    9 under section 5 and after notice to and with appropriate
+>                   10 opportunity for comment from equine industry representa11 tives and the public, the Authority shall develop and ad12 minister the horseracing antidoping and medication con13 trol program for covered horses, covered persons, and cov14 ered horseraces.
+>                   15 (b) ELEMENTS OF PROGRAM .—The horseracing anti16 doping and medication control program shall include the
+>                   17 following:
+>                   18 (1) A uniform set of antidoping and medica19 tion control rules.
+>                   20 (2) Lists of permitted and prohibited sub21 stances (which may include, without limitation,
+>                   22 drugs, medications, naturally occurring substances
+>                   23 and synthetically occurring substances) and meth24 ods.
+>        G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                  25
+>                    1 (3) A prohibition upon the administration of
+>                    2 any prohibited or otherwise permitted substance to
+>                    3 a covered horse within 24 hours of its next racing
+>                    4 start, which shall be effective not later than January
+>                    5 1, 2019.
+>                    6 (4) A process for sample collection.
+>                    7 (5) Programs for incompetition and out-of-8 competition testing (including noadvancenotice
+>                    9 testing and mandatory reporting of each horse’s lo10 cation for testing).
+>                   11 (6) Testing procedures, standards, and proto12 cols for both incompetition and out-of-competition
+>                   13 testing.
+>                   14 (7) Laboratory standards for accreditation and
+>                   15 testing requirements, procedures, and protocols.
+>                   16 (8) The undertaking of investigations at race17 track and non-racetrack facilities related to anti18 doping and medication control rule violations.
+>                   19 (9) Procedures for investigating, charging, and
+>                   20 adjudicating violations and for the enforcement of
+>                   21 sanctions for violations.
+>                   22 (10) A schedule of sanctions for violations.
+>                   23 (11) Disciplinary hearings, which may include
+>                   24 binding arbitration, sanctions and research.
+>                   25 (12) Management of violation results.
+>        G:\VHLC\052317\052317.335.(660200|3)
+> VerDate 0ct 16:52 May 23Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>       G:\M\15\BARR\BARR_012.XML
+>                                              26
+>                   1 (13) Programs relating to antidoping and
+>                   2 medication control research and education.
+>                   3 (c) APPLICABILITY TO COVERED HORSES AND P ER4 SONS.—
+>                   5 (1) N GENERAL .—The equine horseracing anti6 doping and medication control program developed
+>                   7 and administered pursuant to subsection (a) shall
+>                   8 apply to all covered horses, covered persons, and
+>                   9 covered horseraces.
+>                  10 (2) AGREEMENT BY COVERED PERSONS .—As a
+>                  11 condition of eligibility to participate in covered
+>                  12 horseraces, covered persons shall agree that they
+>                  13 and their covered horses shall be bound by the provi14 sions of the horseracing antidoping and medication
+>                  15 control program.
+>                  16 (d) LIMITATION OF AUTHORITY .—
+>                  17 (1) PROSPECTIVE APPLICATION .—The jurisdic18 tion and authority of the Commission and Authority
+>                  19 with respect to the horseracing antidoping and
+>                  20 medication control program shall be prospective
+>                  21 only.
+>                  22 (2) NO AUTHORITY OVER PREVIOUS MAT23 TERS .—Neither the Commission nor the Authority
+>                  24 shall have authority or responsibility to investigate,
+>                  25 prosecute, adjudicate, or penalize conduct occurring
+>       G:\VHLC\052317\052317.33(660200|3)
+> VerDate 0ct16:52 May 2Jkt 00PO 000Frm 000Fmt 6Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                27
+>                    1 prior to the effective date of the horseracing anti2 doping and medication control program.
+>                    3 (3) PRESERVATION OF STATE RACING COMMIS4 SION AUTHORITY OVER PREVIOUS MATTERS .—State
+>                    5 racing commissions shall retain authority over mat6 ters described in paragraph (2) until the final reso7 lution of any resulting charges.
+>                    8 (e) CONSIDERATIONS .—The horseracing antidoping
+>                    9 and medication control program shall take into consider10 ation international antidoping and medication control
+>                  11 standards, including the World AntiDoping Code and the
+>                  12 Principles of Veterinary Medical Ethics of the American
+>                  13 Veterinary Medical Association, that could be applicable
+>                  14 to the horseracing antidoping and medication control pro15 gram.
+>                  16 (f) UPDATES .—The Authority shall update the horse17 racing antidoping and medication control program from
+>                  18 time to time.
+>                  19 (g) LISTS OF PROHIBITED SUBSTANCES AND M ETH20 ODS .—
+>                  21 (1) IN GENERAL .—The Authority shall, by rule
+>                  22 develop, maintain, and publish lists of permitted and
+>                  23 prohibited substances and methods.
+>                  24 (2) CONTENTS .—The initial list, which shall be
+>                  25 subject to such future changes as the Authority conG:\VHLC\052317\052317.33(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                28
+>                    1 siders appropriate and which shall be in effect until
+>                    2 amended by the Authority, of prohibited substances
+>                    3 and methods shall include any substance or method
+>                    4 that is included on either—
+>                    5 (A) class 1, 2, 3, and 4 drugs, medications,
+>                    6 and substances in the Uniform Classification
+>                    7 Guidelines for Foreign Substances of the Asso8 ciation of Racing Commissioners International,
+>                    9 Version 13.0, revised December 2016; or
+>                  10 (B) the 2017 Prohibited List, Inter11 national Standard, of the World AntiDoping
+>                  12 Code, unless and to the extent that such a sub13 stance or method described in subparagraph
+>                  14 (A) or (B) is contained on the list of permitted
+>                  15 substances and methods identified on the Asso16 ciation of Racing Commissioners International
+>                  17 Therapeutic Medication Schedule for Horses,
+>                  18 Version 3.2, revised December 2016.
+>                  19 (3) DEADLINES FOR LISTS .—
+>                  20 (A) DEVELOPED AND PUBLISHED .—The
+>                  21 lists of permitted and prohibited substances and
+>                  22 methods, including all modifications to the ini23 tial lists, shall be developed and published not
+>                  24 later than the date that is 120 days before the
+>                  25 date on which the horseracing antidoping and
+>        G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>       G:\M\15\BARR\BARR_012.XML
+>                                               29
+>                   1 medication control programs goes into effect
+>                   2 under section 6(a).
+>                   3 (B) EFFECTIVE .—The lists described in
+>                   4 subparagraph (A) shall take effect on the date
+>                   5 that is 1 year after the date on which initial se6 lection and appointment of the members of the
+>                   7 board of the Authority is completed under sec8 tion 5.
+>                   9 (4) PERIODIC REVIEW .—
+>                  10 (A) IN GENERAL .—The inclusion of per11 mitted or prohibited substances or methods on
+>                  12 the lists shall be subject to periodic review by
+>                  13 the Authority, which shall be subject to review
+>                  14 by the Commission under section 4, for modi15 fication, substitution, addition to, or deletion
+>                  16 from the lists.
+>                  17 (B) ESTABLISHMENT OF NOTICE , CON18 SULTATION , AND COMMENT PROCESS .—The Au19 thority shall establish a notice, consultation,
+>                  20 and comment process for the periodic reviews
+>                  21 carried out under subparagraph (A) that in22 volves industry representatives and the public.
+>                  23 (h) ANTIDOPING AND MEDICATION CONTROL RULE
+>                  24 VIOLATIONS .—
+>       G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May Jkt 000PO 000Frm 00Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                 30
+>                    1 (1) IN GENERAL .—The Authority, after notice
+>                    2 to and with appropriate opportunity for comment
+>                    3 from industry representatives and the public, shall
+>                    4 establish, by rule, a list of antidoping and medica5 tion control rule violations applicable to either horses
+>                    6 or covered persons.
+>                    7 (2) ELEMENTS .—The list established under
+>                    8 paragraph (1) may include the following:
+>                    9 (A) Strict liability for the presence of a
+>                   10 prohibited substance or method in a horse’s
+>                   11 sample or the use of a prohibited substance or
+>                   12 method.
+>                   13 (B) Strict liability for the presence of a
+>                   14 permitted substance in a horse’s sample in ex15 cess of the amount allowed by the horseracing
+>                   16 antidoping and medication control program.
+>                   17 (C) Strict liability for the use of a per18 mitted method in violation of the applicable lim19 itations established within the horseracing and
+>                   20 medication control program.
+>                   21 (D) Attempted use of a prohibited sub22 stance or method.
+>                   23 (E) Possession of any prohibited substance
+>                   24 or method.
+>        G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                31
+>                    1 (F) Attempted possession of any prohibited
+>                    2 substance or method.
+>                    3 (G) Administration or attempted adminis4 tration of any prohibited substance or method.
+>                    5 (H) Refusing or failing without compelling
+>                    6 justification to submit a horse for sample collec7 tion.
+>                    8 (I) Tampering or attempted tampering
+>                    9 with any part of doping control.
+>                  10 (J) Trafficking or attempted trafficking in
+>                  11 any prohibited substance or method and com12 plicity in any antidoping and medication con13 trol rule violation.
+>                  14 (i) TESTING LABORATORIES .—
+>                  15 (1) IN GENERAL .—Not later than 1 year after
+>                  16 the date on which initial selection and appointment
+>                  17 of the members of the board of the Authority is
+>                  18 completed under section 5, the Authority shall estab19 lish by rule standards of accreditation for labora20 tories involved in the testing of samples taken from
+>                  21 covered horses, the process for achieving and main22 taining accreditation, and the standards and proto23 cols for testing of samples.
+>                  24 (2) EXTENSION OF PROVISIONAL OR INTERIM
+>                  25 ACCREDITATION .—The Authority may, by rule, exG:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>       G:\M\15\BARR\BARR_012.XML
+>                                               32
+>                   1 tend provisional or interim accreditation to labora2 tories accredited by the Racing Medication and Test3 ing Consortium, Inc.
+>                   4 (3) SELECTION OF LABORATORIES BY
+>                   5 STATES .—Each State racing commission, if it so
+>                   6 elects, shall determine the laboratory to be used in
+>                   7 testing samples taken within its jurisdiction, pro8 vided that the laboratory selected has been accred9 ited by, and complies with the testing protocols and
+>                  10 standards established by, the Authority.
+>                  11 (4) SELECTION OF LABORATORIES BY THE AU12 THORITY .—If a State racing commission does not
+>                  13 elect to determine the laboratory to be used in test14 ing samples taken within its jurisdiction, the Au15 thority shall by rule, make the selection.
+>                  16 (j) RESULTS MANAGEMENT AND DISCIPLINARY
+>                  17 PROCESS .—
+>                  18 (1) IN GENERAL .—Not later than 1 year after
+>                  19 the date on which initial selection and appointment
+>                  20 of the members of the board of the Authority is
+>                  21 completed under section 5, the Authority, after no22 tice to and with appropriate opportunity for com23 ment from equine industry representatives and the
+>                  24 public, shall promulgate rules for antidoping and
+>                  25 medication control results management and the disG:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May Jkt 000PO 000Frm 00Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                 33
+>                    1 ciplinary process for antidoping and medication con2 trol rule violation results management, including the
+>                    3 following:
+>                    4 (A) Provisions for notification of anti5 doping and medication control rule violations.
+>                    6 (B) Hearing procedures.
+>                    7 (C) Burden of proof.
+>                    8 (D) Presumptions.
+>                    9 (E) Evidentiary rules.
+>                   10 (F) Appeals.
+>                   11 (G) Guidelines for confidentiality and pub12 lic reporting of decisions.
+>                   13 (2) DUE PROCESS .—The rules promulgated
+>                   14 under paragraph (1) shall provide for adequate due
+>                   15 process, including impartial hearing officers or tribu16 nals commensurate with the seriousness of the al17 leged antidoping and medication control rule viola18 tion and the possible sanctions for such violation.
+>                   19 (k) SANCTIONS .—
+>                   20 (1) IN GENERAL .—The Authority, after notice
+>                   21 to and with appropriate opportunity for comment
+>                   22 from industry representatives and the public, shall
+>                   23 promulgate uniform rules imposing sanctions against
+>                   24 covered persons or covered horses for antidoping
+>                   25 and medication control rule violations.
+>        G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                  34
+>                    1 (2) REQUIREMENTS .—The rules promulgated
+>                    2 under paragraph (1) shall—
+>                    3 (A) take into account the unique aspects of
+>                    4 horseracing;
+>                    5 (B) be designed to ensure fair and trans6 parent horseraces; and
+>                    7 (C) deter the commission of antidoping
+>                    8 and medication control rule violations.
+>                    9 (3) SEVERITY .—The rules promulgated under
+>                   10 paragraph (1) shall impose sanctions up to and in11 cluding lifetime bans from horseracing, disgorgement
+>                   12 of purses, monetary fines and penalties and changes
+>                   13 to the order of finish in covered races. The sanc14 tioning rules shall also include opportunities for
+>                   15 antidoping and medication control rule violators to
+>                   16 reduce the otherwise applicable sanctions generally
+>                   17 comparable to those opportunities afforded by the
+>                   18 United States AntiDoping Agency’s Protocol for
+>                   19 Olympic Movement Testing.
+>                   20 (l) ENFORCEMENT .—In addition to any penalties or
+>                   21 sanctions imposed in accordance with the provisions of the
+>                   22 horseracing antidoping and medication control program,
+>                   23 whenever it shall appear to the Authority that one has
+>                   24 engaged, is engaged or is about to engage in acts or prac25 tices constituting a violation of any provision of this Act
+>        G:\VHLC\052317\052317.335.(660200|3)
+> VerDate 0ct 16:52 May 23Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                35
+>                    1 or the horseracing antidoping and medication control pro2 gram, the Authority may commence a civil action against
+>                    3 such covered person or any racetrack in the proper district
+>                    4 court of the United States, the United States District
+>                    5 Court for the District of Columbia, or the United States
+>                    6 courts of any territory or other place subject to the juris7 diction of the United States, to enjoin such acts or prac8 tices, to enforce any fines, penalties or other sanctions im9 posed in accordance with the provisions of the antidoping
+>                  10 and medication control program and for all other relief
+>                  11 to which the Authority may be entitled. Upon a proper
+>                  12 showing, a permanent or temporary injunction or restrain13 ing order shall be granted without bond.
+>                  14 (m) PERIODIC ASSESSMENTS BY COMPTROLLER
+>                  15 GENERAL OF THE UNITED STATES .—
+>                  16 (1) ASSESSMENTS .—Following the third anni17 versary of the date on which the antidoping and
+>                  18 medication control program identified in section 6
+>                  19 takes effect and not less frequently than once every
+>                  20 4 years thereafter, the Comptroller General of the
+>                  21 United States shall review and analyze results of the
+>                  22 such program in comparison to the results of similar
+>                  23 equine antidoping and medication control programs
+>                  24 in major foreign racing jurisdictions.
+>        G:\VHLC\052317\052317.33(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                 36
+>                    1 (2) GATHERING ASSESSMENTS FROM INDUSTRY
+>                    2 REPRESENTATIVES .—In conjunction with review and
+>                    3 analysis required by paragraph (1), the Comptroller
+>                    4 General may invite persons representing the signifi5 cant facets of the horseracing industry, including as6 sociations and individuals representing racetracks,
+>                    7 breeders, owners, trainers, veterinarians, jockeys,
+>                    8 bettors, equine researchers, and organizations dedi9 cated to the welfare and safety of covered horses, to
+>                   10 collectively meet with and provide testimony to the
+>                   11 Comptroller General for the purpose of gathering
+>                   12 further assessments on the performance and effec13 tiveness of the Authority and the antidoping and
+>                   14 medication control program.
+>                   15 (3) REPORTS .—Upon the conclusion of a review
+>                   16 and analysis under paragraph (1), the Comptroller
+>                   17 General shall submit to Congress a report on such
+>                   18 review and analysis with an assessment of the per19 formance of the Authority and the Commission con20 cerning their effectiveness as an antidoping and
+>                   21 medication control organization and the efficiency of
+>                   22 the horseracing antidoping and medication control
+>                   23 program.
+>        G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                37
+>                    1 SEC. 7. OTHER LAWS UNAFFECTED.
+>                    2 This Act shall not be construed to modify, impair,
+>                    3 or restrict the operation or effectiveness of State or Fed4 eral statutes and regulations directed at—
+>                    5 (1) any of the consents, approvals, or agree6 ments required by the Interstate Horseracing Act of
+>                    7 1978;
+>                    8 (2) criminal conduct by covered persons and
+>                    9 others;
+>                  10 (3) horseracing matters unrelated to anti11 doping and medication control as addressed in this
+>                  12 Act; or
+>                  13 (4) the use of medication in human participants
+>                  14 in covered races.
+>                  15 SEC. 8. STATE DELEGATION; DUTY OF COOPERATION.
+>                  16 (a) TATE DELEGATION .—
+>                  17 (1) IN GENERAL .—The Authority may enter
+>                  18 into agreements with one or more State racing com19 missions to implement within their respective juris20 dictions any of the components of the horseracing
+>                  21 antidoping and medication control program estab22 lished by the Authority if the Authority determines
+>                  23 that a particular State racing commission will be
+>                  24 able to implement a component of the horseracing
+>                  25 antidoping and medication control program in acG:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                 38
+>                    1 cordance with the standards and requirements estab2 lished by the Authority.
+>                    3 (2) DURATION OF AGREEMENTS .—Any agree4 ment entered into under paragraph (1) shall remain
+>                    5 in effect as long as the Authority determines the ap6 plicable racing commission to be implementing the
+>                    7 components of the medication regulation program
+>                    8 covered by the agreement in compliance with the
+>                    9 standards and requirements established by the Au10 thority.
+>                   11 (b) DUTY OF COOPERATION .—Where conduct by any
+>                   12 person subject to the horseracing antidoping and medica13 tion control program may involve both an antidoping and
+>                   14 medication control rule violation and violation of State or
+>                   15 Federal law, this Act imposes a duty to cooperate and
+>                   16 share information between the Authority and State and
+>                   17 Federal law enforcement authorities.
+>                   18 SEC. 9. RULES OF CONSTRUCTION.
+>                   19 The Authority shall not have the power to impose
+>                   20 criminal sanctions and shall not be considered nor con21 strued to be an agent of, or an actor on behalf of, the
+>                   22 United States Government or any State.
+>                   23 SEC. 10. EFFECTIVE DATE.
+>                   24 (a) IN GENERAL .—The horseracing antidoping and
+>                   25 medication control program shall take effect not later than
+>        G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>       G:\M\15\BARR\BARR_012.XML
+>                                                39
+>                   1 the date that is 1 year after the date on which initial selec2 tion and appointment of the members of the board of the
+>                   3 Authority is completed under section 5.
+>                   4 (b) TRANSITION .—The Authority and State regu5 latory authorities shall work cooperatively to develop tran6 sition rules with respect to doping conduct, sanctions, and
+>                   7 investigations arising prior to the effective date of the
+>                   8 horseracing antidoping and medication control program.
+>                   9 SEC. 11. FUNDING.
+>                  10 (a) RULE OF CONSTRUCTION .—Nothing in this Act
+>                  11 shall be construed to require—
+>                  12 (1) the appropriation of any amount to the Au13 thority; or
+>                  14 (2) the Federal Government to guarantee the
+>                  15 debts of the Authority.
+>                  16 (b) PROHIBITION ON INCREASED TAKEOUT .—No
+>                  17 State racing commission may increase the takeout of any
+>                  18 racetrack to collect fees to fund the Authority.
+>                  19 (c) NITIAL FUNDING .—
+>                  20 (1) IN GENERAL .—Initial funding to establish
+>                  21 the Authority and underwrite its operations prior to
+>                  22 the effective date shall be provided by loans obtained
+>                  23 by and donations made to the Authority.
+>                  24 (2) BORROWING AND ACCEPTING DONATIONS .—
+>                  25 The Authority may borrow money and accept private
+>       G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 00PO 000Frm 000Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                40
+>                    1 donations and contributions toward the funding of
+>                    2 its operations.
+>                    3 (3) ANNUAL CALCULATION OF AMOUNTS RE4 QUIRED .—
+>                    5 (A) IN GENERAL .—Not later than the date
+>                    6 that is 90 days before the date set forth in sec7 tion 10(a) and not later than November 1 of
+>                    8 each year thereafter, the Authority shall deter9 mine and provide to each State racing commis10 sion the estimated amount required per racing
+>                  11 starter to fund the horseracing antidoping and
+>                  12 medication control program for the coming year
+>                  13 and to liquidate any loans or funding shortfall
+>                  14 in the current year and any prior years.
+>                  15 (B) BASIS OF CALCULATION .—The amount
+>                  16 calculated under subparagraph (A) shall be
+>                  17 based upon the annual budget of the Authority
+>                  18 for the succeeding year, as approved by the
+>                  19 board of the Authority.
+>                  20 (C) REQUIREMENTS REGARDING BUDGETS
+>                  21 OF AUTHORITY .—The Authority’s initial budget
+>                  22 shall require the approval of \2/3\ of its board
+>                  23 and any subsequent budget that exceeds the
+>                  24 preceding year’s budget by more than 5 percent
+>        G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May 2Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>       G:\M\15\BARR\BARR_012.XML
+>                                               41
+>                   1 shall also require the approval of \2/3\ of the
+>                   2 board of the Authority.
+>                   3 (d) ASSESSMENT AND COLLECTION OF FEES BY
+>                   4 STATES .—
+>                   5 (1) NOTICE OF ELECTION .—Any State racing
+>                   6 commission that elects to remit fees pursuant to this
+>                   7 subsection shall notify the Authority of such election
+>                   8 at least 60 days prior to the adoption of the horse9 racing antidoping and medication control program.
+>                  10 (2) REQUIREMENT TO REMIT FEES .—Once a
+>                  11 State racing commission makes such notification,
+>                  12 the election shall remain in effect and the State rac13 ing commission shall be required to remit fees pur14 suant to this subsection.
+>                  15 (3) WITHDRAWAL OF ELECTION .—A State rac16 ing commission may withdraw its election after pro17 viding notice to the Authority of its intent to cease
+>                  18 remitting fees pursuant to this subsection not later
+>                  19 than 1 year before ceasing such remitting.
+>                  20 (4) SCHEDULE OF REMITTANCE .—Each State
+>                  21 racing commission that elects to remit fees shall
+>                  22 remit to the Authority on or before the 20th day of
+>                  23 each calendar month an amount equal to the appli24 cable fee per racing start multiplied by the number
+>                  25 of racing starts in the State in the previous month.
+>       G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May Jkt 000PO 000Frm 00Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>       G:\M\15\BARR\BARR_012.XML
+>                                               42
+>                   1 (5) DETERMINATIONS OF METHODS .—Each
+>                   2 State racing commission shall determine, subject to
+>                   3 the applicable laws and regulations of the State, the
+>                   4 method by which the requisite amount shall be allo5 cated, assessed, and collected, provided that in no
+>                   6 event shall the funds be obtained by means of an in7 crease in the takeout.
+>                   8 (e) ASSESSMENT AND COLLECTION OF FEES BY THE
+>                   9 AUTHORITY .—
+>                  10 (1) CALCULATION .—In the event a State racing
+>                  11 commission does not elect to remit fees pursuant to
+>                  12 subsection (d) or withdraws its election under such
+>                  13 subsection, the Authority shall calculate each month
+>                  14 the applicable fee per racing start multiplied by the
+>                  15 number of racing starts in the State in the previous
+>                  16 month.
+>                  17 (2) ALLOCATION .—The Authority shall equi18 tably allocate that amount calculated under para19 graph (1), among those involved in covered
+>                  20 horseraces pursuant to such rules as the Authority
+>                  21 may promulgate, subject to review by the Commis22 sion under section 4.
+>                  23 (3) ASSESSMENT .—The Authority shall assess a
+>                  24 fee equal to the allocation made under paragraph
+>                  25 (2), provided that the fee shall not be in the form
+>       G:\VHLC\052317\052317.335(660200|3)
+> VerDate 0ct 16:52 May Jkt 000PO 000Frm 00Fmt 66Sfmt 6C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM
+>        G:\M\15\BARR\BARR_012.XML
+>                                                      43
+>                      1 of an increase of the takeout, and shall collect such
+>                      2 fee according to such rules as the Authority may
+>                      3 promulgate, subject to such Commission review.
+>                      4 (4) LIMITATION .—A State racing commission
+>                      5 that does not elect to remit fees pursuant to sub6 section (d) or that withdraws its election under such
+>                      7 subsection shall not impose or collect from any per8 son a fee or tax relating to antidoping and medica9 tion control matters for covered horseraces.
+>        G:\VHLC\052317\052317.335.xm(660200|3)
+> VerDate 0ct 016:52 May 23,Jkt 000PO 0000Frm 0004Fmt 66Sfmt 62C:\USERS\BJYOUNG\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\BARR_012.XM

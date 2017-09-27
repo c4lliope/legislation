@@ -1,0 +1,923 @@
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>           114TH CONGRESS
+>               2D SESSION S.ll
+>                   To improve surface transportation and maritime security.
+>                IN THE SENATE OF THE UNITED STATES
+>                               llllllllll
+>           Mr. THUNE (for himself, ELSON, Mrs. ISCHE, and Mr.OOKER) introduced the following bill; which was read twice and referred to the Committee on llllllllll
+>                                A BILL
+>             To improve surface transportation and maritime security.
+>            1 Be it enacted by the Senate and House of Representa2 tives of the United States of America in Congress assembled,
+>            3 SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+>            4 (a) SHORT TITLE.—This Act may be cited as the
+>            5 ‘‘Surface Transportation and Maritime Security Act’’.
+>            6 (b) TABLE OF CONTENTS .—The table of contents of
+>            7 this Act is as follows:
+>               Sec. 1. Short title; table of contents.
+>               Sec. 2. Definitions.
+>               Sec. 3. Surface transportation and maritime threat assessment and implementation of risk-based strategy.
+>               Sec. 4. Risk-based budgeting and resource allocation.
+>               Sec. 5. Surface transportation and maritime security management review.
+>               Sec. 6. Transparency.
+>               Sec. 7. TSA counterterrorism asset deployment.
+>               Sec. 8. Surface Transportation and Maritime Security Advisory Committee.
+> September 21, 2016 (5:31 p.m.)
+>            S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                            2
+>                 Sec. 9. Review of explosives detection canine team program.
+>                 Sec. 10. Explosive detection technology.
+>                 Sec. 11. Expansion of national explosives detection canine team program.
+>                 Sec. 12. Study on security standards and practices for mass transit and passenger rail.
+>                 Sec. 13. Rail security services.
+>                 Sec. 14. Systemwide Amtrak security upgrades.
+>                 Sec. 15. Passenger rail vetting.
+>                 Sec. 16. Surface transportation inspectors.
+>                 Sec. 17. Transportation Worker Identification Credential improvements and assessment.
+>                 Sec. 18. Military priority for TWIC applications.
+>                 Sec. 19. Voluntary adoption of Transportation Worker Identification Credential.
+>                 Sec. 20. Cargo container scanning technology review.
+>                 Sec. 21. Background records checks for issuance of hazmat licenses.
+>                 Sec. 22. Repeal of biennial reporting requirement for the Government Accountability Office relating to the Transportation Security Information sharing plan.
+>              1 SEC. 2. DEFINITIONS.
+>              2 In this Act:
+>              3 (1) ADMINISTRATOR .—The term ‘‘Adminis4 trator’’ means the Administrator of the Transpor5 tation Security Administration.
+>              6 (2) DEPARTMENT .—The term ‘‘Department’’
+>              7 means the Department of Homeland Security.
+>              8 (3) SECRETARY .—The term ‘‘Secretary’’ means
+>              9 the Secretary of Homeland Security.
+>            10 SEC. 3. SURFACE TRANSPORTATION AND MARITIME
+>            11 THREAT ASSESSMENT AND IMPLEMENTA12 TION OF RISK-BASED STRATEGY.
+>            13 (a) THREAT ASSESSMENT .—Not later than 90 days
+>            14 after the date of enactment of this Act, the Administrator
+>            15 shall complete an assessment of the threats posed to sur16 face transportation and maritime systems.
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                        3
+>            1 (b) CONSIDERATIONS .—In conducting the assess2 ment under subsection (a), the Administrator shall con3 sider—
+>            4 (1) appropriate intelligence;
+>            5 (2) security breaches and attacks at domestic
+>            6 and international transportation facilities;
+>            7 (3) the vulnerabilities associated with specific
+>            8 modes of transportation;
+>            9 (4) current and prospective allocation of agency
+>           10 and stakeholder resources to mitigate threats;
+>           11 (5) the systems and practices designed to miti12 gate the vulnerabilities identified in paragraph (3);
+>           13 and
+>           14 (6) the vetting and security training of—
+>           15 (A) frontline employees in surface trans16 portation and maritime systems; and
+>           17 (B) other individuals with access to sen18 sitive or secure areas of transportation net19 works.
+>           20 (c) MPLEMENTATION OF RISK-BASED STRATEGY .—
+>           21 Using the results of the assessment completed under sub22 section (a), the Administrator shall—
+>           23 (1) develop and implement a crosscutting, risk24 based security strategy that—
+> September 21, 2016 (5:31 p.m.)
+>            S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                         4
+>             1 (A) encompasses all transportation modes;
+>             2 and
+>             3 (B) establishes priorities, milestones, and
+>             4 performance metrics to measure the effective5 ness of the strategy;
+>             6 (2) identify the objectives of, and evaluate the
+>             7 efficacy of, existing surface transportation and mari8 time security programs, policies, and initiatives;
+>             9 (3) identify any additional risk-based programs
+>           10 that the Administrator considers necessary to ad11 dress the threats and vulnerabilities identified in the
+>           12 assessment;
+>           13 (4) determine the extent to which stakeholder
+>           14 security programs address the threats and
+>           15 vulnerabilities identified in the assessment, including
+>           16 any security vulnerabilities in existing programs;
+>           17 (5) provide guidelines for aligning resources
+>           18 with risk;
+>           19 (6) develop planning processes to inform re20 source allocation;
+>           21 (7) review current practices, including specific
+>           22 processes, for sharing relevant and timely intel23 ligence threat information with appropriate stake24 holders;
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                       5
+>            1 (8) in consultation with the Secretary, the Sec2 retary of Transportation, and the Commandant of
+>            3 the Coast Guard, adjust and update, as appropriate,
+>            4 the National Infrastructure Protection Plan, the
+>            5 modal annexes to such plan, and the Department’s
+>            6 surface transportation and maritime security pro7 grams, policies, and initiatives;
+>            8 (9) modify the risk-based priorities and re9 source allocation, in accordance with section 4(c),
+>           10 for the Transportation Security Administration; and
+>           11 (10) develop a management oversight strategy
+>           12 that identifies the parties responsible for the imple13 mentation, management, and oversight of the secu14 rity strategy under paragraph (1).
+>           15 (d) REPORTS TO CONGRESS .—
+>           16 (1) IN GENERAL .—Not later than 180 days
+>           17 after the completion of the assessment under sub18 section (a), the Administrator shall submit a report
+>           19 to the Committee on Commerce, Science, and Trans20 portation of the Senate and the Committee on
+>           21 Homeland Security of the House of Representatives
+>           22 that—
+>           23 (A) describes the findings of the assess24 ment;
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                        6
+>            1 (B) includes a plan for implementing the
+>            2 security strategy; and
+>            3 (C) includes the management oversight
+>            4 strategy under subsection (c)(10).
+>            5 (2) UPDATES .—The Administrator shall pro6 vide periodic updates to the report submitted under
+>            7 paragraph (1) that describe the surface transpor8 tation and maritime threat environment, based on
+>            9 new information obtained by the Administrator.
+>           10 (e) THREAT UPDATES .—Not less frequently than
+>           11 semiannually, the Administrator shall report to or brief
+>           12 the Committee on Commerce, Science, and Transportation
+>           13 of the Senate and the Committee on Homeland Security
+>           14 of the House of Representatives regarding threats to sur15 face transportation and maritime security.
+>           16 SEC. 4. RISK-BASED BUDGETING AND RESOURCE ALLOCA17 TION.
+>           18 (a) REPORT .—In conjunction with the submission of
+>           19 the Department’s annual budget request to the Office of
+>           20 Management and Budget, the Administrator shall submit
+>           21 a report to the Committee on Commerce, Science, and
+>           22 Transportation of the Senate and the Committee on
+>           23 Homeland Security of the House of Representatives that
+>           24 describes a risk-based resource allocation plan for the surSeptember 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                        7
+>            1 face transportation and maritime sectors within and
+>            2 across modes that—
+>            3 (1) reflects the risk-based priorities identified
+>            4 under section 3(c); and
+>            5 (2) is organized by appropriations account, pro6 gram, project, and initiative.
+>            7 (b) BUDGET TRANSPARENCY .—In submitting the an8 nual budget of the United States Government under sec9 tion 1105 of title 31, United States Code, the President
+>           10 shall clearly distinguish the resources requested for sur11 face transportation and maritime security from the re12 sources requested for aviation security.
+>           13 (c) ESOURCE REALLOCATION .—
+>           14 (1) IN GENERAL .—Not later than 15 days after
+>           15 the date on which the Administration allocates any
+>           16 resources or personnel, including personnel sharing,
+>           17 detailing, or assignment, or the use of facilities,
+>           18 technology systems, or vetting resources, for a non-19 transportation security purpose or event, the Sec20 retary shall provide the notification described in
+>           21 paragraph (2) to the Committee on Commerce,
+>           22 Science, and Transportation of the Senate and the
+>           23 Committee on Homeland Security of the House of
+>           24 Representatives.
+> September 21, 2016 (5:31 p.m.)
+>            S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                         8
+>             1 (2) NOTIFICATION .—A notification described in
+>             2 this paragraph shall include—
+>             3 (A) the reason for and a justification of
+>             4 the resource or personnel allocation;
+>             5 (B) the expected end date of the resource
+>             6 or personnel allocation; and
+>             7 (C) the projected cost to the agency of the
+>             8 personnel or resource allocation.
+>             9 SEC. 5. SURFACE TRANSPORTATION AND MARITIME SECU10 RITY MANAGEMENT REVIEW.
+>           11 (a) REPORT .—Not later than 1 year after the date
+>           12 of enactment of this Act, the Comptroller General of the
+>           13 United States shall submit a report to Congress on the
+>           14 staffing, resource and personnel allocation, oversight
+>           15 strategy, and management of the Transportation Security
+>           16 Administration’s surface transportation and maritime se17 curity programs.
+>            18 (b) CONTENTS .—The report required under sub19 section (a) shall include information on the coordination
+>            20 between the Transportation Security Administration,
+>            21 other Federal agencies, and relevant stakeholders.
+>            22 (c) CONSIDERATIONS .—The report required under
+>            23 subsection (a) shall review the coordination of leadership,
+>            24 planning, policy, and implementation of security programs
+>            25 relating to surface transportation and maritime security.
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                        9
+>            1 SEC. 6. TRANSPARENCY.
+>            2 (a) N GENERAL .—Not later than 180 days after the
+>            3 date of enactment of this Act, and every 180 days there4 after until final rules have been issued for all of the re5 quirements described in paragraphs (1), (2), and (3), the
+>            6 Administrator shall publish on a public website informa7 tion regarding the status of—
+>            8 (1) regulations required under titles XIII, XIV,
+>            9 and XV of the Implementing Recommendations of
+>           10 the 9/11 Commission Act of 2007 (6 U.S.C. 1111 et
+>           11 seq.) and under this Act that have not been fully im12 plemented or for which no interim final rule or di13 rect final rule has been issued;
+>           14 (2) regulations relating to surface transpor15 tation security (other than a regulation described
+>           16 under paragraph (1)) that was required by law to be
+>           17 issued at least 2 years before the initial date of pub18 lication under this subsection, but has not been
+>           19 issued; and
+>           20 (3) other transportation security rulemakings
+>           21 categorized as significant.
+>           22 (b) CONTENTS .—The information published under
+>           23 subsection (a) shall include—
+>           24 (1) a description of the work plan for each out25 standing regulation;
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                       10
+>            1 (2) an updated rulemaking schedule for each
+>            2 outstanding regulation;
+>            3 (3) current staff allocations;
+>            4 (4) current data collection or research relating
+>            5 to the development of the rulemaking;
+>            6 (5) current collaborative efforts, if any, with se7 curity experts, advisory committees, and other stake8 holders;
+>            9 (6) identified resource constraints impacting the
+>           10 rulemaking process for the outstanding regulation;
+>           11 and
+>           12 (7) other relevant details associated with the
+>           13 development of the rulemaking that impact the
+>           14 progress of the rulemaking.
+>           15 (c) NSPECTOR GENERAL REVIEW .—Not later than
+>           16 180 days after the date of enactment of this Act, and
+>           17 every 2 years thereafter until all of the requirements under
+>           18 titles XIII, XIV, and XV of the Implementing Rec19 ommendations of the 9/11 Commission Act of 2007 (6
+>           20 U.S.C. 1111 et seq.) and under this Act have been fully
+>           21 implemented, the Inspector General of the Department
+>           22 shall submit a report to the Committee on Commerce,
+>           23 Science, and Transportation of the Senate and the Com24 mittee on Homeland Security and the Committee on
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                        11
+>            1 Transportation and Infrastructure of the House of Rep2 resentatives that—
+>            3 (1) identifies the requirements under such titles
+>            4 and under this Act that have not been fully imple5 mented;
+>            6 (2) considers whether additional regulatory ac7 tion is necessary; and
+>            8 (3) recommends any regulatory requirements
+>            9 that should be modified or repealed.
+>           10 SEC. 7. TSA COUNTERTERRORISM ASSET DEPLOYMENT.
+>           11 (a) IN GENERAL .—If the Transportation Security
+>           12 Administration deploys any counterterrorism personnel or
+>           13 resource, such as explosive detection sweeps, random bag
+>           14 inspections, or patrols by Visible Intermodal Protection
+>           15 and Response teams, to enhance security at a transpor16 tation system or transportation facility for a period of not
+>           17 less than 180 days, the Administrator shall provide suffi18 cient notification to the system operator not less than 14
+>           19 days prior to terminating the deployment.
+>           20 (b) SUFFICIENT NOTIFICATIONS .—In determining
+>           21 whether notification under subsection (a) is sufficient, the
+>           22 Administrator shall consider whether the transportation
+>           23 system, transportation facility, or operator thereof has
+>           24 sufficient resources to replace the asset and maintain an
+>           25 appropriate level of security.
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                       12
+>            1 (c) XCEPTION .—This section shall not apply if—
+>            2 (1) the Administrator determines there is an
+>            3 urgent security need for the personnel or resource
+>            4 described in subsection (a); and
+>            5 (2) notifies the Committee on Commerce,
+>            6 Science, and Transportation of the Senate and the
+>            7 Committee on Homeland Security of the House of
+>            8 Representatives.
+>            9 SEC. 8. SURFACE TRANSPORTATION AND MARITIME SECU10 RITY ADVISORY COMMITTEE.
+>           11 (a) IN GENERAL .—Subtitle A of title IV of the
+>           12 Homeland Security Act of 2002 (6 U.S.C. 201 et seq.)
+>           13 is amended by adding at the end the following:
+>           14 ‘‘SEC. 404. SURFACE TRANSPORTATION AND MARITIME SE15 CURITY ADVISORY COMMITTEE.
+>           16 ‘‘(a) STABLISHMENT .—The Administrator of the
+>           17 Transportation Security Administration (referred to in
+>           18 this section as ‘Administrator’) shall establish within the
+>           19 Transportation Security Administration the Surface
+>           20 Transportation and Maritime Security Advisory Com21 mittee (referred to in this section as ‘Advisory Com22 mittee’).
+>           23 ‘‘(b) UTIES.—
+>           24 ‘‘(1) N GENERAL .—The Administrator, while
+>           25 adhering to appropriate security guidelines, shall
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                        13
+>            1 consult with the Advisory Committee, as appro2 priate, on surface transportation and maritime secu3 rity matters, including the development, refinement,
+>            4 and implementation of policies, programs, initiatives,
+>            5 rulemakings, and security directives pertaining to
+>            6 surface transportation and maritime security.
+>            7 ‘‘(2) RECOMMENDATIONS .—The Advisory Com8 mittee shall develop recommendations for improve9 ments to surface transportation and maritime secu10 rity.
+>           11 ‘‘(3) PERIODIC REPORTS .—The Advisory Com12 mittee shall periodically submit reports to the Ad13 ministrator on matters requested by the Adminis14 trator or by a majority of the members of the Advi15 sory Committee.
+>           16 ‘‘(4) ANNUAL REPORT .—
+>           17 ‘‘(A) SUBMISSION .—The Advisory Com18 mittee shall submit an annual report to the Ad19 ministrator, the Committee on Commerce,
+>           20 Science, and Transportation of the Senate and
+>           21 the Committee on Homeland Security of the
+>           22 House of Representatives that provides infor23 mation on the activities, findings, and rec24 ommendations of the Advisory Committee dur25 ing the preceding year.
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                       14
+>            1 ‘‘(B) PUBLICATION .—Not later than 6
+>            2 months after each date on which the Adminis3 trator receives an annual report under subpara4 graph (A), the Administrator shall publish a
+>            5 public version of the report, in accordance with
+>            6 section 552b of title 5, United States Code.
+>            7 ‘‘(5) EEDBACK .—Not later than 90 days after
+>            8 the date on which the Administrator receives rec9 ommendations from the Advisory Committee under
+>           10 paragraph (4)(A), the Administrator shall submit to
+>           11 the Advisory Committee—
+>           12 ‘‘(A) written feedback about each of the
+>           13 recommendations;
+>           14 ‘‘(B) an action plan to implement those
+>           15 recommendations with which the Administrator
+>           16 concurs; and
+>           17 ‘‘(C) a justification for each recommenda18 tion the Administrator rejects.
+>           19 ‘‘(6) CONGRESSIONAL NOTIFICATION .—Not
+>           20 later than 30 days after providing written feedback
+>           21 to the Advisory Committee under paragraph (5), the
+>           22 Administrator shall—
+>           23 ‘‘(A) notify the Committee on Commerce,
+>           24 Science, and Transportation of the Senate and
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                       15
+>            1 the Committee on Homeland Security of the
+>            2 House of Representatives of such feedback; and
+>            3 ‘‘(B) provide such committees with a brief4 ing upon request.
+>            5 ‘‘(7) UPDATES TO CONGRESS .—Not later than
+>            6 90 days after the date of enactment of the Surface
+>            7 Transportation and Maritime Security Act, and
+>            8 quarterly thereafter until a recommendation is
+>            9 closed, the Administrator shall submit a report to
+>           10 Congress or post on a public website an update on
+>           11 the status of recommendations included in the report
+>           12 under paragraph (4).
+>           13 ‘‘(8) WEBSITE .—The Administrator shall main14 tain a public website that—
+>           15 ‘‘(A) lists the members of the Advisory
+>           16 Committee;
+>           17 ‘‘(B) provides the contact information for
+>           18 the Advisory Committee; and
+>           19 ‘‘(C) provides minutes of meetings, rec20 ommendations, and other relevant documents,
+>           21 as appropriate.
+>           22 ‘‘(c) EMBERSHIP .—
+>           23 ‘‘(1) COMPOSITION .—The Advisory Committee
+>           24 shall be composed of—
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                        16
+>             1 ‘‘(A) voting members appointed by the Ad2 ministrator under paragraph (2); and
+>             3 ‘‘(B) nonvoting members, serving in an ad4 visory capacity, who shall be designated by—
+>             5 ‘‘(i) the Transportation Security Ad6 ministration;
+>             7 ‘‘(ii) the Department of Transpor8 tation;
+>             9 ‘‘(iii) the Coast Guard; and
+>           10 ‘‘(iv) such other Federal department
+>           11 or agency with regulatory authority over a
+>           12 mode of surface transportation or maritime
+>           13 as the Administrator considers appro14 priate.
+>           15 ‘‘(2) PPOINTMENT .—The Administrator shall
+>           16 appoint voting members from among stakeholders
+>           17 representing passenger rail, freight rail, mass tran18 sit, pipelines, highways, over-the-road bus and truck19 ing, and port and maritime industries, including rep20 resentatives from—
+>           21 ‘‘(A) associations representing such surface
+>           22 transportation or maritime modes;
+>           23 ‘‘(B) labor organizations representing such
+>           24 surface transportation or maritime modes;
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                       17
+>            1 ‘‘(C) groups representing the users of such
+>            2 surface transportation or maritime modes, in3 cluding shippers and asset manufacturers, as
+>            4 appropriate;
+>            5 ‘‘(D) relevant law enforcement, first re6 sponders, and security experts; and
+>            7 ‘‘(E) such other groups as the Adminis8 trator considers appropriate.
+>            9 ‘‘(3) ERM OF OFFICE .—
+>           10 ‘‘(A) TERMS .—
+>           11 ‘‘(i)N GENERAL .—The term of each
+>           12 voting member of the Advisory Committee
+>           13 shall be 2 years, but a voting member may
+>           14 continue to serve until the Administrator
+>           15 appoints a successor.
+>           16 ‘‘(ii) REAPPOINTMENT .—A voting
+>           17 member of the Advisory Committee may be
+>           18 reappointed.
+>           19 ‘‘(B) REMOVAL .—The Administrator may
+>           20 review the participation of a member of the Ad21 visory Committee and remove such member for
+>           22 cause at any time.
+>           23 ‘‘(4) PROHIBITION ON COMPENSATION .—The
+>           24 members of the Advisory Committee shall not reSeptember 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                       18
+>            1 ceive any compensation from the Government by
+>            2 reason of their service on the Advisory Committee.
+>            3 ‘‘(5) MEETINGS .—
+>            4 ‘‘(A) IN GENERAL .—The Administrator
+>            5 shall require the Advisory Committee to meet at
+>            6 least semiannually in person or through web
+>            7 conferencing and may convene additional meet8 ings as necessary.
+>            9 ‘‘(B) PUBLIC MEETINGS .—At least 1 of
+>           10 the meetings of the Advisory Committee each
+>           11 year shall be—
+>           12 ‘‘(i) announced in the Federal Reg13 ister;
+>           14 ‘‘(ii) announced on a public website;
+>           15 and
+>           16 ‘‘(iii) open to the public.
+>           17 ‘‘(C) ATTENDANCE .—The Advisory Com18 mittee shall maintain a record of the persons
+>           19 present at each meeting.
+>           20 ‘‘(D) MINUTES .—
+>           21 ‘‘(i) N GENERAL .—Unless otherwise
+>           22 prohibited by other Federal law, minutes
+>           23 of the meetings shall be published on the
+>           24 public website required under subsection
+>           25 (b)(8).
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                        19
+>            1 ‘‘(ii) ROTECTION OF CLASSIFIED
+>            2 AND SENSITIVE INFORMATION .—The Advi3 sory Committee may redact or summarize,
+>            4 as necessary, minutes of the meetings to
+>            5 protect classified or other sensitive infor6 mation in accordance with law.
+>            7 ‘‘(6) VOTING MEMBER ACCESS TO CLASSIFIED
+>            8 AND SENSITIVE SECURITY INFORMATION .—
+>            9 ‘‘(A) DETERMINATIONS .—Not later than
+>           10 60 days after the date on which a voting mem11 ber is appointed to the Advisory Committee, the
+>           12 Administrator shall determine if the voting
+>           13 member should be restricted from reviewing,
+>           14 discussing, or possessing sensitive security in15 formation.
+>           16 ‘‘(B) ACCESS .—If a voting member is not
+>           17 restricted from possessing sensitive security in18 formation under subparagraph (A) and volun19 tarily signs a nondisclosure agreement, the vot20 ing member may be granted access to sensitive
+>           21 security information that is relevant to the vot22 ing member’s service on the Advisory Com23 mittee. Access to classified materials shall be
+>           24 managed under the requirements set forth in
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                        20
+>             1 section 503.59 of title 46, Code of Federal Reg2 ulations.
+>             3 ‘‘(C) PROTECTION OF SSI .—Voting mem4 bers shall protect sensitive security information
+>             5 in accordance with part 1520 of title 49, Code
+>             6 of Federal Regulations.
+>             7 ‘‘(D) PROTECTION OF CLASSIFIED INFOR8 MATION .—Voting members shall protect classi9 fied information in accordance with the applica10 ble requirements for the particular level of clas11 sification.
+>           12 ‘‘(7) HAIRPERSON .—The Advisory Committee
+>           13 shall select a chairperson from among its voting
+>           14 members.
+>           15 ‘‘(8) RISK-BASED SECURITY .—The Advisory
+>           16 Committee shall consider risk-based security ap17 proaches in the performance of its functions.
+>           18 ‘‘(9) OINT COMMITTEE MEETINGS .—The Advi19 sory Committee may meet with the Aviation Security
+>           20 Advisory Committee established under section 44946
+>           21 of title 49, United States Code, to discuss
+>           22 multimodal security issues and other security-related
+>           23 issues of common concern.
+>           24 ‘‘(10) UBJECT MATTER EXPERTS .—The Advi25 sory Committee may request the assistance of subSeptember 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                      21
+>            1 ject matter experts with expertise related to the ju2 risdiction of the Advisory Committee.’’.
+>            3 (b) ADVISORY COMMITTEE MEMBERS .—
+>            4 (1) VOTING MEMBERS .—Not later than 180
+>            5 days after the date of enactment of this Act, the Ad6 ministrator shall appoint the voting members of the
+>            7 Surface Transportation and Maritime Security Advi8 sory Committee established pursuant to section 404
+>            9 of the Homeland Security Act of 2002, as added by
+>           10 subsection (a). The voting members shall consist of
+>           11 representatives of each surface transportation mode
+>           12 and the maritime mode.
+>           13 (2) NONVOTING MEMBERS .—Not later than 90
+>           14 days after the date of enactment of this Act, each
+>           15 Federal Government department and agency with
+>           16 regulatory authority over a mode of surface trans17 portation or maritime, as the Administrator con18 siders appropriate, shall designate an appropriate
+>           19 representative to serve as a nonvoting member of the
+>           20 Surface Transportation and Maritime Security Advi21 sory Committee.
+>           22 (c) TABLE OF CONTENTS .—The table of contents in
+>           23 section 1(b) of the Homeland Security Act of 2002 (Public
+>           24 Law 107–296; 116 Stat. 2135) is amended by inserting
+>           25 after the item relating to section 403 the following:
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                        22
+>               ‘‘Sec. 404. Surface Transportation and Maritime Security Advisory Committee.’’.
+>             1 SEC. 9. REVIEW OF EXPLOSIVES DETECTION CANINE TEAM
+>             2 PROGRAM.
+>             3 Not later than 180 days after the date of enactment
+>             4 of this Act, the Inspector General of the Department
+>             5 shall—
+>             6 (1) review—
+>             7 (A) the Transportation Security Adminis8 tration’s deployment strategy for explosive de9 tection canine teams, including consideration of
+>           10 whether the Administration’s analysis of risk to
+>           11 transportation facilities and transportation sys12 tems is appropriate;
+>           13 (B) the canine training, handler training,
+>           14 ongoing training, and updates to such training;
+>           15 and
+>           16 (C) the use of the assets during high
+>           17 threat periods, including the reallocation of Na18 tional Explosives Detection Canine Team Pro19 gram resources during high threat periods; and
+>           20 (2) submit to Congress a report on the review,
+>           21 including any recommendations on the appropriate
+>           22 number of canine assets needed to enhance security
+>           23 at high risk facilities, such as high volume passenger
+>           24 transportation systems and facilities.
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                       23
+>            1 SEC. 10. EXPLOSIVE DETECTION TECHNOLOGY.
+>            2 The Secretary, in coordination with the Director of
+>            3 the National Institute of Standards and Technology, shall
+>            4 research and facilitate next generation technologies to de5 tect explosives in transportation systems and transpor6 tation facilities.
+>            7 SEC. 11. EXPANSION OF NATIONAL EXPLOSIVES DETEC8 TION CANINE TEAM PROGRAM.
+>            9 (a) DEFINITIONS .—In this section, the term ‘‘explo10 sives detection canine team’’ means a canine and a canine
+>           11 handler that are trained to detect explosives, radiological
+>           12 materials, chemical, nuclear or biological weapons, or
+>           13 other threats as defined by the Secretary.
+>           14 (b) IN GENERAL .—The Secretary may encourage
+>           15 State, local, and tribal governments and private owners
+>           16 of high-risk transportation facilities to strengthen security
+>           17 through the use of explosives detection canine teams.
+>           18 (c) NCREASED CAPACITY.—
+>           19 (1) IN GENERAL .—Before the date the Inspec20 tor General of the Department submits the report
+>           21 under section 9, the Secretary may increase the
+>           22 number of State and local maritime and surface
+>           23 transportation canines by not more than 70 explo24 sives detection canine teams.
+>           25 (2) ADDITIONAL TEAMS .—Beginning on the
+>           26 date the Inspector General of the Department subSeptember 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                        24
+>             1 mits the report under section 9, the Secretary may
+>             2 incrementally increase the number of additional ex3 plosives detection canine teams described in para4 graph (1) to not more than 200 more than are in
+>             5 service on the date of enactment of this Act or to
+>             6 not more than the total number of additional explo7 sive detection canine teams recommended by the In8 spector General in that report, whichever is less.
+>             9 (d) DEPLOYMENT .—The Secretary shall—
+>           10 (1) use the additional explosives detection ca11 nine teams as part of the Department’s efforts to
+>           12 strengthen security across the Nation’s surface and
+>           13 maritime transportation networks;
+>           14 (2) make available explosives detection canine
+>           15 teams to all modes of transportation, subject to the
+>           16 requirements under section 7, for high-risk areas or
+>           17 to address specific threats, on an asneeded basis
+>           18 and as otherwise determined appropriate by the Sec19 retary; and
+>           20 (3) consider specific needs and training require21 ments for explosives detection canine teams to be de22 ployed across the Nation’s surface transportation
+>           23 network, including in venues of multiple modes of
+>           24 transportation, as the Secretary considers appro25 priate.
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                      25
+>            1 (e) AUTHORIZATION .—There are authorized to be ap2 propriated to the Secretary such sums as may be nec3 essary to carry out this section for each of fiscal years
+>            4 2016 through 2020.
+>            5 SEC. 12. STUDY ON SECURITY STANDARDS AND PRACTICES
+>            6 FOR MASS TRANSIT AND PASSENGER RAIL.
+>            7 (a) SECURITY STANDARDS AND PRACTICES FOR
+>            8 MASS TRANSIT AND PASSENGER RAIL.—The Comptroller
+>            9 General of the United States shall conduct a study that
+>           10 compares and develops best practices, including
+>           11 cybersecurity, relating to the security standards and prac12 tices related to mass transit, passenger rail networks, and
+>           13 public areas of other transportation systems employed by
+>           14 the Transportation Security Administration, Amtrak,
+>           15 State and local governments, operators of mass transit
+>           16 and passenger rail services, and relevant entities in foreign
+>           17 countries.
+>           18 (b) REPORT .—Not later than 18 months after the
+>           19 date of enactment of this Act, the Comptroller General
+>           20 shall issue a report that contains—
+>           21 (1) the findings of the study conducted under
+>           22 subsection (a); and
+>           23 (2) any recommendations on changes regarding
+>           24 security standards and practices to secure mass
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                        26
+>             1 transit and passenger rail networks against terrorist
+>             2 threats.
+>             3 SEC. 13. RAIL SECURITY SERVICES.
+>             4 (a) RAIL SECURITY SERVICES .—The Comptroller
+>             5 General shall conduct a study of rail security provided by
+>             6 the Transportation Security Administration to rail carrier
+>             7 and mass transit systems.
+>             8 (b) REQUIREMENTS .—In conducting the study under
+>             9 subsection (a), the Comptroller General shall—
+>           10 (1) assess the effectiveness of the the Adminis11 tration and stakeholders in improving the security of
+>           12 rail and mass transit surface transportation;
+>           13 (2) assess the Administration’s and stake14 holders’ projected needs and associated costs, includ15 ing funding and personnel, to improve and address
+>           16 security threats for the security of rail and mass
+>           17 transit surface transportation; and
+>           18 (3) assess the preparedness of high-risk surface
+>           19 transportation facilities to prevent and respond to
+>           20 security threats.
+>           21 (c) REPORT .—Not later than 18 months after the
+>           22 date of enactment of this Act, the Comptroller General
+>           23 shall issue a report that contains the findings of the study
+>           24 conducted under subsection (a);
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                       27
+>            1 SEC. 14. SYSTEMWIDE AMTRAK SECURITY UPGRADES.
+>            2 (a) RAILROAD SECURITY ASSISTANCE .—Section
+>            3 1513(b) of the Implementing Recommendations of the 9/
+>            4 11 Commission Act of 2007 (6 U.S.C. 1163(b)) is amend5 ed—
+>            6 (1) in paragraph (1), by striking the period at
+>            7 the end and inserting ‘‘including communications
+>            8 interoperability where appropriate with relevant out9 side agencies and entities.’’;
+>           10 (2) in paragraph (5), by striking ‘‘security of’’
+>           11 and inserting ‘‘security and preparedness of’’;
+>           12 (3) in paragraph (7), by striking ‘‘security
+>           13 threats’’ and inserting ‘‘security threats and pre14 paredness, including connectivity to the National
+>           15 Terrorist Screening Center’’; and
+>           16 (4) in paragraph (9), by striking ‘‘and security
+>           17 officers’’ and inserting ‘‘, security, and preparedness
+>           18 officers’’.
+>           19 (b) SPECIFIC PROJECTS .—Section 1514(a)(3) of the
+>           20 Implementing Recommendations of the 9/11 Commission
+>           21 Act of 2007 (6 U.S.C. 1164(a)(3)) is amended—
+>           22 (1) in subparagraph (D) by inserting ‘‘, or to
+>           23 connect to the National Terrorism Screening Center
+>           24 watchlist’’ after ‘‘Secretary’’;
+>           25 (2) in subparagraph (G), by striking ‘‘; and’’ at
+>           26 the end and inserting a semicolon;
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                        28
+>            1 (3) in subparagraph (H) by striking the period
+>            2 at the end and inserting a semicolon; and
+>            3 (4) by adding at the end the following:
+>            4 ‘‘(I) for improvements to passenger
+>            5 verification systems; and
+>            6 ‘‘(J) for improvements to employee and
+>            7 contractor verification systems, including iden8 tity verification technology.’’.
+>            9 SEC. 15. PASSENGER RAIL VETTING.
+>           10 (a) N GENERAL .—Not later than 180 days after the
+>           11 date on which the Amtrak Chief of Police and the Amtrak
+>           12 Board of Directors jointly submit a request to the Admin13 istrator, the Administrator shall issue a decision on the
+>           14 use by Amtrak of the Transportation Security Administra15 tion’s Secure Flight Program or a similar passenger vet16 ting system to enhance passenger rail security.
+>           17 (b) STRATEGIC PLAN .—The decision under sub18 section (a) shall include a strategic plan for working with
+>           19 rail stakeholders to enhance passenger rail security by vet20 ting passengers using terrorist watch lists maintained by
+>           21 the Federal Government or a similar passenger vetting
+>           22 system maintained by the Transportation Security Admin23 istration.
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                        29
+>             1 SEC. 16. SURFACE TRANSPORTATION INSPECTORS.
+>             2 Not later than 180 days after the date of enactment
+>             3 of this Act, the Comptroller General of the United States
+>             4 shall submit a report to Congress that—
+>             5 (1) identifies the roles and responsibilities of
+>             6 surface transportation security inspectors authorized
+>             7 under section 1304 of the Implementing Rec8 ommendations of the 9/11 Commission Act of 2007
+>             9 (6 U.S.C. 1113);
+>           10 (2) determines the extent to which the Trans11 portation Security Administration has used a risk12 based, strategic approach to determine the appro13 priate number of surface transportation security in14 spectors and resource allocation across surface
+>           15 transportation modes and field offices;
+>           16 (3) determines if the Transportation Security
+>           17 Administration’s surface transportation policies and
+>           18 regulations are risk-based;
+>           19 (4) determines whether opportunities exist to
+>           20 improve risk-based policies and regulations;
+>           21 (5) determines whether surface transportation
+>           22 security inspectors—
+>           23 (A) have appropriate qualifications to help
+>           24 secure and inspect surface transportation sys25 tems; and
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                        30
+>            1 (B) have adequate experience and training
+>            2 to perform the responsibilities identified under
+>            3 paragraph (1);
+>            4 (6) evaluates feedback from regulated surface
+>            5 transportation industry stakeholders on the effective6 ness of surface transportation security inspectors
+>            7 and inspection programs to the overall security of
+>            8 the surface transportation systems of such stake9 holders;
+>           10 (7) evaluates the consistency of surface trans11 portation inspections and regulatory enforcement;
+>           12 (8) identifies any duplication or redundancy be13 tween the Transportation Security Administration
+>           14 and the Department of Transportation relating to
+>           15 surface transportation security inspections or over16 sight; and
+>           17 (9) provides recommendations, if any, relating
+>           18 to—
+>           19 (A) the risk-based use of inspection re20 sources for security enhancement in surface and
+>           21 maritime transportation; and
+>           22 (B) improvements to the Transportation
+>           23 Security Administration’s Surface Transpor24 tation Security Inspection Program, including
+>           25 changes in organizational and supervisory
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                       31
+>            1 structures and coordination procedures to en2 hance consistency and effectiveness in inspec3 tion and compliance activities.
+>            4 SEC. 17. TRANSPORTATION WORKER IDENTIFICATION CRE5 DENTIAL IMPROVEMENTS AND ASSESSMENT.
+>            6 (a) REDENTIAL IMPROVEMENTS .—
+>            7 (1) IN GENERAL .—Not later than 60 days after
+>            8 the date of enactment of this Act, the Administrator
+>            9 shall establish a process to improve background
+>           10 checks and terrorism vetting processes that in11 cludes—
+>           12 (A) establishing an entity within the Office
+>           13 of Intelligence and Analysis to provide guidance
+>           14 on security threat assessment processes;
+>           15 (B) conducting a comprehensive risk anal16 ysis of the security threat assessment processes
+>           17 to identify areas needing additional internal
+>           18 controls and quality assurance procedures and
+>           19 implementing those procedures;
+>           20 (C) improving fraud detection techniques,
+>           21 such as—
+>           22 (i) establishing benchmarks and a
+>           23 process for electronic document validation;
+>           24 (ii) requiring annual training for
+>           25 Trusted Agents; and
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                      32
+>            1 (iii) establishing a process to review
+>            2 and analyze additional information pro3 vided by Trusted Agents during the review
+>            4 process;
+>            5 (D) updating guidance and finalizing a
+>            6 manual for Trusted Agents and adjudicators to
+>            7 ensure clear guidance on processes and regula8 tions; and
+>            9 (E) establishing quality controls to ensure
+>           10 consistent procedures to review adjudication de11 cisions and terrorism vetting decisions.
+>           12 (2) REPORT .—Not later than 2 years after the
+>           13 date of enactment of this Act, the Inspector General
+>           14 of the Department shall submit a report to Congress
+>           15 that evaluates the implementation of the improve16 ments described in paragraph (1).
+>           17 (b) COMPREHENSIVE SECURITY ASSESSMENT OF
+>           18 THE TRANSPORTATION SECURITY CARD PROGRAM .—
+>           19 (1) IN GENERAL .—Not later than 60 days after
+>           20 the date of enactment of this Act, the Secretary
+>           21 shall commission an assessment of the effectiveness
+>           22 of the transportation security card program (re23 ferred to in this section as ‘‘Program’’) required
+>           24 under section 70105 of title 46, United States Code,
+>           25 at enhancing security and reducing security risks for
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                        33
+>             1 facilities and vessels regulated under chapter 701 of
+>             2 such title.
+>             3 (2) LOCATION .—The assessment commissioned
+>             4 under paragraph (1) shall be conducted by a re5 search organization with significant experience in
+>             6 port or maritime security, such as—
+>             7 (A) a national laboratory;
+>             8 (B) a university-based center within the
+>             9 Science and Technology Directorate’s centers of
+>           10 excellence network; or
+>           11 (C) a qualified federallyfunded research
+>           12 and development center.
+>           13 (3) CONTENTS .—The assessment commissioned
+>           14 under paragraph (1) shall—
+>           15 (A) review the credentialing process by de16 termining—
+>           17 (i) the appropriateness of vetting
+>           18 standards;
+>           19 (ii) whether the fee structure ade20 quately reflects the current costs of vet21 ting;
+>           22 (iii) whether there is unnecessary re23 dundancy or duplication with other
+>           24 Federalor Stateissued transportation se25 curity credentials; and
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                        34
+>             1 (iv) the appropriateness of having var2 ied Federal and State threat assessments
+>             3 and access controls;
+>             4 (B) review the process for renewing appli5 cations for Transportation Worker Identifica6 tion Credentials, including the number of days
+>             7 it takes to review application, appeal, and waiv8 er requests for additional information; and
+>             9 (C) review the security value of the Pro10 gram by—
+>           11 (i) evaluating the extent to which the
+>           12 Program, as implemented, addresses
+>           13 known or likely security risks in the mari14 time and port environments;
+>           15 (ii) evaluating the potential for a non-16 biometric credential alternative;
+>           17 (iii) identifying the technology, busi18 ness process, and operational impacts of
+>           19 the use of the transportation security card
+>           20 and transportation security card readers in
+>           21 the maritime and port environments;
+>           22 (iv) assessing the costs and benefits of
+>           23 the Program, as implemented; and
+>           24 (v) evaluating the extent to which the
+>           25 Secretary has addressed the deficiencies in
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                       35
+>            1 the Program identified by the Government
+>            2 Accountability Office and the Inspector
+>            3 General of the Department before the date
+>            4 of enactment of this Act.
+>            5 (4) DEADLINES .—The assessment commis6 sioned under paragraph (1) shall be completed not
+>            7 later than 1 year after the date on which the assess8 ment is commissioned.
+>            9 (c) CORRECTIVE ACTION PLAN ; PROGRAM R E10 FORMS .—If the assessment commissioned under sub11 section (b) identifies a deficiency in the effectiveness of
+>           12 the Program, the Secretary, not later than 60 days after
+>           13 the date on which the assessment is completed, shall sub14 mit a corrective action plan to the Committee on Com15 merce, Science, and Transportation of the Senate, the
+>           16 Committee on Homeland Security of the House of Rep17 resentatives, and the Committee on Transportation and
+>           18 Infrastructure of the House of Representatives that—
+>           19 (1) responds to findings of the assessment;
+>           20 (2) includes an implementation plan with
+>           21 benchmarks;
+>           22 (3) may include programmatic reforms, revi23 sions to regulations, or proposals for legislation; and
+>           24 (4) shall be considered in any rulemaking by
+>           25 the Department relating to the Program.
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                      36
+>            1 (d) NSPECTOR GENERAL REVIEW .—If a corrective
+>            2 action plan is submitted under subsection (c), the Inspec3 tor General of the Department shall—
+>            4 (1) not later than 120 days after such submis5 sion, review the extent to which such plan imple6 ments the requirements under subsection (c); and
+>            7 (2) not later than 18 months after such submis8 sion, and annually thereafter for the subsequent 3
+>            9 years, submit a report to the congressional commit10 tees set forth in subsection (c) that describes the
+>           11 progress of the implementation of such plan.
+>           12 SEC. 18. MILITARY PRIORITY FOR TWIC APPLICATIONS.
+>           13 (a) DEFINITION OF ELIGIBLE SERVICE MEMBER .—
+>           14 In this section, the term ‘‘eligible service member’’ means
+>           15 a member of the Armed Forces who is a member of the
+>           16 reserves or is undergoing separation, discharge, or release
+>           17 from the Armed Forces under honorable conditions during
+>           18 the period of effectiveness.
+>           19 (b) PRIORITY PROCESSING OF CERTAIN TWIC A P20 PLICATIONS.—
+>           21 (1) IN GENERAL .—Subject to subsections (c)
+>           22 and (d), and not later than 180 days after the date
+>           23 of enactment of this Act, the Secretary, in consulta24 tion with the Secretary of Defense, shall develop a
+>           25 process to prioritize review of an application for a
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                       37
+>            1 Transportation Worker Identification Credential
+>            2 submitted by an eligible service member.
+>            3 (2) REQUIREMENT .—The review and adjudica4 tion of an application under paragraph (1) shall be
+>            5 completed not later than 14 days after the date on
+>            6 which the application is submitted unless—
+>            7 (A) an application is subject to an appeal;
+>            8 or
+>            9 (B) the Secretary determines that further
+>           10 documentation is necessary.
+>           11 (c) PROCESSING TIMES .—The priority processing of
+>           12 applications described in subsection (b)(1) shall be imple13 mented and remain in place whenever the average proc14 essing time for an application for a Transportation Work15 er Identification Credential exceeds 30 days.
+>           16 (d) MEMORANDUM OF UNDERSTANDING .—The Sec17 retary and the Secretary of Defense shall enter into a
+>           18 memorandum of understanding that describes the priority
+>           19 processing of Transportation Worker Identification Cre20 dential applications under subsection (b).
+>           21 (e) REPORT .—Not later than 1 year after the date
+>           22 of enactment of this Act, the Secretary shall submit a re23 port to the Committee on Commerce, Science, and Trans24 portation of the Senate and the Committee on Homeland
+>           25 Security of the House of Representatives that—
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                        38
+>             1 (1) includes a copy of the memorandum of un2 derstanding described in subsection (d);
+>             3 (2) identifies the number of days in which the
+>             4 average processing time for an application for a
+>             5 Transportation Worker Identification Credential ex6 ceeded 30 days;
+>             7 (3) describes—
+>             8 (A) the number of eligible service members
+>             9 who submitted an application under subsection
+>           10 (b); and
+>           11 (B) the number of eligible service members
+>           12 described in subparagraph (A) who received a
+>           13 Transportation Worker Identification Creden14 tial; and
+>           15 (4) for any application submitted under sub16 section (b)(1) that was not completed before the
+>           17 deadline described in subsection (b)(2)—
+>           18 (A) the reason the application was not
+>           19 completed before such deadline; and
+>           20 (B) a description of the actions that will be
+>           21 taken to ensure such applications are completed
+>           22 before such deadline.
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                        39
+>            1 SEC. 19. VOLUNTARY ADOPTION OF TRANSPORTATION
+>            2 WORKER IDENTIFICATION CREDENTIAL.
+>            3 Section 520 of the Department of Homeland Security
+>            4 Appropriations Act, 2004 (6 U.S.C. 469) is amended by
+>            5 adding at the end the following:
+>            6 ‘‘(c) PPLICATION .—In this section, individuals en7 gaged in the field of transportation shall include—
+>            8 ‘‘(1) individuals required to obtain a transpor9 tation worker identification credential under section
+>           10 101.514 of title 33, Code of Federal Regulations;
+>           11 ‘‘(2) individuals required to obtain a hazardous
+>           12 materials endorsement on a commercial driver’s li13 cense issued by a State under section 5103a of title
+>           14 49, United States Code; and
+>           15 ‘‘(3) personnel at a facility that engages in
+>           16 loading, unloading, handling, or storage incidental to
+>           17 transportation who are subject to background checks
+>           18 under section 27.230(a)(12) of title 6, Code of Fed19 eral Regulations.’’.
+>           20 SEC. 20. CARGO CONTAINER SCANNING TECHNOLOGY RE21 VIEW.
+>           22 (a) DESIGNATIONS .—
+>           23 (1) IN GENERAL .—Not later than 1 year after
+>           24 the date of enactment of this Act, and not less fre25 quently than once every 5 years thereafter until the
+>           26 date of fullscale implementation of 100 percent
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                       40
+>            1 screening of cargo containers and 100 percent scan2 ning of high-risk containers required under section
+>            3 232 of the SAFE Port Act (6 U.S.C. 982), the Sec4 retary shall solicit proposals for scanning tech5 nologies, consistent with the standards under sub6 section (b)(8) of that section, to improve screening
+>            7 of cargo at domestic ports.
+>            8 (2) EVALUATION .—In soliciting proposals under
+>            9 paragraph (1), the Secretary shall establish meas10 ures to assess the performance of the proposed scan11 ning technologies, including—
+>           12 (A) the rate of false positives;
+>           13 (B) the delays in processing times; and
+>           14 (C) the impact on the supply chain.
+>           15 (b) ILOT PROGRAM .—
+>           16 (1) ESTABLISHMENT .—The Secretary may es17 tablish a pilot program to determine the efficacy of
+>           18 a scanning technology referred to in subsection (a).
+>           19 (2) APPLICATION PROCESS .—In carrying out
+>           20 the pilot program under this subsection, the Sec21 retary shall—
+>           22 (A) solicit applications from domestic
+>           23 ports; and
+>           24 (B) select up to 4 domestic ports to par25 ticipate in the pilot program.
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                      41
+>            1 (c) REPORT .—Not later than 1 year after initiating
+>            2 a pilot program under subsection (b), the Secretary shall
+>            3 submit a report on the pilot program to the Committee
+>            4 on Commerce, Science, and Transportation of the Senate
+>            5 and the Committee on Homeland Security of the House
+>            6 of Representatives that includes—
+>            7 (1) an evaluation of the scanning technologies
+>            8 proposed to improve security at domestic ports and
+>            9 to meet the fullscale implementation requirement;
+>           10 (2) the costs to implement a pilot program;
+>           11 (3) the benefits of the proposed scanning tech12 nologies;
+>           13 (4) the impact of the pilot program on the sup14 ply chain; and
+>           15 (5) recommendations for implementation of ad16 vanced cargo scanning technologies at domestic
+>           17 ports.
+>           18 (d) SHARING PILOT PROGRAM TESTING RESULTS .—
+>           19 The results of the pilot testing of advanced cargo screen20 ing technologies shall be shared, as appropriate, with gov21 ernment agencies and private stakeholders whose respon22 sibilities encompass the secure transport of cargo.
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                      42
+>            1 SEC. 21. BACKGROUND RECORDS CHECKS FOR ISSUANCE
+>            2 OF HAZMAT LICENSES.
+>            3 Section 5103a(d) of title 49, United States Code, is
+>            4 amended by adding at the end the following:
+>            5 ‘‘(3) TRANSPORTATION SECURITY CARD .—An
+>            6 individual who holds a valid transportation security
+>            7 card issued by the Secretary of the department in
+>            8 which the Coast Guard is operating under section
+>            9 70105 of title 46 shall be deemed to have met the
+>           10 background records check required under this sub11 section.’’.
+>           12 SEC. 22. REPEAL OF BIENNIAL REPORTING REQUIREMENT
+>           13 FOR THE GOVERNMENT ACCOUNTABILITY
+>           14 OFFICE RELATING TO THE TRANSPORTATION
+>           15 SECURITY INFORMATION SHARING PLAN.
+>           16 (a) IN GENERAL .—Section 114 of title 49, United
+>           17 States Code, is amended—
+>           18 (1) by redesignating subsections (u), (v), and
+>           19 (w) as subsections (t), (u), and (v), respectively;
+>           20 (2) in subsection (t), as redesignated—
+>           21 (A) in paragraph (1)(A), by striking ‘‘sub22 section (t)’’ and inserting ‘‘subsection (s)’’;
+>           23 (B) by striking paragraph (7); and
+>           24 (C) by redesignating paragraphs (8) and
+>           25 (9) as paragraphs (7) and (8), respectively.
+>           26 (b) TECHNICAL AND CONFORMING AMENDMENTS .—
+> September 21, 2016 (5:31 p.m.)
+>           S:\LEGCNSL\LEXA\DOR15\SF\BILL\SFTSAFE.12.xml
+>                                       43
+>            1 (1) TRANSPORTATION SECURITY STRATEGIC
+>            2 PLANNING .—Section 114(s)(3)(B) of title 49, United
+>            3 States Code, is amended by striking ‘‘2007’’ and in4 serting ‘‘2007)’’.
+>            5 (2) CONGRESSIONAL OVERSIGHT OF SECURITY
+>            6 ASSURANCE FOR PUBLIC AND PRIVATE STAKE7 HOLDERS .—Section 1203(b)(1)(B) of the Imple8 menting Recommendations of the 9/11 Commission
+>            9 Act of 2007 (49 U.S.C. 114 note) is amended by
+>           10 striking ‘‘, under section 114(u)(7) of title 49,
+>           11 United States Code, as added by this section, or oth12 erwise,’’.
+> September 21, 2016 (5:31 p.m.)

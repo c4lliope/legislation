@@ -1,0 +1,15 @@
+> AMENDMENT NO.llll Calendar No.lll
+> Purpose: To improve the bill.
+> IN THE SENATE OF THE UNITED STATES—114th Cong., 2d Sess.
+>                          S.ll
+>  To provide agencies with discretion in securing information
+>             technology and information systems.
+>  Referred to the Committee on llllllllll and
+>                    ordered to be printed
+>         Ordered to lie on the table and to be printed
+>  AMENDMENTS intended to be proposed by lllllll
+> Viz:
+     On page 2, beginning on line 4, strike ‘‘, and any
+impact or implementation of such action,’’.
+     On page 2, after line 13, insert the following:
+     (c) SENSE OF THE SENATE .—It is the sense of the Senate that, in taking any action under subsection (a), the head of an agency should make an effort, consistent with the cybersecurity needs of the agency, to accommodate the communication needs of the employees of the agency.

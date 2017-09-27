@@ -1,0 +1,502 @@
+>       G:\M\15\MITCHE\MITCHE_006.XML
+>                                                   .....................................................................
+>                                                       (Original Signature of Member)
+>                  115TH CONGRESS
+>                     1ST SESSION H. R.ll
+>                             To establish a postsecondary student data system.
+>                         IN THE HOUSE OF REPRESENTATIVES
+>                     Mr. MITCHELL introduced the following bill; which was referred to the
+>                              Committee on llllllllllllll
+>                                        A BILL
+>                        To establish a postsecondary student data system.
+>                   1 Be it enacted by the Senate and House of Representa2 tives of the United States of America in Congress assembled,
+>                   3 SECTION 1. SHORT TITLE.
+>                   4 This Act may be cited as the ‘‘College Transparency
+>                   5 Act’’.
+>                   6 SEC. 2. POSTSECONDARY STUDENT DATA SYSTEM.
+>                   7 (a) IN GENERAL .—Section 132 of the Higher Edu8 cation Act of 1965 (20 U.S.C. 1015a) is amended—
+>                   9 (1) by redesignating subsection (l) as subsection
+>                  10 (m); and
+>       g:\VHLC\051517\051517.223(660404|2)
+> VerDate Nov 16:57 May 1Jkt 000PO 000Frm 00Fmt 66Sfmt 6C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>       G:\M\15\MITCHE\MITCHE_006.XML
+>                                                2
+>                   1 (2) by inserting after subsection (k) the fol2 lowing:
+>                   3 ‘‘(l) OSTSECONDARY STUDENT DATA SYSTEM .—
+>                   4 ‘‘(1) N GENERAL .—
+>                   5 ‘‘(A) ESTABLISHMENT OF SYSTEM .—The
+>                   6 Commissioner for Education Statistics (referred
+>                   7 to in this subsection as the ‘Commissioner’)
+>                   8 shall develop and maintain a secure, privacy9 protected postsecondary student data system in
+>                  10 order to—
+>                  11 ‘‘(i) accurately evaluate student en12 rollment patterns, progression, completion,
+>                  13 and postcollegiate outcomes, and higher
+>                  14 education costs and financial aid at the
+>                  15 student level;
+>                  16 ‘‘(ii) assist with transparency, institu17 tional improvement, and analysis of Fed18 eral aid programs;
+>                  19 ‘‘(iii) provide more accurate, complete,
+>                  20 and customizable information for students
+>                  21 and families making decisions about post-22 secondary education; and
+>                  23 ‘‘(iv) reduce the reporting burden on
+>                  24 institutions of higher education postsecg:\VHLC\051517\051517.223(660404|2)
+> VerDate Nov 16:57 May 1Jkt 000PO 000Frm 00Fmt 66Sfmt 6C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                  3
+>                    1 ondary institutions, in accordance with sec2 tion 5(b) of the College Transparency Act.
+>                    3 ‘‘(B) A VOIDING DUPLICATED REPORT4 ING .—Notwithstanding any other provision of
+>                    5 this section, to the extent that another provi6 sion of this section requires the same reporting
+>                    7 or collection of data that is required under this
+>                    8 subsection, a postsecondary institution, or the
+>                    9 Secretary or Commissioner, may use the report10 ing or data required for the postsecondary stu11 dent data system under this subsection to sat12 isfy both requirements.
+>                   13 ‘‘(C) DEVELOPMENT PROCESS .—In devel14 oping the postsecondary student data system
+>                   15 described in this subsection, the Commissioner
+>                   16 shall—
+>                   17 ‘‘(i) focus on the needs of—
+>                   18 ‘‘(I) users of the data system;
+>                   19 and
+>                   20 ‘‘(II) entities, including postsec21 ondary institutions, reporting to the
+>                   22 data system;
+>                   23 ‘‘(ii) take into consideration, to the
+>                   24 extent practicable—
+>        g:\VHLC\051517\051517.223(660404|2)
+> VerDate Nov 216:57 May 1Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                 4
+>                    1 ‘‘(I) the guidelines outlined in the
+>                    2 U.S. Web Design Standards main3 tained by the General Services Admin4 istration and the Digital Services
+>                    5 Playbook and TechFAR Handbook for
+>                    6 Procuring Digital Services Using
+>                    7 Agile Processes of the U.S. Digital
+>                    8 Service; and
+>                    9 ‘‘(II) the relevant successor docu10 ments or recommendations of such
+>                   11 guidelines;
+>                   12 ‘‘(iii) use modern, relevant technology
+>                   13 and enhance and update the data system
+>                   14 as necessary to carry out the purpose of
+>                   15 this subsection; and
+>                   16 ‘‘(iv) ensure data privacy and security
+>                   17 in accordance with the most recent Federal
+>                   18 standards developed by the National Insti19 tute of Standards and Technology.
+>                   20 ‘‘(2) DATA ELEMENTS .—
+>                   21 ‘‘(A) IN GENERAL .—The Commissioner,
+>                   22 after consultation with postsecondary institu23 tions (including institutions of higher edu24 cation) and other stakeholders (including indi25 viduals with expertise in data privacy and secug:\VHLC\051517\051517.223(660404|2)
+> VerDate Nov 16:57 May 15Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                 5
+>                    1 rity, and in consumer protection), shall deter2 mine—
+>                    3 ‘‘(i) the data elements to be included
+>                    4 in the postsecondary student data system,
+>                    5 in accordance with subparagraphs (B) and
+>                    6 (C); and
+>                    7 ‘‘(ii) how to include the data elements
+>                    8 required under subparagraph (B), and any
+>                    9 additional data elements selected under
+>                   10 subparagraph (C), in the postsecondary
+>                   11 student data system.
+>                   12 ‘‘(B) REQUIRED DATA ELEMENTS .—Such
+>                   13 data elements shall include, at a minimum, the
+>                   14 following:
+>                   15 ‘‘(i) Studentlevel data elements nec16 essary to calculate the information within
+>                   17 the student-related surveys in the Inte18 grated Postsecondary Education Data Sys19 tem (IPEDS), as such surveys are in effect
+>                   20 on the day before the date of enactment of
+>                   21 the College Transparency Act.
+>                   22 ‘‘(ii) Studentlevel data elements nec23 essary to allow for reporting student en24 rollment, persistence, retention, transfer,
+>                   25 and completion measures for all credential
+>        g:\VHLC\051517\051517.223(660404|2)
+> VerDate Nov 16:57 May 15Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                   6
+>                    1 levels (including certificate and associate,
+>                    2 baccalaureate, and advanced degree levels),
+>                    3 within and across postsecondary institu4 tions (including across all categories of in5 stitution level and control). The data ele6 ments shall allow for reporting about all
+>                    7 such data disaggregated by the following
+>                    8 categories:
+>                    9 ‘‘(I) Enrollment status as a first10 time student.
+>                   11 ‘‘(II) Attendance intensity,
+>                   12 whether full-time or part-time.
+>                   13 ‘‘(III) Credentialseeking status,
+>                   14 by credential level.
+>                   15 ‘‘(IV) Race or ethnicity.
+>                   16 ‘‘(V) Age intervals.
+>                   17 ‘‘(VI) Gender.
+>                   18 ‘‘(VII) Program of study (as ap19 plicable).
+>                   20 ‘‘(VIII) Military or veteran status
+>                   21 (as determined based on receipt of
+>                   22 veteran’s education benefits, as de23 fined in section 480(c)).
+>                   24 ‘‘(IX) Status as a postsecondary
+>                   25 athlete.
+>        g:\VHLC\051517\051517.223(660404|2)
+> VerDate Nov 216:57 May 1Jkt 000PO 0000Frm 000Fmt 66Sfmt 62C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                  7
+>                    1 ‘‘(X) Federal Pell Grant recipient
+>                    2 status.
+>                    3 ‘‘(C) OTHER DATA ELEMENTS .—The Com4 missioner may, after consultation with postsec5 ondary institutions (including institutions of
+>                    6 higher education) and other stakeholders (in7 cluding individuals with expertise in data pri8 vacy and security, and in consumer protection),
+>                    9 make a determination to promulgate regulations
+>                   10 to include additional data elements in the post-11 secondary student data system, which may in12 clude first generation status, economic status,
+>                   13 remedial coursework, or gateway course comple14 tion.
+>                   15 ‘‘(D) REEVALUATION .—Not less than once
+>                   16 every 5 years after the implementation of the
+>                   17 postsecondary student data system described in
+>                   18 this subsection, the Commissioner, in consulta19 tion with postsecondary institutions (including
+>                   20 institutions of higher education), and other
+>                   21 stakeholders, shall review the data elements in22 cluded in the postsecondary student data sys23 tem and may revise the determination of data
+>                   24 elements to be included in such system.
+>        g:\VHLC\051517\051517.223(660404|2)
+> VerDate Nov 216:57 May 1Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                 8
+>                    1 ‘‘(E) PROHIBITIONS .—The Commissioner
+>                    2 shall not include health data, student discipline
+>                    3 records or data, elementary and secondary edu4 cation data, exact address, citizenship or na5 tional origin status, course grades, individual
+>                    6 postsecondary entrance examination results, po7 litical affiliation, or religion in the postsec8 ondary student data system under this sub9 section.
+>                  10 ‘‘(3) LINKING WITH OTHER FEDERAL DATA
+>                  11 SYSTEMS .—
+>                  12 ‘‘(A) IN GENERAL .—The Commissioner
+>                  13 shall coordinate, and enter into sharing agree14 ments, with other Federal agencies to create se15 cure linkages with relevant Federal data sys16 tems, including data systems of the Office of
+>                  17 Federal Student Aid, the Department of Treas18 ury, the Department of Defense, the Depart19 ment of Veterans Affairs, the Social Security
+>                  20 Administration, and the Bureau of the Census.
+>                  21 ‘‘(B) CATEGORIES OF DATA .—The Com22 missioner shall, at a minimum, seek to ensure
+>                  23 that the secure data system linkages described
+>                  24 in subparagraph (A) permit consistent report25 ing of the following categories of data for all
+>        g:\VHLC\051517\051517.22(660404|2)
+> VerDate Nov 16:57 May 15Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                 9
+>                    1 students, including students receiving Federal
+>                    2 grants and loans and students receiving vet3 eran’s education benefits, as defined in section
+>                    4 480(c).
+>                    5 ‘‘(i) Enrollment, retention, transfer,
+>                    6 and completion outcomes for all students.
+>                    7 ‘‘(ii) Financial indicators for students
+>                    8 receiving Federal grants and loans, includ9 ing grant and loan aid by source, cumu10 lative student debt, loan repayment status,
+>                   11 and repayment plan.
+>                   12 ‘‘(iii) Post-collegiate outcomes for all
+>                   13 students, including earnings, employment,
+>                   14 and further education, by program of
+>                   15 study and credential level and as meas16 ured—
+>                   17 ‘‘(I) immediately after leaving
+>                   18 postsecondary education; and
+>                   19 ‘‘(II) at later time intervals ap20 propriate to the credential sought and
+>                   21 earned.
+>                   22 ‘‘(C) DATA LINKAGE STREAMLINING AND
+>                   23 CONFIDENTIALITY .—
+>        g:\VHLC\051517\051517.223(660404|2)
+> VerDate Nov 16:57 May 15Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                  10
+>                    1 ‘‘(i) STREAMLINING .—In creating the
+>                    2 secure data system linkages described in
+>                    3 this paragraph, the Commissioner shall—
+>                    4 ‘‘(I) ensure that the linkages are
+>                    5 not always connected, but occur at ap6 propriate intervals, as determined by
+>                    7 the Commissioner; and
+>                    8 ‘‘(II) seek to—
+>                    9 ‘‘(aa) streamline the data
+>                   10 collection and reporting require11 ments for postsecondary institu12 tions;
+>                   13 ‘‘(bb) minimize duplicate re14 porting across or within Federal
+>                   15 agencies or departments, includ16 ing reporting requirements appli17 cable to postsecondary institu18 tions under the Workforce Inno19 vation and Opportunity Act (29
+>                   20 U.S.C. 3101 et seq.);
+>                   21 ‘‘(cc) protect student pri22 vacy; and
+>                   23 ‘‘(dd) streamline the applica24 tion process for student loan ben25 efit programs available to borg:\VHLC\051517\051517.223(660404|2)
+> VerDate Nov 216:57 May 1Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                 11
+>                    1 rowers based on data available
+>                    2 from different Federal data sys3 tems.
+>                    4 ‘‘(ii) REVIEW .—Not less often than
+>                    5 once every 5 years after the establishment
+>                    6 of the postsecondary student data system
+>                    7 under this subsection, the Commissioner
+>                    8 shall review methods for streamlining data
+>                    9 collection from postsecondary institutions
+>                   10 and minimizing duplicative reporting with11 in the Department of Education and
+>                   12 across Federal agencies that provide data
+>                   13 for the postsecondary student data system.
+>                   14 ‘‘(iii) ONFIDENTIALITY .—The Com15 missioner shall ensure that any linking or
+>                   16 sharing of data through data system link17 ages established in accordance with this
+>                   18 paragraph—
+>                   19 ‘‘(I) complies with the security
+>                   20 and privacy protections described in
+>                   21 this subsection and other Federal data
+>                   22 protection protocols;
+>                   23 ‘‘(II) follows industry best prac24 tices commensurate with the sensig:\VHLC\051517\051517.223(660404|2)
+> VerDate Nov 216:57 May 1Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                 12
+>                    1 tivity of specific data elements or
+>                    2 metrics; and
+>                    3 ‘‘(III) does not result in the cre4 ation of a single Federal database at
+>                    5 the Department of Education that
+>                    6 maintains the information reported
+>                    7 across other Federal agencies.
+>                    8 ‘‘(4) UBLICLY AVAILABLE INFORMATION .—
+>                    9 ‘‘(A) IN GENERAL .—The Commissioner
+>                   10 shall make the summary aggregate information
+>                   11 described in subparagraph (C), at a minimum,
+>                   12 publicly available through a userfriendly con13 sumer information website that—
+>                   14 ‘‘(i) provides appropriate mechanisms
+>                   15 for users to customize and filter informa16 tion by institutional and student character17 istics;
+>                   18 ‘‘(ii) allows users to build summary
+>                   19 aggregate reports of information, subject
+>                   20 to subparagraph (B); and
+>                   21 ‘‘(iii) uses appropriate statistical dis22 closure limitation techniques necessary to
+>                   23 ensure that the data released to the public
+>                   24 cannot be used to identify specific individ25 uals.
+>        g:\VHLC\051517\051517.223(660404|2)
+> VerDate Nov 16:57 May 15Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                 13
+>                    1 ‘‘(B) NO PERSONALLY IDENTIFIABLE IN2 FORMATION AVAILABLE .—The summary aggre3 gate information described in this paragraph
+>                    4 shall not include personally identifiable informa5 tion.
+>                    6 ‘‘(C) INFORMATION AVAILABLE .—The
+>                    7 summary aggregate information described in
+>                    8 this paragraph shall, at a minimum, include
+>                    9 each of the following for each postsecondary in10 stitution:
+>                   11 ‘‘(i) Measures of student access, in12 cluding—
+>                   13 ‘‘(I) admissions selectivity and
+>                   14 yield; and
+>                   15 ‘‘(II) enrollment, disaggregated
+>                   16 by each category described in para17 graph (2)(B)(ii), Federal grant recipi18 ent status, and Federal loan recipient
+>                   19 status.
+>                   20 ‘‘(ii) Measures of student progression,
+>                   21 including retention rates and persistence
+>                   22 rates, disaggregated by each category de23 scribed in paragraph (2)(B)(ii), Federal
+>                   24 grant recipient status, and Federal loan re25 cipient status.
+>        g:\VHLC\051517\051517.223(660404|2)
+> VerDate Nov 216:57 May 1Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                  14
+>                    1 ‘‘(iii) Measures of student completion,
+>                    2 including—
+>                    3 ‘‘(I) transfer rates and comple4 tion rates, disaggregated by each cat5 egory described in paragraph
+>                    6 (2)(B)(ii), Federal grant recipient sta7 tus, and Federal loan recipient status.
+>                    8 ‘‘(II) number of completions,
+>                    9 disaggregated by each category de10 scribed in paragraph (2)(B)(ii), Fed11 eral grant recipient status, and Fed12 eral loan recipient status.
+>                   13 ‘‘(iv) Measures of student costs, in14 cluding—
+>                   15 ‘‘(I) tuition, required fees, total
+>                   16 cost of attendance, and net price after
+>                   17 total grant aid, disaggregated by in18 State tuition or indistrict tuition sta19 tus (if applicable), program of study
+>                   20 (if applicable), and credential level;
+>                   21 and
+>                   22 ‘‘(II) typical grant amounts and
+>                   23 loan amounts received by students re24 ported separately from Federal, State,
+>                   25 local, and institutional sources, and
+>        g:\VHLC\051517\051517.223(660404|2)
+> VerDate Nov 216:57 May 1Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                 15
+>                    1 cumulative debt, disaggregated by
+>                    2 each category described in paragraph
+>                    3 (2)(B)(ii) and completion status.
+>                    4 ‘‘(v) Measures of post-collegiate stu5 dent outcomes, including employment
+>                    6 rates, median earnings, loan repayment
+>                    7 and default rates, and further education
+>                    8 rates. These measures shall—
+>                    9 ‘‘(I) be disaggregated by each
+>                   10 category described in paragraph
+>                   11 (2)(B)(ii) and completion status; and
+>                   12 ‘‘(II) be measured immediately
+>                   13 after leaving postsecondary education
+>                   14 and at time intervals appropriate to
+>                   15 the credential sought or earned.
+>                   16 ‘‘(D) DEVELOPMENT CRITERIA .—In devel17 oping the method and format of making the in18 formation described in this paragraph publicly
+>                   19 available, the Commissioner shall—
+>                   20 ‘‘(i) focus on the need of the users of
+>                   21 the information, which are students, poten22 tial students, researchers, and other con23 sumers of education data;
+>                   24 ‘‘(ii) take into consideration, to the
+>                   25 extent practicable, the guidelines described
+>        g:\VHLC\051517\051517.223(660404|2)
+> VerDate Nov 216:57 May 1Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                16
+>                    1 in paragraph (1)(C)(ii)(I), and relevant
+>                    2 successor documents or recommendations
+>                    3 of such guidelines;
+>                    4 ‘‘(iii) use modern, relevant technology
+>                    5 and enhance and update the postsecondary
+>                    6 student data system with information, as
+>                    7 necessary to carry out the purpose of this
+>                    8 paragraph; and
+>                    9 ‘‘(iv) ensure data privacy and security
+>                  10 for the information in accordance with the
+>                  11 most recent Federal standards developed
+>                  12 by the National Institute of Standards and
+>                  13 Technology.
+>                  14 ‘‘(5) PERMISSIBLE DISCLOSURES OF DATA .—
+>                  15 ‘‘(A) NONPUBLICLY AVAILABLE DATA .—
+>                  16 ‘‘(i)N GENERAL .—The Commissioner
+>                  17 shall develop and implement a secure proc18 ess for making studentlevel, non-person19 ally identifiable information from the post-20 secondary student data system available
+>                  21 for research and evaluation purposes ap22 proved by the Commissioner in a manner
+>                  23 compatible with practices for disclosing
+>                  24 National Center for Education Statistics
+>                  25 survey data as in effect on the day before
+>        g:\VHLC\051517\051517.22(660404|2)
+> VerDate Nov 16:57 May 15Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                 17
+>                    1 the date of enactment of the College
+>                    2 Transparency Act.
+>                    3 ‘‘(ii) AVAILABILITY FOR INSTITU4 TIONAL IMPROVEMENT AND PROGRAM
+>                    5 EVALUATION .—The Commissioner shall
+>                    6 create a process through which any post-7 secondary institution, or postsecondary
+>                    8 education system, that fully participates in
+>                    9 the postsecondary student data system de10 scribed in this subsection may request and
+>                   11 receive from the Commissioner non-person12 ally identifiable information, and aggregate
+>                   13 summary data, related to students who
+>                   14 have attended the institution or system, as
+>                   15 applicable, for the purposes of institutional
+>                   16 improvement and program evaluation.
+>                   17 ‘‘(iii) ROVIDING DATA TO INSTITU18 TIONS .—The Commissioner shall provide,
+>                   19 at least annually, each postsecondary insti20 tution that fully participates in the post-21 secondary student data system under this
+>                   22 subsection with a set of programlevel,
+>                   23 non-personally identifiable information
+>                   24 from the postsecondary student data sys25 tem for students currently or formerly asg:\VHLC\051517\051517.223(660404|2)
+> VerDate Nov 16:57 May 15Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                 18
+>                    1 sociated with the institution that includes
+>                    2 aggregated information from other Federal
+>                    3 data sources included in the system.
+>                    4 ‘‘(iv) PROVIDING DATA TO STATES .—
+>                    5 The Commissioner shall create a process
+>                    6 through which States may request and re7 ceive institutionlevel aggregate data out8 comes for postsecondary institutions lo9 cated in the State.
+>                   10 ‘‘(v) REGULATIONS .—The Commis11 sioner shall promulgate regulations to en12 sure fair, secure, and equitable access to
+>                   13 such data.
+>                   14 ‘‘(B) DISCLOSURE LIMITATIONS .—In car15 rying out the public reporting and disclosure re16 quirements of this Act, the Commissioner shall
+>                   17 use appropriate statistical disclosure limitation
+>                   18 techniques necessary to ensure that the data re19 leased to the public cannot include personally
+>                   20 identifiable information or be used to identify
+>                   21 specific individuals.
+>                   22 ‘‘(C) SALE OF DATA PROHIBITED .—Data
+>                   23 collected under this subsection, including the
+>                   24 public use data set and data comprising the
+>                   25 summary aggregate information available under
+>        g:\VHLC\051517\051517.223(660404|2)
+> VerDate Nov 16:57 May 15Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                19
+>                    1 paragraph (4), shall not be sold to any third
+>                    2 party by the Commissioner, any postsecondary
+>                    3 institution, or any other entity.
+>                    4 ‘‘(D) LIMITATION ON USE BY OTHER FED5 ERAL AGENCIES .—The Commissioner shall not
+>                    6 allow any other Federal agency to use data col7 lected under this subsection for any purpose ex8 cept as explicitly authorized by this Act.
+>                    9 ‘‘(E) LAW ENFORCEMENT .—Personally
+>                  10 identifiable information collected under this
+>                  11 subsection shall not be used for any law en12 forcement activity or any other activity that
+>                  13 would result in adverse action against any stu14 dent, including debt collection activity or en15 forcement of the immigration laws.
+>                  16 ‘‘(F) LIMITATION OF USE FOR FEDERAL
+>                  17 RANKINGS OR SUMMATIVE RATING SYSTEM .—
+>                  18 The comprehensive data collection and analysis
+>                  19 necessary for the postsecondary student data
+>                  20 system under this subsection shall not be used
+>                  21 by the Secretary or any Federal entity to estab22 lish any Federal ranking system of postsec23 ondary institutions or a system that results in
+>                  24 a summative Federal rating of postsecondary
+>                  25 institutions.
+>        g:\VHLC\051517\051517.22(660404|2)
+> VerDate Nov 16:57 May 15Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                20
+>                    1 ‘‘(G) RULE OF CONSTRUCTION .—Nothing
+>                    2 in this paragraph shall be construed to prevent
+>                    3 the use of individual categories of aggregate in4 formation to be used for accountability pur5 poses, such as for the calculation of the cohort
+>                    6 default rate under section 435(m).
+>                    7 ‘‘(6) SUBMISSION OF DATA .—
+>                    8 ‘‘(A) REQUIRED SUBMISSION .—Each insti9 tution of higher education participating in a
+>                  10 program under title IV, or the assigned agent
+>                  11 of such institution, shall, in accordance with
+>                  12 section 487(a)(17), collect, and submit to the
+>                  13 Commissioner, the data requested by the Com14 missioner to carry out this subsection.
+>                  15 ‘‘(B) VOLUNTARY SUBMISSION .—Any post-16 secondary institution not participating in a pro17 gram under title IV may voluntarily participate
+>                  18 in the postsecondary student data system under
+>                  19 this subsection by collecting and submitting
+>                  20 data to the Commissioner, as the Commissioner
+>                  21 may request to carry out this subsection.
+>                  22 ‘‘(7) UNLAWFUL WILLFUL DISCLOSURE .—
+>                  23 ‘‘(A) IN GENERAL .—It shall be unlawful
+>                  24 for any person who obtains or has access to
+>                  25 personally identifiable information in connection
+>        g:\VHLC\051517\051517.22(660404|2)
+> VerDate Nov 16:57 May 15Jkt 00PO 0000Frm 00Fmt 66Sfmt 6C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                 21
+>                    1 with the postsecondary student data system de2 scribed in this subsection to willfully disclose to
+>                    3 any person (except as authorized in this Act or
+>                    4 any Federal law) such personally identifiable in5 formation.
+>                    6 ‘‘(B) PENALTY .—Any person who violates
+>                    7 subparagraph (A) shall be fined not more than
+>                    8 $5,000, imprisoned not more than 5 years, or
+>                    9 both, together with the costs of prosecution.
+>                   10 ‘‘(C) EMPLOYEE OF OFFICER OF THE
+>                   11 UNITED STATES .—If a violation of subpara12 graph (A) is committed by any officer or em13 ployee of the United States, the officer or em14 ployee shall be dismissed from office or dis15 charged from employment upon conviction for
+>                   16 the violation.
+>                   17 ‘‘(8) DATA SECURITY .—The Commissioner shall
+>                   18 produce and update as needed guidance and regula19 tions relating to privacy, security, and access which
+>                   20 shall govern the use and disclosure of data collected
+>                   21 in connection with the activities authorized in this
+>                   22 subsection. The guidance and regulations developed
+>                   23 and reviewed shall protect data from unauthorized
+>                   24 access, use, and disclosure, and shall include—
+>                   25 ‘‘(A) an audit capability;
+>        g:\VHLC\051517\051517.223(660404|2)
+> VerDate Nov 16:57 May 15Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                 22
+>                    1 ‘‘(B) access controls;
+>                    2 ‘‘(C) requirements to ensure sufficient data
+>                    3 security, quality, validity, and reliability; and
+>                    4 ‘‘(D) other protection in accordance with
+>                    5 the most recent Federal standards developed by
+>                    6 the National Institute of Standards and Tech7 nology.
+>                    8 ‘‘(9) DATA COLLECTION .—The Commissioner
+>                    9 shall ensure that data collection under this sub10 section complies with section 552a of title 5, United
+>                   11 States Code.
+>                   12 ‘‘(10) DEFINITIONS .—In this subsection:
+>                   13 ‘‘(A) INSTITUTION OF HIGHER EDU14 CATION .—The term ‘institution of higher edu15 cation’ has the meaning given the term in sec16 tion 102.
+>                   17 ‘‘(B) PERSONALLY IDENTIFIABLE INFOR18 MATION .—The term ‘personally identifiable in19 formation’ has the meaning given the term in
+>                   20 section 444 of the General Education Provi21 sions Act (20 U.S.C. 1232g).
+>                   22 ‘‘(C) POSTSECONDARY INSTITUTION .—The
+>                   23 term ‘postsecondary institution’ includes an in24 stitution of higher education.’’.
+>        g:\VHLC\051517\051517.223(660404|2)
+> VerDate Nov 16:57 May 15Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                23
+>                    1 (b) CONFORMING AMENDMENTS .—Section 487(d) is
+>                    2 amended—
+>                    3 (1) by striking paragraph (3); and
+>                    4 (2) by redesignating paragraph (4) as para5 graph (3).
+>                    6 SEC. 3. REPEAL OF PROHIBITION ON STUDENT DATA SYS7 TEM.
+>                    8 Section 134 of the Higher Education Act of 1965 (20
+>                    9 U.S.C. 1015c) is repealed.
+>                  10 SEC. 4. INSTITUTIONAL REQUIREMENTS.
+>                  11 Paragraph (17) of section 487(a) of the Higher Edu12 cation Act of 1965 (20 U.S.C. 1094(a)) is amended to
+>                  13 read as follows:
+>                  14 ‘‘(17) The institution or the assigned agent of
+>                  15 the institution will collect and submit data to the
+>                  16 Commissioner for Education Statistics in accordance
+>                  17 with section 132(l), the nonstudent related surveys
+>                  18 within the Integrated Postsecondary Education Data
+>                  19 System (IPEDS), or any other Federal postsec20 ondary institution data collection effort (as des21 ignated by the Secretary), in a timely manner and
+>                  22 to the satisfaction of the Secretary.’’.
+>                  23 SEC. 5. EFFECTIVE DATE; TRANSITION PROVISIONS.
+>                  24 (a) EFFECTIVE DATE .—Sections 1, 2, and 4 of this
+>                  25 Act, and the amendments made by such sections, shall
+>        g:\VHLC\051517\051517.22(660404|2)
+> VerDate Nov 16:57 May 1Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.
+>        G:\M\15\MITCHE\MITCHE_006.XML
+>                                                      24
+>                      1 take effect on the date that is 2 years after the date of
+>                      2 enactment of this Act.
+>                      3 (b) IN GENERAL .—The Secretary of Education and
+>                      4 the Commissioner for Education Statistics shall take such
+>                      5 steps as are necessary to ensure that the transition to,
+>                      6 and implementation of, the postsecondary student data
+>                      7 system required under section 132(l) of the Higher Edu8 cation Act of 1965, as added by section 2 of this Act, hap9 pens in a manner that initially reduces the reporting bur10 den for postsecondary institutions that reported into the
+>                     11 Integrated Postsecondary Education Data System
+>                     12 (IPEDS) on the day before enactment of this Act. Such
+>                     13 steps may include testing early versions of the postsec14 ondary student data system or early versions of the data
+>                     15 collection or aggregate information summary features of
+>                     16 the system with a targeted group of users.
+>        g:\VHLC\051517\051517.223.xm(660404|2)
+> VerDate Nov 2416:57 May 15Jkt 0000PO 0000Frm 000Fmt 665Sfmt 62C:\USERS\KLMERY~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MITCHE~1.

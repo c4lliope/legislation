@@ -1,0 +1,48 @@
+> 115THCONGRESS
+>    1STSESSION
+>                    S.ll
+>   To amend the Internal Revenue Code of 1986 to provide additional new
+>          markets tax credits for distressed coal communities.
+>     IN THE SENATE OF THE UNITED STATES
+>                    llllllllll
+>  Mrs.APITOintroduced the following bill; which was read twice and referred
+>            to the Committee on llllllllll
+>                    A BILL
+> To amend the Internal Revenue Code of 1986 to provide
+>     additional new markets tax credits for distressed coal
+>     communities.
+     Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+ SECTION 1. SHORT TITLE. This Act may be cited as the ‘‘Creating Opportunities for Rural Economies Act’’ or the ‘‘CORE Act’’.
+ SEC. 2. ADDITIONAL NEW MARKETS TAX CREDIT FOR DISTRESSED COAL COMMUNITIES.
+     (a) N GENERAL .—Section 45D(f) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+          ‘‘(4) SET ASIDE OF PORTION OF LIMITATION FOR DISTRESSED COAL COMMUNITIES .—
+               ‘‘(A) N GENERAL .—For any calendar year after 2016, not less than 5 percent of the new markets tax credit limitation shall be allocated to qualified community development entities in connection with qualified investments the proceeds of which are substantially used to make qualified coal community investments.
+               ‘‘(B) QUALIFIED COAL COMMUNITY INVESTMENT .—For purposes of this paragraph—
+                   ‘‘(i) N GENERAL .—The term ‘qualified coal community investment’ means—
+                        ‘‘(I) any capital or equity investment in, or loan to, any qualified active distressed coal community business,
+                        ‘‘(II) the purchase from another community development entity of any loan made by such entity which is a qualified coal community investment,
+                        ‘‘(III) financial counseling and other services specified in regulations prescribed by the Secretary to businesses located in, and residents of, distressed coal communities, and
+                        ‘‘(IV) any equity investment in, or loan to, any qualified community development entity in connection qualified investments the proceeds of which are substantially used to make qualified coal community investments.
+                   ‘‘(ii) QUALIFIED ACTIVE DISTRESSED COAL COMMUNITY BUSINESS .—The term ‘qualified active coal community business’ means any business which would be a qualified active low-income community business if paragraphs (2) and (3) of subsection (d) were applied by substituting ‘distressed coal community’ for ‘low-income community’ each place it appears.
+                   ‘‘(iii) DISTRESSED COAL COMMUNITY .—
+                        ‘‘(I) N GENERAL .—The term ‘distressed coal community’ means any low-income community which is located in a county which—
+                            ‘‘(aa) was one of the 30 counties with the biggest employment decrease among coal operators (as determined under reports issued by the Mine Safety and Health Administration) for an applicable period, or
+                            ‘‘(bb) is contiguous to a county which—
+                                 ‘‘(AA) is described in item (aa) and is within the same State as such county, and
+                                 ‘‘(BB) contains not less than 1 low-income community.
+                        ‘‘(II) APPLICABLE PERIODS .— For purposes of subclause (I)(aa), the term ‘applicable period’ means any of the following periods:
+                            ‘‘(aa) Calendar year 2013 compared to calendar year 2012.
+                            ‘‘(bb) Calendar year 2014 compared to calendar year 2013.
+                            ‘‘(cc) Calendar year 2015 compared to calendar year 2014.
+               ‘‘(C) IMITATION OF ALLOCATION OF SET ASIDE .—
+                   ‘‘(i) N GENERAL .—In allocating the portion of the new markets tax credit limitation to which subparagraph (A) applies, the Secretary shall ensure that, with respect to any eligible State, not less than the minimum percentage of such limitation is allocated to qualified community development entities making qualified coal community investments in such eligible State.
+                   ‘‘(ii) MINIMUM PERCENTAGE .—For purposes of clause (i), the minimum percentage for any eligible State is the percentage equal to 80 percent of the ratio of—
+                        ‘‘(I) the qualified coal operator employment decrease in such State, to
+                        ‘‘(II) the total qualified coal operator employment decrease in all eligible States.
+                   ‘‘(iii)QUALIFIED COAL OPERATOR EMPLOYMENT DECREASE .—For purposes of clause (ii), the term ‘qualified coal operator employment decrease’ means, with respect to any eligible State, the aggregate amount of employment decrease among coal operators for all counties in such State—
+                       ‘‘(I) in which there is a low-income community, and
+                       ‘‘(II) which are taken into account under item (aa) of subparagraph (B)(iii)(I).
+                   ‘‘(iv)ELIGIBLE STATE .—For purposes of this subparagraph, the term ‘eligible State’ means any State in which there is a distressed coal community.
+              ‘‘(D) APPLICATION OF CARRYOVER .— Paragraph (3) shall be applied separately with respect to amounts described in subparagraph
+          (A).’’.
+     (b) APPLICATION OF RECAPTURE RULES .—Section 45D(g)(3)(B) of the Internal Revenue Code of 1986 is amended by inserting ‘‘(or, in the case of an investment described in subsection (f)(4), as required under such subsection)’’ after ‘‘(b)(1)(B)’’.

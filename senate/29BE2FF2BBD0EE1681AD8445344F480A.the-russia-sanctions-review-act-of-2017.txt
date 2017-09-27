@@ -1,0 +1,75 @@
+> 115TH CONGRESS
+>    1ST SESSION S.ll
+> To provide for congressional oversight of actions to waive, suspend, reduce,
+>     provide relief from, or otherwise limit the application of sanctions with
+>     respect to the Russian Federation, and for other purposes.
+>      IN THE SENATE OF THE UNITED STATES
+>                     llllllllll
+> Mr. GRAHAM (for himself, MrARDIN, Mr. CC AI, Mr. BROWN, Mr.
+>     RUBI, and Mrs. CCASKIL) introduced the following bill; which was
+>     read twice and referred to the Committee on llllllllll
+>                      A BILL
+> To provide for congressional oversight of actions to waive,
+>     suspend, reduce, provide relief from, or otherwise limit
+>     the application of sanctions with respect to the Russian
+>     Federation, and for other purposes.
+     Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+ SECTION 1. SHORT TITLE. This Act may be cited as the ‘‘Russia Sanctions Review Act of 2017’’.
+ SEC. 2. CODIFICATION OF EXECUTIVE ORDER 13694. Executive Order 13694 (80 Fed. Reg. 18077; relating to blocking the property of certain persons engaging in significant malicious cyber-enabled activities), as in effect on January 1, 2017, and any sanctions imposed pursuant to that Executive Order, shall remain in effect.
+ SEC. 3. CODIFICATION OF EXECUTIVE ORDERS IMPOSING SANCTIONS IN RELATION TO THE SITUATION IN UKRAINE.
+     (a) IN GENERAL .—The Executive orders specified in subsection (b), and sanctions imposed pursuant to such Executive orders, shall remain in effect.
+     (b) EXECUTIVE ORDERS SPECIFIED .—The Executive orders specified in this subsection are the following:
+          (1) Executive Order 13660 (79 Fed. Reg. 13493; relating to blocking property of certain persons contributing to the situation in Ukraine) (as in effect on January 1, 2017).
+          (2) Executive Order 13661 (79 Fed. Reg. 15535; relating to blocking property of additional persons contributing to the situation in Ukraine) (as in effect on January 1, 2017).
+          (3) Executive Order 13662 (79 Fed. Reg. 16169; relating to blocking property of additional persons contributing to the situation in Ukraine) (as in effect on January 1, 2017).
+          (4) Executive Order 13685 (79 Fed. Reg. 77357; relating to blocking property of certain persons and prohibiting certain transactions with respect to the Crimea region of Ukraine) (as in effect on January 1, 2017).
+ SEC. 4. CONGRESSIONAL OVERSIGHT OF SANCTIONS IMPOSED WITH RESPECT TO THE RUSSIAN FEDERATION.
+     (a) SUBMISSION TO CONGRESS OF POLICY CHANGES TO SANCTIONS ON THE R USSIAN FEDERATION .—Before taking any action to waive, suspend, reduce, provide relief from, or otherwise limit the application of sanctions with respect to the Russian Federation, the President shall submit to the appropriate congressional committees and leadership a report that—
+         (1) describes the proposed action; and
+         (2) certifies that the Government of the Russian Federation has ceased—
+              (A) ordering, controlling, or otherwise directing, supporting, or financing, significant acts intended to undermine the peace, security, stability, sovereignty, or territorial integrity of Ukraine, including through an agreement between the appropriate parties; and
+              (B) cyberattacks against the United States Government and United States persons.
+     (b) PERIOD FOR REVIEW BY CONGRESS .—
+          (1) IN GENERAL .—During the 120calendar day period following submission by the President of a report under subsection (a), the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives shall, as appropriate, hold hearings and briefings and otherwise obtain information in order to fully review the report and the certification required by subsection
+     (a)(2).
+          (2) LIMITATION ON ACTIONS DURING INITIAL CONGRESSIONAL REVIEW PERIOD .—Notwithstanding any other provision of law, during the period for congressional review provided for under paragraph
+     (1), the President may not waive, suspend, reduce, provide relief from, or otherwise limit the application of sanctions with respect to the Russian Federation.
+          (3) LIMITATION ON ACTIONS DURING PRESIDENTIAL CONSIDERATION OF A JOINT RESOLUTION OF DISAPPROVAL .—Notwithstanding any other provision of law, if a joint resolution of disapproval passes both Houses of Congress in accordance with subsection (c), the President may not waive, suspend, reduce, provide relief from, or otherwise limit the application of sanctions with respect to the Russian Federation, for a period of 12 calendar days following the date of passage of the joint resolution of disapproval.
+          (4) LIMITATION ON ACTIONS DURING CONGRESSIONAL RECONSIDERATION OF A JOINT RESOLUTION OF DISAPPROVAL .—Notwithstanding any other provision of law, if a joint resolution of disapproval passes both Houses of Congress in accordance with subsection (c), and the President vetoes the joint resolution, the President may not waive, suspend, reduce, provide relief from, or otherwise limit the application of sanctions with respect to the Russian Federation, for a period of 10 calendar days following the date of the President’s veto.
+     (c) JOINT RESOLUTION OF DISAPPROVAL .—
+          (1) JOINT RESOLUTION OF DISAPPROVAL DEFINED .—In this subsection, the term ‘‘joint resolution of disapproval’’ means a joint resolution of either House of Congress the sole matter after the resolving clause of which is as follows: ‘‘That Congress disapproves of the action proposed by the President in the report submitted to Congress under section 4(a) of the Russia Sanctions Review Act of 2017 on llll.’’, with the blank space being filled with the appropriate date.
+          (2) EFFECT OF ENACTMENT .—Notwithstanding any other provision of law, the President may not take any action to waive, suspend, reduce, provide relief from, or otherwise limit the application of sanctions with respect to the Russian Federation, if a joint resolution of disapproval is enacted in accordance with this subsection.
+          (3) INTRODUCTION .—During the 120calendar day period provided for under subsection (b)(1), a joint resolution of disapproval may be introduced—
+               (A) in the House of Representatives, by the majority leader or the minority leader; and
+               (B) in the Senate, by the majority leader (or the majority leader’s designee) or the minority leader (or the minority leader’s designee).
+          (4) FLOOR CONSIDERATION IN HOUSE OF REPRESENTATIVES .—
+               (A) REPORTING AND DISCHARGE .—If a committee of the House of Representatives to which a joint resolution of disapproval has been referred has not reported the resolution within 10 legislative days after the date of referral, that committee shall be discharged from further consideration thereof.
+               (B) PROCEEDING TO CONSIDERATION .— Beginning on the third legislative day after each committee to which a joint resolution of disapproval has been referred reports it to the House or has been discharged from further consideration thereof, it shall be in order to move to proceed to consider the resolution in the House. All points of order against the motion are waived. Such a motion shall not be in order after the House has disposed of a motion to proceed on the resolution. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The motion shall not be debatable. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
+               (C) CONSIDERATION .—The joint resolution of disapproval shall be considered as read. All points of order against the resolution and against its consideration are waived. The previous question shall be considered as ordered on the resolution to final passage without intervening motion except two hours of debate equally divided and controlled by the sponsor of the resolution (or a designee) and an opponent. A motion to reconsider the vote on passage of the resolution shall not be in order.
+          (5) CONSIDERATION IN THE SENATE .—
+              (A) COMMITTEE REFERRAL .—A joint resolution of disapproval introduced in the Senate shall be referred to the Committee on Foreign Relations.
+              (B) REPORTING AND DISCHARGE .—If the Committee on Foreign Relations has not reported a joint resolution of disapproval within 10 session days after the date of referral of the resolution, that committee shall be discharged from further consideration of the resolution and the resolution shall be placed on the appropriate calendar.
+              (C) PROCEEDING TO CONSIDERATION .— Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time after the Committee on Foreign Relations reports the joint resolution of disapproval to the Senate or has been discharged from its consideration (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution, and all points of order against the resolution (and against consideration of the resolution) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the resolution shall remain the unfinished business until disposed of.
+               (D) DEBATE .—Debate on the joint resolution of disapproval, and on all debatable motions and appeals in connection therewith, shall be limited to not more than 10 hours, which shall be divided equally between the majority and minority leaders or their designees. A motion to further limit debate is in order and not debatable. An amendment to, or a motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit the resolution is not in order.
+               (E) VOTE ON PASSAGE .—The vote on passage shall occur immediately following the conclusion of the debate on the joint resolution of disapproval and a single quorum call at the conclusion of the debate, if requested in accordance with the rules of the Senate.
+              (F) RULINGS OF THE CHAIR ON PROCEDURE .—Appeals from the decisions of the Chair relating to the application of the rules of the Senate, as the case may be, to the procedure relating to the joint resolution of disapproval shall be decided without debate.
+              (G) CONSIDERATION OF VETO MESSAGES .—Debate in the Senate of any veto message with respect to the joint resolution of disapproval, including all debatable motions and appeals in connection with the resolution, shall be limited to 10 hours, to be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
+          (6) RULES RELATING TO SENATE AND HOUSE OF REPRESENTATIVES .—
+              (A) COORDINATION WITH ACTION BY OTHER HOUSE .—If, before the passage by one House of a joint resolution of disapproval of that House, that House receives a joint resolution of disapproval from the other House, the following procedures shall apply:
+                   (i) The joint resolution of disapproval of the other House shall not be referred to a committee.
+                   (ii) With respect to the joint resolution of disapproval of the House receiving the joint resolution of disapproval from the other House—
+                        (I) the procedure in that House shall be the same as if no joint resolution of disapproval had been received from the other House; but
+                        (II) the vote on passage shall be on the joint resolution of disapproval of the other House.
+               (B) TREATMENT OF A RESOLUTION OF OTHER HOUSE .—If one House fails to introduce a joint resolution of disapproval, the joint resolution of disapproval of the other House shall be entitled to expedited floor procedures under this subsection.
+               (C) TREATMENT OF HOUSE RESOLUTION IN SENATE .—If, following passage of the joint resolution of disapproval in the Senate, the Senate then receives a joint resolution of disapproval from the House of Representatives, the joint resolution of disapproval of the House shall not be debatable.
+               (D) APPLICATION TO REVENUE MEASURES .—The provisions of this paragraph shall not apply in the House of Representatives to a joint resolution of disapproval that is a revenue measure.
+          (7) RULES OF HOUSE OF REPRESENTATIVES AND SENATE .—This subsection is enacted by Congress—
+               (A) as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a joint resolution of disapproval, and supersedes other rules only to the extent that it is inconsistent with such rules; and
+               (B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
+     (d) DEFINITIONS.—In this section:
+          (1) APPROPRIATE CONGRESSIONAL COMMITTEES AND LEADERSHIP .—The term ‘‘appropriate congressional committees and leadership’’ means—
+              (A) the Committee on Finance, the Committee on Banking, Housing, and Urban Affairs, the Select Committee on Intelligence, the Committee on Foreign Relations, and the majority and minority leaders of the Senate; and
+              (B) the Committee on Ways and Means, the Committee on Financial Services, the Permanent Select Committee on Intelligence, the Committee on Foreign Affairs, and the Speaker, the majority leader, and the minority leader of the House of Representatives.
+          (2) UNITED STATES PERSON .—The term ‘‘United States person’’ means—
+              (A) a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
+              (B) an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity.

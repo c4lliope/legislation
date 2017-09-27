@@ -1,0 +1,819 @@
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                                              [∼114H4450]
+>                                                         .....................................................................
+>                                                              (Original Signature of Member)
+>                    115 TH CONGRESS
+>                        1ST SESSION
+>                                           H. R.ll
+>                    To amend title 31, United States Code, to ensure that persons who form
+>                        corporations or limited liability companies in the United States disclose
+>                        the beneficial owners of those corporations or limited liability companies,
+>                        in order to prevent wrongdoers from exploiting United States corporations and limited liability companies for criminal gain, to assist law
+>                        enforcement in detecting, preventing, and punishing terrorism, money
+>                        laundering, and other misconduct involving United States corporations
+>                        and limited liability companies, and for other purposes.
+>                            IN THE HOUSE OF REPRESENTATIVES
+>                     Mrs. CAROLYN B. M ALONEY of New York introduced the following bill; which
+>                         was referred to the Committee on llllllllllllll
+>                                             A BILL
+>                    To amend title 31, United States Code, to ensure that persons who form corporations or limited liability companies
+>                         in the United States disclose the beneficial owners of
+>                         those corporations or limited liability companies, in order
+>                         to prevent wrongdoers from exploiting United States corporations and limited liability companies for criminal
+>                         gain, to assist law enforcement in detecting, preventing,
+>                         and punishing terrorism, money laundering, and other
+>                         misconduct involving United States corporations and limited liability companies, and for other purposes.
+>        g:\VHLC\062817\062817.144.x(665350|3)
+> VerDate 0ct 011:53 Jun 28Jkt 000PO 0000Frm 000Fmt 665Sfmt 66C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                   2
+>                    1 Be it enacted by the Senate and House of Representa2 tives of the United States of America in Congress assembled,
+>                    3 SECTION 1. SHORT TITLE.
+>                    4 This Act may be cited as the ‘‘Corporate Trans5 parency Act of 2017’’.
+>                    6 SEC. 2. FINDINGS.
+>                    7 Congress finds the following:
+>                    8 (1) Nearly 2,000,000 corporations and limited
+>                    9 liability companies are being formed under the laws
+>                   10 of the States each year.
+>                   11 (2) Very few States obtain meaningful informa12 tion about the beneficial owners of the corporations
+>                   13 and limited liability companies formed under their
+>                   14 laws.
+>                   15 (3) A person forming a corporation or limited
+>                   16 liability company within the United States typically
+>                   17 provides less information to the State of incorpora18 tion than is needed to obtain a bank account or driv19 er’s license and typically does not name a single ben20 eficial owner.
+>                   21 (4) Criminals have exploited the weaknesses in
+>                   22 State formation procedures to conceal their identi23 ties when forming corporations or limited liability
+>                   24 companies in the United States, and have then used
+>                   25 the newly created entities to commit crimes affecting
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 28Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                  3
+>                    1 interstate and international commerce such as ter2 rorism, drug trafficking, money laundering, tax eva3 sion, securities fraud, financial fraud, and acts of
+>                    4 foreign corruption.
+>                    5 (5) Law enforcement efforts to investigate cor6 porations and limited liability companies suspected
+>                    7 of committing crimes have been impeded by the lack
+>                    8 of available beneficial ownership information, as doc9 umented in reports and testimony by officials from
+>                   10 the Department of Justice, the Department of
+>                   11 Homeland Security, the Financial Crimes Enforce12 ment Network of the Department of the Treasury,
+>                   13 the Internal Revenue Service, and the Government
+>                   14 Accountability Office, and others.
+>                   15 (6) In July 2006, a leading international anti16 money laundering organization, the Financial Action
+>                   17 Task Force on Money Laundering (in this section
+>                   18 referred to as the ‘‘FATF’’), of which the United
+>                   19 States is a member, issued a report that criticizes
+>                   20 the United States for failing to comply with a FATF
+>                   21 standard on the need to collect beneficial ownership
+>                   22 information and urged the United States to correct
+>                   23 this deficiency by July 2008. In December 2016,
+>                   24 FATF issued another evaluation of the U.S., which
+>                   25 found that little progress has been made over the
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                  4
+>                    1 last ten years to address this problem. It identified
+>                    2 the ‘‘lack of timely access to adequate, accurate and
+>                    3 current beneficial ownership information’’ as a fun4 damental gap in U.S. efforts to combat money laun5 dering and terrorist finance.
+>                    6 (7) In response to the 2006 FATF report, the
+>                    7 United States has repeatedly urged the States to
+>                    8 strengthen their incorporation practices by obtaining
+>                    9 beneficial ownership information for the corporations
+>                   10 and limited liability companies formed under the
+>                   11 laws of such States.
+>                   12 (8) Many States have established automated
+>                   13 procedures that allow a person to form a new cor14 poration or limited liability company within the
+>                   15 State within 24 hours of filing an online application,
+>                   16 without any prior review of the application by a
+>                   17 State official. In exchange for a substantial fee, 2
+>                   18 States will form a corporation within 1 hour of a re19 quest.
+>                   20 (9) Dozens of Internet Web sites highlight the
+>                   21 anonymity of beneficial owners allowed under the in22 corporation practices of some States, point to those
+>                   23 practices as a reason to incorporate in those States,
+>                   24 and list those States together with offshore jurisdic25 tions as preferred locations for the formation of new
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                 5
+>                    1 corporations, essentially providing an open invitation
+>                    2 to criminals and other wrongdoers to form entities
+>                    3 within the United States.
+>                    4 (10) In contrast to practices in the United
+>                    5 States, all 28 countries in the European Union are
+>                    6 required to have formation agents identify the bene7 ficial owners of the corporations formed under the
+>                    8 laws of the country.
+>                    9 (11) To reduce the vulnerability of the United
+>                  10 States to wrongdoing by United States corporations
+>                  11 and limited liability companies with hidden owners,
+>                  12 to protect interstate and international commerce
+>                  13 from criminals misusing United States corporations
+>                  14 and limited liability companies, to strengthen law en15 forcement investigations of suspect corporations and
+>                  16 limited liability companies, to set minimum stand17 ards for and level the playing field among State in18 corporation practices, and to bring the United States
+>                  19 into compliance with its international antimoney
+>                  20 laundering standards, Federal legislation is needed
+>                  21 to require the collection of beneficial ownership in22 formation for the corporations and limited liability
+>                  23 companies formed under the laws of such States.
+>                  24 SEC. 3. TRANSPARENT INCORPORATION PRACTICES.
+>                  25 (a) TRANSPARENT INCORPORATION PRACTICES .—
+>        g:\VHLC\062817\062817.14(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 00PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                 6
+>                    1 (1) IN GENERAL .—Chapter 53 of title 31,
+>                    2 United States Code, is amended by inserting after
+>                    3 section 5332 the following new section:
+>                    4 ‘‘§5333. Transparent incorporation practices
+>                    5 ‘‘(a) REPORTING REQUIREMENTS .—
+>                    6 ‘‘(1) N GENERAL .—Not later than the begin7 ning of fiscal year 2019, the Secretary of the Treas8 ury shall issue regulations requiring each corpora9 tion and limited liability company formed in a State
+>                  10 that does not have a formation system described
+>                  11 under subsection (b) to file with the Financial
+>                  12 Crimes Enforcement Network such information as
+>                  13 the corporation or limited liability company would be
+>                  14 required to provide the State if such State had a for15 mation system described under subsection (b).
+>                  16 ‘‘(2) DISCLOSURE OF BENEFICIAL OWNERSHIP
+>                  17 INFORMATION .—Beneficial ownership information
+>                  18 reported to the Financial Crimes Enforcement Net19 work pursuant to paragraph (1) shall be provided by
+>                  20 the Financial Crimes Enforcement Network upon re21 ceipt of—
+>                  22 ‘‘(A) a civil or criminal subpoena or sum23 mons from a State agency, Federal agency, or
+>                  24 congressional committee or subcommittee re25 questing such information;
+>        g:\VHLC\062817\062817.14(665350|3)
+> VerDate 0ct 11:53 Jun Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                 7
+>                    1 ‘‘(B) a written request made by a Federal
+>                    2 agency on behalf of another country under an
+>                    3 international treaty, agreement, or convention,
+>                    4 or an order under section 3512 of title 18,
+>                    5 United States Code, or section 1782 of title 28,
+>                    6 United States Code, issued in response to a re7 quest for assistance from a foreign country; or
+>                    8 ‘‘(C) a written request made by a financial
+>                    9 institution, with customer consent, as part of
+>                  10 the institution’s compliance with due diligence
+>                  11 requirements imposed under the Bank Secrecy
+>                  12 Act, the USA PATRIOT Act, or other applica13 ble Federal or Sate law.
+>                  14 ‘‘(3) LIMITATION .—In issuing regulations pur15 suant to paragraph (1), the Secretary shall not re16 quire such information to be filed with the Internal
+>                  17 Revenue Service.
+>                  18 ‘‘(b) ORMATION SYSTEM .—
+>                  19 ‘‘(1) IN GENERAL .—With respect to a State, a
+>                  20 formation system is described under this subsection
+>                  21 if it meets the following requirements:
+>                  22 ‘‘(A) IDENTIFICATION OF BENEFICIAL
+>                  23 OWNERS .—Except as provided in paragraphs
+>                  24 (2) and (4), and subject to paragraph (3), each
+>                  25 applicant to form a corporation or limited liabilg:\VHLC\062817\062817.14(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 00PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                  8
+>                    1 ity company under the laws of the State is re2 quired to provide to the State during the forma3 tion process a list of the beneficial owners of
+>                    4 the corporation or limited liability company
+>                    5 that—
+>                    6 ‘‘(i) except as provided in subpara7 graph (F), identifies each beneficial owner
+>                    8 by—
+>                    9 ‘‘(I) name;
+>                   10 ‘‘(II) current residential or busi11 ness street address; and
+>                   12 ‘‘(III) a unique identifying num13 ber from a non-expired passport
+>                   14 issued by the United States or a non-15 expired driver’s license issued by a
+>                   16 State; and
+>                   17 ‘‘(ii) if the applicant is not the bene18 ficial owner, provides the identification in19 formation described in clause (i) relating
+>                   20 to the applicant.
+>                   21 ‘‘(B) UPDATED INFORMATION .—For each
+>                   22 corporation or limited liability company formed
+>                   23 under the laws of the State—
+>                   24 ‘‘(i) the corporation or limited liability
+>                   25 company is required by the State to update
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                   9
+>                    1 the list of the beneficial owners of the cor2 poration or limited liability company by
+>                    3 providing the information described in sub4 paragraph (A) to the State not later than
+>                    5 60 days after the date of any change in the
+>                    6 list of beneficial owners or the information
+>                    7 required to be provided relating to each
+>                    8 beneficial owner;
+>                    9 ‘‘(ii) in the case of a corporation or
+>                   10 limited liability company formed or ac11 quired by a formation agent and retained
+>                   12 by the formation agent as a beneficial
+>                   13 owner for transfer to another person, the
+>                   14 formation agent is required by the State to
+>                   15 submit to the State an updated list of the
+>                   16 beneficial owners and the information de17 scribed in subparagraph (A) for each such
+>                   18 beneficial owner not later than 10 days
+>                   19 after date on which the formation agent
+>                   20 transfers the corporation or limited liabil21 ity company to another person; and
+>                   22 ‘‘(iii) the corporation or limited liabil23 ity company is required by the State to
+>                   24 submit to the State an annual filing con25 taining the list of the beneficial owners of
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 28Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                 10
+>                    1 the corporation or limited liability company
+>                    2 and the information described in subpara3 graph (A) for each such beneficial owner.
+>                    4 ‘‘(C) RETENTION OF INFORMATION .—Ben5 eficial ownership information relating to each
+>                    6 corporation or limited liability company formed
+>                    7 under the laws of the State is required to be
+>                    8 maintained by the State until the end of the 59 year period beginning on the date that the cor10 poration or limited liability company terminates
+>                   11 under the laws of the State.
+>                   12 ‘‘(D) INFORMATION REQUESTS .—Bene13 ficial ownership information relating to each
+>                   14 corporation or limited liability company formed
+>                   15 under the laws of the State shall be provided by
+>                   16 the State upon receipt of—
+>                   17 ‘‘(i) a civil or criminal subpoena or
+>                   18 summons from a State agency, Federal
+>                   19 agency, or congressional committee or sub20 committee requesting such information;
+>                   21 ‘‘(ii) a written request made by a Fed22 eral agency on behalf of another country
+>                   23 under an international treaty, agreement,
+>                   24 or convention, or section 1782 of title 28,
+>                   25 United States Code;
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                11
+>                    1 ‘‘(iii) a written request made by the
+>                    2 Financial Crimes Enforcement Network; or
+>                    3 ‘‘(iv) a written request made by a fi4 nancial institution, with customer consent,
+>                    5 as part of the institution’s compliance with
+>                    6 due diligence requirements imposed under
+>                    7 the Bank Secrecy Act, the USA PATRIOT
+>                    8 Act, or other applicable Federal or Sate
+>                    9 law.
+>                  10 ‘‘(E) NOTICE .—The State discloses clearly
+>                  11 and conspicuously that the beneficial ownership
+>                  12 information collected under the formation sys13 tem may be provided to the entities described in
+>                  14 subparagraph (D), pursuant to the require15 ments of such subparagraph.
+>                  16 ‘‘(F) NO BEARER SHARE CORPORATIONS
+>                  17 OR LIMITED LIABILITY COMPANIES .—A cor18 poration or limited liability company formed
+>                  19 under the laws of the State may not issue a cer20 tificate in bearer form evidencing either a whole
+>                  21 or fractional interest in the corporation or lim22 ited liability company.
+>                  23 ‘‘(2) STATES THAT LICENSE FORMATION
+>                  24 AGENTS .—
+>        g:\VHLC\062817\062817.14(665350|3)
+> VerDate 0ct 11:53 Jun Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                 12
+>                    1 ‘‘(A) I GENERAL .—Notwithstanding para2 graph (1), a State described in subparagraph
+>                    3 (B) may permit an applicant to form a corpora4 tion or limited liability company under the laws
+>                    5 of the State, or a corporation or limited liability
+>                    6 company formed under the laws of the State, to
+>                    7 provide the required information to a licensed
+>                    8 formation agent residing in the State, instead
+>                    9 of to the State directly, if the application under
+>                   10 paragraph (1)(A) or the update under para11 graph (1)(B) contains—
+>                   12 ‘‘(i) the name, current business ad13 dress, contact information, and licensing
+>                   14 number of the licensed formation agent
+>                   15 that has agreed to maintain the informa16 tion required under this subsection; and
+>                   17 ‘‘(ii) a certification by the licensed
+>                   18 formation agent that the licensed forma19 tion agent has possession of the informa20 tion required under this subsection and
+>                   21 will maintain the information in the State
+>                   22 licensing the licensed formation agent in
+>                   23 accordance with State law.
+>                   24 ‘‘(B) STATES DESCRIBED .—A State de25 scribed in this subparagraph is a State that
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                 13
+>                    1 maintains a formal licensing system for forma2 tion agents that requires a formation agent to
+>                    3 register with the State, meet standards for fit4 ness and honesty, maintain a physical office
+>                    5 and records within the State, undergo regular
+>                    6 monitoring, and be subject to sanctions for non-7 compliance with State requirements.
+>                    8 ‘‘(C) LICENSED FORMATION AGENT DU9 TIES .—A licensed formation agent that receives
+>                   10 beneficial ownership information under State
+>                   11 law in accordance with this paragraph shall—
+>                   12 ‘‘(i) maintain the information in the
+>                   13 State in which the corporation or limited
+>                   14 liability company is being or has been
+>                   15 formed in the same manner as required for
+>                   16 States under paragraph (1)(C);
+>                   17 ‘‘(ii) provide the information under
+>                   18 the same circumstances as required for
+>                   19 States under paragraph (1)(D); and
+>                   20 ‘‘(iii) perform the duties of a forma21 tion agent under paragraph (3).
+>                   22 ‘‘(D) TERMINATION OF RELATIONSHIP .—
+>                   23 ‘‘(i) N GENERAL .—Except as pro24 vided in clause (ii), a licensed formation
+>                   25 agent that receives beneficial ownership ing:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                  14
+>                    1 formation relating to a corporation or lim2 ited liability company under State law in
+>                    3 accordance with this paragraph and that
+>                    4 resigns, dissolves, or otherwise ends a rela5 tionship with the corporation or limited li6 ability company shall promptly—
+>                    7 ‘‘(I) notify the State in writing
+>                    8 that the licensed formation agent has
+>                    9 resigned or ended the relationship;
+>                   10 and
+>                   11 ‘‘(II) transmit all beneficial own12 ership information relating to the cor13 poration or limited liability company
+>                   14 in the possession of the licensed for15 mation agent to the licensing State.
+>                   16 ‘‘(ii) EXCEPTION .—If a licensed for17 mation agent receives written instructions
+>                   18 from a corporation or limited liability com19 pany, the licensed formation agent may
+>                   20 transmit the beneficial ownership informa21 tion relating to the corporation or limited
+>                   22 liability company to another licensed for23 mation agent that is within the same State
+>                   24 and has agreed to maintain the informa25 tion in accordance with this section.
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                  15
+>                    1 ‘‘(iii) NOTICE TO STATE .—If a li2 censed formation agent provides beneficial
+>                    3 ownership information to another licensed
+>                    4 formation agent under clause (ii), the li5 censed formation agent providing the infor6 mation shall promptly notify in writing the
+>                    7 State under the laws of which the corpora8 tion or limited liability company is formed
+>                    9 of the identity of the licensed formation
+>                   10 agent receiving the information.
+>                   11 ‘‘(3) CERTAIN BENEFICIAL OWNERS .—If an ap12 plicant to form a corporation or limited liability com13 pany or a beneficial owner, officer, director, or simi14 lar agent of a corporation or limited liability com15 pany who is required to provide identification infor16 mation under this subsection does not have a non-17 expired passport issued by the United States or a
+>                   18 non-expired driver’s license or identification card
+>                   19 issued by a State, each application described in
+>                   20 paragraph (1)(A) and each update described in
+>                   21 paragraph (1)(B) shall include a certification by a
+>                   22 formation agent residing in the State that the for23 mation agent—
+>                   24 ‘‘(A) has obtained for each such person a
+>                   25 current residential or business street address
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                 16
+>                    1 and a legible and credible copy of the pages of
+>                    2 a non-expired passport issued by the govern3 ment of a foreign country bearing a photo4 graph, date of birth, and unique identifying in5 formation for the person;
+>                    6 ‘‘(B) has verified the name, address, and
+>                    7 identity of each such person;
+>                    8 ‘‘(C) will provide the information described
+>                    9 in subparagraph (A) and the proof of
+>                   10 verification described in subparagraph (B) upon
+>                   11 request under the same circumstances as re12 quired for States under paragraph (1)(D); and
+>                   13 ‘‘(D) will retain the information and proof
+>                   14 of verification under this paragraph in the
+>                   15 State in which the corporation or limited liabil16 ity company is being or has been formed until
+>                   17 the end of the 5-year period beginning on the
+>                   18 date that the corporation or limited liability
+>                   19 company terminates under the laws of the
+>                   20 State.
+>                   21 ‘‘(4) EXEMPT ENTITIES .—
+>                   22 ‘‘(A) IN GENERAL .—A formation system
+>                   23 described in paragraph (1) shall require that an
+>                   24 application for an entity described in subpara25 graph (C) or (D) of subsection (d)(2) that is
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                  17
+>                    1 proposed to be formed under the laws of a
+>                    2 State and that will be exempt from the bene3 ficial ownership disclosure requirements under
+>                    4 this subsection shall include in the application
+>                    5 a certification by the applicant, or a prospective
+>                    6 officer, director, or similar agent of the entity—
+>                    7 ‘‘(i) identifying the specific provision
+>                    8 of subsection (d)(2) under which the entity
+>                    9 proposed to be formed would be exempt
+>                   10 from the beneficial ownership disclosure re11 quirements under paragraphs (1), (2), and
+>                   12 (3);
+>                   13 ‘‘(ii) stating that the entity proposed
+>                   14 to be formed meets the requirements for
+>                   15 an entity described under such provision of
+>                   16 subsection (d)(2); and
+>                   17 ‘‘(iii) providing identification informa18 tion for the applicant or prospective offi19 cer, director, or similar agent making the
+>                   20 certification in the same manner as pro21 vided under paragraph (1) or (3).
+>                   22 ‘‘(B) EXISTING ENTITIES .—On and after
+>                   23 the date that is 2 years after the effective date
+>                   24 of the amendments to the formation system of
+>                   25 a State made to comply with this section, an
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                  18
+>                    1 entity formed under the laws of the State be2 fore such effective date shall be considered to
+>                    3 be a corporation or limited liability company for
+>                    4 purposes of, and shall be subject to the require5 ments of, this subsection unless an officer, di6 rector, or similar agent of the entity submits to
+>                    7 the State a certification—
+>                    8 ‘‘(i) identifying the specific provision
+>                    9 of subsection (d)(2) under which the entity
+>                   10 is exempt from the requirements under
+>                   11 paragraphs (1), (2), and (3);
+>                   12 ‘‘(ii) stating that the entity meets the
+>                   13 requirements for an entity described under
+>                   14 such provision of subsection (d)(2); and
+>                   15 ‘‘(iii) providing identification informa16 tion for the officer, director, or similar
+>                   17 agent making the certification in the same
+>                   18 manner as provided under paragraph (1)
+>                   19 or (3).
+>                   20 ‘‘(C) EXEMPT ENTITIES HAVING OWNER21 SHIP INTEREST .—If an entity described in sub22 paragraph (C) or (D) of subsection (d)(2) has
+>                   23 or will have an ownership interest in a corpora24 tion or limited liability company formed or to be
+>                   25 formed under the laws of a State, the applicant,
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 28Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                 19
+>                    1 corporation, or limited liability company in
+>                    2 which the entity has or will have the ownership
+>                    3 interest shall provide the information required
+>                    4 under this subsection relating to the entity, ex5 cept that the entity shall not be required to pro6 vide information regarding any natural person
+>                    7 who has an ownership interest in, exercises sub8 stantial control over, or receives substantial eco9 nomic benefits from the entity.
+>                   10 ‘‘(c) ENALTIES .—
+>                   11 ‘‘(1) N GENERAL .—It shall be unlawful for—
+>                   12 ‘‘(A) any person to affect interstate or for13 eign commerce by—
+>                   14 ‘‘(i) knowingly providing, or attempt15 ing to provide, false or fraudulent bene16 ficial ownership information, including a
+>                   17 false or fraudulent identifying photograph,
+>                   18 to a State or licensed formation agent
+>                   19 under State law in accordance with this
+>                   20 section;
+>                   21 ‘‘(ii) willfully failing to provide com22 plete or updated beneficial ownership infor23 mation to a State or licensed formation
+>                   24 agent under State law in accordance with
+>                   25 this section; or
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                  20
+>                    1 ‘‘(iii) knowingly disclosing the exist2 ence of a subpoena, summons, or other re3 quest for beneficial ownership information,
+>                    4 except—
+>                    5 ‘‘(I) to the extent necessary to
+>                    6 fulfill the authorized request;
+>                    7 ‘‘(II) as authorized by the entity
+>                    8 that issued the subpoena, summons,
+>                    9 or other request; or
+>                   10 ‘‘(III) as prescribed by a State;
+>                   11 or
+>                   12 ‘‘(B) in the case of a formation agent,
+>                   13 knowingly failing to obtain or maintain credible,
+>                   14 legible, and updated beneficial ownership infor15 mation, including any required identifying pho16 tograph.
+>                   17 ‘‘(2) CIVIL AND CRIMINAL PENALTIES .—In ad18 dition to any civil or criminal penalty that may be
+>                   19 imposed by a State, any person who violates para20 graph (1)—
+>                   21 ‘‘(A) shall be liable to the United States
+>                   22 for a civil penalty of not more than $10,000;
+>                   23 and
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                 21
+>                    1 ‘‘(B) may be fined under title 18, United
+>                    2 States Code, imprisoned for not more than 3
+>                    3 years, or both.
+>                    4 ‘‘(d) DEFINITIONS .—For the purposes of this section:
+>                    5 ‘‘(1) BENEFICIAL OWNER .—
+>                    6 ‘‘(A) IN GENERAL .—Except as provided in
+>                    7 subparagraph (B), the term ‘beneficial owner’
+>                    8 means a natural person who, directly or indi9 rectly—
+>                   10 ‘‘(i) exercises substantial control over
+>                   11 a corporation or limited liability company;
+>                   12 or
+>                   13 ‘‘(ii) has a substantial interest in or
+>                   14 receives substantial economic benefits from
+>                   15 the assets of a corporation or limited liabil16 ity company.
+>                   17 ‘‘(B) EXCEPTIONS .—The term ‘beneficial
+>                   18 owner’ shall not include—
+>                   19 ‘‘(i) a minor child;
+>                   20 ‘‘(ii) a person acting as a nominee,
+>                   21 intermediary, custodian, or agent on behalf
+>                   22 of another person;
+>                   23 ‘‘(iii) a person acting solely as an em24 ployee of a corporation or limited liability
+>                   25 company and whose control over or ecog:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                  22
+>                    1 nomic benefits from the corporation or lim2 ited liability company derives solely from
+>                    3 the employment status of the person;
+>                    4 ‘‘(iv) a person whose only interest in
+>                    5 a corporation or limited liability company
+>                    6 is through a right of inheritance, unless
+>                    7 the person also meets the requirements of
+>                    8 subparagraph (A); or
+>                    9 ‘‘(v) a creditor of a corporation or
+>                   10 limited liability company, unless the cred11 itor also meets the requirements of sub12 paragraph (A).
+>                   13 ‘‘(2) CORPORATION ; LIMITED LIABILITY COM14 PANY .—The terms ‘corporation’ and ‘limited liability
+>                   15 company’—
+>                   16 ‘‘(A) have the meanings given such terms
+>                   17 under the laws of the applicable State;
+>                   18 ‘‘(B) include any non-United States entity
+>                   19 eligible for registration or registered to do busi20 ness as a corporation or limited liability com21 pany under the laws of the applicable State;
+>                   22 ‘‘(C) do not include any entity that is, and
+>                   23 discloses in the application by the entity to
+>                   24 form under the laws of the State or, if the enti25 ty was formed before the date of the enactment
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                  23
+>                    1 of this section, in a filing with the State under
+>                    2 State law—
+>                    3 ‘‘(i) a business concern that is an
+>                    4 issuer of a class of securities registered
+>                    5 under section 12 of the Securities Ex6 change Act of 1934 (15 U.S.C. 781) or
+>                    7 that is required to file reports under sec8 tion 15(d) of that Act (15 U.S.C. 78o(d));
+>                    9 ‘‘(ii) a business concern constituted or
+>                   10 sponsored by a State, a political subdivi11 sion of a State, under an interstate com12 pact between 2 or more States, by a de13 partment or agency of the United States,
+>                   14 or under the laws of the United States;
+>                   15 ‘‘(iii) a depository institution (as de16 fined in section 3 of the Federal Deposit
+>                   17 Insurance Act (12 U.S.C. 1813));
+>                   18 ‘‘(iv) a credit union (as defined in sec19 tion 101 of the Federal Credit Union Act
+>                   20 (12 U.S.C. 1752));
+>                   21 ‘‘(v) a bank holding company (as de22 fined in section 2 of the Bank Holding
+>                   23 Company Act of 1956 (12 U.S.C. 1841));
+>                   24 ‘‘(vi) a broker or dealer (as defined in
+>                   25 section 3 of the Securities Exchange Act of
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                 24
+>                    1 1934 (15 U.S.C. 78c)) that is registered
+>                    2 under section 15 of the Securities Ex3 change Act of 1934 (15 U.S.C. 78o);
+>                    4 ‘‘(vii) an exchange or clearing agency
+>                    5 (as defined in section 3 of the Securities
+>                    6 Exchange Act of 1934 (15 U.S.C. 78c))
+>                    7 that is registered under section 6 or 17A
+>                    8 of the Securities Exchange Act of 1934
+>                    9 (15 U.S.C. 78f and 78q–1);
+>                   10 ‘‘(viii) an investment company (as de11 fined in section 3 of the Investment Com12 pany Act of 1940 (15 U.S.C. 80a–3)) or
+>                   13 an investment advisor (as defined in sec14 tion 202(11) of the Investment Advisors
+>                   15 Act of 1940 (15 U.S.C. 80b–2(11))), if the
+>                   16 company or adviser is registered with the
+>                   17 Securities and Exchange Commission, or
+>                   18 has filed an application for registration
+>                   19 which has not been denied, under the In20 vestment Company Act of 1940 (15 U.S.C.
+>                   21 80a–1 et seq.) or the Investment Advisor
+>                   22 Act of 1940 (15 U.S.C. 80b–1 et seq.);
+>                   23 ‘‘(ix) an insurance company (as de24 fined in section 2 of the Investment Com25 pany Act of 1940 (15 U.S.C. 80a–2));
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                  25
+>                    1 ‘‘(x) a registered entity (as defined in
+>                    2 section 1a of the Commodity Exchange Act
+>                    3 (7 U.S.C. 1a)), or a futures commission
+>                    4 merchant, introducing broker, commodity
+>                    5 pool operator, or commodity trading advi6 sor (as defined in section 1a of the Com7 modity Exchange Act (7 U.S.C. 1a)) that
+>                    8 is registered with the Commodity Futures
+>                    9 Trading Commission;
+>                   10 ‘‘(xi) a public accounting firm reg11 istered in accordance with section 102 of
+>                   12 the SarbanesOxley Act (15 U.S.C. 7212);
+>                   13 ‘‘(xii) a public utility that provides
+>                   14 telecommunications service, electrical
+>                   15 power, natural gas, or water and sewer
+>                   16 services, within the United States;
+>                   17 ‘‘(xiii) a church, charity, or nonprofit
+>                   18 entity that is described in section 501(c),
+>                   19 527, or 4947(a)(1) of the Internal Revenue
+>                   20 Code of 1986, has not been denied tax ex21 empt status, and has filed the most re22 cently due annual information return with
+>                   23 the Internal Revenue Service, if required to
+>                   24 file such a return;
+>                   25 ‘‘(xiv) any business concern that—
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                  26
+>                    1 ‘‘(I) employs more than 20 em2 ployees on a full-time basis in the
+>                    3 United States;
+>                    4 ‘‘(II) files income tax returns in
+>                    5 the United States demonstrating more
+>                    6 than $5,000,000 in gross receipts or
+>                    7 sales; and
+>                    8 ‘‘(III) has an operating presence
+>                    9 at a physical office within the United
+>                   10 States; or
+>                   11 ‘‘(xv) any corporation or limited liabil12 ity company formed and owned by an enti13 ty described in clause (i), (ii), (iii), (iv),
+>                   14 (v), (vi), (vii), (viii), (ix), (x), (xi), (xii),
+>                   15 (xiii), or (xiv); and
+>                   16 ‘‘(D) do not include any individual busi17 ness concern or class of business concerns
+>                   18 which the Secretary of the Treasury, with the
+>                   19 written concurrence of the Attorney General of
+>                   20 the United States, has determined in writing
+>                   21 should be exempt from the requirements of sub22 section (a), because requiring beneficial owner23 ship information from the business concern
+>                   24 would not serve the public interest and would
+>                   25 not assist law enforcement efforts to detect,
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 28Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                 27
+>                    1 prevent, or punish terrorism, money laundering,
+>                    2 tax evasion, or other misconduct.
+>                    3 ‘‘(3) FORMATION AGENT .—The term ‘formation
+>                    4 agent’ means a person who, for compensation—
+>                    5 ‘‘(A) acts on behalf of another person to
+>                    6 assist in the formation of a corporation or lim7 ited liability company under the laws of a State;
+>                    8 or
+>                    9 ‘‘(B) purchases, sells, or transfers the pub10 lic records that form a corporation or limited li11 ability company.
+>                   12 ‘‘(4) BANK SECRECY ACT .—The term ‘Bank Se13 crecy Act’ means—
+>                   14 ‘‘(A) section 21 of the Federal Deposit In15 surance Act;
+>                   16 ‘‘(B) chapter 2 of title I of Public Law 9117 508; and
+>                   18 ‘‘(C) this subchapter.’’.
+>                   19 (2) R ULEMAKING .—To carry out this Act and
+>                   20 the amendments made by this Act, the Secretary of
+>                   21 the Treasury, in consultation with the Secretary of
+>                   22 Homeland Security and the Attorney General of the
+>                   23 United States, may issue guidance or a rule to—
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                 28
+>                    1 (A) clarify the definitions under section
+>                    2 5333(d) of title 31, United States Code, as
+>                    3 added by paragraph (1); and
+>                    4 (B) specify how to verify beneficial owner5 ship information or other identification infor6 mation for purposes of such section 5333, in7 cluding whether the verification procedures
+>                    8 specified in section 5333(b)(3) should apply to
+>                    9 all applicants under section 5333(b)(1) or
+>                   10 whether such verification process should require
+>                   11 the notarization of signatures.
+>                   12 (3) CONFORMING AMENDMENTS .—Title 31,
+>                   13 United States Code, is amended—
+>                   14 (A) in section 5321(a)—
+>                   15 (i) in paragraph (1), by striking ‘‘sec16 tions 5314 and 5315’’ each place it ap17 pears and inserting ‘‘sections 5314, 5315,
+>                   18 and 5333’’; and
+>                   19 (ii) in paragraph (6), by inserting
+>                   20 ‘‘(except section 5333)’’ after ‘‘sub21 chapter’’ each place it appears; and
+>                   22 (B) in section 5322, by striking ‘‘section
+>                   23 5315 or 5324’’ each place it appears and insert24 ing ‘‘section 5315, 5324, or 5333’’.
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                29
+>                    1 (4) TABLE OF CONTENTS .—The table of con2 tents of chapter 53 of title 31, United States Code,
+>                    3 is amended by inserting after the item relating to
+>                    4 section 5332 the following:
+>                      ‘‘Sec. 5333. Transparent incorporation practices.’’.
+>                    5 (5) RESTRICTIONS ON PUBLIC ACCESS .—A
+>                    6 State may—
+>                    7 (A) restrict public access to all or any por8 tion of the beneficial ownership information
+>                    9 provided to the State as described under section
+>                  10 5332 of title 31, United States Code, as added
+>                  11 by this Act; and
+>                  12 (B) by statute, regulation, order, or inter13 pretation adopted or issued by the State after
+>                  14 the date of enactment of this Act, provide for
+>                  15 public access to all or any portion of such infor16 mation.
+>                  17 (6) NO DUTY OF VERIFICATION .—This Act and
+>                  18 the amendments made by this Act do not impose
+>                  19 any obligation on a State to verify the name, ad20 dress, or identity of a beneficial owner whose infor21 mation is submitted to such State under section
+>                  22 5333 of title 31, United States Code, as added by
+>                  23 this Act.
+>                  24 (b) FUNDING AUTHORIZATION .—
+>        g:\VHLC\062817\062817.14(665350|3)
+> VerDate 0ct 11:53 Jun Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                 30
+>                    1 (1) IN GENERAL .—To carry out section 5333 of
+>                    2 title 31, United States Code, during the 3-year pe3 riod beginning on the date of enactment of this Act,
+>                    4 funds shall be made available to each State to pay
+>                    5 reasonable costs relating to compliance with the re6 quirements of such section.
+>                    7 (2) FUNDING SOURCES .—To protect the United
+>                    8 States against the misuse of United States corpora9 tions and limited liability companies with hidden
+>                   10 owners, funds shall be provided to each State to
+>                   11 carry out the purposes described in paragraph (1)
+>                   12 from one or more of the following sources:
+>                   13 (A) Upon application by a State, and with14 out further appropriation, the Secretary of the
+>                   15 Treasury shall make available to the State un16 obligated balances described in section
+>                   17 9703(g)(4)(B) of title 31, United States Code,
+>                   18 in the Department of the Treasury Forfeiture
+>                   19 Fund established under section 9703(a) of title
+>                   20 31, United States Code.
+>                   21 (B) Upon application by a State, after con22 sultation with the Secretary of the Treasury,
+>                   23 and without further appropriation, the Attorney
+>                   24 General of the United States shall make avail25 able to the State excess unobligated balances
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>       G:\M\15\MALONE\MALONE_038.XML
+>                                                31
+>                   1 (as defined in section 524(c)(8)(D) of title 28,
+>                   2 United States Code) in the Department of Jus3 tice Assets Forfeiture Fund established under
+>                   4 section 524(c) of title 28, United States Code.
+>                   5 (3) MAXIMUM AMOUNTS .—
+>                   6 (A) DEPARTMENT OF THE TREASURY .—
+>                   7 The Secretary of the Treasury may not make
+>                   8 available to States a total of more than
+>                   9 $30,000,000 under paragraph (2)(A).
+>                  10 (B) DEPARTMENT OF JUSTICE .—The At11 torney General of the United States may not
+>                  12 make available to States a total of more than
+>                  13 $10,000,000 under paragraph (2)(B).
+>                  14 (4) R ULEMAKING .—Not later than the end of
+>                  15 the 180-day period beginning on the date of the en16 actment of this Act, the Secretary of the Treasury
+>                  17 and the Attorney General shall, jointly, issue regula18 tions setting forth the procedures for States to apply
+>                  19 for funds under this subsection, including deter20 mining which State measures should be funded to
+>                  21 assess, plan, develop, test, or implement relevant
+>                  22 policies, procedures, or system modifications.
+>                  23 (c) COMPLIANCE REPORT .—Nothing in this section
+>                  24 or the amendments made by this section authorizes the
+>                  25 Secretary of the Treasury to withhold from a State any
+>       g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun Jkt 000PO 000Frm 000Fmt 6Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                  32
+>                    1 funding otherwise available to the State because of a fail2 ure by that State to comply with section 5333 of title 31,
+>                    3 United States Code. Not later than the end of the 424 month period beginning on the date of the enactment of
+>                    5 this Act, the Comptroller General of the United States
+>                    6 shall submit to the Committee on Financial Services of
+>                    7 the House of Representatives and the Committee on
+>                    8 Homeland Security and Governmental Affairs of the Sen9 ate a report—
+>                   10 (1) identifying which States obtain beneficial
+>                   11 ownership information as described in such section
+>                   12 5333;
+>                   13 (2) with respect to each State that does not ob14 tain such information, whether corporations and lim15 ited liability companies formed under the laws of
+>                   16 such State are in compliance with such section 5333
+>                   17 and providing the specified beneficial ownership in18 formation to the Financial Crimes Enforcement Net19 work; and
+>                   20 (3) whether the Department of the Treasury is
+>                   21 in compliance with such section 5333 and, if not,
+>                   22 what steps it must take to come into compliance
+>                   23 with this section.
+>                   24 (d) FEDERAL CONTRACTORS .—Not later than the
+>                   25 first day of the first full fiscal year beginning at least one
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 0000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>       G:\M\15\MALONE\MALONE_038.XML
+>                                                33
+>                   1 year after the date of the enactment of this Act, the Ad2 ministrator for Federal Procurement Policy shall revise
+>                   3 the Federal Acquisition Regulation maintained under sec4 tion 1303(a)(1) of title 41, United States Code, to require
+>                   5 any contractor who is subject to the requirement to dis6 close beneficial ownership information under section 5333
+>                   7 of title 31, United States Code, to provide the information
+>                   8 required to be disclosed under such section to the Federal
+>                   9 Government as part of any bid or proposal for a contract
+>                  10 with a value threshold in excess of the simplified acquisi11 tion threshold under section 134 of title 41, United States
+>                  12 Code.
+>                  13 (e) A NTIMONEY LAUNDERING OBLIGATIONS OF
+>                  14 FORMATION AGENTS .—
+>                  15 (1) IN GENERAL .—Section 5312(a)(2) of title
+>                  16 31, United States Code, is amended—
+>                  17 (A) in subparagraph (Y), by striking ‘‘or’’
+>                  18 at the end;
+>                  19 (B) by redesignating subparagraph (Z) as
+>                  20 subparagraph (AA); and
+>                  21 (C) by inserting after subparagraph (Y)
+>                  22 the following:
+>                  23 ‘‘(Z) any person who, for compensation—
+>                  24 ‘‘(i) acts on behalf of another person
+>                  25 to form, or assist in formation of, a corg:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun Jkt 000PO 000Frm 000Fmt 6Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                34
+>                    1 poration or limited liability company under
+>                    2 the laws of a State; or
+>                    3 ‘‘(ii) purchases, sells, or transfers the
+>                    4 public records that form a corporation or
+>                    5 limited liability company; or’’.
+>                    6 (2) DEADLINE FOR ANTI MONEY LAUNDERING
+>                    7 RULE FOR FORMATION AGENTS .—
+>                    8 (A) PROPOSED RULE .—Not later than 120
+>                    9 days after the date of enactment of this Act,
+>                  10 the Secretary of the Treasury, in consultation
+>                  11 with the Attorney General of the United States
+>                  12 and the Commissioner of the Internal Revenue
+>                  13 Service, shall publish a proposed rule in the
+>                  14 Federal Register requiring persons described in
+>                  15 section 5312(a)(2)(Z) of title 31, United States
+>                  16 Code, as amended by this subsection, to estab17 lish antimoney laundering programs under sub18 section (h) of section 5318 of that title.
+>                  19 (B) FINAL RULE .—Not later than 270
+>                  20 days after the date of enactment of this Act,
+>                  21 the Secretary of the Treasury shall publish the
+>                  22 rule described in this subsection in final form in
+>                  23 the Federal Register.
+>                  24 (C) EXCLUSIONS .—Any rule promulgated
+>                  25 under this subsection shall exclude from the
+>        g:\VHLC\062817\062817.14(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 00PO 0000Frm 00Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                 35
+>                    1 category of persons involved in forming a cor2 poration or limited liability company—
+>                    3 (i) any government agency; and
+>                    4 (ii) any attorney or law firm that uses
+>                    5 a paid formation agent operating within
+>                    6 the United States to form the corporation
+>                    7 or limited liability company.
+>                    8 SEC. 4. STUDIES AND REPORTS.
+>                    9 (a) OTHER LEGAL ENTITIES .—Not later than 2
+>                   10 years after the date of enactment of this Act, the Comp11 troller General of the United States shall conduct a study
+>                   12 and submit to the Congress a report—
+>                   13 (1) identifying each State that has procedures
+>                   14 that enable persons to form or register under the
+>                   15 laws of the State partnerships, trusts, or other legal
+>                   16 entities, and the nature of those procedures;
+>                   17 (2) identifying each State that requires persons
+>                   18 seeking to form or register partnerships, trusts, or
+>                   19 other legal entities under the laws of the State to
+>                   20 provide information about the beneficial owners (as
+>                   21 that term is defined in section 5333(d)(1) of title
+>                   22 31, United States Code, as added by this Act) or
+>                   23 beneficiaries of such entities, and the nature of the
+>                   24 required information;
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>        G:\M\15\MALONE\MALONE_038.XML
+>                                                 36
+>                    1 (3) evaluating whether the lack of available
+>                    2 beneficial ownership information for partnerships,
+>                    3 trusts, or other legal entities—
+>                    4 (A) raises concerns about the involvement
+>                    5 of such entities in terrorism, money laundering,
+>                    6 tax evasion, securities fraud, or other mis7 conduct; and
+>                    8 (B) has impeded investigations into enti9 ties suspected of such misconduct; and
+>                   10 (4) evaluating whether the failure of the United
+>                   11 States to require beneficial ownership information
+>                   12 for partnerships and trusts formed or registered in
+>                   13 the United States has elicited international criticism
+>                   14 and what steps, if any, the United States has taken
+>                   15 or is planning to take in response.
+>                   16 (b) EFFECTIVENESS OF INCORPORATION P RAC17 TICES .—Not later than 5 years after the date of enact18 ment of this Act, the Comptroller General of the United
+>                   19 States shall conduct a study and submit to the Congress
+>                   20 a report assessing the effectiveness of incorporation prac21 tices implemented under this Act and the amendments
+>                   22 made by this Act in—
+>                   23 (1) providing law enforcement agencies with
+>                   24 prompt access to reliable, useful, and complete bene25 ficial ownership information; and
+>        g:\VHLC\062817\062817.144(665350|3)
+> VerDate 0ct 11:53 Jun 2Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.
+>         G:\M\15\MALONE\MALONE_038.XML
+>                                                          37
+>                       1 (2) strengthening the capability of law enforce2 ment agencies to combat incorporation abuses, civil
+>                       3 and criminal misconduct, and detect, prevent, or
+>                       4 punish terrorism, money laundering, tax evasion, or
+>                       5 other misconduct.
+>         g:\VHLC\062817\062817.144.xml (665350|3)
+>         June 28, 2017 (11:53 a.m.)
+> VerDate 0ct 0911:53 Jun 28,Jkt 0000PO 00000Frm 0003Fmt 665Sfmt 620C:\USERS\MWBARK~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\MALONE~1.

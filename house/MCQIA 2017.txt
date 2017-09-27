@@ -1,0 +1,260 @@
+>        G:\M\15\DEGETT\DEGETT_007.XML
+>                                                      .....................................................................
+>                                                          (Original Signature of Member)
+>                   115 TH CONGRESS
+>                       1ST SESSION
+>                                         H. R.ll
+>                   To amend titles XI and XIX of the Social Security Act to establish a
+>                       comprehensive and nationwide system to evaluate the quality of care
+>                       provided to beneficiaries of Medicaid and the Children’s Health Insurance
+>                       Program and to provide incentives for voluntary quality improvement.
+>                          IN THE HOUSE OF REPRESENTATIVES
+>                    Ms. DE GETTE (for herself and MENNEDY ) introduced the following bill;
+>                    which was referred to the Committee on lllllllllllllll
+>                                           A BILL
+>                   To amend titles XI and XIX of the Social Security Act
+>                       to establish a comprehensive and nationwide system to
+>                       evaluate the quality of care provided to beneficiaries of
+>                       Medicaid and the Children’s Health Insurance Program
+>                       and to provide incentives for voluntary quality improvement.
+>                    1 Be it enacted by the Senate and House of Representa2 tives of the United States of America in Congress assembled,
+>                    3 SECTION 1. SHORT TITLE.
+>                    4 This Act may be cited as the ‘‘Medicaid and Chip
+>                    5 Quality Improvement Act of 2017’’.
+>        g:\VHLC\050517\050517.069(659675|1)
+> VerDate Nov 212:40 May 0Jkt 000PO 0000Frm 000Fmt 66Sfmt 62C:\USERS\JRSHAP~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\DEGETT~1.
+>        G:\M\15\DEGETT\DEGETT_007.XML
+>                                                  2
+>                    1 SEC. 2. FINDINGS.
+>                    2 Congress finds the following:
+>                    3 (1) Despite the fact that Federal and State
+>                    4 governments spend hundreds of billions of dollars
+>                    5 every year on care for Americans through the Med6 icaid and CHIP programs, there is no nationwide,
+>                    7 systematic method of reporting, collecting, evalu8 ating, or improving the quality of care across all
+>                    9 payment and delivery systems (fee-for-service, man10 aged care, primary care case management, or other
+>                   11 mechanisms).
+>                   12 (2) Although the quality of care delivered
+>                   13 through Medicaid health plans is frequently meas14 ured, there is no method or mechanism to systemati15 cally improve the quality of care provided to all Med16 icaid and CHIP beneficiaries.
+>                   17 (3) For the majority of Medicaid and CHIP en18 rollees who are served by primary care case manage19 ment or fee-for-service arrangements, there are no
+>                   20 Federal requirements for comparable quality moni21 toring or improvement. Thus there currently is no
+>                   22 ability to make fair assessments across all modes of
+>                   23 care for Medicaid and CHIP enrollees.
+>                   24 (4) State flexibility and the resulting opportuni25 ties for innovation are hallmarks of the partnership
+>                   26 between Federal and State governments in the Medg:\VHLC\050517\050517.069(659675|1)
+> VerDate Nov 212:40 May 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\JRSHAP~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\DEGETT~1.
+>       G:\M\15\DEGETT\DEGETT_007.XML
+>                                               3
+>                   1 icaid and CHIP programs. Without a way to system2 atically measure quality, however, policymakers can3 not know which innovations are the most effective.
+>                   4 SEC. 3. MEASURING AND REPORTING ON COMPARABLE
+>                   5 HEALTH CARE QUALITY MEASURES FOR ALL
+>                   6 PERSONS ENROLLED IN MEDICAID.
+>                   7 (a) QUALITY ASSURANCE STANDARDS .—Section
+>                   8 1932(c)(1)(A) of the Social Security Act (42 U.S.C.
+>                   9 1396u–2(c)(1)(A)) is amended by inserting ‘‘or com10 parable primary care case management services providers
+>                  11 described in section 1905(t) as well as health care services
+>                  12 furnished in fee-for-service settings or other delivery sys13 tems’’ after ‘‘1903(m)’’.
+>                  14 (b) ADULT HEALTH QUALITY MEASURES .—Section
+>                  15 1139B of the Social Security Act (42 U.S.C. 1320b–9b)
+>                  16 is amended—
+>                  17 (1) in subsection (b)—
+>                  18 (A) by redesignating paragraphs (4) and
+>                  19 (5) as paragraphs (5) and (6), respectively; and
+>                  20 (B) by inserting after paragraph (3), the
+>                  21 following:
+>                  22 ‘‘(4) QUALITY REPORTING FOR MEDICAID ELI23 GIBLE ADULTS .—Beginning not later than January
+>                  24 1 of the calendar year that begins on or after the
+>                  25 date that is 2 years after the date of enactment of
+>       g:\VHLC\050517\050517.06(659675|1)
+> VerDate Nov 12:40 May 0Jkt 00PO 000Frm 000Fmt 6Sfmt 6C:\USERS\JRSHAP~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\DEGETT~1.
+>        G:\M\15\DEGETT\DEGETT_007.XML
+>                                                  4
+>                    1 the Medicaid and Chip Quality Improvement Act of
+>                    2 2017, and annually thereafter, the Secretary shall
+>                    3 require States to use the measures and approaches
+>                    4 identified in paragraph (3) to report on the initial
+>                    5 core set of quality measures for Medicaid eligible
+>                    6 adults identified in paragraph (2), subject to revi7 sions made in accordance with paragraph (6)(B).
+>                    8 Such reporting shall be stratified by delivery system,
+>                    9 including managed care organizations under section
+>                   10 1932, benchmark plans under section 1937, primary
+>                   11 care case management services providers described
+>                   12 in section 1905(t), health care services in fee-for-13 service settings, and other delivery systems, except
+>                   14 that the Secretary may determine that reporting on
+>                   15 certain measures should not be stratified by delivery
+>                   16 system because such stratification would not be fea17 sible or the delivery systems are not comparable with
+>                   18 respect to the application of such measures. In addi19 tion to the stratification required under the previous
+>                   20 sentence, the Secretary shall have the discretion to
+>                   21 further stratify reporting on certain measures based
+>                   22 on factors such as eligibility category, income level,
+>                   23 or other differentiating factors that could have an
+>                   24 impact on the comparability of the measure.’’; and
+>                   25 (2) in subsection (d)—
+>        g:\VHLC\050517\050517.069(659675|1)
+> VerDate Nov 212:40 May 0Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\JRSHAP~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\DEGETT~1.
+>       G:\M\15\DEGETT\DEGETT_007.XML
+>                                                5
+>                   1 (A) in paragraph (1)(A), by striking
+>                   2 ‘‘under the such plan’’ and all that follows
+>                   3 through ‘‘subsection (a)(5)’’ and inserting
+>                   4 ‘‘under such plan or waiver, including measures
+>                   5 described in subsection (b)(2), subject to revi6 sions made in accordance with subsection
+>                   7 (b)(6)(B)’’;
+>                   8 (B) in paragraph (1)(B), by inserting ‘‘, or
+>                   9 comparable primary care case management
+>                  10 services providers described in section 1905(t),
+>                  11 as well as health care services furnished in fee12 forservice settings or other delivery systems’’
+>                  13 after ‘‘section 1937’’; and
+>                  14 (C) in paragraph (2), by inserting before
+>                  15 the period the following: ‘‘, including analysis of
+>                  16 comparable quality measures for Medicaid eligi17 ble adults who receive their health services
+>                  18 through managed care, primary care case man19 agement, and fee-for-service settings or other
+>                  20 delivery systems’’.
+>                  21 (c) PEDIATRIC HEALTH CARE MEASURES .—
+>                  22 (1) IN GENERAL .—Section 1139A of the Social
+>                  23 Security Act (42 U.S.C. 1320b–9a) is amended—
+>                  24 (A) in subsection (a)—
+>       g:\VHLC\050517\050517.069(659675|1)
+> VerDate Nov 12:40 May 0Jkt 000PO 000Frm 00Fmt 66Sfmt 6C:\USERS\JRSHAP~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\DEGETT~1.
+>        G:\M\15\DEGETT\DEGETT_007.XML
+>                                                  6
+>                    1 (i) by redesignating paragraphs (5)
+>                    2 through (8) as paragraphs (6) through (9),
+>                    3 respectively; and
+>                    4 (ii) inserting after paragraph (4) the
+>                    5 following:
+>                    6 ‘‘(5) REPORTING OF PEDIATRIC HEALTH CARE
+>                    7 MEASURES .—Beginning not later than January 1 of
+>                    8 the calendar year that begins on or after the date
+>                    9 that is 2 years after the date of enactment of the
+>                   10 Medicaid and Chip Quality Improvement Act of
+>                   11 2017, and annually thereafter, the Secretary shall
+>                   12 require States to use the measures and approaches
+>                   13 identified in paragraph (4) to report on the initial
+>                   14 core child health care quality measures established
+>                   15 under this subsection and as such measures subse16 quently are updated under subsection (b)(5). Such
+>                   17 reporting shall be stratified by delivery system, in18 cluding managed care organizations under section
+>                   19 1932, benchmark plans under sections 1937 and
+>                   20 2103, primary care case management services pro21 viders described in section 1905(t), health care serv22 ices in fee-for-service settings, and other delivery
+>                   23 systems, except that the Secretary may determine
+>                   24 that reporting on certain measures should not be
+>                   25 stratified by delivery system because such stratificag:\VHLC\050517\050517.069(659675|1)
+> VerDate Nov 212:40 May 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\JRSHAP~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\DEGETT~1.
+>        G:\M\15\DEGETT\DEGETT_007.XML
+>                                                   7
+>                    1 tion would not be feasible or the delivery systems are
+>                    2 not comparable with respect to the application of
+>                    3 such measures. In addition to the stratification re4 quired under the previous sentence, the Secretary
+>                    5 shall have the discretion to further stratify reporting
+>                    6 on certain measures based on factors such as eligi7 bility category, income level, or other differentiating
+>                    8 factors that could have an impact on the com9 parability of the measure.’’; and
+>                   10 (B) in subsection (c)—
+>                   11 (i) in paragraph (1)(A), by striking
+>                   12 ‘‘measures described in subparagraphs (A)
+>                   13 and (B) of subsection (a)(6)’’ and inserting
+>                   14 ‘‘the core measures described in subsection
+>                   15 (a), as revised in accordance with sub16 section (b)(5)’’;
+>                   17 (ii) in paragraph (1)(B), by inserting
+>                   18 before the period the following: ‘‘, or com19 parable primary care case management
+>                   20 services providers described in section
+>                   21 1905(t), as well as healthcare services fur22 nished in fee-for-service settings or other
+>                   23 delivery systems’’; and
+>                   24 (iii) in paragraph (2), by inserting be25 fore the period the following: ‘‘, including
+>        g:\VHLC\050517\050517.069(659675|1)
+> VerDate Nov 212:40 May 0Jkt 000PO 0000Frm 000Fmt 66Sfmt 62C:\USERS\JRSHAP~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\DEGETT~1.
+>       G:\M\15\DEGETT\DEGETT_007.XML
+>                                               8
+>                   1 analysis of comparable quality measures
+>                   2 for children eligible for medical assistance
+>                   3 under title XIX or child health assistance
+>                   4 under title XXI who receive their health
+>                   5 services through managed care, primary
+>                   6 care case management, and fee-for-service
+>                   7 settings or other delivery systems’’.
+>                   8 (2) EFFECTIVE DATE .—The amendments made
+>                   9 by this subsection shall take effect as if included in
+>                  10 the enactment of section 1139A of the Social Secu11 rity Act, as added by section 401(a) of the Chil12 dren’s Health Insurance Program Reauthorization
+>                  13 Act of 2009 (Public Law 111–3).
+>                  14 SEC. 4. PERFORMANCE BONUSES FOR SIGNIFICANT
+>                  15 ACHIEVEMENT IN MEDICAID AND CHIP QUAL16 ITY PERFORMANCE.
+>                  17 Section 1903 of the Social Security Act (42 U.S.C.
+>                  18 1396b) is amended by adding at the end the following new
+>                  19 subsection:
+>                  20 ‘‘(aa) PERFORMANCE BONUS FOR QUALITY P ER21 FORMANCE ACHIEVEMENT .—
+>                  22 ‘‘(1) N GENERAL .—The Secretary shall estab23 lish a Medicaid Quality Performance Bonus fund for
+>                  24 awarding performance bonuses to States for high at25 tainment and improvement on a core set of quality
+>       g:\VHLC\050517\050517.06(659675|1)
+> VerDate Nov 12:40 May 0Jkt 00PO 000Frm 000Fmt 6Sfmt 6C:\USERS\JRSHAP~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\DEGETT~1.
+>        G:\M\15\DEGETT\DEGETT_007.XML
+>                                                  9
+>                    1 measures related to the goals and purposes of the
+>                    2 Medicaid program under this title.
+>                    3 ‘‘(2) QUALITY PERFORMANCE BONUS METHOD4 OLOGY .—Not later than 3 years after the date of en5 actment of the Medicaid and Chip Quality Improve6 ment Act of 2017, the Secretary shall establish a
+>                    7 methodology for awarding Medicaid quality perform8 ance bonuses to States not less than annually in ac9 cordance with paragraph (3) and subject to the
+>                   10 availability of appropriations. Medicaid quality per11 formance bonuses shall be awarded on the basis of
+>                   12 the annual State reports required under sections
+>                   13 1139A and 1139B and in accordance with regula14 tions promulgated by the Secretary.
+>                   15 ‘‘(3) QUALITY PERFORMANCE MEASUREMENT
+>                   16 BONUSES .—Medicaid quality performance bonuses
+>                   17 shall be awarded to the following 10 States:
+>                   18 ‘‘(A) The top 5 States achieving the des19 ignation of superior quality performing State
+>                   20 under criteria established by the Secretary.
+>                   21 ‘‘(B) The 5 States that—
+>                   22 ‘‘(i) are not among the States de23 scribed in subparagraph (A); and
+>                   24 ‘‘(ii) demonstrate the greatest relative
+>                   25 level of annual improvement in quality perg:\VHLC\050517\050517.069(659675|1)
+> VerDate Nov 212:40 May 0Jkt 000PO 000Frm 000Fmt 66Sfmt 62C:\USERS\JRSHAP~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\DEGETT~1.
+>        G:\M\15\DEGETT\DEGETT_007.XML
+>                                                10
+>                    1 formance under criteria established by the
+>                    2 Secretary.
+>                    3 ‘‘(4) NITIAL APPROPRIATION .—
+>                    4 ‘‘(A) IN GENERAL .—The total amount of
+>                    5 Medicaid quality performance bonuses made
+>                    6 under this subsection for all fiscal years shall be
+>                    7 equal to $500,000,000, to be available until ex8 pended.
+>                    9 ‘‘(B) BUDGET AUTHORITY .—This para10 graph constitutes budget authority in advance
+>                  11 of appropriations Acts and represents the obli12 gation of the Secretary to provide for the pay13 ment of amounts provided under this para14 graph.
+>                  15 ‘‘(5) USE OF QUALITY PERFORMANCE BONUS
+>                  16 FUNDS .—
+>                  17 ‘‘(A) DESIGNATION FOR QUALITY IM18 PROVEMENT ACTIVITIES .—As a condition of re19 ceiving a Medicaid quality performance bonus
+>                  20 under this subsection, a State shall agree to
+>                  21 designate at least 75 percent of the bonus funds
+>                  22 paid to the State under this subsection for a
+>                  23 fiscal year for the development and operation of
+>                  24 quality-related initiatives that will directly ben25 efit providers or managed care entities particig:\VHLC\050517\050517.06(659675|1)
+> VerDate Nov 12:40 May 0Jkt 000PO 000Frm 000Fmt 66Sfmt 6C:\USERS\JRSHAP~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\DEGETT~1.
+>        G:\M\15\DEGETT\DEGETT_007.XML
+>                                                  11
+>                    1 pating in the State plan under this title or
+>                    2 under a waiver of such plan, including—
+>                    3 ‘‘(i) pay-for-performance programs;
+>                    4 ‘‘(ii) collaboration initiatives that have
+>                    5 been demonstrated to improve performance
+>                    6 on quality;
+>                    7 ‘‘(iii) quality improvement initiatives,
+>                    8 including those aimed at improving care
+>                    9 for special and hard-to-reach populations,
+>                   10 and those directed to managed care enti11 ties; and
+>                   12 ‘‘(iv) such other Secretaryapproved
+>                   13 activities and initiatives that a State may
+>                   14 pursue to encourage quality improvement
+>                   15 and patientfocused high value care.
+>                   16 ‘‘(B) STATE OPTION TO ESTABLISH CRI17 TERIA .—A State may establish criteria for the
+>                   18 State performance program carried out under
+>                   19 subparagraph (A) that limits the award to a
+>                   20 particular provider or entity type, that limits
+>                   21 application to a specific geographic area, or
+>                   22 that directs incentive programs for quality re23 lated activities for specific populations, includ24 ing individuals eligible under this title and title
+>                   25 XVIII and hard-to-reach populations.
+>        g:\VHLC\050517\050517.069(659675|1)
+> VerDate Nov 212:40 May 0Jkt 000PO 0000Frm 00Fmt 665Sfmt 6C:\USERS\JRSHAP~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\DEGETT~1.
+>         G:\M\15\DEGETT\DEGETT_007.XML
+>                                                        12
+>                       1 ‘‘(C) REMAINING BONUS FUNDS .—A State
+>                       2 may designate up to 25 percent of the bonus
+>                       3 funds paid to the State under this subsection
+>                       4 for a fiscal year for activities related to the
+>                       5 goals and purposes of the State program under
+>                       6 this title.’’.
+>         May 5, 2017 (12:40 p.m.)9.xm(659675|1)
+> VerDate Nov 2412:40 May 05,Jkt 0000PO 0000Frm 0001Fmt 665Sfmt 62C:\USERS\JRSHAP~1\APPDATA\ROAMING\SOFTQUAD\XMETAL\7.0\GEN\C\DEGETT~1.

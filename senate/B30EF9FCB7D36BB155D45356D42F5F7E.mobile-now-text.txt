@@ -1,0 +1,1156 @@
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>           11TH CONGRESS
+>             1ST SESSION
+>                              S.ll
+>            To provide opportunities for broadband investment, and for other purposes.
+>               IN THE SENATE OF THE UNITED STATES
+>                              llllllllll
+>           Mr. HUNE(for himself andELSON) introduced the following bill; which
+>            was read twice and referred to the Committee on llllllllll
+>                              A BILL
+>            To provide opportunities for broadband investment, and for
+>                               other purposes.
+>            1 Be it enacted by the Senate and House of Representa2 tives of the United States of America in Congress assembled,
+>            3 SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+>            4 (a) SHORT TITLE.—This Act may be cited as the
+>            5 ‘‘Making Opportunities for Broadband Investment and
+>            6 Limiting Excessive and Needless Obstacles to Wireless
+>            7 Act’’ or the ‘‘MOBILE NOW Act’’.
+>            8 (b) TABLE OF CONTENTS .—The table of contents of
+>            9 this Act is as follows:
+>              Sec. 1. Short title; table of contents.
+>              Sec. 2. Definitions.
+>              Sec. 3. Making 500 megahertz available.
+>              Sec. 4. Millimeter wave spectrum.
+> January 3, 2017 (12:36 p.m.)
+>            S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                            2
+>                Sec. 5. 3 gigahertz spectrum.
+>                Sec. 6. Distributed antenna systems and small cell infrastructure.
+>                Sec. 7. Communications facilities deployment on Federal property.
+>                Sec. 8. Broadband infrastructure deployment.
+>                Sec. 9. National broadband facilities asset database.
+>                Sec. 10. Reallocation incentives.
+>                Sec. 11. Bidirectional sharing study.
+>                Sec. 12. Unlicensed services in guard bands.
+>                Sec. 13. Preauction funding.
+>                Sec. 15. Amendments to the Spectrum Pipeline Act of 2015.
+>                Sec. 16. GAO assessment of unlicensed spectrum and WiFi use in low-income
+>                             neighborhoods.
+>                Sec. 17. Rulemaking related to partitioning or disaggregating licenses.
+>                Sec. 18. Unlicensed spectrum policy.
+>                Sec. 19. National plan for unlicensed spectrum.
+>                Sec. 20. Spectrum challenge prize.
+>                Sec. 21. Wireless telecommunications tax and fee collection fairness.
+>                Sec. 22. Rules of construction.
+>                Sec. 23. Relationship to Middle Class Tax Relief and Job Creation Act of 2012.
+>             1 SEC. 2. DEFINITIONS.
+>             2 In this Act:
+>             3 (1) APPROPRIATE COMMITTEES OF CON4 GRESS .—The term ‘‘appropriate committees of Con5 gress’’ means—
+>             6 (A) the Committee on Commerce, Science,
+>             7 and Transportation of the Senate;
+>             8 (B) the Committee on Energy and Com9 merce of the House of Representatives; and
+>            10 (C) each committee of the Senate or of the
+>            11 House of Representatives with jurisdiction over
+>            12 a Federal entity affected by the applicable sec13 tion in which the term appears.
+>            14 (2) COMMISSION .—The term ‘‘Commission’’
+>            15 means the Federal Communications Commission.
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       3
+>            1 (3) FEDERAL ENTITY .—The term ‘‘Federal en2 tity’’ has the meaning given the term in section
+>            3 113(l) of the National Telecommunications and In4 formation Administration Organization Act (47
+>            5 U.S.C. 923(l)).
+>            6 (4) NTIA.—The term ‘‘NTIA’’ means the Na7 tional Telecommunications and Information Admin8 istration of the Department of Commerce.
+>            9 (5) OMB.—The term ‘‘OMB’’ means the Office
+>           10 of Management and Budget.
+>           11 (6) SECRETARY .—The term ‘‘Secretary’’ means
+>           12 the Secretary of Commerce.
+>           13 SEC. 3. MAKING 500 MEGAHERTZ AVAILABLE.
+>           14 (a) REQUIREMENTS .—
+>           15 (1) IN GENERAL .—Consistent with the Presi16 dential Memorandum of June 28, 2010, entitled
+>           17 ‘‘Unleashing the Wireless Broadband Revolution’’
+>           18 and establishing a goal of making a total of 500
+>           19 megahertz of Federal and non-Federal spectrum
+>           20 available on a licensed or unlicensed basis for wire21 less broadband use by 2020, not later than Decem22 ber 31, 2020, the Secretary, working through the
+>           23 NTIA, and the Commission shall make available a
+>           24 total of at least 255 megahertz of Federal and non-25 Federal spectrum below the frequency of 6000
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       4
+>            1 megahertz for mobile and fixed wireless broadband
+>            2 use.
+>            3 (2) UNLICENSED AND LICENSED USE .—Of the
+>            4 spectrum made available under paragraph (1), not
+>            5 less than—
+>            6 (A) 100 megahertz shall be made available
+>            7 on an unlicensed basis; and
+>            8 (B) 100 megahertz shall be made available
+>            9 on an exclusive, licensed basis for commercial
+>           10 mobile use, pursuant to the Commission’s au11 thority to implement such licensing in a flexible
+>           12 manner, and subject to potential continued use
+>           13 of such spectrum by incumbent Federal entities
+>           14 in designated geographic areas indefinitely or
+>           15 for such length of time as is necessary for those
+>           16 incumbent entities to be relocated to other spec17 trum.
+>           18 (3) NON-ELIGIBLE SPECTRUM .—For purposes
+>           19 of satisfying the requirement under paragraph (1),
+>           20 the following spectrum shall not be counted:
+>           21 (A) The frequencies between 1695 and
+>           22 1710 megahertz.
+>           23 (B) The frequencies between 1755 and
+>           24 1780 megahertz.
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       5
+>            1 (C) The frequencies between 2155 and
+>            2 2180 megahertz.
+>            3 (D) The frequencies between 3550 and
+>            4 3700 megahertz.
+>            5 (E) Spectrum that the Commission deter6 mines had more than de minimis mobile or
+>            7 fixed wireless broadband operations within the
+>            8 band on the day before the date of enactment
+>            9 of this Act.
+>           10 (4) RELOCATION PRIORITIZED OVER SHAR11 ING.—This section shall be carried out in accordance
+>           12 with section 113(j) of the National Telecommuni13 cations and Information Administration Organiza14 tion Act (47 U.S.C. 923(j)).
+>           15 (5) CONSIDERATIONS .—In making spectrum
+>           16 available under this section, the Secretary and Com17 mission shall consider—
+>           18 (A) the need to preserve critical existing
+>           19 and planned Federal Government capabilities;
+>           20 (B) the impact on existing State, local, and
+>           21 tribal government capabilities;
+>           22 (C) the international implications;
+>           23 (D) the need for appropriate enforcement
+>           24 mechanisms and authorities; and
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       6
+>            1 (E) the importance of the deployment of
+>            2 wireless broadband services in rural areas of the
+>            3 United States.
+>            4 (b) RULES OF CONSTRUCTION .—Nothing in this sec5 tion shall be construed—
+>            6 (1) to impair or otherwise affect the functions
+>            7 of the Director of OMB relating to budgetary, ad8 ministrative, or legislative proposals;
+>            9 (2) to require the disclosure of classified infor10 mation, law enforcement sensitive information, or
+>           11 other information that must be protected in the in12 terest of national security; or
+>           13 (3) to affect any requirement under section 156
+>           14 of the National Telecommunications and Informa15 tion Administration Organization Act (47 U.S.C.
+>           16 921 note), as added by section 1062(a) of the Na17 tional Defense Authorization Act for Fiscal Year
+>           18 2000, or any other relevant statutory requirement
+>           19 applicable to the reallocation of Federal spectrum.
+>           20 SEC. 4. MILLIMETER WAVE SPECTRUM.
+>           21 (a) FEASIBILITY ASSESSMENT .—Not later than 18
+>           22 months after the date of enactment of this Act, the NTIA,
+>           23 in consultation with the Commission, shall conduct a feasi24 bility assessment regarding the impact, on Federal entities
+>           25 and operations in any of the following bands, of authorJanuary 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                        7
+>            1 izing mobile or fixed terrestrial wireless operations, includ2 ing for advanced mobile service operations, in the fol3 lowing bands:
+>            4 (1) The band between 31800 and 33400 mega5 hertz.
+>            6 (2) The band between 71000 and 76000 mega7 hertz.
+>            8 (3) The band between 81000 and 86000 mega9 hertz.
+>           10 (b) REQUIREMENTS .—In conducting the feasibility
+>           11 assessment under subsection (a), the NTIA shall—
+>           12 (1) consult directly with Federal entities with
+>           13 respect to frequencies allocated to Federal use by
+>           14 such entities in the bands identified in that sub15 section;
+>           16 (2) consider what, if any, impact authorizing
+>           17 mobile or fixed terrestrial wireless operations, in18 cluding advanced mobile services operations, in any
+>           19 of such frequencies would have on an affected Fed20 eral entity; and
+>           21 (3) identify any such frequencies in the bands
+>           22 described in that subsection that the NTIA assess23 ment determines are feasible for authorizing for mo24 bile or fixed terrestrial wireless operations, including
+>           25 any advanced mobile service operations.
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       8
+>            1 (c) REPORT TO CONGRESS AND THE COMMISSION .—
+>            2 Not later than 30 days after the date the feasibility assess3 ment under subsection (a) is complete, the NTIA shall
+>            4 submit to the appropriate committees of Congress a report
+>            5 on the feasibility assessment and provide a copy to the
+>            6 Commission.
+>            7 (d) FCC PROCEEDING .—Not later than 2 years after
+>            8 the date of enactment of this Act or 90 days after the
+>            9 date it receives the feasibility assessment under subsection
+>           10 (c), whichever is earlier, the Commission, in consultation
+>           11 with the NTIA, shall publish a notice of proposed rule12 making to consider service rules to authorize mobile or
+>           13 fixed terrestrial wireless operations, including for ad14 vanced mobile service operations, in the following radio
+>           15 frequency bands:
+>           16 (1) The band between 24250 and 24450 mega17 hertz.
+>           18 (2) The band between 25050 and 25250 mega19 hertz.
+>           20 (3) The band between 31800 and 33400 mega21 hertz, except for any frequencies with Federal alloca22 tions.
+>           23 (4) The band between 42000 and 42500 mega24 hertz.
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                        9
+>            1 (5) The band between 71000 and 76000 mega2 hertz, except for any frequencies with Federal alloca3 tions.
+>            4 (6) The band between 81000 and 86000 mega5 hertz, except for any frequencies with Federal alloca6 tions.
+>            7 (7) Any frequencies with Federal allocations
+>            8 identified as feasible under subsection (b)(3).
+>            9 (e) CONSIDERATIONS .—In conducting a rulemaking
+>           10 under subsection (d), the Commission shall—
+>           11 (1) consult with Federal entities via the NTIA
+>           12 regarding the frequencies described in subsection
+>           13 (d)(7);
+>           14 (2) consider how the bands described in sub15 section (d) may be used to provide commercial wire16 less broadband service, including whether—
+>           17 (A) such spectrum may be best used for li18 censed or unlicensed services, or some combina19 tion thereof; and
+>           20 (B) to permit additional licensed oper21 ations in such bands on a shared basis; and
+>           22 (3) include technical characteristics under
+>           23 which the bands described in subsection (d) may be
+>           24 employed for mobile or fixed terrestrial wireless opJanuary 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       10
+>            1 erations, including any appropriate coexistence re2 quirements.
+>            3 SEC. 5. 3 GIGAHERTZ SPECTRUM.
+>            4 (a) BETWEEN 3100 MEGAHERTZ AND 3550 M EGA5 HERTZ .—Not later than 18 months after the date of en6 actment of this Act, and in consultation with the Commis7 sion and the head of each affected Federal agency (or a
+>            8 designee thereof), the Secretary shall submit to the Com9 mission and the appropriate committees of Congress a re10 port evaluating the feasibility of allowing commercial wire11 less services, licensed or unlicensed, to share use of the
+>           12 frequencies between 3100 megahertz and 3550 megahertz.
+>           13 (b) BETWEEN 3700 MEGAHERTZ AND 4200 M EGA14 HERTZ .—Not later than 18 months after the date of en15 actment of this Act, after notice and an opportunity for
+>           16 public comment, and in consultation with the Secretary
+>           17 and the head of each affected Federal agency (or a des18 ignee thereof), the Commission shall submit to the Sec19 retary and the appropriate committees of Congress a re20 port evaluating the feasibility of allowing commercial wire21 less services, licensed or unlicensed, to share use of the
+>           22 frequencies between 3700 megahertz and 4200 megahertz.
+>           23 (c) REQUIREMENTS .—A report under subsection (a)
+>           24 or subsection (b) shall include the following:
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       11
+>            1 (1) An assessment of the operations of Federal
+>            2 entities that operate Federal Government stations
+>            3 authorized to use the frequencies described in that
+>            4 subsection.
+>            5 (2) An assessment of the possible impacts of
+>            6 such sharing on Federal and non-Federal users al7 ready operating on the frequencies described in that
+>            8 subsection.
+>            9 (3) The criteria that may be necessary to en10 sure shared licensed or unlicensed services would not
+>           11 cause harmful interference to Federal or non-Fed12 eral users already operating in the frequencies de13 scribed in that subsection.
+>           14 (4) If such sharing is feasible, an identification
+>           15 of which of the frequencies described in that sub16 section are most suitable for sharing with commer17 cial wireless services through the assignment of new
+>           18 licenses by competitive bidding, for sharing with un19 licensed operations, or through a combination of li20 censing and unlicensed operations.
+>           21 (d) COMMISSION ACTION .—The Commission, in con22 sultation with the NTIA, shall seek public comment on
+>           23 the reports required under subsections (a) and (b), includ24 ing regarding the bands identified in such reports as fea25 sible pursuant to subsection (c)(4).
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      12
+>            1 SEC. 6. DISTRIBUTED ANTENNA SYSTEMS AND SMALL CELL
+>            2 INFRASTRUCTURE.
+>            3 Not later than December 31, 2017, the Commission
+>            4 shall take action in its Program Alternatives for Small
+>            5 Wireless Communications Facility Deployments pro6 ceeding (WT Docket 15–180).
+>            7 SEC. 7. COMMUNICATIONS FACILITIES DEPLOYMENT ON
+>            8 FEDERAL PROPERTY.
+>            9 (a) N GENERAL .—Section 6409 of the Middle Class
+>           10 Tax Relief and Job Creation Act of 2012 (47 U.S.C.
+>           11 1455) is amended by striking subsections (b), (c), and (d)
+>           12 and inserting the following:
+>           13 ‘‘(b) FEDERAL EASEMENTS , RIGHTS-OF-WAY , AND
+>           14 LEASES .—
+>           15 ‘‘(1) GRANT .—If an executive agency, a State,
+>           16 a political subdivision or agency of a State, or a per17 son, firm, or organization applies for the grant of an
+>           18 easement, right-of-way, or lease to, in, over, or on a
+>           19 building or other property owned by the Federal
+>           20 Government for the right to install, construct, mod21 ify, or maintain a communications facility installa22 tion, the executive agency having control of the
+>           23 building or other property may grant to the appli24 cant, on behalf of the Federal Government, subject
+>           25 to paragraph (5), an easement, right-of-way, or lease
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       13
+>            1 to perform such installation, construction, modifica2 tion, or maintenance.
+>            3 ‘‘(2) PPLICATION .—
+>            4 ‘‘(A) IN GENERAL .—The Administrator of
+>            5 General Services shall develop a common form
+>            6 for applications for easements, rights-of-way,
+>            7 and leases under paragraph (1) for all executive
+>            8 agencies that, except as provided in subpara9 graph (B), shall be used by all executive agen10 cies and applicants with respect to the buildings
+>           11 or other property of each such agency.
+>           12 ‘‘(B) EXCEPTION .—The requirement under
+>           13 subparagraph (A) for an executive agency to
+>           14 use the common form developed by the Admin15 istrator of General Services shall not apply to
+>           16 an executive agency if the head of an executive
+>           17 agency notifies the Administrator that the exec18 utive agency uses a substantially similar appli19 cation.
+>           20 ‘‘(3) EE .—
+>           21 ‘‘(A) IN GENERAL .—Notwithstanding any
+>           22 other provision of law, the Administrator of
+>           23 General Services shall establish a fee for the
+>           24 grant of an easement, right-of-way, or lease
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      14
+>            1 pursuant to paragraph (1) that is based on di2 rect cost recovery.
+>            3 ‘‘(B) EXCEPTIONS .—The Administrator of
+>            4 General Services may establish exceptions to
+>            5 the fee amount required under subparagraph
+>            6 (A)—
+>            7 ‘‘(i) in consideration of the public ben8 efit provided by a grant of an easement,
+>            9 right-of-way, or lease; and
+>           10 ‘‘(ii) in the interest of expanding wire11 less and broadband coverage.
+>           12 ‘‘(4) USE OF FEES COLLECTED .—Any fee
+>           13 amounts collected by an executive agency pursuant
+>           14 to paragraph (3) may be made available, as provided
+>           15 in appropriations Acts, to such agency to cover the
+>           16 costs of granting the easement, right-of-way, or
+>           17 lease.
+>           18 ‘‘(5) TIMELY CONSIDERATION OF APPLICA19 TIONS .—
+>           20 ‘‘(A) IN GENERAL .—Not later than 270
+>           21 days after the date on which an executive agen22 cy receives a duly filed application for an ease23 ment, right-of-way, or lease under this sub24 section, the executive agency shall—
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      15
+>            1 ‘‘(i) grant or deny, on behalf of the
+>            2 Federal Government, the application; and
+>            3 ‘‘(ii) notify the applicant of the grant
+>            4 or denial.
+>            5 ‘‘(B) XPLANATION OF DENIAL .—If an ex6 ecutive agency denies an application under sub7 paragraph (A), the executive agency shall notify
+>            8 the applicant in writing, including a clear state9 ment of the reasons for the denial.
+>           10 ‘‘(C) APPLICABILITY OF ENVIRONMENTAL
+>           11 LAWS .—Nothing in this paragraph shall be con12 strued to relieve an executive agency of the re13 quirements of division A of subtitle III of title
+>           14 54, United States Code, or the National Envi15 ronmental Policy Act of 1969 (42 U.S.C. 4321
+>           16 et seq.).
+>           17 ‘‘(D) OINT OF CONTACT .—Upon receiving
+>           18 an application under subparagraph (A), an ex19 ecutive agency shall designate 1 or more appro20 priate individuals within the executive agency to
+>           21 act as a point of contact with the applicant.
+>           22 ‘‘(c) MASTER CONTRACTS FOR COMMUNICATIONS
+>           23 FACILITY INSTALLATION SITINGS.—
+>           24 ‘‘(1) IN GENERAL .—Notwithstanding section
+>           25 704 of the Telecommunications Act of 1996 (Public
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       16
+>            1 Law 104–104; 110 Stat. 151) or any other provision
+>            2 of law, the Administrator of General Services shall—
+>            3 ‘‘(A) develop 1 or more master contracts
+>            4 that shall govern the placement of communica5 tions facility installation on buildings and other
+>            6 property owned by the Federal Government;
+>            7 and
+>            8 ‘‘(B) in developing the master contract or
+>            9 contracts, standardize the treatment of the
+>           10 placement of communications facility installa11 tion on building rooftops or facades, the place12 ment of communications facility installation on
+>           13 rooftops or inside buildings, the technology used
+>           14 in connection with communications facility in15 stallation placed on Federal buildings and other
+>           16 property, and any other key issues the Adminis17 trator of General Services considers appro18 priate.
+>           19 ‘‘(2) APPLICABILITY .—The master contract or
+>           20 contracts developed by the Administrator of General
+>           21 Services under paragraph (1) shall apply to all pub22 licly accessible buildings and other property owned
+>           23 by the Federal Government, unless the Adminis24 trator of General Services decides that issues with
+>           25 respect to the siting of a communications facility inJanuary 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       17
+>            1 stallation on a specific building or other property
+>            2 warrant nonstandard treatment of such building or
+>            3 other property.
+>            4 ‘‘(3) PPLICATION .—
+>            5 ‘‘(A) N GENERAL .—The Administrator of
+>            6 General Services shall develop a common form
+>            7 or set of forms for communications facility in8 stallation siting applications that, except as pro9 vided in subparagraph (B), shall be used by all
+>           10 executive agencies and applicants with respect
+>           11 to the buildings and other property of each such
+>           12 agency.
+>           13 ‘‘(B) XCEPTION .—The requirement under
+>           14 subparagraph (A) for an executive agency to
+>           15 use the common form or set of forms developed
+>           16 by the Administrator of General Services shall
+>           17 not apply to an executive agency if the head of
+>           18 the executive agency notifies the Administrator
+>           19 that the executive agency uses a substantially
+>           20 similar application.
+>           21 ‘‘(d) EFINITIONS .—In this section:
+>           22 ‘‘(1) COMMUNICATIONS FACILITY INSTALLA23 TION.—The term ‘communications facility installa24 tion’ includes—
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       18
+>            1 ‘‘(A) any infrastructure, including any
+>            2 transmitting device, tower, or support structure,
+>            3 and any equipment, switches, wiring, cabling,
+>            4 power sources, shelters, or cabinets, associated
+>            5 with the licensed or permitted unlicensed wire6 less or wireline transmission of writings, signs,
+>            7 signals, data, images, pictures, and sounds of
+>            8 all kinds; and
+>            9 ‘‘(B) any antenna or apparatus that—
+>           10 ‘‘(i) is designed for the purpose of
+>           11 emitting radio frequency;
+>           12 ‘‘(ii) is designed to be operated, or is
+>           13 operating, from a fixed location pursuant
+>           14 to authorization by the Commission or is
+>           15 using duly authorized devices that do not
+>           16 require individual licenses; and
+>           17 ‘‘(iii) is added to a tower, building, or
+>           18 other structure.
+>           19 ‘‘(2) XECUTIVE AGENCY .—The term ‘executive
+>           20 agency’ has the meaning given such term in section
+>           21 102 of title 40, United States Code.’’.
+>           22 (b) SAVINGS PROVISION .—An application for an
+>           23 easement, right-of-way, or lease that was made or granted
+>           24 under section 6409 of the Middle Class Tax Relief and
+>           25 Job Creation Act of 2012 (47 U.S.C. 1455) before the
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      19
+>            1 effective date of this Act shall continue, subject to that
+>            2 section as in effect on the day before such effective date.
+>            3 (c) TREAMLINING BROADBAND FACILITY A PPLICA4 TIONS.—
+>            5 (1) DEFINITION OF COMMUNICATIONS FACILITY
+>            6 INSTALLATION .—In this subsection, the term ‘‘com7 munications facility installation’’ has the meaning
+>            8 given the term in section 6409(d) of the Middle
+>            9 Class Tax Relief and Job Creation Act of 2012 (47
+>           10 U.S.C. 1455(d)), as amended by subsection (a).
+>           11 (2) RECOMMENDATIONS .—
+>           12 (A) N GENERAL .—Not later than 2 years
+>           13 after the date of enactment of this Act, the
+>           14 NTIA, in coordination with the Department of
+>           15 the Interior, the Department of Agriculture, the
+>           16 Department of Defense, the Department of
+>           17 Transportation, the Office of Management and
+>           18 Budget, and the General Services Administra19 tion, shall develop recommendations to stream20 line the process for considering applications by
+>           21 those agencies under section 6409(b) of the
+>           22 Middle Class Tax Relief and Job Creation Act
+>           23 of 2012 (47 U.S.C. 1455(b)), as amended by
+>           24 subsection (a).
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      20
+>            1 (B) REQUIREMENTS FOR RECOMMENDA2 TIONS.—The recommendations developed under
+>            3 subparagraph (A) shall include—
+>            4 (i) procedures for the tracking of ap5 plications described in subparagraph (A);
+>            6 (ii) methods by which to reduce the
+>            7 amount of time between the receipt of an
+>            8 application and the issuance of a final de9 cision on an application; and
+>           10 (iii) policies to expedite renewals of an
+>           11 easement, license, or other authorization to
+>           12 locate a communications facility installa13 tion on land managed by the agencies de14 scribed in subparagraph (A).
+>           15 (C) REPORT TO CONGRESS .—Not later
+>           16 than 2 years after the date on which the rec17 ommendations required under subparagraph
+>           18 (A) are developed, the NTIA shall submit to the
+>           19 Committee on Commerce, Science, and Trans20 portation of the Senate and the Committee on
+>           21 Energy and Commerce of the House of Rep22 resentatives a report that describes—
+>           23 (i) the status of the implementation of
+>           24 the recommendations developed under sub25 paragraph (A); and
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      21
+>            1 (ii) any improvements to the process
+>            2 for considering applications described in
+>            3 subparagraph (A) that have resulted from
+>            4 those recommendations, including in par5 ticular the speed at which such applica6 tions are reviewed and a final determina7 tion is issued.
+>            8 SEC. 8. BROADBAND INFRASTRUCTURE DEPLOYMENT.
+>            9 (a) UNITED STATES POLICY .—It is the policy of the
+>           10 United States for the Department of Transportation and
+>           11 State departments of transportation—
+>           12 (1) to adjust or otherwise develop right-of-way
+>           13 policies for Federalaid highways to effectively ac14 commodate broadband infrastructure;
+>           15 (2) to ensure the safe and efficient accommoda16 tion of broadband infrastructure in the public right17 ofway;
+>           18 (3) to include broadband stakeholders in the
+>           19 transportation planning process; and
+>           20 (4) to coordinate highway construction plans
+>           21 with other statewide telecommunications and
+>           22 broadband plans.
+>           23 (b) DEFINITIONS .—In this section:
+>           24 (1) APPROPRIATE STATE AGENCY .—The term
+>           25 ‘‘appropriate State agency’’ means a State governJanuary 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      22
+>            1 mental agency that is recognized by the executive
+>            2 branch of the State as having the experience nec3 essary to evaluate and carry out projects relating to
+>            4 the proper and effective installation and operation of
+>            5 broadband infrastructure.
+>            6 (2) BROADBAND INFRASTRUCTURE .—The term
+>            7 ‘‘broadband infrastructure’’ means any buried or
+>            8 aerial facility, and any wireless or wireline connec9 tion, that enables users to send and receive voice,
+>           10 video, data, graphics, or any combination thereof.
+>           11 (3) BROADBAND INFRASTRUCTURE ENTITY .—
+>           12 The term ‘‘broadband infrastructure entity’’ means
+>           13 any entity that—
+>           14 (A) installs, owns, or operates broadband
+>           15 infrastructure; and
+>           16 (B) provides broadband services to the
+>           17 public in a manner consistent with the public
+>           18 interest, convenience, and necessity, as deter19 mined by the State.
+>           20 (4) STATE .—The term ‘‘State’’ means—
+>           21 (A) a State;
+>           22 (B) the District of Columbia; and
+>           23 (C) the Commonwealth of Puerto Rico.
+>           24 (c) BROADBAND NFRASTRUCTURE DEPLOYMENT .—
+>           25 To facilitate the installation of broadband infrastructure
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       23
+>            1 and achieve the policy described in subsection (a), the Sec2 retary of Transportation shall ensure that each State that
+>            3 receives funds under chapter 1 of title 23, United States
+>            4 Code, meets the following requirements:
+>            5 (1) BROADBAND COORDINATION .—The State
+>            6 department of transportation, in coordination with
+>            7 appropriate State agencies, shall—
+>            8 (A) identify a broadband utility coordi9 nator, that may have additional responsibilities,
+>           10 whether in the State department of transpor11 tation or in another State agency, and that is
+>           12 responsible for coordinating the broadband in13 frastructure right-of-way needs of the State
+>           14 with Federalaid highway projects carried out in
+>           15 the State;
+>           16 (B) establish a process for the registration
+>           17 of broadband infrastructure entities that seek
+>           18 to be included in those broadband infrastruc19 ture right-of-way coordination efforts within the
+>           20 State;
+>           21 (C) coordinate initiatives carried out under
+>           22 this section with other statewide telecommuni23 cation and broadband plans and State and local
+>           24 transportation and land use plans; and
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       24
+>            1 (D) develop strategies to minimize re2 peated excavations that involve the installation
+>            3 of broadband infrastructure in a right-of-way.
+>            4 (2) PRIORITY.—If a State chooses to provide
+>            5 for the installation of broadband infrastructure in
+>            6 the right-of-way of an applicable Federalaid high-7 way under this subsection in a given case, the State
+>            8 department of transportation shall carry out any ap9 propriate measures to ensure that any existing
+>           10 broadband infrastructure entities are not disadvan11 taged, as compared to other broadband infrastruc12 ture entities, with respect to the program under this
+>           13 subsection.
+>           14 (d) EFFECT OF SECTION .—This section applies only
+>           15 to activities for which obligations or expenditures are ini16 tially approved on or after the date of enactment of this
+>           17 Act. Nothing in this section establishes a mandate or re18 quirement, or authorizes the Secretary to establish a man19 date or requirement, that a State install broadband infra20 structure in a highway right-of-way.
+>           21 SEC. 9. NATIONAL BROADBAND FACILITIES ASSET DATA22 BASE.
+>           23 (a) DEFINITIONS.—In this section:
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       25
+>            1 (1) COMMUNICATIONS FACILITY INSTALLA2 TION .—The term ‘‘communications facility installa3 tion’’ includes—
+>            4 (A) any infrastructure, including any
+>            5 transmitting device, tower, or support structure,
+>            6 and any equipment, switches, wiring, cabling,
+>            7 power sources, shelters, or cabinets, associated
+>            8 with the licensed or permitted unlicensed wire9 less or wireline transmission of writings, signs,
+>           10 signals, data, images, pictures, and sounds of
+>           11 all kinds; and
+>           12 (B) any antenna or apparatus that—
+>           13 (i) is designed for the purpose of
+>           14 emitting radio frequency;
+>           15 (ii) is designed to be operated, or is
+>           16 operating, from a fixed location pursuant
+>           17 to authorization by the Federal Commu18 nications Commission or is using duly au19 thorized devices that do not require indi20 vidual licenses; and
+>           21 (iii) is added to a tower, building, or
+>           22 other structure.
+>           23 (2) COVERED PROPERTY .—The term ‘‘covered
+>           24 property’’—
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       26
+>            1 (A) means any real property capable of
+>            2 supporting a communications facility installa3 tion; and
+>            4 (B) includes any interest in real property
+>            5 described in subparagraph (A).
+>            6 (3) DATABASE .—The term ‘‘database’’ means
+>            7 the database established under subsection (b).
+>            8 (4) EXECUTIVE AGENCY .—The term ‘‘Executive
+>            9 agency’’ has the meaning given the term in section
+>           10 105 of title 5, United States Code.
+>           11 (b) DATABASE ESTABLISHED .—Not later than June
+>           12 30, 2018, the Director of the Office of Science and Tech13 nology Policy, in consultation with the Chairman of the
+>           14 Commission, Assistant Secretary of Commerce for Com15 munications and Information, Under Secretary of Com16 merce for Standards and Technology, Administrator of
+>           17 General Services, and Director of OMB, shall—
+>           18 (1) establish and operate a single database of
+>           19 any covered property that is owned, leased, or other20 wise managed by an Executive agency;
+>           21 (2) make the database available to—
+>           22 (A) any entity that—
+>           23 (i) constructs or operates communica24 tions facility installations; or
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      27
+>            1 (ii) provides communications service;
+>            2 and
+>            3 (B) any other entity that the Director of
+>            4 the Office of Science and Technology Policy de5 termines is appropriate; and
+>            6 (3) establish a process for withholding data
+>            7 from the database for national security, public safe8 ty, or other national strategic concerns in accord9 ance with existing statutory authority and Executive
+>           10 order mandates with respect to handling and protec11 tion of such information.
+>           12 (c) PUBLIC COMMENT .—
+>           13 (1) N GENERAL .—Not later than 30 days after
+>           14 the date of enactment of the MOBILE NOW Act,
+>           15 the Director of the Office of Science and Technology
+>           16 Policy shall seek public comment to inform the es17 tablishment and operation of the database.
+>           18 (2) CONTENTS .—In seeking public comment
+>           19 under paragraph (1), the Director shall include a re20 quest for recommendations on—
+>           21 (A) criteria that make real property capa22 ble of supporting communications facility instal23 lations;
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      28
+>            1 (B) types of information related to covered
+>            2 property that should be included in the data3 base;
+>            4 (C) an interface by which accessibility to
+>            5 the database for all users will be appropriately
+>            6 efficient and secure; and
+>            7 (D) other information the Director deter8 mines necessary to establish and operate the
+>            9 database.
+>           10 (d) FEDERAL AGENCIES .—
+>           11 (1) INITIAL PROVISION OF INFORMATION .—Not
+>           12 later than 90 days after the date on which the data13 base is established under subsection (b), the head of
+>           14 an Executive agency shall provide to the Director of
+>           15 the Office of Science and Technology Policy, in a
+>           16 manner and format to be determined by the Direc17 tor, such information as the Director determines ap18 propriate with respect to covered property owned,
+>           19 leased, or otherwise managed by the Executive agen20 cy.
+>           21 (2) CHANGE TO INFORMATION PREVIOUSLY
+>           22 PROVIDED .—In the case of any change to informa23 tion provided to the Director of the Office of Science
+>           24 and Technology Policy by the head of an Executive
+>           25 agency under paragraph (1), the head of the ExecuJanuary 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      29
+>            1 tive agency shall provide updated information to the
+>            2 Director not later than 30 days after the date of the
+>            3 change.
+>            4 (3) SUBSEQUENTLY ACQUIRED PROPERTY .—If
+>            5 an Executive agency acquires covered property after
+>            6 the date on which the database is established under
+>            7 subsection (b), the head of the Executive agency
+>            8 shall provide to the Director of the Office of Science
+>            9 and Technology Policy the information required
+>           10 under paragraph (1) with respect to the covered
+>           11 property not later than 30 days after the date of the
+>           12 acquisition.
+>           13 (e) TATE AND LOCAL GOVERNMENTS .—
+>           14 (1) N GENERAL .—The Director of the Office of
+>           15 Science and Technology Policy (referred to in this
+>           16 subsection as the ‘‘Director’’) shall make the data17 base available to State and local governments so
+>           18 that such governments may provide to the Director
+>           19 for inclusion in the database similar information to
+>           20 the information required under subsection (d)(1) re21 garding covered property owned, leased, or otherwise
+>           22 managed by such governments.
+>           23 (2) REPORT ON INCENTIVIZING PARTICIPATION
+>           24 BY STATE AND LOCAL GOVERNMENTS .—
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      30
+>            1 (A) IN GENERAL .—Not later than 1 year
+>            2 after the date of enactment of this Act, the Di3 rector, in consultation with the Chairman of the
+>            4 Commission, the Assistant Secretary of Com5 merce for Communications and Information,
+>            6 the Under Secretary of Commerce for Stand7 ards and Technology, the Administrator of Gen8 eral Services, and the Director of OMB, shall
+>            9 submit to the Committee on Commerce,
+>           10 Science, and Transportation of the Senate and
+>           11 the Committee on Energy and Commerce of the
+>           12 House of Representatives a report on potential
+>           13 ways to incentivize State and local governments
+>           14 to provide to the Director for inclusion in the
+>           15 database similar information to the information
+>           16 required under subsection (d)(1) regarding cov17 ered property owned, leased, or otherwise man18 aged by such governments pursuant to para19 graph (1) of this subsection or through other
+>           20 means.
+>           21 (B) CONSIDERATIONS .—The Director, in
+>           22 preparing the report under subparagraph (A),
+>           23 shall—
+>           24 (i) consult with State and local gov25 ernments, or their representatives, to idenJanuary 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      31
+>            1 tify for inclusion in the report the most
+>            2 costeffective options for State and local
+>            3 governments to collect and provide the in4 formation described in subparagraph (A),
+>            5 including utilizing and leveraging State
+>            6 broadband initiatives and programs; and
+>            7 (ii) make recommendations on ways
+>            8 the Federal Government can assist State
+>            9 and local governments in collecting and
+>           10 providing the information described in sub11 paragraph (A).
+>           12 (C) REPORT UPDATE .—Not later than 2
+>           13 years after the date on which the database is
+>           14 established under this section, the Director
+>           15 shall submit to the Committee on Commerce,
+>           16 Science, and Transportation of the Senate and
+>           17 the Committee on Energy and Commerce of the
+>           18 House of Representatives an update to the re19 port required under subparagraph (A) that
+>           20 identifies State and local governments that have
+>           21 contributed to the database and recommends
+>           22 ways to further incentivize participation by
+>           23 State and local governments pursuant to para24 graph (1) of this subsection or through other
+>           25 means.
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      32
+>            1 (f) DATABASE UPDATES .—
+>            2 (1) TIMELY INCLUSION .—After the establish3 ment of the database, the Director of the Office of
+>            4 Science and Technology Policy shall ensure that in5 formation provided under subsection (d) or sub6 section (e) is included in the database not later than
+>            7 7 days after the date on which the Director receives
+>            8 the information.
+>            9 (2) DATE OF ADDITION OR UPDATE .—Informa10 tion in the database relating to covered property
+>           11 shall include the date on which the information was
+>           12 added or most recently updated.
+>           13 (g) REPORT .—Not later than 180 days after the date
+>           14 the Director of the Office of Science and Technology Pol15 icy seeks public comment under subsection (c)(1), the Di16 rector shall submit to the Committee on Commerce,
+>           17 Science, and Transportation of the Senate and the Com18 mittee on Energy and Commerce of the House of Rep19 resentatives a report on the progress in establishing the
+>           20 database under this section. The Director shall update the
+>           21 report annually until the date that the database is fully
+>           22 operational. After the database is fully operational and for
+>           23 the next 5 years thereafter, the Director shall provide an24 nual reports regarding the use of the database, rec25 ommendations of how the database may provide additional
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      33
+>            1 utility to the entities described in subsection (b)(2), if any
+>            2 recommendations are warranted, and how previous rec3 ommendations have been implemented.
+>            4 SEC. 10. REALLOCATION INCENTIVES.
+>            5 (a) IN GENERAL .—Not later than 18 months after
+>            6 the date of enactment of this Act, the Secretary, in con7 sultation with the Commission, the Director of OMB, and
+>            8 the head of each affected Federal agency (or a designee
+>            9 thereof), after notice and an opportunity for public com10 ment, shall submit to the appropriate committees of Con11 gress a report that includes legislative or regulatory rec12 ommendations to incentivize a Federal entity to relinquish,
+>           13 or share with Federal or non-Federal users, Federal spec14 trum for the purpose of allowing commercial wireless
+>           15 broadband services to operate on that Federal spectrum.
+>           16 (b) POST-AUCTION PAYMENTS .—
+>           17 (1) REPORT .—In preparing the report under
+>           18 subsection (a), the Secretary shall—
+>           19 (A) consider whether permitting eligible
+>           20 Federal entities that are implementing a transi21 tion plan submitted under section 113(h) of the
+>           22 National Telecommunications and Information
+>           23 Administration Organization Act (47 U.S.C.
+>           24 923(h)) to accept payments could result in ac25 cess to the eligible frequencies that are being
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      34
+>            1 reallocated for exclusive non-Federal use or
+>            2 shared use sooner than would otherwise occur
+>            3 without such payments; and
+>            4 (B) include the findings under subpara5 graph (A), including the analysis under para6 graph (2) and any recommendations for legisla7 tion, in the report.
+>            8 (2) ANALYSIS.—In considering payments under
+>            9 paragraph (1)(A), the Secretary shall conduct an
+>           10 analysis of whether and how such payments would
+>           11 affect—
+>           12 (A) bidding in auctions conducted under
+>           13 section 309(j) of the Communications Act of
+>           14 1934 (47 U.S.C. 309(j)) of such eligible fre15 quencies; and
+>           16 (B) receipts collected from the auctions de17 scribed in subparagraph (A).
+>           18 (3) DEFINITIONS.—In this subsection:
+>           19 (A) PAYMENT .—The term ‘‘payment’’
+>           20 means a payment in cash or inkind by any
+>           21 auction winner, or any person affiliated with an
+>           22 auction winner, of eligible frequencies during
+>           23 the period after eligible frequencies have been
+>           24 reallocated by competitive bidding under section
+>           25 309(j) of the Communications Act of 1934 (47
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      35
+>            1 U.S.C. 309(j)) but prior to the completion of
+>            2 relocation or sharing transition of such eligible
+>            3 frequencies per transition plans approved by the
+>            4 Technical Panel.
+>            5 (B) ELIGIBLE FREQUENCIES .—The term
+>            6 ‘‘eligible frequencies’’ has the meaning given
+>            7 the term in section 113(g)(2) of the National
+>            8 Telecommunications and Information Adminis9 tration Organization Act (47 U.S.C. 923(g)(2)).
+>           10 SEC. 11. BIDIRECTIONAL SHARING STUDY.
+>           11 (a) IN GENERAL .—Not later than 1 year after the
+>           12 date of enactment of this Act, including an opportunity
+>           13 for public comment, the Commission, in collaboration with
+>           14 the NTIA, shall—
+>           15 (1) conduct a bidirectional sharing study to de16 termine the best means of providing Federal entities
+>           17 flexible access to non-Federal spectrum on a shared
+>           18 basis across a range of shortmidand long-range
+>           19 timeframes, including for intermittent purposes like
+>           20 emergency use; and
+>           21 (2) submit to Congress a report on the study
+>           22 under paragraph (1), including any recommenda23 tions for legislation or proposed regulations.
+>           24 (b) CONSIDERATIONS .—In conducting the study
+>           25 under subsection (a), the Commission shall—
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       36
+>            1 (1) consider the regulatory certainty that com2 mercial spectrum users and Federal entities need to
+>            3 make longerterm investment decisions for shared
+>            4 access to be viable; and
+>            5 (2) evaluate any barriers to voluntary commer6 cial arrangements in which non-Federal users could
+>            7 provide access to Federal entities.
+>            8 SEC. 12. UNLICENSED SERVICES IN GUARD BANDS.
+>            9 (a) N GENERAL .—After public notice and comment,
+>           10 and in consultation with the Secretary and the head of
+>           11 each affected Federal agency (or a designee thereof), with
+>           12 respect to frequencies allocated for Federal use, the Com13 mission shall adopt rules that permit unlicensed services
+>           14 where feasible to use any frequencies that are designated
+>           15 as guard bands to protect frequencies allocated after the
+>           16 date of enactment of this Act by competitive bidding under
+>           17 section 309(j) of the Communications Act of 1934 (47
+>           18 U.S.C. 309(j)), including spectrum that acts as a duplex
+>           19 gap between transmit and receive frequencies.
+>           20 (b) LIMITATION .—The Commission may not permit
+>           21 any use of a guard band under this section that would
+>           22 cause harmful interference to a licensed service or a Fed23 eral service operating in the guard band or in an adjacent
+>           24 band.
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       37
+>            1 (c) RULE OF CONSTRUCTION .—Nothing in this sec2 tion shall be construed as limiting the Commission or the
+>            3 Secretary from otherwise making spectrum available for
+>            4 licensed or unlicensed use in any frequency band in addi5 tion to guard bands, including under section 3, consistent
+>            6 with their statutory jurisdictions.
+>            7 SEC. 13. PREAUCTION FUNDING.
+>            8 Section 118(d)(3)(B)(i)(II) of the National Tele9 communications and Information Administration Organi10 zation Act (47 U.S.C. 928(d)(3)(B)(i)(II)) is amended by
+>           11 striking ‘‘5 years’’ and inserting ‘‘8 years’’.
+>           12 SEC. 14. IMMEDIATE TRANSFER OF FUNDS.
+>           13 Section 118(e)(1) of the National Telecommuni14 cations and Information Administration Organization Act
+>           15 (47 U.S.C. 928(e)(1)) is amended by adding at the end
+>           16 the following:
+>           17 ‘‘(D) At the request of an eligible Federal
+>           18 entity, the Director of OMB may transfer the
+>           19 amount under subparagraph (A) immediately—
+>           20 ‘‘(i) after the frequencies are reallo21 cated by competitive bidding under section
+>           22 309(j) of the Communications Act of 1934
+>           23 (47 U.S.C. 309(j)); or
+>           24 ‘‘(ii) in the case of an incumbent Fed25 eral entity that is incurring relocation or
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       38
+>            1 sharing costs to accommodate sharing
+>            2 spectrum frequencies with another Federal
+>            3 entity, after the frequencies from which the
+>            4 other eligible Federal entity is relocating
+>            5 are reallocated by competitive bidding
+>            6 under section 309(j) of the Communica7 tions Act of 1934 (47 U.S.C. 309(j)), with8 out regard to the availability of such sums
+>            9 in the Fund.
+>           10 ‘‘(E) Prior to the deposit of proceeds into
+>           11 the Fund from an auction, the Director of
+>           12 OMB may borrow from the Treasury the
+>           13 amount under subparagraph (A) for a transfer
+>           14 under subparagraph (D). The Treasury shall
+>           15 immediately be reimbursed, without interest,
+>           16 from funds deposited into the Fund.’’.
+>           17 SEC. 15. AMENDMENTS TO THE SPECTRUM PIPELINE ACT
+>           18 OF 2015.
+>           19 Section 1008 of the Spectrum Pipeline Act of 2015
+>           20 (Public Law 114–74; 129 Stat. 584) is amended in the
+>           21 matter preceding paragraph (1) by inserting ‘‘, after no22 tice and an opportunity for public comment,’’ after ‘‘the
+>           23 Commission’’.
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      39
+>            1 SEC. 16. GAO ASSESSMENT OF UNLICENSED SPECTRUM
+>            2 AND WIFI USE IN LOW-INCOME NEIGHBOR3 HOODS.
+>            4 (a) STUDY .—
+>            5 (1) N GENERAL .—The Comptroller General of
+>            6 the United States shall conduct a study to evaluate
+>            7 the availability of broadband Internet access using
+>            8 unlicensed spectrum and wireless networks in low-in9 come neighborhoods.
+>           10 (2) REQUIREMENTS .—In conducting the study
+>           11 under paragraph (1), the Comptroller General shall
+>           12 consider and evaluate—
+>           13 (A) the availability of wireless Internet hot
+>           14 spots and access to unlicensed spectrum in low-15 income neighborhoods, particularly for elemen16 tary and secondary schoolaged children in such
+>           17 neighborhoods;
+>           18 (B) any barriers preventing or limiting the
+>           19 deployment and use of wireless networks in low-20 income neighborhoods;
+>           21 (C) how to overcome any barriers described
+>           22 in subparagraph (B), including through incen23 tives, policies, or requirements that would in24 crease the availability of unlicensed spectrum
+>           25 and related technologies in low-income neigh26 borhoods; and
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      40
+>            1 (D) how to encourage home broadband
+>            2 adoption by households with elementary and
+>            3 secondary schoolage children that are in low-4 income neighborhoods.
+>            5 (b) REPORT .—Not later than 1 year after the date
+>            6 of enactment of this Act, the Comptroller General shall
+>            7 submit to the Committee on Commerce, Science, and
+>            8 Transportation of the Senate and the Committee on En9 ergy and Commerce of the House of Representatives a re10 port that—
+>           11 (1) summarizes the findings of the study con12 ducted under subsection (a); and
+>           13 (2) makes recommendations with respect to po14 tential incentives, policies, and requirements that
+>           15 could help achieve the goals described in subpara16 graphs (C) and (D) of subsection (a)(2).
+>           17 SEC. 17. RULEMAKING RELATED TO PARTITIONING OR
+>           18 DISAGGREGATING LICENSES.
+>           19 (a) DEFINITIONS.—In this section—
+>           20 (1) COVERED SMALL CARRIER .—The term
+>           21 ‘‘covered small carrier’’ means a carrier (as defined
+>           22 in section 3 of the Communications Act of 1934 (47
+>           23 U.S.C. 153)) that—
+>           24 (A) has not more than 1,500 employees (as
+>           25 determined under section 121.106 of title 13,
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      41
+>            1 Code of Federal Regulations, or any successor
+>            2 thereto); and
+>            3 (B) offers services using the facilities of
+>            4 the carrier.
+>            5 (2) RURAL AREA .—The term ‘‘rural area’’
+>            6 means any area other than—
+>            7 (A) a city, town, or incorporated area that
+>            8 has a population of more than 20,000 inhab9 itants; or
+>           10 (B) an urbanized area contiguous and ad11 jacent to a city or town that has a population
+>           12 of more than 50,000 inhabitants.
+>           13 (b) RULEMAKING .—
+>           14 (1) N GENERAL .—Not later than 1 year after
+>           15 the date of enactment of this Act, the Commission
+>           16 shall initiate a rulemaking proceeding to assess
+>           17 whether to establish a program, or modify existing
+>           18 programs, under which a licensee that receives a li19 cense for the exclusive use of spectrum in a specific
+>           20 geographic area under section 301 of the Commu21 nications Act of 1934 (47 U.S.C. 301) may partition
+>           22 or disaggregate the license by sale or long-term
+>           23 lease—
+>           24 (A) in order to—
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      42
+>            1 (i) provide services consistent with the
+>            2 license; and
+>            3 (ii) make unused spectrum available
+>            4 to—
+>            5 (I) an unaffiliated covered small
+>            6 carrier; or
+>            7 (II) an unaffiliated carrier to
+>            8 serve a rural area; and
+>            9 (B) if the Commission finds that such a
+>           10 program would promote—
+>           11 (i) the availability of advanced tele12 communications services in rural areas; or
+>           13 (ii) spectrum availability for covered
+>           14 small carriers.
+>           15 (2) CONSIDERATIONS .—In conducting the rule16 making proceeding under paragraph (1), the Com17 mission shall consider, with respect to the program
+>           18 proposed to be established under that paragraph—
+>           19 (A) whether reduced performance require20 ments with respect to spectrum obtained
+>           21 through the program would facilitate deploy22 ment of advanced telecommunications services
+>           23 in the areas covered by the program;
+>           24 (B) what conditions may be needed on
+>           25 transfers of spectrum under the program to
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       43
+>            1 allow covered small carriers that obtain spec2 trum under the program to build out the spec3 trum in a reasonable period of time;
+>            4 (C) what incentives may be appropriate to
+>            5 encourage licensees to lease or sell spectrum, in6 cluding—
+>            7 (i) extending the term of a license
+>            8 granted under section 301 of the Commu9 nications Act of 1934 (47 U.S.C. 301); or
+>           10 (ii) modifying performance require11 ments of the license relating to the leased
+>           12 or sold spectrum; and
+>           13 (D) the administrative feasibility of—
+>           14 (i) the incentives described in sub15 paragraph (C); and
+>           16 (ii) other incentives considered by the
+>           17 Commission that further the goals of this
+>           18 section.
+>           19 (3) FORFEITURE OF SPECTRUM .—If a party
+>           20 fails to meet any build out requirements set by the
+>           21 Commission for any spectrum sold or leased under
+>           22 this section, the right to the spectrum shall be for23 feited to the Commission unless the Commission
+>           24 finds that there is good cause for the failure of the
+>           25 party.
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      44
+>            1 (4) REQUIREMENT .—The Commission may
+>            2 offer a licensee incentives or reduced performance
+>            3 requirements under this section only if the Commis4 sion finds that doing so would likely result in in5 creased availability of advanced telecommunications
+>            6 services in a rural area.
+>            7 SEC. 18. UNLICENSED SPECTRUM POLICY.
+>            8 (a) STATEMENT OF POLICY .—It is the policy of the
+>            9 United States—
+>           10 (1) to maximize the benefit to the people of the
+>           11 United States of the spectrum resources of the
+>           12 United States;
+>           13 (2) to advance innovation and investment in
+>           14 wireless broadband services; and
+>           15 (3) to promote spectrum policy that makes
+>           16 available on an unlicensed basis radio frequency
+>           17 bands sufficient to meet consumer demand for unli18 censed wireless broadband operations.
+>           19 (b) COMMISSION RESPONSIBILITIES.—The Commis20 sion shall ensure that the efforts of the Commission re21 lated to spectrum allocation and assignment make avail22 able on an unlicensed basis radio frequency bands suffi23 cient to meet demand for unlicensed wireless broadband
+>           24 operations if doing so is, after taking into account the fu25 ture needs of other spectrum users—
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      45
+>            1 (1) reasonable; and
+>            2 (2) in the public interest.
+>            3 (c) COMMISSION ACTION .—Not later than 18 months
+>            4 after the date of enactment of this Act, the Commission
+>            5 shall take action to implement subsection (b).
+>            6 SEC. 19. NATIONAL PLAN FOR UNLICENSED SPECTRUM.
+>            7 (a) DEFINITIONS .—In this section:
+>            8 (1) SPECTRUM RELOCATION FUND .—The term
+>            9 ‘‘Spectrum Relocation Fund’’ means the Fund es10 tablished under section 118 of the National Tele11 communications and Information Administration Or12 ganization Act (47 U.S.C. 928).
+>           13 (2) UNLICENSED OPERATIONS .—The term ‘‘un14 licensed operations’’ means the use of spectrum on
+>           15 a non-exclusive basis under—
+>           16 (A) part 15 of title 47, Code of Federal
+>           17 Regulations; or
+>           18 (B) licensing by rule under part 96 of title
+>           19 47, Code of Federal Regulations.
+>           20 (b) NATIONAL PLAN .—Not later than 1 year after
+>           21 the date of enactment of this Act, the Commission, in con22 sultation with the NTIA, shall develop a national plan for
+>           23 making additional radio frequency bands available for un24 licensed operations.
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       46
+>            1 (c) REQUIREMENTS .—The plan developed under this
+>            2 section shall—
+>            3 (1) identify an approach that ensures that con4 sumers have access to additional spectrum to con5 duct unlicensed operations in a range of radio fre6 quencies to meet consumer demand;
+>            7 (2) recommend specific actions by the Commis8 sion and the NTIA to permit unlicensed operations
+>            9 in additional radio frequency ranges that the Com10 mission finds—
+>           11 (A) are consistent with the statement of
+>           12 policy under section 18(a);
+>           13 (B) will—
+>           14 (i) expand opportunities for unli15 censed operations in a spectrum band; or
+>           16 (ii) otherwise improve spectrum utili17 zation and intensity of use of bands where
+>           18 unlicensed operations are already per19 mitted;
+>           20 (C) will not cause harmful interference to
+>           21 Federal or non-Federal users of such bands;
+>           22 and
+>           23 (D) will not significantly impact homeland
+>           24 security or national security communications
+>           25 systems; and
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      47
+>            1 (3) examine additional ways, with respect to ex2 isting and planned databases or spectrum access sys3 tems designed to promote spectrum sharing and ac4 cess to spectrum for unlicensed operations—
+>            5 (A) to improve accuracy and efficacy;
+>            6 (B) to reduce burdens on consumers, man7 ufacturers, and service providers; and
+>            8 (C) to protect sensitive Government infor9 mation.
+>           10 (d) SPECTRUM RELOCATION FUND .—To be included
+>           11 as part of the plan developed under this section, the NTIA
+>           12 shall share with the Commission recommendations about
+>           13 how to reform the Spectrum Relocation Fund—
+>           14 (1) to address costs incurred by Federal entities
+>           15 related to sharing radio frequency bands with radio
+>           16 technologies conducting unlicensed operations; and
+>           17 (2) to ensure the Spectrum Relocation Fund
+>           18 has sufficient funds to cover—
+>           19 (A) the costs described in paragraph (1);
+>           20 and
+>           21 (B) other expenditures allowed of the
+>           22 Spectrum Relocation Fund under section 118 of
+>           23 the National Telecommunications and Informa24 tion Administration Organization Act (47
+>           25 U.S.C. 928).
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      48
+>            1 (e) REPORT REQUIRED .—
+>            2 (1) IN GENERAL .—Not later than 1 year after
+>            3 the date of enactment of this Act, the Commission
+>            4 shall submit to the appropriate committees of Con5 gress a report that describes the plan developed
+>            6 under this section, including any recommendations
+>            7 for legislative change.
+>            8 (2) PUBLICATION ON COMMISSION WEBSITE .—
+>            9 Not later than the date on which the Commission
+>           10 submits the report under paragraph (1), the Com11 mission shall make the report publicly available on
+>           12 the website of the Commission.
+>           13 SEC. 20. SPECTRUM CHALLENGE PRIZE.
+>           14 (a) FINDINGS.—Congress finds the following:
+>           15 (1) The future competitiveness and global tech16 nology leadership of the United States depend, in
+>           17 part, upon the availability and efficient use of spec18 trum.
+>           19 (2) Dramatic improvement in spectrum effi20 ciency would spur innovation, investment, and eco21 nomic growth.
+>           22 (3) Radio frequency spectrum is vital for emer23 gency communications, national security, law en24 forcement, aviation, maritime safety, space commu25 nications, and numerous other Federal functions.
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      49
+>            1 (4) Prize competitions can spur innovation in
+>            2 the private and public sectors.
+>            3 (b) DEFINITION OF PRIZE COMPETITION .—In this
+>            4 section, the term ‘‘prize competition’’ means a prize com5 petition conducted by the Secretary under subsection
+>            6 (c)(1).
+>            7 (c) PECTRUM CHALLENGE PRIZE .—
+>            8 (1) IN GENERAL .—The Secretary, in consulta9 tion with the Assistant Secretary of Commerce for
+>           10 Communications and Information and the Under
+>           11 Secretary of Commerce for Standards and Tech12 nology, shall, subject to the availability of funds for
+>           13 prize competitions under this section—
+>           14 (A) conduct prize competitions to dramati15 cally accelerate the development and commer16 cialization of technology that improves spectrum
+>           17 efficiency and is capable of costeffective deploy18 ment; and
+>           19 (B) define a measurable set of perform20 ance goals for participants in the prize competi21 tions to demonstrate their solutions on a level
+>           22 playing field while making a significant ad23 vancement over the current state of the art.
+>           24 (2) AUTHORITY OF SECRETARY .—In carrying
+>           25 out paragraph (1), the Secretary may—
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       50
+>            1 (A) enter into a grant, contract, coopera2 tive agreement, or other agreement with a pri3 vate sector forprofit or nonprofit entity to ad4 minister the prize competitions;
+>            5 (B) invite the Defense Advanced Research
+>            6 Projects Agency, the Commission, the National
+>            7 Aeronautics and Space Administration, the Na8 tional Science Foundation, or any other Federal
+>            9 agency to provide advice and assistance in the
+>           10 design or administration of the prize competi11 tions; and
+>           12 (C) award not more than $5,000,000, in
+>           13 the aggregate, to the winner or winners of the
+>           14 prize competitions.
+>           15 (d) CRITERIA .—Not later than 180 days after the
+>           16 date on which funds for prize competitions are made avail17 able pursuant to this section, the Commission shall publish
+>           18 a technical paper on spectrum efficiency providing criteria
+>           19 that may be used for the design of the prize competitions.
+>           20 (e) AUTHORIZATION OF APPROPRIATIONS .—There
+>           21 are authorized to be appropriated such sums as may be
+>           22 necessary to carry out this section.
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       51
+>            1 SEC. 21. WIRELESS TELECOMMUNICATIONS TAX AND FEE
+>            2 COLLECTION FAIRNESS.
+>            3 (a) SHORT TITLE.—This section may be cited as the
+>            4 ‘‘Wireless Telecommunications Tax and Fee Collection
+>            5 Fairness Act’’.
+>            6 (b) FINDINGS.—Congress makes the following find7 ings:
+>            8 (1) A State may designate an inState or out9 ofState person as a collection agent for the State
+>           10 and impose upon the person a duty to collect certain
+>           11 taxes and fees for wireless telecommunications serv12 ices from residents of the State.
+>           13 (2) States have the sovereign right to tax their
+>           14 citizens, subject to the Constitution of the United
+>           15 States and Federal law. States do not have the right
+>           16 to tax interstate commerce or to impose taxes or
+>           17 other obligations on citizens of other States without
+>           18 limitation.
+>           19 (3) A collection agent for a State may feasibly
+>           20 collect taxes and fees from a customer in connection
+>           21 with a financial transaction to which the agent and
+>           22 customer are parties.
+>           23 (4) Congress can help ensure against unreason24 able burdens on interstate commerce by prohibiting
+>           25 each State from imposing a duty on any person to
+>           26 serve as a collection agent for the State unless the
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                       52
+>            1 collection is in connection with a financial trans2 action.
+>            3 (c) EFINITIONS .—In this section:
+>            4 (1) FINANCIAL TRANSACTION .—The term ‘‘fi5 nancial transaction’’ means a transaction in which
+>            6 the purchaser or user of a wireless telecommuni7 cations service upon whom a tax, fee, or surcharge
+>            8 is imposed gives cash, credit, or any other exchange
+>            9 of monetary value or consideration to the person
+>           10 who is required to collect or remit the tax, fee, or
+>           11 surcharge.
+>           12 (2) LOCAL JURISDICTION .—The term ‘‘local ju13 risdiction’’ means a political subdivision of a State.
+>           14 (3) STATE .—The term ‘‘State’’ means any of
+>           15 the several States, the District of Columbia, and any
+>           16 territory or possession of the United States.
+>           17 (4) STATE OR LOCAL JURISDICTION .—The term
+>           18 ‘‘State or local jurisdiction’’ includes any govern19 mental entity or person acting on behalf of a State
+>           20 or local jurisdiction that has the authority to assess,
+>           21 impose, levy, or collect taxes or fees.
+>           22 (5) WIRELESS TELECOMMUNICATIONS SERV23 ICE.—The term ‘‘wireless telecommunications serv24 ice’’ means a commercial mobile radio service, as deJanuary 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      53
+>            1 fined in section 20.3 of title 47, Code of Federal
+>            2 Regulations, or any successor thereto.
+>            3 (d) FINANCIAL TRANSACTION REQUIREMENT .—
+>            4 (1) IN GENERAL .—A State, or a local jurisdic5 tion of a State, may not require a person to collect
+>            6 from, or remit on behalf of, any other person a State
+>            7 or local tax, fee, or surcharge imposed on a pur8 chaser or user with respect to the purchase or use
+>            9 of any wireless telecommunications service within
+>           10 the State unless the collection or remittance is in
+>           11 connection with a financial transaction between—
+>           12 (A) the person that the State or local juris13 diction requires to collect or remit the tax, fee,
+>           14 or surcharge; and
+>           15 (B) the purchaser or user of the wireless
+>           16 telecommunications service.
+>           17 (2) RULE OF CONSTRUCTION .—Nothing in this
+>           18 subsection shall be construed to affect the right of
+>           19 a State or local jurisdiction to require the collection
+>           20 of any tax, fee, or surcharge in connection with a fi21 nancial transaction.
+>           22 (e) ENFORCEMENT .—
+>           23 (1) PRIVATE RIGHT OF ACTION .—Any person
+>           24 aggrieved by a violation of subsection (d) may bring
+>           25 a civil action in an appropriate district court of the
+> January 3, 2017 (12:36 p.m.)
+>           S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                      54
+>            1 United States for equitable relief in accordance with
+>            2 paragraph (2) of this subsection.
+>            3 (2) JURISDICTION OF DISTRICT COURTS .—Not4 withstanding section 1341 of title 28, United States
+>            5 Code, or the constitution or laws of any State, the
+>            6 district courts of the United States shall have juris7 diction, without regard to the amount in controversy
+>            8 or citizenship of the parties, to grant such manda9 tory or prohibitive injunctive relief, interim equitable
+>           10 relief, and declaratory judgments as may be nec11 essary to prevent, restrain, or terminate any acts in
+>           12 violation of subsection (d).
+>           13 SEC. 22. RULES OF CONSTRUCTION.
+>           14 (a) RANGES OF FREQUENCIES .—Each range of fre15 quencies described in this Act shall be construed to be in16 clusive of the upper and lower frequencies in the range.
+>           17 (b) ASSESSMENT OF ELECTROMAGNETIC SPECTRUM
+>           18 REALLOCATION .—Nothing in this Act shall be construed
+>           19 to affect any requirement under section 156 of the Na20 tional Telecommunications and Information Administra21 tion Organization Act (47 U.S.C. 921 note), as added by
+>           22 section 1062(a) of the National Defense Authorization Act
+>           23 for Fiscal Year 2000.
+> January 3, 2017 (12:36 p.m.)
+>            S:\LEGCNSL\LEXA\DOR17\CM\BILL\S2555RE.2.xml
+>                                        55
+>             1 SEC. 23. RELATIONSHIP TO MIDDLE CLASS TAX RELIEF
+>             2 AND JOB CREATION ACT OF 2012.
+>             3 Nothing in this Act shall be construed to limit, re4 strict, or circumvent in any way the implementation of the
+>             5 nationwide public safety broadband network defined in
+>             6 section 6001 of title VI of the Middle Class Tax Relief
+>             7 and Job Creation Act of 2012 (47 U.S.C. 1401) or any
+>             8 rules implementing that network under title VI of that Act
+>             9 (47 U.S.C. 1401 et seq.).
+> January 3, 2017 (12:36 p.m.)

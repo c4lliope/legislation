@@ -1,0 +1,31 @@
+> 113TH CONGRESS
+>    2D SESSION S.ll
+> To amend the Endangered Species Act of 1973 to require disclosure to
+>    States of the basis of determinations under that Act, to ensure use
+>    of information provided by State, tribal, and county governments in
+>    decisionmaking under that Act, and for other purposes.
+>     IN THE SENATE OF THE UNITED STATES
+>  llllllllll introduced the following bill; which was read twice
+>        and referred to the Committee on llllllllll
+>                     A BILL
+> To amend the Endangered Species Act of 1973 to require
+>     disclosure to States of the basis of determinations under
+>     that Act, to ensure use of information provided by State,
+>     tribal, and county governments in decisionmaking under
+>     that Act, and for other purposes.
+     Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+ SECTION 1. SHORT TITLE. This Act may be cited as the ‘‘State, Tribal, and Local Species Transparency and Recovery Act’’.
+ SEC. 2. ENSURING USE OF STATE, TRIBAL, AND LOCAL INFORMATION. Section 3 of the Endangered Species Act of 1973 (16 U.S.C. 1532) is amended—
+          (1) by redesignating paragraphs (2) through
+     (10) as paragraphs (3) through (11), respectively; and
+          (2) by inserting after paragraph (1) the following:
+     ‘‘(2) BEST SCIENTIFIC AND COMMERCIAL DATA AVAILABLE .—The term ‘best scientific and commercial data available’ includes all relevant data submitted by a State, tribal, or county government.’’.
+ SEC. 3. REQUIRING DECISIONAL TRANSPARENCY WITH AFFECTED STATES. Section 6 of the Endangered Species Act of 1973 (16 U.S.C. 1535) is amended—
+          (1) by striking the section designation and heading and all that follows through ‘‘In carrying out’’ in subsection (a) and inserting the following:
+ ‘‘SEC. 6. COOPERATION WITH STATES.
+     ‘‘(a) COOPERATION .—
+          ‘‘(1)N GENERAL .—In carrying out’’; and
+          (2) in subsection (a), in the second sentence, by striking ‘‘Such cooperation shall include consultation’’ and inserting the following:
+      ‘‘(2) INCLUSIONS .—Cooperation under paragraph (1) shall include—
+          ‘‘(A) before making a determination under section 4(a), providing to States affected by the determination all data that are the basis of the determination; and
+          ‘‘(B) consultation’’.

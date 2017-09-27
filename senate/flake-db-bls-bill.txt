@@ -1,0 +1,22 @@
+> 115THCONGRESS
+>    1STSESSION
+>                    S.ll
+>    To require that certain prevailing wage determinations be made using
+>             representative statistical sample techniques.
+>     IN THE SENATE OF THE UNITED STATES
+>                   llllllllll
+>  Mr. LAKEintroduced the following bill; which was read twice and referred
+>            to the Committee on llllllllll
+>                    A BILL
+>   To require that certain prevailing wage determinations be
+>    made using representative statistical sample techniques.
+     Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+ SECTION 1. SHORT TITLE. This Act may be cited as the ‘‘Opportunity in Federal Construction Act’’.
+ SEC. 2. WAGE DETERMINATIONS.
+     (a) N GENERAL .—Section 3142(b) of title 40, United States Code, is amended—
+          (1) by inserting ‘‘, acting through the Bureau of Labor Statistics,’’ after ‘‘Secretary of Labor’’; and
+          (2) by inserting before the period at the end the following: ‘‘, using surveys carried out by the Bureau of Labor Statistics that use proper representative statistical sampling techniques’’.
+      (b) RULEMAKING .—The Secretary of Labor shall issue regulations to carry out the amendments made by subsection (a).
+ SEC. 3. GAO REPORT.
+      (a) STUDY .—Not later than one year after the effective date of the regulations issued pursuant to section 2(b), the Comptroller General of the United States shall commence a study of the implementation of such regulations.
+      (b) REPORT .—The Comptroller General shall submit a report to Congress containing the results of the study described in subsection (a).
